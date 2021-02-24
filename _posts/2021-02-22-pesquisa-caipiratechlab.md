@@ -88,7 +88,7 @@ Os sistemas agroalimentares também expressam cultura e valor. Valorizar grupos 
    
 ### Dinâmica de trabalho
   
-A pesquisa será acompanhada com reuniões semanais ou quinzenais que ocorrerão virtualmente.
+A pesquisa será acompanhada com reuniões quinzenais ou mensais que ocorrerão virtualmente.
 Caso sejam necessárias estão previstas visitas pontuais às comunidades mapeadas.
 E, se possível, dada a evolução da pandemia, faremos dois encontros presenciais em nossa sede na Serrinha do Alambari, no município de Resende | RJ.
 
