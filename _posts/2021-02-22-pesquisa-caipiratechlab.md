@@ -92,14 +92,20 @@ A pesquisa será acompanhada com reuniões semanais ou quinzenais que ocorrerão
 Caso sejam necessárias estão previstas visitas pontuais às comunidades mapeadas.
 E, se possível, dada a evolução da pandemia, faremos dois encontros presenciais em nossa sede na Serrinha do Alambari, no município de Resende | RJ.
 
-<br> 
+<br>
+ 
+ ---
+  
+<br>
    
 ### Remuneração
   
 A remuneração prevista é de R$6.000,00 a serem pagos em 6 parcelas mensais de R$1.000,00.
 
-
+<br>
+  
 ---
 
-
+<br>
+  
 Este projeto é realizado com o apoio do [Instituto Ibirapitanga](https://www.ibirapitanga.org.br/){:target="_blank"}.
