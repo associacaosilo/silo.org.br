@@ -70,7 +70,7 @@ Os sistemas agroalimentares também expressam cultura e valor. Valorizar grupos 
   
    <br>
    
-### O programa se materializa por meio de três frentes:
+### O programa se materializa por meio de quatro frentes:
   
 * Mapeamento e campanha de divulgação das/os produtoras/es rurais da região e de pequenos estabelecimentos de manufatura/beneficiamento de produtos locais. 
   
@@ -82,4 +82,24 @@ Os sistemas agroalimentares também expressam cultura e valor. Valorizar grupos 
  
  <br>
  
+ ---
+  
+<br>
+   
+### Dinâmica de trabalho
+  
+A pesquisa será acompanhada com reuniões semanais ou quinzenais que ocorrerão virtualmente.
+Caso sejam necessárias estão previstas visitas pontuais às comunidades mapeadas.
+E, se possível, dada a evolução da pandemia, faremos dois encontros presenciais em nossa sede na Serrinha do Alambari, no município de Resende | RJ.
+
+<br> 
+   
+### Remuneração
+  
+A remuneração prevista é de R$6.000,00 a serem pagos em 6 parcelas mensais de R$1.000,00.
+
+
+---
+
+
 Este projeto é realizado com o apoio do [Instituto Ibirapitanga](https://www.ibirapitanga.org.br/){:target="_blank"}.
