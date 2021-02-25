@@ -19,7 +19,7 @@ A Silo oferece três vagas para pesquisadoras e pesquisadores dentro do programa
  
 Buscamos pessoas que vivam nas seguintes regiões: Serra da Mantiqueira, Vale do Rio Paraíba do Sul, Serra da Bocaina e Serra do Mar. Elas se juntarão à equipe da SILO para pesquisar aspectos dos sistemas agroalimentares dessas quatros regiões citadas com o objetivo de organizar e sistematizar dados e informações para nutrir um mapeamento, uma campanha de divulgação e um curso livre oferecido gratuitamente. Além disso, a/o pesquisadora/or irá colaborar para o processo de criação de uma plataforma virtual para produtoras e produtores. 
  
-Oferecemos um primeiro contrato de seis meses com possibilidade de renovação e remuneração de acordo com a realidade local. A jornada de trabalho será de no máximo cinco horas diárias e será organizada por demandas e cumprimento de tarefas.
+Oferecemos um primeiro contrato de seis meses com possibilidade de renovação. 
 
 <br>
      
