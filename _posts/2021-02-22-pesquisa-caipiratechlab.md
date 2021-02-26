@@ -70,15 +70,13 @@ Os sistemas agroalimentares também expressam cultura e valor. Valorizar grupos 
   
    <br>
    
-### O programa se materializa por meio de quatro frentes:
+### O programa se materializa por meio de três frentes:
   
 * Mapeamento e campanha de divulgação das/os produtoras/es rurais da região e de pequenos estabelecimentos de manufatura/beneficiamento de produtos locais. 
   
 * Formação livre a partir do compartilhamento de ferramentas (de gestão e de produção) e conhecimento (tecnológico, científico e popular) para profissionalizar ou agregar qualidade ao que já está sendo feito pelas/os produtoras/es para que estes possam perseverar no objetivo de nos oferecer alimentos saudáveis e acessíveis, inclusive em momentos de crise sanitária e econômica.
 
-* Criação de uma plataforma que venha a complementar práticas presenciais já estabelecidas para convergir produtoras/es, prestadoras/es de serviço (dentro do mercado de infraestrutura, manufatura, beneficiamento e da distribuição de alimentos) oferecendo comunicação, espaço seguro para venda/compra, assessoria e uma consciência de rede de co-responsabilidade.
-
-* Criação de uma comunidade - composta de produtoras/es, consumidoras/es e prestadoras/es de serviço - que seja corresponsável e de confiança para fortalecer a economia local e garantir a perenidade da produção e da distribuição de alimentos.
+* Criação de uma plataforma que venha a complementar práticas presenciais já estabelecidas para convergir produtoras/es, prestadoras/es de serviço (dentro do mercado de infraestrutura, manufatura, beneficiamento e da distribuição de alimentos) oferecendo comunicação, espaço seguro para venda/compra, assessoria e uma consciência de rede de co-responsabilidade. Essa plataforma contribuirá também para a estruturação de uma rede composta de produtoras/es, consumidoras/es e prestadoras/es de serviço - que seja corresponsável e de confiança para fortalecer a economia local e garantir a perenidade da produção e da distribuição de alimentos.
  
  <br>
  
