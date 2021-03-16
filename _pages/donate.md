@@ -9,8 +9,6 @@ Silo – Art and Rural Latitude is a Civil Society Organisation of Public Intere
 <br><br>
 Collaborate also donating any amount:
 
-<br><br>
-
   {% assign paypal_button = 'https://www.paypalobjects.com/pt_BR/i/btn/btn_donate_LG.gif' %}
   {% if page.lang == 'en' %}
     {% assign paypal_button = 'https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif' %}

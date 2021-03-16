@@ -1,5 +1,5 @@
 ---
-title: 'Residência'
+title: 'Residency'
 cover: 'media/images/resilience.png'
 layout: list
 permalink: /en/residencia/
