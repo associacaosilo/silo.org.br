@@ -5,9 +5,11 @@ permalink: /donate/
 ref: donate
 lang: en
 ---
-A Silo é uma organização sem fins lucrativos que se sustenta com doações de institutos, fundações e pessoas físicas.
+Silo – Art and Rural Latitude is a Civil Society Organisation of Public Interest supported by donations from institutes, foundations and individuals. 
 <br><br>
-Colabore também doando qualquer quantia:
+Collaborate also donating any amount:
+
+<br><br>
 
   {% assign paypal_button = 'https://www.paypalobjects.com/pt_BR/i/btn/btn_donate_LG.gif' %}
   {% if page.lang == 'en' %}
