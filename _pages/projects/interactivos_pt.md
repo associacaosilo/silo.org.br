@@ -1,8 +1,8 @@
 ---
-title: 'Interactivos?'
+title: 'Laboratórios'
 cover: 'media/images/interactivos.jpg'
 layout: list
-permalink: /interactivos/
+permalink: /labs/
 lang: pt
 category: interactivos
 ref: interactivos-list
