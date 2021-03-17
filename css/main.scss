@@ -636,3 +636,68 @@ i.fa-1_5x {
     height: 100%;
   }
 }
+
+
+
+.sidebar {
+    height: 180px;
+    width: 0px;
+    position: fixed;
+    z-index: 1;
+    top: 260px;
+    right: 0;
+    background-color: black;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding: 0px;
+    color: white;
+    font: normal $MENU-ITEM-SIZE $FONT-MENU;
+}
+
+.sidebar a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  display: block;
+  transition: 0.3s;
+  color: white;
+}
+
+.sidebar .button {
+  background-color:white;
+  color: black;
+  font: normal $MENU-ITEM-SIZE $FONT-MENU;
+  text-align: center;
+}
+
+.sidebar .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+.openbtn {
+  font-size: 15px;
+  font: normal $MENU-ITEM-SIZE $FONT-MENU;
+  cursor: pointer;
+  background-color: #111;
+  color: white;
+  padding: 8px 13px;
+  border: none;
+  right: -100px;
+  -ms-transform: rotate(270deg); /* IE 9 */
+  transform: rotate(270deg);
+  top: 356px;
+  position: fixed;
+  
+}
+
+.openbtn:hover {
+  background-color: #444;
+}
+
+#newsletter {
+  padding: 0px;
+}
