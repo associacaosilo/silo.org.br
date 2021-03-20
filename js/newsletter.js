@@ -1,7 +1,13 @@
-function openNav() {
-  document.getElementById("mySidebar").style.width = "250px";
+function openNews() {
+  document.getElementById("popup-newsletter").classList.remove("popup-hide");
+  document.getElementById("popup-newsletter").classList.add("popup-show");
 }
 
-function closeNav() {
-  document.getElementById("mySidebar").style.width = "0";
+function closeNews() {
+  document.getElementById("popup-newsletter").classList.remove("popup-show");
+  document.getElementById("popup-newsletter").classList.add("popup-hide");
 }
+
+
+document.getElementById('newsletter').onclick = openNews;
+document.getElementById('hide-popup').onclick = closeNews;

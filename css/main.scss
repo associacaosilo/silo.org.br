@@ -640,18 +640,20 @@ i.fa-1_5x {
 
 
 .sidebar {
-    height: 180px;
+    height: 275px;
     width: 0px;
     position: fixed;
     z-index: 1;
-    top: 260px;
-    right: 0;
-    background-color: black;
+    top: 240px;
+    left: 0;
+    background-color: #fb4672;
     overflow-x: hidden;
     transition: 0.5s;
     padding: 0px;
     color: white;
+    font-size: 16px !important;
     font: normal $MENU-ITEM-SIZE $FONT-MENU;
+    line-height: 20px;
 }
 
 .sidebar a {
@@ -665,10 +667,22 @@ i.fa-1_5x {
 
 .sidebar .button {
   background-color:white;
-  color: black;
+  color: #fb4672;
   font: normal $MENU-ITEM-SIZE $FONT-MENU;
   text-align: center;
+  border-width:0px; 
+  cursor: pointer;
 }
+
+.sidebar hr {
+  margin-top: 1.5em;
+  border: none;
+  border-top: 1px dashed white !important;
+  width: 78% !important;
+  position: absolute;
+  background-color:transparent;
+}
+
 
 .sidebar .closebtn {
   position: absolute;
@@ -682,11 +696,11 @@ i.fa-1_5x {
   font-size: 15px;
   font: normal $MENU-ITEM-SIZE $FONT-MENU;
   cursor: pointer;
-  background-color: #111;
+  background-color: #fb4672;
   color: white;
-  padding: 8px 13px;
+  padding: 15px 20px;
   border: none;
-  right: -100px;
+  left: -120px;
   -ms-transform: rotate(270deg); /* IE 9 */
   transform: rotate(270deg);
   top: 356px;
@@ -695,9 +709,37 @@ i.fa-1_5x {
 }
 
 .openbtn:hover {
-  background-color: #444;
+  background-color: #fb4672;
 }
 
 #newsletter {
   padding: 0px;
+}
+
+.popup-show {
+    width: 400px;
+}
+
+.popup-hide {
+    width: 0px;
+}
+
+#mc_embed_signup{ 
+    margin-top: 60px;
+    margin-left: 30px;
+}
+
+.mc-field-group{
+}
+
+
+.required{
+    width: 260px; 
+    color: #fb4672; 
+    border-width:0px;
+  font-size: 13px;
+  font: normal $MENU-ITEM-SIZE $FONT-MENU;
+}
+
+.clear{  
 }
