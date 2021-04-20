@@ -7,4 +7,4 @@ published: true
 ref: bio-sara
 lang: en
 ---
-Studied Electrical Engineering at UFMG and has developed since 2007 interdisciplinary projects related to sound, movement, music and electronic art. Among her recent works is the creation of interactive light and video scenery for shows in different spaces, such as Inhotim and Bescanó Theatre. She has also been dedicating herself to her project Blind Spots, which is a counter-surveillance research project in urban spaces.
+Executive Director / Vice-President of Silo. Sara Lana is a 33 year-old Brazilian artist and developer. She was born in Belo Horizonte (Brazil), studied Mathematics and Electric Engineering in the Federal University of Minas Gerais. Her projects lie in the convergence of art and technology. She often uses varied supports, especially sound, electronics and video, having illustration as an existing element throughout her process of creation.

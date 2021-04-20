@@ -4,11 +4,13 @@
     {% if page.lang == 'en' %}
       {% case include.section %}
         {% when 'diretoria' %}{% assign section_title = 'board' %}
+        {% when 'conselho' %}{% assign section_title = 'council' %}
         {% when 'associadas' %}{% assign section_title = 'associates' %}
       {% endcase %}
     {% endif %}
     <h2 class="people-section-title">{{ section_title }}</h2>
   </div>
+    <br>
   <div class="people-list">
     {% assign pages = site.pages | where:"lang", page.lang %}
     {% for page in pages %}

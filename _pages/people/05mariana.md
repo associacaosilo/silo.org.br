@@ -1,7 +1,7 @@
 ---
 title: Mariana Ramos
 cover: media/images/people/pb_mariana.jpg
-category: associadas
+category: associadas-fundadoras
 published: true
 ref: bio-mariana
 lang: pt

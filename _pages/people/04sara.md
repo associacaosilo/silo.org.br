@@ -7,4 +7,5 @@ published: true
 ref: bio-sara
 lang: pt
 ---
-Estudou Engenharia Elétrica na UFMG e desenvolve, desde 2007, projetos de natureza interdisciplinar relacionados com som, movimento, música e arte eletrônica. Entre seus trabalhos recentes está criação de luz e vídeo cenários interativos para espetáculos apresentados em diversos espaços, como Inhotim e Teatro Bescanó. Vem se dedicando também ao seu projeto Pontos Cegos, uma pesquisa de contra-vigilância nos espaços urbanos.
+  
+Diretora executiva / Vice-Presidenta da Silo. Sara Lana é uma artista e desenvolvedora brasileira de 33 anos. Nascida em Belo Horizonte, estudou matemática e engenharia elétrica na Universidade Federal de Minas Gerais. Seus projetos se situam na confluência da arte com a tecnologia. Recorrem a suportes variados, valendo-se principalmente do som, da eletrônica e do vídeo, tendo a ilustração presente em todo o processo de criação.

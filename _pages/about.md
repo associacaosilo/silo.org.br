@@ -31,38 +31,28 @@ parceiras:
 ref: pagina-sobre
 lang: en
 ---
-<div class="about-section-title-wrapper">
-  <h3 class="about-section-title" id="o-que-e">What it is</h3>
-</div>
-**Silo – Art and Rural Latitude** is a Civil Society Organisation of Public Interest dedicated to fostering and publicising cultural projects in rural areas, with the aim of bringing about transdisciplinary exchange between different areas – above all art, the sciences and technologies – and stimulating exchange between intuitive techniques and scientific knowledge.
 
-This is done by means of artistic residency programmes; citizen labs; themed workshops; educational actions; agroecological workshops and activities focussed on women’s leadership and skills development. We also organise activities for children, young people and adults.
-
-The association is largely run by women and is committed to gender equality and the guarantee of sharing knowledge without harming women.
-
-We are currently based in Serrinha do Alambari, an APA (Environmental Protection Area), located in the municipality of Resende, in Rio de Janeiro State, on the eastern slopes of Itatiaia National Park, in the Mantiqueira Mountain Range. Our activities encompass local and international communities.
 
 <div class="about-section-title-wrapper">
-  <h3 class="about-section-title" id="o-que-fazemos">What we do</h3>
+  <h3 class="about-section-title" id="o-que-fazemos">Programs</h3>
 </div>
-We have 4 lines of action:
+The Silo’s Programs: 
 
-<span class="about-subtitle">Minimal Environmental Impact</span>
-Through the CaipiraTechLab programme we offer courses, workshops and other activities on themes related to agroecology, agroforestry systems, bioarchitecture and energy generation, among others. We also offer assistance on the building of infrastructure and the carrying out of educational activities in rural areas. We count on a network of professionals who are extremely well-qualified and committed to environmental issues.
+<span class="about-subtitle">Resilience: Artist in Residence</span>
+The artistic residence offers immersion to artistic research and experimentations directed to artists and curators interested in  developing their work in a rural and Natural environment. The residence to create narratives  for the present rural/environmental universe through Contemporary Art. 
 
-<span class="about-subtitle">Art</span>  
-We organise *Resilience: Artist in Residence*, which is a programme with an international call for participants. The residency offers artists and curators space and other resources for creation and experimentation. On this programme we offer financial support  for the development of artistic works. Every year we hold an exhibition with artists in residence, guests and publish a catalogue.
+<span class="about-subtitle">CaipiraTechLab</span>  The program collaborates with the strengthening of local agri-food systems and their cultural expression through mapping, courses and technology development.
 
-<span class="about-subtitle">Technology and autonomy</span>  
-Every year we organise a laboratory for the development of collaborative open source projects, thereby promoting the learning and exchange of knowledge horizontally and experientially, based on the demands of the projects themselves. Our laboratory produces different types of technologies, either linked to the technical or the social realm, taking in areas as diverse as engineering, economics, social sciences, art, education, among many others. Moreover, we offer mentorship and assistance programmes to replicate the methodology we use in other contexts.
+<span class="about-subtitle"> Laboratories of Experimentation and Innovation</span> are a multidisciplinary space that allows the development of projects with the contribution of collaborators and different resources.The Labs are committed to production and research, especially in the arts, sciences and technologies
 
-<span class="about-subtitle">Feminism</span>
-Silo organises EncontrADA, a feminist event focussed on the exchange of knowledge between different feminist and feminine realities. By means of this programme, we offer different courses aimed at technical learning, given by professionals from different areas. Furthermore, we offer assistance or mentorship on projects carried out by women or transgender people.
+<span class="about-subtitle">EncontrADA</span> Feminis meeting focused on the exchange of knowledge between different feminine universes which make up social, economical and esthetics issues of women and trans-people’s life. It’s a meeting of generations and Technologies.
 
+<span class="about-subtitle">Silo-School</span> A free and transdisciplinary school. A farm-area school created to offer training courses and workshops in immersion cycles, for adults, teenagers and kids for knowledge exchange and human development, working with art, science, technology and agroecology.
+  
 <div class="about-section-title-wrapper">
   <h3 class="about-section-title" id="historico">History</h3>
 </div>
-Silo was born in 2017. The convergence of the association was made possible by the synergy between people who live, work and research rural spaces. Silo is a rural station that puts forward current relevant proposals for reoccupying the countryside and possible ways forward after the general breakdown of cities. It was born of the desire to promote the exchange of knowledge between country and city, inverting the rule whereby the production of thought, art, science and technology is centralized in an urban setting. It reflects, on the one hand, the generational experience of children and grandchildren of country people, who relate to new technologies. On the other, it reflects the experience of an urban generation who want to live in the countryside.
+Silo was born in 2017, supported by the experience of some of us, in the development of laboratory models for experimentation and innovation, 10 years ago. The convergence of the association was made possible by the synergy between people who live, work and research rural spaces. Silo is a rural station that is designed to search for interrogations and answers to the challenging questions of our time, offering experiences for knowledge exchange and human development, working with art, science, technology and agroecology. It was born of the desire to promote the exchange of knowledge between country and city, showing that in the extreme peripheries there is art, science and technology. It reflects, on the one hand, the generational experience of children and grandchildren of country people, who relate to new technologies. On the other, it reflects the experience of an urban generation who want to live in the countryside.
 
 <div class="about-section-title-wrapper">
   <h3 class="about-section-title" id="silo">Silo</h3>

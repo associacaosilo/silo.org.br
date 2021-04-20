@@ -2,7 +2,7 @@
 title: Anais Karenin
 link: http://anaiskarenin.com
 cover: media/images/people/pb_anais.jpg
-category: associadas
+category: associadas-fundadoras
 published: true
 ref: bio-anais
 lang: en

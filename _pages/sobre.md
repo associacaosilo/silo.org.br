@@ -31,49 +31,43 @@ parceiras:
 ref: pagina-sobre
 lang: pt
 ---
-<div class="about-section-title-wrapper">
-  <h3 class="about-section-title" id="o-que-e">O que é</h3>
-</div>
-**Silo – Arte e Latitude Rural** é uma organização da sociedade civil que se dedica a acolher e a difundir projetos culturais em zonas rurais, com o objetivo de proporcionar o intercâmbio transdisciplinar entre diferentes áreas – sobretudo arte, ciências e tecnologias – e estimular o cruzamento entre técnicas intuitivas e saberes científicos.
- 
-Isto se dá por meio de programas de residências artísticas; laboratórios de invenção; encontros temáticos; ações educativas; mutirões de agroecologia e atividades voltadas para o público feminino. Realizamos atividades para crianças, jovens e adultos.
- 
-A gestão da associação tem participação majoritariamente feminina e está comprometida com a equidade de gênero e a garantia do compartilhamento de saberes sem prejuízo ao público feminino.
- 
-Atuamos na Serrinha do Alambari, uma APA – Área de Proteção Ambiental, situada no município de Resende no Estado do Rio de Janeiro, na encosta leste do Parque Nacional de Itatiaia, na Serra da Mantiqueira. Nossas atividades abrangem comunidades locais e internacionais.
 
 <div class="about-section-title-wrapper">
-  <h3 class="about-section-title" id="o-que-fazemos">O que fazemos</h3>
+  <h3 class="about-section-title" id="programas">Programas</h3>
 </div>
-Temos 4 frentes de ação:
+Nossos programas:
 
-<span class="about-subtitle">Mínimo Impacto Ambiental</span>  
-Através do programa CaipiraTechLab oferecemos cursos, mutirões e realizamos encontros com temas relacionados a agroecologia, sistemas agroflorestais, bioarquitetura, geração de energia, entre outros. Além disso oferecemos também assessoria para a construção de infraestruturas e realização de atividades educativas em zonas rurais. Contamos com uma rede de profissionais extremamente capacitados e comprometidos com as questões ambientais.   
+<span class="about-subtitle">Resiliência: Residência Artística</span>  
+Imersão para pesquisa e experimentação artística voltada para artistas, curadores e cientistas. A residência oferece uma experiência territorial na natureza e cria narrativas sobre o universo rural/ambiental da atualidade por meio das Artes.
 
-<span class="about-subtitle">Arte</span>  
-Realizamos a *Resiliência: Residência Artística*, um programa de alcance internacional. A residência oferece à artistas e curadores espaço e insumos para criação e experimentação.  Neste programa oferecemos bolsas para o desenvolvimento de trabalhos artísticos. Anualmente realizamos uma mostra com artistas residentes, convidados e publicamos um catálogo.
+<span class="about-subtitle">CaipiraTechLab</span>  
+O programa colabora com o fortalecimento dos sistemas agroalimentares regionais e sua expressão cultural por meio de mapeamento, cursos e desenvolvimento de tecnologia.
 
-<span class="about-subtitle">Tecnologia e Autonomia</span>  
-Anualmente realizamos um laboratório para o desenvolvimento de projetos de maneira colaborativa a partir do uso de licenças livres, promovendo o aprendizado e a troca de saberes de maneira horizontal e experimental, partindo das demandas dos próprios projetos. Nosso laboratório produz diferentes tipos de tecnologias sejam elas ligadas ao universo técnico ou ao universo social, abrangendo áreas como engenharia, economia, ciências sociais, arte, educação entre tantas outras. Além disso oferecemos serviço de mentoria e assessoria para a replicação da metodologia que usamos em diferentes contextos.
+<span class="about-subtitle">Laboratórios de Experimentação e Inovação</span>  
+Comprometidos com pesquisa e produção, são espaços multidisciplinares para o desenvolvimento de projetos com a participação de colaboradores e tutores, utilizando diferentes recursos. 
 
-<span class="about-subtitle">Feminismo</span>  
-A Silo realiza a EncontrADA, encontro feminista focado na troca de saberes entre o universo feminino. Por meio desse programa oferecemos diferentes cursos, focados no aprendizado técnico, lecionados por profissionais de diferentes áreas. Além disso oferecemos também assessoria ou mentoria para projetos realizados por mulheres e pessoas trans.
+<span class="about-subtitle">EncontrADA</span>  
+Encontros feministas focados na troca de conhecimento entre diferentes universos femininos que compõem as questões culturais, sociais, econômicas e estéticas da vida de mulheres e pessoas trans. Um encontro de gerações e de tecnologias. 
+
+<span class="about-subtitle">Silo-Escola</span>  
+Uma escola livre e transdisciplinar. Uma escola rural criada para oferecer cursos de formação e oficinas dentro de uma dinâmica de imersão para adultos, jovens e também crianças, oferecendo experiências para troca de saberes e desenvolvimento humano, com artes, ciências, tecnologias, e agroecologia.  
 
 <div class="about-section-title-wrapper">
   <h3 class="about-section-title" id="historico">Histórico</h3>
 </div>
-A Silo nasceu em 2017. A convergência da associação foi possível a partir da sinergia entre pessoas que habitam, trabalham e pesquisam espaços rurais. A Silo é uma estação rural que, na atualidade, traz propostas pertinentes à reocupação do campo e saídas possíveis quanto ao esgotamento geral das cidades. Ela nasce do desejo de promover o trânsito de saberes entre campo e cidade, invertendo a regra que centraliza no meio urbano a produção de pensamento, arte, ciência e tecnologia. Ela reflete, por um lado, a experiência geracional de filhos e netos de camponeses, gente do campo que se relaciona com as novas tecnologias. Por outro, reflete a vivência de uma geração urbana que deseja estar no campo.
+Silo nasceu em 2017, apoiada pela experiência, de algumas de nós, no desenvolvimento de modelos laboratoriais de experimentação e inovação, há 10 anos. A convergência da associação foi possível a partir da sinergia entre pessoas que habitam, trabalham e pesquisam espaços rurais e de áreas ambientais. A Silo é uma estação rural que, na atualidade, traz perguntas e respostas pertinentes às questões de nosso tempo. Ela nasce do desejo de promover o trânsito de saberes entre campo e cidade, evidenciando que nas extremas periferias há produção de pensamento, arte, ciência e tecnologia. Ela reflete, por um lado, a experiência geracional de filhos e netos de camponeses, gente do campo que se relaciona com as novas tecnologias. Por outro, reflete a vivência de uma geração urbana que deseja estar no campo.
 
 <div class="about-section-title-wrapper">
   <h3 class="about-section-title" id="silo">Silo</h3>
 </div>
-O silo é uma infraestrutura rural, uma espécie de recipiente cavado no solo para armazenar em temperatura adequada cereais ou biomassa.
- 
-Há indícios de estruturas de silagem muito antigas, entre os povos que praticavam a agricultura, como é o caso dos silos de sítios arqueológicos encontrados em Januária (MG), e em países como Jordânia e Egito.
- 
-O silo está presente nas culturas de povos originários de diferentes locais do mundo: ameríndios, tribos africanas, entre outros. Os Yawalapiti, por exemplo, como os demais alto-xinguanos que vivem basicamente da agricultura e da pesca, armazenam o polvilho e a massa de mandioca em silos no centro das casas.
- 
-O nome Silo faz referência a nossa capacidade de interagir e agir sobre o espaço que vivemos produzindo tecnologia, cultura, comunidades. Essa capacidade faz do espaço rural um lugar de crítica e de produção de pensamento. Para nós, trazer o nome Silo é também disputar o imaginário rural que vem sendo devastado pelas grandes estruturas econômicas e industriais, é recobrar, de certa forma, a autonomia sobre a produção em menor escala. 
+Queremos evocar o símbolo comunal presente nos silos, dando a ver sua potência coletiva e a importância do que é bem comum. 
+  
+Um silo é uma edificação que funciona como recipiente para armazenar, em temperatura adequada, sementes, grãos, biomassa e manufaturados. Cavados no solo, os silos arcaicos tinham uma forma redonda e senoidal, que ficavam ou no centro das ocas, nos quintais, ou em espaços comunais que atendiam até mesmo grandes populações como as do Egito antigo. No Brasil, os Yawalapiti, como os demais alto-xinguanos que vivem basicamente da agricultura e da pesca, ainda armazenam o polvilho e a massa de mandioca em silos no centro das ocas. 
+  
+Hoje, inversa à forma ancestral, a maioria dessas estruturas são verticalizadas. A proliferação desses edifícios verticais está diretamente ligada à superprodução de grãos da agricultura restrita ao comércio de matéria prima. Hoje os silos são - imponentes - símbolos do agronegócio,  deixaram de ser estruturas de subsistência e passaram a funcionar como meio de acumulação e exploração. 
+  
+Para nós, trazer o nome Silo é também disputar o imaginário rural que vem sendo devastado pelas grandes estruturas econômicas e industriais. É recobrar, de certa forma, a autonomia sobre a produção de alimentos e de pensamentos. É militar pela mitigação dos impactos produzidos pela desconexão do campo e da natureza porque os saberes e o modo de vida do campo e dos povos que vivem na natureza  precisam ser respeitados, cuidados e preservados. 
+
 
 <div class="about-section-title-wrapper">
   <h3 class="about-section-title" id="apoio">Apoio</h3>
