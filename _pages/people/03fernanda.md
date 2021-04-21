@@ -7,4 +7,5 @@ published: true
 ref: bio-fernanda
 lang: pt
 ---
-Designer de produto e educadora de marcenaria no projeto socioeducativo do Instituto Tomie Ohtake. Foi mentora na chamada colaborativa Hackathon Paulista que criou mobiliários urbanos efêmeros para a Avenida Paulista e participou com suas oficinas de mobiliário urbano no projeto Casa Fora de Casa em Goiânia, que repensa espaços públicos com a participação da população.
+Fernanda Tosta é designer e artista multidisciplinar. Formada em Design Generalista pela PUC-GO com pós em Gestão do Design pela Belas Artes de SP. Usa ferramentas analógicas e digitais na orientação e construção de melhores realidades, utilizando madeira e outros materiais para criar novas formas de ocupar espaços públicos e privados. Participou como mentora em projetos como Hackathon Paulista, Casa Fora de Casa, Interactivos, Casalab Mulher e Favela Hacklab.
+
