@@ -1,5 +1,6 @@
 ---
 title: Karina Terra
+link: https://www.behance.net/karinaduarte
 cover: media/images/people/pb_karina.jpg
 category: equipe
 published: true
