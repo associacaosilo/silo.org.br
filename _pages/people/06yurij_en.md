@@ -1,9 +1,10 @@
 ---
-title: Luis Felipe César
-cover: media/images/people/pb_felipe.jpg
+title: Yurij Castelfranchi
+cover: media/images/people/pb_Yurij.jpg
 category: conselho
 published: true
-ref: bio-felipe
+ref: bio-yurij
 lang: en
 ---
-Director of the NGO Crescente Fértil. Ashoka social entrepreneur, Master in Sustainable Development, Specialist in Environmental Management of Forest Systems, Bachelor in Social Communication. He served in the environmental agency of Resende from 1989 to 1996, when he coordinated the implementation of the Serrinha do Alambari APA. He chaired the Resende-Amar Environment Agency from 2006 to 2008.
+
+Yurij Castelfranchi é um físico quântico italiano (Univ. Roma1, “La Sapienza”), que se tornou jornalista científico (International School for Advanced Studies, Trieste) e que, em seu devir brasileiro, passou pela metamorfose em sociólogo da C&T (Unicamp). Hoje é professor de sociologia na Universidade Federal de Minas Gerais, onde foi Diretor de Divulgação Científica e atualmente coordena o Observatório InCiTe (Inovação, Cidadania, Tecnociência) e o curso “Amerek”, de especialização em comunicação pública da ciência. Colabora com a OEI (Organização dos Estados Iberoamericanos), UNESCO, Fiocruz, e com todos os projetos e laboratórios colaborativos que busquem multiplicar os futuros possíveis e potencializar a apropriação social do conhecimento.

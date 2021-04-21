@@ -1,10 +1,9 @@
 ---
-title: Flávia Mafra
-cover: media/images/people/pb_flavia.jpg
+title: Luis Felipe César
+cover: media/images/people/pb_felipe.jpg
 category: conselho
 published: true
-ref: bio-flavia
+ref: bio-felipe
 lang: en
 ---
-
-Flávia Mafra é formada em Belas Artes. Em 2000 iniciou sua carreira na produção e gestão cultural, sua maior ocupação até os dias de hoje. Sua especialidade é gerir e produzir projetos artísticos e culturais ligados às Leis de Incentivo à Cultura e a carreiras de artistas solo e grupos. Coordenou o projeto TIM Música nas Escolas-BH. Produziu artistas como o Graveola, Titane e Luiza Brina. É fotógrafa especialista em carnaval de rua de Belo Horizonte, desde 2010. É iluminadora de espetáculos e criou a luz para Grupo Trampulim, Galanga Chico Rei (Maurício Tizumba) e shows como Luiza Brina, Júlia Branco, Fabiana Cozza, Bem Gil e Moreno Veloso, Xangai, Elomar e Tom Zé. Faz almoço quase todos os dias em casa, estuda dança contemporânea e agroecologia, participou de umas 3 ou 4 oficinas de palhaço, teve aulas de música e kung fu. 
+Director of the NGO Crescente Fértil. Ashoka social entrepreneur, Master in Sustainable Development, Specialist in Environmental Management of Forest Systems, Bachelor in Social Communication. He served in the environmental agency of Resende from 1989 to 1996, when he coordinated the implementation of the Serrinha do Alambari APA. He chaired the Resende-Amar Environment Agency from 2006 to 2008.
