@@ -6,4 +6,7 @@ published: true
 ref: bio-vanessa
 lang: pt
 ---
-Mulher, lésbica, feminista e relações públicas formada pela FAPCOM. Trabalha pelo fortalecimento de organizações da sociedade civil há mais de 10 anos e atualmente integra a equipe do Fundo ELAS como mobilizadora de recursos. Atualmente suas inquietações giram em torno das demandas do movimento de mulheres e de que forma a comunicação pode potencializar as ações.
+Relações públicas por amor e formação, Vanessa é esperta em fazer conexões de saberes e pessoas.  
+Mulher, mãe, lésbica, antirracista e feminista, atua como mobilizadora de recursos do Fundo ELAS em busca de parcerias para o fortalecimento dos direitos das mulheres e pessoas trans no Brasil.
+Construiu sua carreira de mais de 15 anos no terceiro setor nas áreas de planejamento estratégico, governança, comunicação de causa e relacionamento. 
+Participou com orgulho da concepção da Silo e atua voluntariamente em projetos geridos por mulheres nos temas de comunicação e planejamento.
