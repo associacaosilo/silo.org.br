@@ -8,4 +8,4 @@ ref: bio-sara
 lang: pt
 ---
   
-Diretora executiva / Vice-Presidenta da Silo. Sara Lana é uma artista e desenvolvedora brasileira de 33 anos. Nascida em Belo Horizonte, estudou matemática e engenharia elétrica na Universidade Federal de Minas Gerais. Seus projetos se situam na confluência da arte com a tecnologia. Recorrem a suportes variados, valendo-se principalmente do som, da eletrônica e do vídeo, tendo a ilustração presente em todo o processo de criação.
+*Diretora executiva*. Sara Lana é uma artista e desenvolvedora brasileira de 33 anos. Nascida em Belo Horizonte, estudou matemática e engenharia elétrica na Universidade Federal de Minas Gerais. Seus projetos se situam na confluência da arte com a tecnologia. Recorrem a suportes variados, valendo-se principalmente do som, da eletrônica e do vídeo, tendo a ilustração presente em todo o processo de criação.
