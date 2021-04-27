@@ -6,6 +6,7 @@ cover: media/images/cover10.jpg
 category:
   - silo
   - caipiratechlab
+  - callclosed
 swipebox:
 lang: pt
 ref: pesquisa_caipiratechlab

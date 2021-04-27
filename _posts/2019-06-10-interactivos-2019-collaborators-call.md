@@ -6,6 +6,7 @@ cover: media/images/cover16.jpg
 category:
   - silo
   - interactivos
+  - callclosed
 lang: en
 ref: interactivos-collaborators-2019-call
 ---

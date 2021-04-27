@@ -5,6 +5,7 @@ title: 'Chamada para Colaboradoras/es | Laboratório de Emergência | 3ed.'
 cover: media/images/cover19.jpg
 category:
   - interactivos
+  - callclosed
 lang: pt
 ref: lab-emergencia-3ed-call-colabs
 ---

@@ -8,7 +8,14 @@
     {% include newsletter-popup.html %}
     {% include menu.html %}
     <div class="main-div">
-      <section class="content-text">{{ content }}</section>
+      <section class="content-text">{{ content }}
+        <br>    
+        {% if page.lang == 'en' %}
+                <a class="nav-call" style="text-decoration:none; color:white;" href="{{ site.baseurl }}/open-calls">Open Calls</a>    
+        {% else %}    
+                <a class="nav-call" style="text-decoration:none; color:white;" href="{{ site.baseurl }}/convocatorias">Convocatórias Abertas</a>
+        {% endif %}
+          </section>
       <section class="list-wrapper">
         {% assign news = 'Últimas Notícias' %}
         {% if page.lang == 'en' %}

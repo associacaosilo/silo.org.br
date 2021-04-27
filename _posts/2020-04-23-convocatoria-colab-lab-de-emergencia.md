@@ -6,6 +6,7 @@ cover: media/images/cover2.jpg
 category:
   - silo
   - interactivos
+  - callclosed
 lang: pt
 ref: lab-de-emergencia-2020-convocatoria-colab
 ---

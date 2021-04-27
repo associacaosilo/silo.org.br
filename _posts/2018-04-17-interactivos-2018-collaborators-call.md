@@ -5,6 +5,7 @@ title: 'Call for Collaborators | Interactivos?’18: Rural Technosphere'
 cover: media/images/cover18.jpg
 category:
   - interactivos
+  - callclosed
 lang: en
 ref: interactivos-collaborators-2018-call
 ---

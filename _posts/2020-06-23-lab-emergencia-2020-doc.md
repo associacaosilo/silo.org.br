@@ -5,6 +5,7 @@ title: 'Confira a documentação | 2ed. | Laboratório de Emergência | COVID–
 cover: media/images/cover8.jpg
 category:
   - interactivos
+  - callclosed
 lang: pt
 ref: lab-emergencia-2ed-doc
 ---

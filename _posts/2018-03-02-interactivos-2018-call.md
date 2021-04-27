@@ -6,6 +6,7 @@ cover: media/images/cover17.jpg
 category:
   - silo
   - interactivos
+  - callclosed
 lang: en
 ref: interactivos-2018-call
 ---

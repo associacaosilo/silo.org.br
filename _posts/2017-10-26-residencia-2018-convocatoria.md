@@ -6,6 +6,7 @@ cover: media/images/cover2.jpg
 category:
   - silo
   - residence
+  - callclosed
 lang: pt
 ref: residence-2017-call
 swipebox: '!&@&'

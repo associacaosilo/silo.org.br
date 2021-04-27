@@ -246,8 +246,7 @@ a {
   .nav-item {
     display: flex;
     flex-direction: column;
-    justify-content: center;
-
+    justify-content: center; 
     text-transform: uppercase;
     font: normal 1rem $FONT-MENU;
     vertical-align: middle;
@@ -272,6 +271,43 @@ a {
     }
   }
 }
+
+  .nav-call {
+    a {
+        color: white !important;
+        text-decoration: none !important;
+        font: normal 1rem $FONT-MENU;
+        &:hover {
+        }
+    } 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-transform: uppercase;
+    font: normal 1rem $FONT-MENU;
+    vertical-align: middle;
+    padding: 8px 12px;
+    margin: 4px 0;
+    background-color: #000;
+    color: #fff;
+    border-radius: 6px;
+    transition: background-color $TRANSITION-PERIOD linear;
+    width: 80%;
+    text-align: left;
+    margin-bottom: 64px;
+
+    &:hover {
+      color: white !important;
+      background-color: #888;
+    }
+
+    @include media-query(DESKTOP) {
+      width: 100%;
+      margin: 0;
+      min-height: 34px;
+      text-align: center;
+    }
+  }
 
 .people-nav {
   max-width: 700px;
