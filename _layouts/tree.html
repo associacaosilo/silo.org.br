@@ -5,7 +5,7 @@
     {% include meta.html %}
   </head>
   <body id="links">
-        <img style="width:100%" src="{{ site.baseurl }}/media/images/gif-links.png">
+        <img src="{{ site.baseurl }}/media/images/gif-links.png">
     <div class="main-div">
       <section class="content-text">
         {{ content }} 
@@ -14,12 +14,11 @@
         {% for item in link %}
         <a class="nav-call" style="text-decoration:none; color:white;" href="{{ item.url }}">{{ item.title }}</a>
         {% endfor %}
-        <br>
         <div class="center">
             {% include social-icons.html %}
         </div>
         </section>  
     </div>      
-    <img style="width:100%" src="{{ site.baseurl }}/media/images/gif-links-2.png">  
+    <img src="{{ site.baseurl }}/media/images/gif-links-2.png">  
   </body>
 </html>
