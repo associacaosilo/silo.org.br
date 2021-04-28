@@ -10,13 +10,10 @@
         <img src="{{ site.baseurl }}/media/images/gif-links.gif">
         {{ content }} 
         <br>     
-        <a class="nav-call" style="text-decoration:none; color:white;" href="https://benfeitoria.com/siloescola">CAMPANHA SILO ESCOLA</a>
-    
-        <a class="nav-call" style="text-decoration:none; color:white;" href="{{ site.baseurl }}/convocatorias">RESILIENCE OPEN CALL</a>
-          
-        <a class="nav-call" style="text-decoration:none; color:white;" href="{{ site.baseurl }}">SILO SITE</a>     
-        
-        <a class="nav-call" style="text-decoration:none; color:white;" href="{{ site.baseurl }}/convocatorias">Convocatória <br>Assistente de Finanças</a>
+        {% assign link = site.data.links | sort: 'index' %}
+        {% for item in link %}
+        <a class="nav-call" style="text-decoration:none; color:white;" href="{{ item.url }}">{{ item.title }}</a>
+        {% endfor %}
 
         </section>  
     </div>        
