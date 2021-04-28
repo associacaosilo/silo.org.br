@@ -14,9 +14,12 @@
         {% for item in link %}
         <a class="nav-call" style="text-decoration:none; color:white;" href="{{ item.url }}">{{ item.title }}</a>
         {% endfor %}
+        <br>
+        <div class="center">
+            {% include social-icons.html %}
+        </div>
         </section>  
     </div>      
     <img style="width:100%" src="{{ site.baseurl }}/media/images/gif-links-2.png">  
-    {% include footer.html %}
   </body>
 </html>
