@@ -49,7 +49,7 @@ Critérios de seleção:
 * Critério de gênero
 * Critério racial e fenótipo
  
-Se você se identificou, inscreva-se enviando um email com assunto *"Convocatória – Assistente de Finanças"* para **contato@silo.org.br**, anexe seu currículo e/ou portifólio.
+Se você se identificou, inscreva-se através deste [formulário](https://forms.gle/PZehwBAz58eDFRLD8){:target="_blank"} .
   
 Vamos receber currículos até o dia **28/05/2021**.
 Após uma primeira seleção de currículos, faremos uma entrevista com a/os/es  candidatas/os/es. 
