@@ -54,7 +54,7 @@ a {
 
 #links{
     max-width: 800px;
-    background-color:#b3d4d4;
+    //background-color:#b3d4d4;
     img{
         width: 100%;
     }
@@ -67,6 +67,9 @@ a {
     .center{
         margin-top: 50px;
         text-align: center;
+    }
+    .fa{
+        color: #456079;
     }
 }
 

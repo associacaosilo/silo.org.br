@@ -2,17 +2,21 @@
 - indice: 1
   title: Campanha Silo Escola
   url: https://benfeitoria.com/siloescola
+  color: '#FC4672'
   
 - indice: 2
   title: RESILIENCE OPEN CALL
   url: https://silo.org.br/convocatorias
+  color: '#FDB368'
   
   
 - indice: 3
   title: Silo Site
   url: https://silo.org.br/
+  color: '#1896A5'
     
 - indice: 4
   title: Convocatória Assistente de Finanças
-  url: https://silo.org.br/convocatorias
+  url: https://silo.org.br/convocatoria-financeiro
+  color: '#456079'
   
