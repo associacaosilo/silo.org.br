@@ -28,7 +28,7 @@ Gostaríamos de contar com um pessoa que:
 * Esteja disposta a trabalhar com uma grande diversidade de pessoas, áreas de interesse, modos de ser, agir e pensar. Não aceitamos expressões de ódio ou intolerância em temas de gênero, raça, etnia, posição social, orientação sexual, religiosa, ou de outra procedência.
 
 Dados da vaga:
-* Trabalho parcialmente remoto com encontros pontuais em nossa sede, na Serrinha do Alambari, no município de Resende|RJ
+* Trabalho parcialmente remoto com encontros pontuais em nossa sede, na Serrinha do Alambari, no município de Resende – RJ.
 * A jornada de trabalho será de no máximo cinco horas diárias e será organizada por demandas e cumprimento de tarefas.
 * Reuniões semanais
 * Tipo de contratação: PJ 
