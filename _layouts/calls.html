@@ -26,6 +26,7 @@
                     <p>Em breve!</p>
                 {% endif %}
             {% endif %}
+        {% assign posts = site.posts | where:"lang", page.lang | where:"category", "callopen" %}
           {% for post in posts %}
             {% assign pCover = site.baseurl | append: '/' | append: post.cover %}
             <a class="list-item" href="{{ site.baseurl }}{{ post.url }}">
