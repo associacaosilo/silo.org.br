@@ -17,7 +17,7 @@ Buscamos uma assistente de finanças para:
 * Realizar os controles de fluxo de caixa da organização;
 * Fazer operação do sistema financeiro interno;
 * Atuar com a contabilização de pagamentos de serviços e de equipe, 
-* Fazer transições bancárias;
+* Fazer transações bancárias;
 * Intermediar relacionamento com bancos e com a contabilidade, 
 * Realizar transações financeiras do dia a dia (incluindo cálculo, lançamento e registro de dados de conta a receber) 
 * Organizar/sistematizar toda documentação de finanças da organização, incluindo o caso de auditorias. 
