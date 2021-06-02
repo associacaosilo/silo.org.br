@@ -26,7 +26,7 @@ Você pode fazer uma transferência para nossa conta:<br>
 **Agência:** 1202-5<br>
 **Conta:** 72833-0<br>
 
-Ou [acesse este link](https://silo.org.br/doe) para doar através do paypal usando seu cartão de crédito.
+Ou [acessar este link](https://silo.org.br/doe) para doar através do paypal usando seu cartão de crédito.
 
 
 
