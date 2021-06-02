@@ -12,7 +12,7 @@ ref: doeainda
  
 Com muita alegria informamos que encerramos com grande êxito [a campanha de financiamento](https://benfeitoria.com/siloescola) para a reforma da Silo Escola!
 
-Conseguimos ultrapassar a 1ª meta e, mais!  **Alcançamos  R$78.565,00** arrecadados, pela plataforma da Benfeitoria e mais **R$10.000,00** em nossa conta institucional poderemos fazer a reforma do telhado do galpão e iniciar reparos no banheiro.
+Conseguimos ultrapassar a 1ª meta e, mais!  **Alcançamos  R$78.565,00** arrecadados, pela plataforma da Benfeitoria e mais **R$10.000,00** em nossa conta institucional. Com isso poderemos fazer a reforma do telhado do galpão e iniciar reparos no banheiro.
 
 Mas ainda falta muita coisa!
 
