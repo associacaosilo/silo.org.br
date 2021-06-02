@@ -18,15 +18,15 @@ Mas ainda falta muita coisa!
 
 Caso queira colaborar, você ainda pode doar para a Silo! 
 
-Colabore doando qualquer quantia.
-Você pode fazer uma transferência para nossa conta:
-**Silo - Arte e Latitude Rural**
-**PIX/CNPJ:** 27.613.078/0001-38
-**Banco do Brasil**
-**Agência:** 1202-5
-**Conta:** 72833-0
+Colabore doando qualquer quantia.<br>
+Você pode fazer uma transferência para nossa conta:<br>
+**Silo - Arte e Latitude Rural**<br>
+**PIX/CNPJ:** 27.613.078/0001-38<br>
+**Banco do Brasil**<br>
+**Agência:** 1202-5<br>
+**Conta:** 72833-0<br>
 
-Ou [acessar este link](https://silo.org.br/doe) para doar através do paypal usando seu cartão de crédito.
+Ou [acesse este link](https://silo.org.br/doe) para doar através do paypal usando seu cartão de crédito.
 
 
 
