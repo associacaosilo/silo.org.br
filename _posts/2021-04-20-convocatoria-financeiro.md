@@ -5,6 +5,7 @@ title: 'Vaga para assistente de finanças'
 cover: media/images/cover23.jpg
 category:
   - silo
+  - residence
   - callclosed
 lang: pt
 ref: convocatoria-financeiro

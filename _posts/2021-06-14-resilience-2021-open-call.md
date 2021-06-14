@@ -5,7 +5,7 @@ title: 'Resiliência: Residência Artística 2021'
 cover: media/images/cover28.jpg
 category:
   - silo
-  - residency
+  - residence
   - callopen
 swipebox:
 lang: pt
