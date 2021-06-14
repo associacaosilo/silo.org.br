@@ -1,5 +1,5 @@
 ---
-title: Carla Almeira
+title: Carla Almeida
 cover: media/images/people/pb_carla.jpg
 category: conselho
 published: true
