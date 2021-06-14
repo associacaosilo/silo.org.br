@@ -17,7 +17,7 @@ ref: opencall21
 # Chamada aberta
 ## Arte e Ciência 
 
-Por meio desta chamada convidamos **artistas, curadores e cientistas** interessados em Arte e Ciência para se inscreverem na **Resiliência: Residência Artística** que ocorrerá entre **22 de agosto e 12 de setembro de 2021**.
+Por meio desta chamada convidamos **artistas, curadores e cientistas** interessados em Arte e Ciência para se inscreverem na [Resiliência: Residência Artística](https://resilience.silo.org.br/){:target="_blank"} que ocorrerá entre **22 de agosto e 12 de setembro de 2021**.
 
 Nessa edição a residência acolherá artistas, curadores e cientistas interessados em desenvolver seus trabalhos em espaços rurais e/ou de natureza exuberante. A Resiliência: Residência Artística ocorrerá fora dos laboratórios de ciência e dos ateliers de arte, em território de Mata Atlântica, na Área de Proteção Ambiental da Serrinha do Alambari e no Planalto do Parque Nacional do Itatiaia, localizado a 2.791 metros de altitude.
 
