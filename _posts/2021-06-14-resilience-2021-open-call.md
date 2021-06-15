@@ -78,8 +78,6 @@ Após a seleção, a **Silo - Arte e Latitude Rural** disponibilizará um protoc
 **Apoio:** Instituto Serrapilheira
 
 
-contato@silo.org.br                                                                                     
-**+55 21 98108 7115** 
-
+**contato@silo.org.br**                                                                                     
 
 <br>
