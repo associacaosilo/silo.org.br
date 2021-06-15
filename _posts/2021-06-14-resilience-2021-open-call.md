@@ -33,7 +33,7 @@ As inscrições para a residência serão feitas exclusivamente através do emai
 * Portfólio ou currículo ou informações sobre a pesquisa científica incluindo dados pessoais e contato (nome, endereço, nacionalidade, data de nascimento, email, telefone) 
 * Link da homepage e demais referências, caso houver. 
 
-**Prazo limite para as inscrições: 30 de julho de 2021.** 
+**Prazo limite para as inscrições: 31 de julho de 2021.** 
  
  <br> 
  
