@@ -14,26 +14,27 @@ ref: opencall21
 
 <br>
 
-# Chamada aberta
-## Arte e Ciência 
+# Open Call
+## Art and science
 
-Por meio desta chamada convidamos **artistas, curadores e cientistas** interessados em Arte e Ciência para se inscreverem na [Resiliência: Residência Artística](https://resilience.silo.org.br/){:target="_blank"} que ocorrerá entre **22 de agosto e 12 de setembro de 2021**.
+By the means of this call, we invite artists, curators and scientists willing to work in Art and Science to enroll in [Resilience: artistic residency](https://resilience.silo.org.br/en/){:target="_blank"} that will take place between que ocorrerá entre **August 22 and September 12, 2021**.
 
-Nessa edição a residência acolherá artistas, curadores e cientistas interessados em desenvolver seus trabalhos em espaços rurais e/ou de natureza exuberante. A Resiliência: Residência Artística ocorrerá fora dos laboratórios de ciência e dos ateliers de arte, em território de Mata Atlântica, na Área de Proteção Ambiental da Serrinha do Alambari e no Planalto do Parque Nacional do Itatiaia, localizado a 2.791 metros de altitude.
+In this edition, the residency will host artists, curators and scientists interested in developing their work in rural spaces and/or exuberant nature. The Resilience: Artist Residency will take place outside science labs and art workshops, in the atlantic forest domain, in the environmental protection area of Serrinha do Alambari and on the Itatiaia National Park's plateau, located at 2,791 meters of altitude.
 
-Nesse ambiente, artistas e curadores interessados em pesquisar e dispostos a dialogar com a ciência e os métodos científicos terão a oportunidade de trabalhar ao lado de cientistas. Os cientistas, por sua vez, poderão ampliar seu campo de visão atuando com variáveis diferentes das convencionais, fora do protocolo de seus laboratórios e próximos à produção artística.
+In this environment, artists and curators intending to do research and willing to dialogue with science and scientific methods will have the opportunity to work alongside scientists. Scientists, in turn, will be able to expand their field of vision while dealing with unconventional variables, far from the protocols of their laboratories, linking their work to artistic production.
 
-A residência oferece um ambiente propício para a troca de saberes entre artistas e cientistas propondo, de um lado que a ciência possa se transformar a partir das referências e modos de pensar e fazer da arte e, de outro que, a arte possa ter voz ativa no debate de questões científicas com grande impacto da sociedade. Apesar de viverem, muitas vezes, em universos diferentes, de usarem linguagens e abordagens diversas e de possuírem processos criativos e de resolução de problemas distintos, artistas e cientistas podem se beneficiar muito com um compartilhamento mútuo de experiências e olhares, sobretudo se tiverem a oportunidade de compartilharem um espaço de pesquisa e de trabalho que seja uma terceira margem para ambos. Nesse sentido, estabelecendo pontes entre diferentes saberes e promovendo o diálogo entre múltiplos, a Resiliência: Residência Artística também visa contribuir para uma maior aproximação e um diálogo mais rico entre ciência, arte e sociedade.  
+The residency offers a favorable environment for knowledge exchange between artists and scientists. We believe that science can transform itself learning from the references, from the ways of thinking and doing intrinsic to art, on the one hand, and that art can have an active voice in debates concerning scientific issues with great impact on society, on the other hand. Although they belong to different universes, they use different languages and approaches, they both present creative processes and deal with the resolution of different problems. That said, artists and scientists can greatly benefit from a mutual sharing of experiences and perspectives, especially if they have the opportunity to share the same place for doing research and work. In this sense, establishing connections between different knowledge and promoting dialogue between multiple actors, Resilience: Artistic Residency aims to promote an approximation and a richer dialogue between science, art and society.   
 
 
-As inscrições para a residência serão feitas exclusivamente através do email: **contato@silo.org.br**. No assunto do email deve constar: **Inscrição - Resiliência: Residência Artística**. O email deve conter **1 arquivo em formato PDF** com:
+The registration in the residency will be made exclusively through the email: **contato@silo.org.br**. The subject of the email may include: **Registration - Resilience**. The email must contain a PDF file with:
 
-* Proposta artística ou proposta científica
-* Plano de trabalho, desenhos, esquemas e etc (imagens e texto máx. 3 páginas A4) 
-* Portfólio ou currículo ou informações sobre a pesquisa científica incluindo dados pessoais e contato (nome, endereço, nacionalidade, data de nascimento, email, telefone) 
-* Link da homepage e demais referências, caso houver. 
+* Artistic or scientific proposal
+* Work plan, drawings, diagrams (images and text max. 3 A4 pages)
+* Portfolio or curriculum or information about scientific research including personal data and contact information (name, address, nationality, date of birth, email, telephone) 
+* Homepage link and other references, if any.
 
-**Prazo limite para as inscrições: 31 de julho de 2021.** 
+
+**Deadline for applications: July 31, 2021.** 
  
  <br> 
  
@@ -41,12 +42,13 @@ As inscrições para a residência serão feitas exclusivamente através do emai
  
  <br>
  
-## Condições
-A residência ocorrerá entre os dias **22 de agosto e 12 de setembro de 2021**. Cada selecionada/o receberá: passagens - ida e volta - de seu local de origem, alojamento privado ou compartilhado com uma pessoa, estúdios compartilhados, alimentação gratuita e a quantia de **R$2.000,00**. Nossas instalações são amplas e arejadas. 
+## Conditions
+The residency will take place between August **22nd and September 12th, 2021**. The artistit, curator or scientist selected will get: tickets - round trip - from your place of origin, private or shared accommodation with one person, shared studios, free food and the amount of **R$2,000.00**. Our facilities are large and airy. 
 
-A residência é composta por expedições na região da APA da **Serrinha do Alambari** e no **Parque do Itatiaia** e participação na **Silo Escola**, um espaço de troca de aprendizagem com a comunidade local e demais interessados. 
+In the residency we're going to have expeditions in the region of Serrinha do Alambari and Itatiaia's Park and participation in Silo-school, a space for exchange of knowledge with the local community and other interested parties.
 
-No final da residência realizamos uma mostra com as pesquisas, processos e trabalhos desenvolvidos. Após a residência será realizada uma publicação com a documentação do processo e resultado dos trabalhos desenvolvidos.
+At the end of the residency, we're holding an exhibition with the researches, the processes and works developed. After the residency, we'll release a publication with the documentation of the processes and results of the work carried out.
+
  
  <br> 
  
@@ -55,12 +57,14 @@ No final da residência realizamos uma mostra com as pesquisas, processos e trab
  <br>
  
  
-## Locais e Contexto
-A residência acontecerá entre a Área de Proteção Ambiental da Serrinha do Alambari e o Planalto do Parque Nacional do Itatiaia, ambos localizados na Serra da Mantiqueira, RJ, Brasil, entre as cidades de Rio de Janeiro e São Paulo. O entorno também estará disponível para a realização dos trabalhos: reservas ambientais, comunidades rurais e polo industrial.
+## Location and context
+  
+The residency will take place within the Serrinha do Alambari and the Itatiaia National Park's plateau, both located in the Mantiqueira Mountain Range, RJ, Brazil, between the cities of Rio de Janeiro and São Paulo. The surroundings will also be available for the work: environmental reserve, rural communities and industrial hub.
 
-A Serrinha do Alambari é parte integrante de uma Área de Proteção Ambiental (APA), situada no município de Resende (RJ), na encosta leste do Parque Nacional de Itatiaia, Serra da Mantiqueira. Esta área tem a particularidade de integrar zona rural e zona de proteção ambiental. A Serrinha conta com cerca de 1.000 habitantes, comércio e atividade turística. A APA (Área de Proteção Ambiental) da Serrinha do Alambari abrange as comunidades de Serrinha e Capelinha, protegendo a parte alta das microbacias dos rios Alambari e Pirapitinga. Sua área total corresponde a 4.500 hectares.
+Serrinha do Alambari is part of an environmental protection area (APA), located in the municipality of Resende, RJ, on the eastern slope of the National Park of Itatiaia, Mantiqueira Mountain Range. This area has the particularity of integrating a rural area and environmental protection zone. Serrinha has about 1,000 inhabitants, commerce and tourist activity. The APA of the Serrinha do Alambari covers the communities of Serrinha and Capelinha, protecting the upper part of the micro basins of the Alambari and Pirapitinga rivers. It's total area corresponds to 4,500  acres.
 
-O Planalto do Itatiaia está localizado dentro do território do Parque Nacional do Itatiaia. Primeiro Parque Nacional do Brasil, criado em 1937, situado na Serra da Mantiqueira, o Parque Nacional do Itatiaia possui cerca de 28 mil hectares que abrange os Estados do Rio de Janeiro e Minas Gerais apresentando um relevo caracterizado por montanhas e elevações rochosas, com altitude variando de 600 a 2.791 m, no seu ponto culminante, o Pico das Agulhas Negras. Na região do Planalto do Itatiaia, encontram-se os campos de altitude e os vales suspensos. A área do Parque guarda nascentes de 12 importantes bacias hidrográficas regionais, que drenam para duas bacias principais: a do rio Grande, afluente do rio Paraná, e a do rio Paraíba do Sul, o mais importante do Rio de Janeiro.
+The Itatiaia Plateau is located within the area of the Itatiaia National Park. It is the first national park in Brazil, created in 1937, located in the Mantiqueira Mountain Range. The Itatiaia National Park has about 28 thousand acres that covers the states of Rio de Janeiro and Minas Gerais presenting a relief characterized by mountains and rocky elevations, with altitude ranging from 600 at 2,791 m, at its highest point, Agulhas Negras peak. In the region of Itatiaia's plateau, there are altitude fields and suspended valleys. The area of ​​the park guards the springs of 12 important regional hydrographic basins that form two other main basins: the Grande River, a tributary of the Paraná River, and the Paraíba do Sul River, the most important in Rio de Janeiro.
+
 
  <br> 
  
@@ -71,11 +75,11 @@ O Planalto do Itatiaia está localizado dentro do território do Parque Nacional
  
 ## Covid 19
 
-Após a seleção, a **Silo - Arte e Latitude Rural** disponibilizará um protocolo de segurança sanitária que deverá ser seguido para que as/os participantes possam viajar e permanecer em nossas instalações com segurança, mitigando os riscos de transmissão da Covid 19.
+After selection, Silo - Arte e Latitude Rural will provide a protocol for health safety that must be followed so that participants can travel and stay in our facilities safely, reducing risks of Covid 19 transmission.
 
 
-**Realização:** Silo – Arte e Latitude Rural <br>
-**Apoio:** Instituto Serrapilheira
+**Realizarion:** Silo – Arte e Latitude Rural <br>
+**Support:** Instituto Serrapilheira
 
 
 **contato@silo.org.br**                                                                                     
