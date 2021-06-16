@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: 'Open Call: Resilience Artistic Residence 2021'
+title: 'Open Call: Resilience: Artist in Residence 2021'
 cover: media/images/cover28.jpg
 category:
   - silo
@@ -17,7 +17,7 @@ ref: opencall21
 # Open Call
 ## Art and science
 
-By the means of this call, we invite artists, curators and scientists willing to work in Art and Science to enroll in [Resilience: artistic residency](https://resilience.silo.org.br/en/){:target="_blank"} that will take place between que ocorrerá entre **August 22 and September 12, 2021**.
+By the means of this call, we invite artists, curators and scientists willing to work in Art and Science to enroll in [Resilience: artist in residence](https://resilience.silo.org.br/en/){:target="_blank"} that will take place between que ocorrerá entre **August 22 and September 12, 2021**.
 
 In this edition, the residency will host artists, curators and scientists interested in developing their work in rural spaces and/or exuberant nature. The Resilience: Artist Residency will take place outside science labs and art workshops, in the atlantic forest domain, in the environmental protection area of Serrinha do Alambari and on the Itatiaia National Park's plateau, located at 2,791 meters of altitude.
 
