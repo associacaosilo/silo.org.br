@@ -18,7 +18,7 @@ ref: opencall21
 ## Art and science
 
 [Clica aquí para la Convocatoria en español](https://silo.org.br/resilience-2021-open-call-es/) <br>
-[Chamada Aberta - Clique aqui para português](https://silo.org.br/resilience-2021-open-call/)
+[Clique aqui para ler a chamada em português](https://silo.org.br/resilience-2021-open-call/)
 
 By the means of this call, we invite artists, curators and scientists willing to work in Art and Science to apply for [Resilience: artist in residence](https://resilience.silo.org.br/en/){:target="_blank"} that will take place between  that will take place between **August 22 and September 12, 2021**.
 

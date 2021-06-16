@@ -19,7 +19,7 @@ ref: opencalles
 
 
 [Open Call - Click here for english](https://silo.org.br/resilience-2021-open-call-en/) <br>
-[Chamada Aberta - Clique aqui para português](https://silo.org.br/resilience-2021-open-call/)
+[Clique aqui para ler a chamada em português](https://silo.org.br/resilience-2021-open-call/)
 
 A través de esta convocatoria, invitamos a artistas, comisarios y científicos interesados en Arte y Ciencia a inscribirse en [Resiliencia: Residencia Artistica](https://resilience.silo.org.br/){:target="_blank"}, que tendrá lugar entre el **22 de agosto y el 12 de septiembre de 2021**.
 
