@@ -77,7 +77,26 @@ O Planalto do Itatiaia está localizado dentro do território do Parque Nacional
 
 Após a seleção, a **Silo - Arte e Latitude Rural** disponibilizará um protocolo de segurança sanitária que deverá ser seguido para que as/os participantes possam viajar e permanecer em nossas instalações com segurança, mitigando os riscos de transmissão da Covid 19.
 
+ <br> 
+ 
+ ---
+ 
+ <br>
+ 
+ 
+## Perguntas Frequentes
 
+[Acesse aqui](https://silo.org.br/perguntas-frequentes-resilience-2021/){:target="_blank"} a página com respostas às perguntas mais frequentes. 
+
+
+
+ <br> 
+ 
+ ---
+ 
+ <br>
+ 
+ 
 **Realização:** Silo – Arte e Latitude Rural <br>
 **Apoio:** Instituto Serrapilheira
 

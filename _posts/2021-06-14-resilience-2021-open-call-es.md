@@ -80,7 +80,25 @@ La meseta de Itatiaia se encuentra dentro del territorio del Parque Nacional de 
 Tras la selección, Silo - Arte e Latitude Rural proporcionará un protocolo de seguridad sanitaria que se debe seguir para que los participantes puedan viajar y permanecer en nuestras instalaciones de forma segura, mitigando los riesgos de transmisión de Covid 19.
 El uso de mascarillas será obligatorio.
 
+ <br> 
+ 
+ ---
+ 
+ <br>
+ 
+ 
 
+## Preguntas Frecuentes
+
+[Accede aquí](https://silo.org.br/perguntas-frequentes-resilience-2021/){:target="_blank"} a la página con respuesta a las preguntas más frecuentes. 
+
+ <br> 
+ 
+ ---
+ 
+ <br>
+ 
+ 
 **Realización:** Silo – Arte e Latitude Rural <br>
 **Apoyo:** Instituto Serrapilheira
 
