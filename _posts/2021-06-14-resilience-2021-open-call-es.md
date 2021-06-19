@@ -15,7 +15,7 @@ ref: opencalles
 <br>
 
 # Convocatoria
-## Arte y Ciencia 
+### Arte y Ciencia 
 
 
 [Open Call in english](https://silo.org.br/resilience-2021-open-call-en/) <br>

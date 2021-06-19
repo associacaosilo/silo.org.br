@@ -15,7 +15,7 @@ ref: opencall21
 <br>
 
 # Open Call
-## Art and science
+### Art and science
 
 [Convocatoria en español](https://silo.org.br/resilience-2021-open-call-es/) <br>
 [Chamada em português](https://silo.org.br/resilience-2021-open-call/)
