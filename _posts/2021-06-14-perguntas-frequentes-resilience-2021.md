@@ -14,7 +14,7 @@ ref: opencallfaq
 <br>
 
 **Posso me inscrever como coletivo?**<br>
-Sim, garantimos hospedagem e alimentação para todas, no entanto, os custos de transporte são para apenas uma pessoa e o cachê para o projeto. 
+Sim, garantimos hospedagem e alimentação para todas, no entanto, os custos de transporte e o cachê para o projeto são para apenas uma pessoa.  
 
 **Essa chamada é voltada para artistas, curadoras ou cientistas?**<br>
 Para todas. Tanto artistas, curadoras quanto cientistas poderão se candidatar.
