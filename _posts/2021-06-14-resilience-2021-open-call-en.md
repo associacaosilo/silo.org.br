@@ -36,6 +36,7 @@ The registration in the residency will be made exclusively per email: **contato@
 * Portfolio or curriculum or information about scientific research including personal data and contact information (name, address, nationality, date of birth, email, telephone) 
 * Homepage link and other references, if any.
 
+Proposals submitted in Portuguese, English or Spanish will be accepted.
 
 **Deadline for applications: July 31, 2021.** 
  

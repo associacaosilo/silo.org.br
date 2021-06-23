@@ -46,5 +46,9 @@ Sim.
 **Artistas estrangeiros morando no Brasil podem se inscrever?**<br>
 Sim. 
 
+**Qual o idioma será aceito para inscrição?**
+Serão aceitas propostas enviadas em português, inglês ou espanhol.
 
 
+**Meu projeto pode propor interação com a comunidade local?**
+Por cuidados com a segurança sanitária, é importante que toda a interação com a comunidade aconteça através da Silo Escola. Você poderá propor encontros, oficinas e eventos que acontecerão virtualmente durante o período da residência.

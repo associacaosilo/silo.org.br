@@ -37,6 +37,8 @@ La inscripción a la residencia se realizará exclusivamente a través del corre
 * Portafolio o curriculum o información sobre investigación científica, incluyendo datos personales y de contacto (nombre, dirección, nacionalidad, fecha de nacimiento, correo electrónico, teléfono)
 * Enlace del sitio web y otras referencias, si las hubiera.
 
+Se aceptarán propuestas enviadas en portugués, inglés o español.
+
 **Fecha límite para solicitudes: 31 de julio de 2021.** 
  
  <br> 
