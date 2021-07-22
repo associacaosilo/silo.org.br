@@ -30,3 +30,4 @@ Ou doar através do paypal:<br>
     </form>
 </div>
 
+[Agradecemos imensemente a todas pessoas que já doaram para a Silo escola](https://silo.org.br/agradecimentos/){:target="_blank"}.
