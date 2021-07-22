@@ -18,3 +18,5 @@ Collaborate also donating any amount:
     </form>
   </div>
 
+
+[We are immensely grateful to everyone who have already donated to Silo School](https://silo.org.br/agradecimentos-en/){:target="_blank"}.
