@@ -4,6 +4,12 @@ layout: post
 title: Sobre
 permalink: /sobre/
 parceiras:
+  - link: 'https://swissnex.org/'
+    cover: media/images/logos/swissnex.png
+  - link: 'https://www.artscouncil.org.uk/'
+    cover: media/images/logos/arts_council.png 
+  - link: 'https://prohelvetia.ch'
+    cover: media/images/logos/prohelvetia.png
   - link: 'http://crescentefertil.org.br/'
     cover: media/images/logos/crescentefertil.jpg
   - link: 'http://medialab-prado.es'
@@ -82,6 +88,12 @@ Para nós, trazer o nome Silo é também disputar o imaginário rural que vem se
   
   {% assign pCover = site.baseurl | append: '/' | append: 'media/images/logos/serrapilheira.png' %} 
    <a href="https://serrapilheira.org" target="_blank">
+    <div class="parceira-logo" style="background-image: url('{{ pCover }}');">
+    </div>
+  </a>
+    
+  {% assign pCover = site.baseurl | append: '/' | append: 'media/images/logos/ibirapitanga.png' %} 
+   <a href="https://www.ibirapitanga.org.br" target="_blank">
     <div class="parceira-logo" style="background-image: url('{{ pCover }}');">
     </div>
   </a>
