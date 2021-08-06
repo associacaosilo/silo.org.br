@@ -8,26 +8,29 @@
     {% include newsletter-popup.html %}
     {% include menu.html %}
     <div class="main-div">
-    
-      <section class="content-text">{{ content }}</section>    
-        <section class="list-wrapper">
-            {% if page.lang == 'en' %}  
-                <h2>Open Calls</h2>
-            {% else %}   
-                <h2>Convocatórias Abertas</h2>
-            {% endif %}
+
+      <section class="content-text">{{ content }}</section>
+
+      <section class="list-wrapper">
+        {% if page.lang == 'en' %}
+          <h2>Open Calls</h2>
+        {% else %}
+          <h2>Convocatórias Abertas</h2>
+        {% endif %}
 
         <div class="home-list">
-          {% assign posts = site.posts | where:"lang", page.lang | where:"category", "callopen" | size %}
-            {% if posts == 0 %} 
-                {% if page.lang == 'en' %} 
-                  <p>Soon!</p>
-                {% else %}    
-                    <p>Em breve!</p>
-                {% endif %}
+          {% assign open = site.posts | where:"lang", page.lang | where:"category", "callopen" %}
+          {% assign open_count = open | size %}
+
+          {% if open_count == 0 %}
+            {% if page.lang == 'en' %}
+              <p>Soon!</p>
+            {% else %}
+              <p>Em breve!</p>
             {% endif %}
-        {% assign posts = site.posts | where:"lang", page.lang | where:"category", "callopen" %}
-          {% for post in posts %}
+          {% endif %}
+
+          {% for post in open %}
             {% assign pCover = site.baseurl | append: '/' | append: post.cover %}
             <a class="list-item" href="{{ site.baseurl }}{{ post.url }}">
               <div class="list-item-image" style="background-image: url('{{ pCover }}');">
@@ -36,20 +39,18 @@
             </a>
           {% endfor %}
         </div>
-            
-        </section>
-        
-           
-        <section class="list-wrapper">
-            {% if page.lang == 'en' %}  
-                <h2>Closed Calls</h2>
-            {% else %}   
-                <h2>Convocatórias Encerradas</h2>
-            {% endif %}
+      </section>
+
+      <section class="list-wrapper">
+        {% if page.lang == 'en' %}
+          <h2>Closed Calls</h2>
+        {% else %}
+          <h2>Convocatórias Encerradas</h2>
+        {% endif %}
 
         <div class="home-list">
-          {% assign posts = site.posts | where:"lang", page.lang | where:"category", "callclosed" %}
-          {% for post in posts %}
+          {% assign closed = site.posts | where:"lang", page.lang | where:"category", "callclosed" %}
+          {% for post in closed %}
             {% assign pCover = site.baseurl | append: '/' | append: post.cover %}
             <a class="list-item" href="{{ site.baseurl }}{{ post.url }}">
               <div class="list-item-image" style="background-image: url('{{ pCover }}');">
@@ -58,8 +59,8 @@
             </a>
           {% endfor %}
         </div>
-            
-        </section>
+      </section>
+
     </div>        
     {% include footer.html %}
   </body>
