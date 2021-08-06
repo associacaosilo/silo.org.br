@@ -6,10 +6,10 @@ cover: media/images/cover28.jpg
 category:
   - silo
   - residence
-  - callopen
+  - callclosed
 swipebox:
-lang: 
-ref: opencalles
+lang: es
+ref: opencall21
 ---
 
 <br>
@@ -17,9 +17,8 @@ ref: opencalles
 # Convocatoria
 ### Arte y Ciencia 
 
-
-[Open Call in english](https://silo.org.br/resilience-2021-open-call-en/) <br>
-[Chamada em português](https://silo.org.br/resilience-2021-open-call/)
+[Open Call in english](../resilience-2021-open-call-en/) <br>
+[Chamada em português](../resilience-2021-open-call/)
 
 A través de esta convocatoria, invitamos a artistas, comisarios y científicos interesados en Arte y Ciencia a inscribirse en [Resiliencia: Residencia Artistica](https://resilience.silo.org.br/){:target="_blank"}, que tendrá lugar entre el **22 de agosto y el 12 de septiembre de 2021**.
 
