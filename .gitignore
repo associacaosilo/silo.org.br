@@ -6,3 +6,4 @@ public/
 _site/
 .sass-cache/
 .jekyll-cache/
+Gemfile.lock
