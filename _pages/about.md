@@ -4,6 +4,12 @@ layout: post
 title: About
 permalink: /about/
 parceiras:
+  - link: 'https://swissnex.org/'
+    cover: media/images/logos/swissnex.png
+  - link: 'https://www.artscouncil.org.uk/'
+    cover: media/images/logos/arts_council.png 
+  - link: 'https://prohelvetia.ch'
+    cover: media/images/logos/prohelvetia.png
   - link: 'http://crescentefertil.org.br/'
     cover: media/images/logos/crescentefertil.jpg
   - link: 'http://medialab-prado.es'
