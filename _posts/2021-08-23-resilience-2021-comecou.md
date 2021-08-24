@@ -18,6 +18,7 @@ Damos as boas-vindas às artistas e cientistas que participam da Resiliência: R
 
 Adriana Alves, Bruno Mota, Caroline do Vale, Daiana Schröpel, Luana Vitra, Maria Palmeiro, Marina Hirota, Mélia Roger e Pedro Hurpia.
 
+---
 
 **Adriana Alves**
  
@@ -85,6 +86,7 @@ Seu trabalho recria diversos dispositivos existentes para “entender” fenôme
    
 ---
 
+<br><br><br>
 
 Resiliência Residência Artística recebeu apoio do Instituto Serrapilheira e, também, da Fundação suíça para a cultura Pro Helvetia América do Sul e do Swissnex.
 
