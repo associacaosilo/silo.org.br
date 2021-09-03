@@ -13,18 +13,23 @@
   title: "Instrumentos na arte e na ciência – Como mensurar a realidade?"
   url: https://www.youtube.com/watch?v=-eI0Xg0d5jA&list=PL1H9MV88EWPrYD1GxabrayGla4klEWltf&ab_channel=SiloArteeLatitudeRural
   color: 'black'
-
+  
 - indice: 4
+  title: "Heterogeneidade da forma"
+  url: https://www.youtube.com/watch?v=a_DGTCGiLAI&list=PL1H9MV88EWPrYD1GxabrayGla4klEWltf&index=2&ab_channel=SiloArteeLatitudeRural
+  color: 'black'  
+    
+- indice: 5
   title: "Ressonância vulcânica – La respuesta de la tierra"
   url: https://www.youtube.com/watch?v=H7U9gm9gw8E&list=PL1H9MV88EWPrYD1GxabrayGla4klEWltf&index=3&ab_channel=SiloArteeLatitudeRural
   color: 'black'  
     
-- indice: 5
+- indice: 6
   title: "Silo Site"
   url: https://silo.org.br/
   color: 'black'
 
-- indice: 6
+- indice: 7
   title: "DOE | DONATE"
   url: https://silo.org.br/doe/
   color: 'black'  
