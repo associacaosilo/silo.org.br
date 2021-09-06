@@ -20,16 +20,21 @@
   color: 'black'  
     
 - indice: 5
-  title: "Ressonância vulcânica – La respuesta de la tierra"
+  title: "A perpendicular é o alívio do esforço"
   url: https://www.youtube.com/watch?v=H7U9gm9gw8E&list=PL1H9MV88EWPrYD1GxabrayGla4klEWltf&index=3&ab_channel=SiloArteeLatitudeRural
   color: 'black'  
     
 - indice: 6
+  title: "Ressonância vulcânica – La respuesta de la tierra"
+  url: https://youtu.be/D2ROJyIrKwk
+  color: 'black'  
+    
+- indice: 7
   title: "Silo Site"
   url: https://silo.org.br/
   color: 'black'
 
-- indice: 7
+- indice: 8
   title: "DOE | DONATE"
   url: https://silo.org.br/doe/
   color: 'black'  
