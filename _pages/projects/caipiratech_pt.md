@@ -8,7 +8,7 @@ category: caipiratechlab
 ref: caipiratechlab-list
 ---
   
-Através do programa CaipiraTechLab oferecemos cursos, mutirões e realizamos encontros com temas relacionados a agroecologia, sistemas agroflorestais, bioarquitetura, geração de energia, entre outros. Além disso oferecemos também assessoria para a construção de infraestruturas e realização de atividades educativas em zonas rurais. Contamos com uma rede de profissionais extremamente capacitados e comprometidos com as questões ambientais.   
+O CaipiraTechLab colabora com o fortalecimento dos sistemas agroalimentares regionais e sua expressão cultural por meio de mapeamento, cursos e desenvolvimento de tecnologia.  
 
 **Últimos atividades:**
 
