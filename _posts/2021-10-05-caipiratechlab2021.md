@@ -61,7 +61,7 @@ Abaixo o cronograma:
 
 ## Quem pode participar? 
   
-Podem participar agricultoras/es,  produtoras/es de alimentos e prestadores de serviço (dentro do mercado de infraestrutura,  beneficiamento e escoamento); indivíduos e representantes de grupos, organizações, articulações e populações tradicionais (camponeses, indígenas, quilombolas) que compõem o sistema agroalimentar das seguintes regiões: 
+Podem participar agricultoras/es,  produtoras/es de alimentos e prestadores de serviço (dentro do mercado de infraestrutura,  beneficiamento e escoamento); indivíduos e representantes de grupos, organizações, articulações e populações tradicionais (indígenas, quilombolas e outros) que compõem o sistema agroalimentar das seguintes regiões: 
 
 * Serra da Mantiqueira, Serra da Bocaina, Serra do Mar e Vale do Rio Paraíba (em Minas Gerais, Rio de Janeiro e São Paulo), para os quais serão destinados 75% das vagas; 
 * Regiões serranas dos biomas Cerrado e Caatinga, especificamente: Chapada da Ibiapaba (PI, CE), Planalto da Borborema (AL, RN, PE, PB), Serra das Confusões (PI),  Serra do Cipó (MG) e Alto Jequitinhonha, na Serra do Espinhaço (MG)
