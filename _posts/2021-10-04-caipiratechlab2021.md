@@ -48,7 +48,6 @@ Abaixo o cronograma:
 * **Dia 17/11** - Laboratório de planejamento financeiro 2: cadernetas agroecológicas - com Renata Solto e Vanessa Schottz (GT Mulheres da Articulação de de Agroecologia do RJ)
 * **Dia 18/11** - Laboratório de ferramentas de finança: aprendendo a usar o programa Excel - com a Coordenação Nacional de Articulação de Quilombos - CONAq (a confirmar)
 * **Dia 25/11** - Aula aberta: gestão e arranjos econômicos com a Cooperativa de Produção Agropecuária Nova Santa Rita - com Indiane Rubenich  (Coopan, RS) 
-**Encontro de Encerramento – Dia 08 de outubro**
 
 
 **Módulo 4: Arte e Comunicação - 22, 23 e 29 de novembro**
