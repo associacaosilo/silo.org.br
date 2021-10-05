@@ -5,20 +5,20 @@
     {% include meta.html %}
   </head>
   <body id="links">
-        <img src="{{ site.baseurl }}/media/images/links-residencia-topo.png">
+        <img src="{{ site.baseurl }}/media/images/links-caipiratech-1.png">
     <div class="main-div">
       <section class="content-text">
         {{ content }} 
         <br>     
         {% assign link = site.data.links | sort: 'index' %}
         {% for item in link %}
-        <a class="nav-call" style="text-decoration:none; color:white; background-color: {{ item.color }}" href="{{ item.url }}">{{ item.title }}</a>
+        <a class="nav-call" style="text-decoration:none; color:#f4d6a2; background-color: {{ item.color }}" href="{{ item.url }}">{{ item.title }}</a>
         {% endfor %}
         <div class="center">
             {% include social-icons.html %}
         </div>
         </section>  
     </div>      
-    <img src="{{ site.baseurl }}/media/images/links-residencia-base.png">  
+    <img src="{{ site.baseurl }}/media/images/links-caipiratech-2.png">
   </body>
 </html>

@@ -2,19 +2,19 @@
 - indice: 1
   title: "Convocatória | Curso Livre CaipiraTechLab 2021"
   url: https://silo.org.br/caipiratechlab2021/
-  color: 'black'
+  color: '#2a4d3c'
     
 - indice: 2
   title: "Conversas abertas | Resiliência: Residência artística"
   url: https://youtube.com/playlist?list=PL1H9MV88EWPrYD1GxabrayGla4klEWltf
-  color: 'black'
+  color: '#2a4d3c'
     
-- indice: 7
+- indice: 3
   title: "Silo Site"
   url: https://silo.org.br/
-  color: 'black'
+  color: '#2a4d3c'
 
-- indice: 8
+- indice: 4
   title: "DOE | DONATE"
   url: https://silo.org.br/doe/
-  color: 'black'  
+  color: '#2a4d3c'  
