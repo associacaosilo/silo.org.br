@@ -55,7 +55,7 @@ Abaixo o cronograma:
 * **Dia 23/11** - Laboratório de práticas: criação de peças gráficas e presença nas redes sociais - com Karina Terra (Silo - Arte e Latitude Rural, RJ)
 * **Dia 29/11** - Laboratório de práticas: construção de narrativas com vídeo - com Mariane Duarte (Rede de Mulheres Negras do RJ)
 
-**Encerramento – 01 de dezembro**
+**Encerramento – 1º de dezembro**
   
 ---
 
