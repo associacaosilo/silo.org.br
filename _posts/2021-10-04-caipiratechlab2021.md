@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: 'CURSO LIVRE  CaipiraTechLab: intercâmbios regenerativos'
 cover: media/images/cover28.jpg
