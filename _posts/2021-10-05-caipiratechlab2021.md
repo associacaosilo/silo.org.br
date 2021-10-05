@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: 'CURSO LIVRE  CaipiraTechLab: intercâmbios regenerativos'
+title: 'CURSO LIVRE  CaipiraTechLab 2021'
 cover: media/images/cover28.jpg
 category:
   - silo
@@ -55,7 +55,7 @@ Abaixo o cronograma:
 * **Dia 23/11** - Laboratório de práticas: criação de peças gráficas e presença nas redes sociais - com Karina Terra (Silo - Arte e Latitude Rural, RJ)
 * **Dia 29/11** - Laboratório de práticas: construção de narrativas com vídeo - com Mariane Duarte (Rede de Mulheres Negras do RJ)
 
-**Encerramento – 01 de novembro**
+**Encerramento – 01 de dezembro**
   
 ---
 
@@ -63,7 +63,7 @@ Abaixo o cronograma:
   
 Podem participar agricultoras/es,  produtoras/es de alimentos e prestadores de serviço (dentro do mercado de infraestrutura,  beneficiamento e escoamento); indivíduos e representantes de grupos, organizações, articulações e populações tradicionais (camponeses, indígenas, quilombolas) que compõem o sistema agroalimentar das seguintes regiões: 
 
-* Serra da Mantiqueira, Serra da Bocaina, Serra do Mar e Vale do Rio Paraíba (em Minas Gerais, Rio de Janeiro e São Paulo), para os quais serão destinados 85% das vagas; 
+* Serra da Mantiqueira, Serra da Bocaina, Serra do Mar e Vale do Rio Paraíba (em Minas Gerais, Rio de Janeiro e São Paulo), para os quais serão destinados 75% das vagas; 
 * Regiões serranas dos biomas Cerrado e Caatinga, especificamente: Chapada da Ibiapaba (PI, CE), Planalto da Borborema (AL, RN, PE, PB), Serra das Confusões (PI),  Serra do Cipó (MG) e Alto Jequitinhonha, na Serra do Espinhaço (MG)
 
 A inclusão dessas regiões da Caatinga e do Cerrado está sendo proposta para que haja, durante o curso,  um intercâmbio entre produtoras/es com o objetivo de enriquecer seus repertórios referentes a mercado, cooperações e mudanças climáticas. 
@@ -101,7 +101,7 @@ No momento da inscrição via formulário a pessoa interessada pode optar por co
 Requisitos:
 * Perenidade da produção agrícola (atividade permanente)
 * Mercado estabelecido (mínimo 1 ano) 
-* Residir na região de abrangência do Vale do Rio Paraíba, Serra da Mantiqueira, Serra da Bocaina e Serra do Mar (estado do Rio de Janeiro).
+* Residir na região de abrangência do Vale do Rio Paraíba, Serra da Mantiqueira, Serra da Bocaina e Serra do Mar (MG, SP, RJ).
 
 **O candidato à bolsa se compromete à:**
 * participar integralmente dos 4 módulos do curso*
