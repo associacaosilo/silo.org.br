@@ -110,8 +110,6 @@ Requisitos:
 * se comprometer a replicar os aprendizados, levando-os para comunidade/grupo por meio de conversas, oficinas ou práticas cotidianas;
 * encaminhar os seguintes materiais, previamente ao curso: Formulário de Identificação Ampliado e Termo de compromisso.
 
-(caso tenha restrição para participar em algum dos dias, um outro membro do seu coletivo/organização/grupo familiar poderá participar no lugar, mediante análise. se este for o caso, por favor indique no formulário de inscrição, no campo ”Informações complementares, dúvidas e comentários”.)
-
 _*caso tenha restrição para participar em algum dos dias, um outro membro do seu coletivo/organização/grupo familiar poderá participar no lugar, mediante análise. Se este for o caso, por favor indique no formulário de inscrição, no campo ”Informações complementares, dúvidas e comentários”._
 
 ---
