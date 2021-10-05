@@ -32,7 +32,7 @@ Abaixo o cronograma:
 
 **Encontro de abertura – 26 de outubro**
 
-**Módulo 1: Construção Social de Mercados - 28 de outubro e 03 e 04 de novembro**
+**Módulo 1: Construção Social de Mercados - 28 de outubro, 03 e 04 de novembro**
 * **Dia 28/10** - Estratégias de escoamento de produtos agroecológicos - com Gizelda Beserra (Pólo da Borborema, PB) e Ana Litardo (Assoc. Agroecológica de Teresópolis, RJ)
 * **Dia 03/11** - História e prática das políticas públicas para pequenos agricultores no Brasil - com Emilia Jomalinis (Centro de Referência em Soberania e Segurança Alimentar e Nutricional - Ceresan, RJ) 
 * **Dia 04/11** - Aula aberta:  novos mercados e compras coletivas - com Paula Guimarães (Cooperativa Camponesa Central de MG) e Rede de Mulheres Produtoras (a confirmar); mediação: Marcela Martins (Amerek/UFMG, MG)
@@ -137,7 +137,8 @@ Os efeitos sociais da pandemia, especialmente a fome e insegurança alimentar e 
 
 O programa se materializa por meio de três frentes:
 
-* Mapeamento e campanha de divulgação para conhecer quem são as produtoras e os produtores rurais das regiões Serra da Mantiqueira, Vale do Rio Paraíba do Sul, Serra da Bocaina e Serra do Mar - Conheça nossa campanha de incentivo aos alimentos produzidos em nossa região acessando nosso site e nossas redes sociais na internet! [https://www.instagram.com/silo.arte.e.latitude.rural ](https://www.instagram.com/silo.arte.e.latitude.rural ){:target="_blank"}
+* Mapeamento e campanha de divulgação para conhecer quem são as produtoras e os produtores rurais das regiões Serra da Mantiqueira, Vale do Rio Paraíba do Sul, Serra da Bocaina e Serra do Mar - Conheça nossa campanha de incentivo aos alimentos produzidos em nossa região acessando nosso site e nossas redes sociais na internet! 
+[https://www.instagram.com/silo.arte.e.latitude.rural ](https://www.instagram.com/silo.arte.e.latitude.rural ){:target="_blank"}
 
 * Cursos livres oferecidos gratuitamente, e que são desenhados especialmente para as agricultoras/es dessas regiões;
 
