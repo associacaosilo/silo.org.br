@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: 'CURSO LIVRE  CaipiraTechLab: intercâmbios regenerativos'
-cover: media/images/cover30.jpg
+cover: media/images/cover28.jpg
 category:
   - silo
   - caipiratechlab
@@ -12,7 +12,7 @@ lang: pt
 ref: curso-livre_caipiratechlab-21
 ---
 
-![](/media/images/c20_cursolivre_banner.jpg)
+![](/media/images/c21_cursolivre_banner.jpg)
 
 ## Inscrições
   
