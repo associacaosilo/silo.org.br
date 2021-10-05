@@ -43,7 +43,7 @@ Abaixo o cronograma:
 * **Dia 09/11** - Laboratório de práticas: adaptação, mitigação e testemunhos -  com Marina Hirota  (IpES/UFSC),  Pablo Borges (GIZ, Alemanha) e Alann Yu Iwama (Universidad de los Lagos, Chile)
 
 
-**Módulo 3: Agroecologia e finanças - 16, 17 e 18 de novembro**
+**Módulo 3: Agroecologia e finanças - 16, 17, 18 e 25 de novembro**
 * **Dia 16/11** - Laboratório de planejamento financeiro 1: cadernetas agroecológicas  - com Renata Solto e Vanessa Schottz (GT Mulheres da Articulação de Agroecologia do RJ)
 * **Dia 17/11** - Laboratório de planejamento financeiro 2: cadernetas agroecológicas - com Renata Solto e Vanessa Schottz (GT Mulheres da Articulação de de Agroecologia do RJ)
 * **Dia 18/11** - Laboratório de ferramentas de finança: aprendendo a usar o programa Excel - Facilitacão a confirmar
