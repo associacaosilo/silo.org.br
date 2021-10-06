@@ -23,39 +23,45 @@ O período de inscrição é de 05 a 20 de outubro. Para inscrever-se acesse o f
 
 ## Programação
 
-Oferecemos 36h de formação organizadas em 4 módulos: **Construção Social de Mercados, Agricultura e Mudanças Climáticas, Agroecologia e Finanças e Arte e Comunicação**. Haverá também um encontro de abertura e outro de encerramento. Os encontros acontecem durante a semana, entre 17:30 e 19:30 ou entre 18:00 e 20:00h. 
+Oferecemos 36h de formação organizadas em 4 módulos: 
+* Construção Social de Mercados
+* Agricultura e Mudanças Climáticas
+* Agroecologia e Finanças
+* Arte e Comunicação
+
+Ao se inscrever, você aceita participar de todos os módulos do curso.  Haverá também um encontro de abertura e outro de encerramento. Os encontros acontecem durante a semana, entre 17:30 e 19:30 ou entre 18:00 e 20:00h. 
 
 Cada encontro contará com uma/um facilitadora/or específica/o que tem experiência de vida e trabalho qualificado ligada ao tema do módulo. O curso é dividido em momentos de laboratório de práticas, aulas temáticas, aulas abertas e consolidação da aprendizagem. As aulas são interativas, as/os participantes poderão fazer perguntas e ainda  compartilhar práticas e conhecimentos.  Os momentos de Consolidação da Aprendizagem serão via  Telegram, por meio de um grupo, onde as/os participantes  poderão conversar sobre os temas das aulas e realizar exercícios práticos.
 
 Abaixo o cronograma:
 
 
-**Encontro de abertura – 26 de outubro**
+**Encontro de abertura – 26 de outubro (18:00 - 20:00h)**
 
 **Módulo 1: Construção Social de Mercados - 28 de outubro, 03 e 04 de novembro**
-* **Dia 28/10** - Estratégias de escoamento de produtos agroecológicos - com Gizelda Beserra (Pólo da Borborema, PB) e Ana Litardo (Assoc. Agroecológica de Teresópolis, RJ)
-* **Dia 03/11** - História e prática das políticas públicas para pequenos agricultores no Brasil - com Emilia Jomalinis (Centro de Referência em Soberania e Segurança Alimentar e Nutricional - Ceresan, RJ) 
-* **Dia 04/11** - Aula aberta:  novos mercados e compras coletivas - com Paula Guimarães (Cooperativa Camponesa Central de MG) e Rede de Mulheres Produtoras do Pajeú; mediação: Marcela Martins (Amerek/UFMG, MG)
+* **Dia 28/10 (18:00 - 20:00h)** - Estratégias de escoamento de produtos agroecológicos - com Gizelda Beserra (Pólo da Borborema, PB) e Ana Litardo (Assoc. Agroecológica de Teresópolis, RJ)
+* **Dia 03/11 (18:00 - 20:00h)** - História e prática das políticas públicas para pequenos agricultores no Brasil - com Emilia Jomalinis (Centro de Referência em Soberania e Segurança Alimentar e Nutricional - Ceresan, RJ) 
+* **Dia 04/11 (18:00 - 20:00h)** - Aula aberta:  novos mercados e compras coletivas - com Paula Guimarães (Cooperativa Camponesa Central de MG) e Rede de Mulheres Produtoras do Pajeú; mediação: Marcela Martins (Amerek/UFMG, MG)
 
 
 **Módulo 2: Agricultura e Mudanças Climáticas - 08 e 09 de novembro**
-* **Dia 08/11** - Ameaças e eventos extremos: introdução e testemunhos - com Marina Hirota  (IpES/UFSC), Pablo Borges (GIZ, Alemanha) e Alann Yu Iwama (Universidad de los Lagos, Chile)
-* **Dia 09/11** - Laboratório de práticas: adaptação, mitigação e testemunhos -  com Marina Hirota  (IpES/UFSC),  Pablo Borges (GIZ, Alemanha) e Alann Yu Iwama (Universidad de los Lagos, Chile)
+* **Dia 08/11 (17:30 - 19:30h)** - Ameaças e eventos extremos: introdução e testemunhos - com Marina Hirota  (IpES/UFSC), Pablo Borges (GIZ, Alemanha) e Alann Yu Iwama (Universidad de los Lagos, Chile)
+* **Dia 09/11 (18:00 - 20:00h)** - Laboratório de práticas: adaptação, mitigação e testemunhos -  com Marina Hirota  (IpES/UFSC),  Pablo Borges (GIZ, Alemanha) e Alann Yu Iwama (Universidad de los Lagos, Chile)
 
 
 **Módulo 3: Agroecologia e finanças - 16, 17, 18 e 25 de novembro**
-* **Dia 16/11** - Laboratório de planejamento financeiro 1: cadernetas agroecológicas  - com Renata Solto e Vanessa Schottz (GT Mulheres da Articulação de Agroecologia do RJ)
-* **Dia 17/11** - Laboratório de planejamento financeiro 2: cadernetas agroecológicas - com Renata Solto e Vanessa Schottz (GT Mulheres da Articulação de de Agroecologia do RJ)
-* **Dia 18/11** - Laboratório de ferramentas de finança: aprendendo a usar o programa Excel - Facilitacão a confirmar
-* **Dia 25/11** - Aula aberta: gestão e arranjos econômicos com a Cooperativa de Produção Agropecuária Nova Santa Rita - com Indiane Rubenich  (Coopan, RS) 
+* **Dia 16/11 (18:00 - 20:00h)** - Laboratório de planejamento financeiro 1: cadernetas agroecológicas  - com Renata Solto e Vanessa Schottz (GT Mulheres da Articulação de Agroecologia do RJ)
+* **Dia 17/11 (18:00 - 20:00h)** - Laboratório de planejamento financeiro 2: cadernetas agroecológicas - com Renata Solto e Vanessa Schottz (GT Mulheres da Articulação de de Agroecologia do RJ)
+* **Dia 18/11 (18:00 - 20:00h)** - Laboratório de ferramentas de finança: aprendendo a usar o programa Excel - Facilitacão a confirmar
+* **Dia 25/11 (18:00 - 20:00h)** - Aula aberta: gestão e arranjos econômicos com a Cooperativa de Produção Agropecuária Nova Santa Rita - com Indiane Rubenich  (Coopan, RS) 
 
 
 **Módulo 4: Arte e Comunicação - 22, 23 e 29 de novembro**
-* **Dia 22/11** - O olhar que muda o fazer: repertórios estéticos - com André Sandoval
-* **Dia 23/11** - Laboratório de práticas: criação de peças gráficas e presença nas redes sociais - com Karina Terra (Silo - Arte e Latitude Rural, RJ)
-* **Dia 29/11** - Laboratório de práticas: construção de narrativas com vídeo - com Mariane Duarte (Rede de Mulheres Negras do RJ)
+* **Dia 22/11 (17:30 - 19:30h)** - O olhar que muda o fazer: repertórios estéticos - com André Sandoval
+* **Dia 23/11 (18:00 - 20:00h)** - Laboratório de práticas: criação de peças gráficas e presença nas redes sociais - com Karina Terra (Silo - Arte e Latitude Rural, RJ)
+* **Dia 29/11 (17:30 - 19:30h)** - Laboratório de práticas: construção de narrativas com vídeo - com Mariane Duarte (Rede de Mulheres Negras do RJ)
 
-**Encerramento – 1º de dezembro**
+**Encerramento – 1º de dezembro (18:00 - 20:00h)**
   
 ---
 
@@ -67,6 +73,8 @@ Podem participar agricultoras/es,  produtoras/es de alimentos e prestadores de s
 * Regiões serranas dos biomas Cerrado e Caatinga, especificamente: Chapada da Ibiapaba (PI, CE), Planalto da Borborema (AL, RN, PE, PB), Serra das Confusões (PI),  Serra do Cipó (MG) e Alto Jequitinhonha, na Serra do Espinhaço (MG)
 
 A inclusão dessas regiões da Caatinga e do Cerrado está sendo proposta para que haja, durante o curso,  um intercâmbio entre produtoras/es com o objetivo de enriquecer seus repertórios referentes a mercado, cooperações e mudanças climáticas. 
+
+Garantimos vagas para pessoas negras, indígenas, de comunidades tradicionais,  mulheres, juventude, representantes de organizações/movimentos sociais do campo (MST, MPA etc). Além disso, parte das vagas serão destinadas a pessoas que já participaram do mapeamento do CaipiraTechLab.
 
 Serão oferecidas 20 vagas. O curso é gratuito e a inscrição é realizada por meio do [FORMULÁRIO DE INSCRIÇÃO](https://forms.gle/JqcXtWJX9oC9ciRS9){:target="_blank"}
 
