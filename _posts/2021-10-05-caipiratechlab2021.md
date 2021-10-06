@@ -35,7 +35,7 @@ Abaixo o cronograma:
 **Módulo 1: Construção Social de Mercados - 28 de outubro, 03 e 04 de novembro**
 * **Dia 28/10** - Estratégias de escoamento de produtos agroecológicos - com Gizelda Beserra (Pólo da Borborema, PB) e Ana Litardo (Assoc. Agroecológica de Teresópolis, RJ)
 * **Dia 03/11** - História e prática das políticas públicas para pequenos agricultores no Brasil - com Emilia Jomalinis (Centro de Referência em Soberania e Segurança Alimentar e Nutricional - Ceresan, RJ) 
-* **Dia 04/11** - Aula aberta:  novos mercados e compras coletivas - com Paula Guimarães (Cooperativa Camponesa Central de MG) e Rede de Mulheres Produtoras (a confirmar); mediação: Marcela Martins (Amerek/UFMG, MG)
+* **Dia 04/11** - Aula aberta:  novos mercados e compras coletivas - com Paula Guimarães (Cooperativa Camponesa Central de MG) e Rede de Mulheres Produtoras do Pajeú; mediação: Marcela Martins (Amerek/UFMG, MG)
 
 
 **Módulo 2: Agricultura e Mudanças Climáticas - 08 e 09 de novembro**
