@@ -106,6 +106,7 @@ No momento da inscrição via formulário a pessoa interessada pode optar por co
 
 
 **Responsabilidades e compromisso dos bolsistas**
+
 Requisitos:
 * Perenidade da produção agrícola (atividade permanente)
 * Mercado estabelecido (mínimo 1 ano) 
