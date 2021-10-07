@@ -40,7 +40,7 @@ Abaixo o cronograma:
 
 **Módulo 1: Construção Social de Mercados - 28 de outubro, 03 e 04 de novembro**
 * **Dia 28/10 (18:00 - 20:00h)** - Estratégias de escoamento de produtos agroecológicos - com Gizelda Beserra (Pólo da Borborema, PB) e Ana Litardo (Assoc. Agroecológica de Teresópolis, RJ)
-* **Dia 03/11 (18:00 - 20:00h)** - História e prática das políticas públicas para pequenos agricultores no Brasil - com Emilia Jomalinis (Centro de Referência em Soberania e Segurança Alimentar e Nutricional - Ceresan, RJ) 
+* **Dia 03/11 (18:00 - 20:00h)** - História e prática das políticas públicas para pequenos agricultores no Brasil - com Emilia Jomalinis (Pesquisadora associada do Centro de Referência em Soberania e Segurança Alimentar e Nutricional/UFRRJ, RJ) 
 * **Dia 04/11 (18:00 - 20:00h)** - Aula aberta:  novos mercados e compras coletivas - com Paula Guimarães (Cooperativa Camponesa Central de MG) e Apolônia da Silva (Rede de Mulheres Produtoras do Pajeú); mediação: Marcela Martins (Amerek/UFMG, MG)
 
 
@@ -57,7 +57,7 @@ Abaixo o cronograma:
 
 
 **Módulo 4: Arte e Comunicação - 22, 23 e 29 de novembro**
-* **Dia 22/11 (17:30 - 19:30h)** - O olhar que muda o fazer: repertórios estéticos - com André Sandoval
+* **Dia 22/11 (17:30 - 19:30h)** - O olhar que muda o fazer: repertórios estéticos - com Andrés Sandoval
 * **Dia 23/11 (18:00 - 20:00h)** - Laboratório de práticas: criação de peças gráficas e presença nas redes sociais - com Karina Terra (Silo - Arte e Latitude Rural, RJ)
 * **Dia 29/11 (17:30 - 19:30h)** - Laboratório de práticas: construção de narrativas com vídeo - com Mariane Duarte (Rede de Mulheres Negras do RJ)
 

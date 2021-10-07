@@ -12,6 +12,9 @@ O CaipiraTechLab colabora com o fortalecimento dos sistemas agroalimentares regi
 
 **Últimos atividades:**
 
+[![](/media/images/c21_cursolivre_banner.jpg)](https://silo.org.br/caipiratechlab2021/){:target="_blank"}
+
+
 [![](/media/images/caipiratechlab_cursos.png)](https://silo.org.br/caipiratechlab2020/){:target="_blank"}
   
   
