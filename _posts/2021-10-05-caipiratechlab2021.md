@@ -40,13 +40,13 @@ Abaixo o cronograma:
 
 **Módulo 1: Construção Social de Mercados - 28 de outubro, 03 e 04 de novembro**
 * **Dia 28/10 (18:00 - 20:00h)** - Estratégias de escoamento de produtos agroecológicos - com Gizelda Beserra (Pólo da Borborema, PB) e Ana Litardo (Assoc. Agroecológica de Teresópolis, RJ)
-* **Dia 03/11 (18:00 - 20:00h)** - História e prática das políticas públicas para pequenos agricultores no Brasil - com Emilia Jomalinis (Pesquisadora associada do Centro de Referência em Soberania e Segurança Alimentar e Nutricional/UFRRJ, RJ) 
-* **Dia 04/11 (18:00 - 20:00h)** - Aula aberta:  novos mercados e compras coletivas - com Paula Guimarães (Cooperativa Camponesa Central de MG) e Apolônia da Silva (Rede de Mulheres Produtoras do Pajeú); mediação: Marcela Martins (Amerek/UFMG, MG)
+* **Dia 03/11 (18:00 - 20:00h)** - História e prática das políticas públicas para pequenas/os agricultoras/es no Brasil - com Emilia Jomalinis (Pesquisadora associada do Centro de Referência em Soberania e Segurança Alimentar e Nutricional/UFRRJ, RJ) 
+* **Dia 04/11 (18:00 - 20:00h)** - Aula aberta:  novos mercados e compras coletivas - com Paula Guimarães (Cooperativa Camponesa Central de MG) e Apolônia da Silva (Rede de Mulheres Produtoras do Pajeú, PE); mediação: Marcela Martins (Amerek/UFMG, MG)
 
 
 **Módulo 2: Agricultura e Mudanças Climáticas - 08 e 09 de novembro**
-* **Dia 08/11 (17:30 - 19:30h)** - Ameaças e eventos extremos: introdução e testemunhos - com Marina Hirota  (IpES/UFSC), Pablo Borges (GIZ, Alemanha) e Alann Yu Iwama (Universidad de los Lagos, Chile)
-* **Dia 09/11 (18:00 - 20:00h)** - Laboratório de práticas: adaptação, mitigação e testemunhos -  com Marina Hirota  (IpES/UFSC),  Pablo Borges (GIZ, Alemanha) e Alann Yu Iwama (Universidad de los Lagos, Chile)
+* **Dia 08/11 (17:30 - 19:30h)** - Ameaças e eventos extremos: introdução e testemunhos - com Marina Hirota  (IpES/UFSC, SC), Pablo Borges (GIZ, Alemanha) e Alann Yu Iwama (Universidad de los Lagos, Chile)
+* **Dia 09/11 (18:00 - 20:00h)** - Laboratório de práticas: adaptação, mitigação e testemunhos -  com Marina Hirota  (IpES/UFSC, SC),  Pablo Borges (GIZ, Alemanha) e Alann Yu Iwama (Universidad de los Lagos, Chile)
 
 
 **Módulo 3: Agroecologia e finanças - 16, 17, 18 e 25 de novembro**
@@ -57,7 +57,7 @@ Abaixo o cronograma:
 
 
 **Módulo 4: Arte e Comunicação - 22, 23 e 29 de novembro**
-* **Dia 22/11 (17:30 - 19:30h)** - O olhar que muda o fazer: repertórios estéticos - com Andrés Sandoval
+* **Dia 22/11 (17:30 - 19:30h)** - O olhar que muda o fazer: repertórios estéticos - com Andrés Sandoval (SP)
 * **Dia 23/11 (18:00 - 20:00h)** - Laboratório de práticas: criação de peças gráficas e presença nas redes sociais - com Karina Terra (Silo - Arte e Latitude Rural, RJ)
 * **Dia 29/11 (17:30 - 19:30h)** - Laboratório de práticas: construção de narrativas com vídeo - com Mariane Duarte (Rede de Mulheres Negras do RJ)
 
@@ -67,7 +67,7 @@ Abaixo o cronograma:
 
 ## Quem pode participar? 
   
-Podem participar agricultoras/es,  produtoras/es de alimentos e prestadores de serviço (dentro do mercado de infraestrutura,  beneficiamento e escoamento); indivíduos e representantes de grupos, organizações, articulações e populações tradicionais (indígenas, quilombolas e outros) que compõem o sistema agroalimentar das seguintes regiões: 
+Podem participar agricultoras/es,  produtoras/es de alimentos e prestadoras/es de serviço (dentro do mercado de infraestrutura,  beneficiamento e escoamento); indivíduos e representantes de grupos, organizações, articulações e populações tradicionais (indígenas, quilombolas e outros) que compõem o sistema agroalimentar das seguintes regiões: 
 
 * Serra da Mantiqueira, Serra da Bocaina, Serra do Mar e Vale do Rio Paraíba (em Minas Gerais, Rio de Janeiro e São Paulo), para os quais serão destinados 75% das vagas; 
 * Regiões serranas dos biomas Cerrado e Caatinga, especificamente: Chapada da Ibiapaba (PI, CE), Planalto da Borborema (AL, RN, PE, PB), Serra das Confusões (PI),  Serra do Cipó (MG) e Alto Jequitinhonha, na Serra do Espinhaço (MG)
@@ -78,14 +78,14 @@ Garantimos vagas para pessoas negras, indígenas, de comunidades tradicionais,  
 
 Serão oferecidas 20 vagas. O curso é gratuito e a inscrição é realizada por meio do [FORMULÁRIO DE INSCRIÇÃO](https://forms.gle/JqcXtWJX9oC9ciRS9){:target="_blank"}
 
-Haverá emissão de certificado para os participantes.
+Haverá emissão de certificado para as/os participantes.
 
 ---
 
 ## Estruturas digitais e material didático
-O curso será integralmente ministrado na modalidade virtual, em videoconferências online na plataforma Zoom. A comunicação e partilha de materiais entre os participantes e equipe de organização acontecerá por meio de um grupo no Telegram e e-mail.
+O curso será integralmente ministrado na modalidade virtual, em videoconferências online na plataforma Zoom. A comunicação e partilha de materiais entre as/os participantes e equipe de organização acontecerá por meio de um grupo no Telegram e e-mail.
 
-Ao fim do curso, será disponibilizado material didático do conteúdo abordado, para dar suporte aos participantes na hora de replicarem os aprendizados junto aos seus grupos/organizações.
+Ao fim do curso, será disponibilizado material didático do conteúdo abordado, para dar suporte às/aos participantes na hora de replicarem os aprendizados junto aos seus grupos/organizações.
 
 Não deixe a internet ou a pouca familiaridade com ferramentas virtuais serem um empecilho à sua participação. Se houver necessidade, podemos fornecer orientações, antes do curso, para que todas e todos aprendam a utilizar as plataformas e estruturas necessárias! Basta sinalizar essa necessidade no campo “Informações complementares, dúvidas e comentários“ no formulário de inscrição.
 
