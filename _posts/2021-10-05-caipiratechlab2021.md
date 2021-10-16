@@ -52,7 +52,8 @@ Abaixo o cronograma:
 **Módulo 3: Agroecologia e finanças - 16, 17, 18 e 25 de novembro**
 * **Dia 16/11 (18:00 - 20:00h)** - Laboratório de planejamento financeiro 1: cadernetas agroecológicas  - com Renata Solto e Vanessa Schottz (GT Mulheres da Articulação de Agroecologia do RJ)
 * **Dia 17/11 (18:00 - 20:00h)** - Laboratório de planejamento financeiro 2: cadernetas agroecológicas - com Renata Solto e Vanessa Schottz (GT Mulheres da Articulação de de Agroecologia do RJ)
-* **Dia 18/11 (18:00 - 20:00h)** - Laboratório de ferramentas de finança: aprendendo a usar o programa Excel - Facilitacão a confirmar
+* **Dia 18/11 (18:00 - 20:00h)** - Laboratório de ferramentas de finança: aprendendo a usar o programa Excel - com Francinete Pereira 
+(CONAQ- Coordenação nacional de Articulação das Comunidades Negras Rurais Quilombolas, MA)
 * **Dia 25/11 (18:00 - 20:00h)** - Aula aberta: gestão e arranjos econômicos com a Cooperativa de Produção Agropecuária Nova Santa Rita - com Indiane Rubenich  (Coopan, RS) 
 
 
