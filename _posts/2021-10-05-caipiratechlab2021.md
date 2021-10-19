@@ -39,7 +39,7 @@ Abaixo o cronograma:
 **Encontro de abertura – 26 de outubro (18:00 - 20:00h)**
 
 **Módulo 1: Construção Social de Mercados - 28 de outubro, 03 e 04 de novembro**
-* **Dia 28/10 (18:00 - 20:00h)** - Estratégias de escoamento de produtos agroecológicos - com Gizelda Beserra (Pólo da Borborema, PB) e Ana Litardo (Assoc. Agroecológica de Teresópolis, RJ)
+* **Dia 28/10 (18:00 - 20:00h)** - Estratégias de escoamento de produtos agroecológicos - com Giselda Beserra (Pólo da Borborema, PB) e Ana Litardo (Assoc. Agroecológica de Teresópolis, RJ)
 * **Dia 03/11 (18:00 - 20:00h)** - História e prática das políticas públicas para pequenas/os agricultoras/es no Brasil - com Emilia Jomalinis (Pesquisadora associada do Centro de Referência em Soberania e Segurança Alimentar e Nutricional/UFRRJ, RJ) 
 * **Dia 04/11 (18:00 - 20:00h)** - Aula aberta:  novos mercados e compras coletivas - com Paula Guimarães (Cooperativa Camponesa Central de MG) e Apolônia da Silva (Rede de Mulheres Produtoras do Pajeú, PE); mediação: Marcela Martins (Amerek/UFMG, MG)
 
@@ -50,8 +50,8 @@ Abaixo o cronograma:
 
 
 **Módulo 3: Agroecologia e finanças - 16, 17, 18 e 25 de novembro**
-* **Dia 16/11 (18:00 - 20:00h)** - Laboratório de planejamento financeiro 1: cadernetas agroecológicas  - com Renata Solto e Vanessa Schottz (GT Mulheres da Articulação de Agroecologia do RJ)
-* **Dia 17/11 (18:00 - 20:00h)** - Laboratório de planejamento financeiro 2: cadernetas agroecológicas - com Renata Solto e Vanessa Schottz (GT Mulheres da Articulação de de Agroecologia do RJ)
+* **Dia 16/11 (18:00 - 20:00h)** - Laboratório de planejamento financeiro 1: cadernetas agroecológicas  - com Renata Souto e Vanessa Schottz (GT Mulheres da Articulação de Agroecologia do RJ)
+* **Dia 17/11 (18:00 - 20:00h)** - Laboratório de planejamento financeiro 2: cadernetas agroecológicas - com Renata Souto e Vanessa Schottz (GT Mulheres da Articulação de de Agroecologia do RJ)
 * **Dia 18/11 (18:00 - 20:00h)** - Laboratório de ferramentas de finança: aprendendo a usar o programa Excel - com Francinete Pereira 
 (CONAQ- Coordenação nacional de Articulação das Comunidades Negras Rurais Quilombolas, MA)
 * **Dia 25/11 (18:00 - 20:00h)** - Aula aberta: gestão e arranjos econômicos com a Cooperativa de Produção Agropecuária Nova Santa Rita - com Indiane Rubenich  (Coopan, RS) 
