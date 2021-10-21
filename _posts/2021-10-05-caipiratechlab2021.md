@@ -6,7 +6,7 @@ cover: media/images/cover28.jpg
 category:
   - silo
   - caipiratechlab
-  - callopen
+  - callclosed
 swipebox: c21_2o_cursolivre
 lang: pt
 ref: curso-livre_caipiratechlab-21
