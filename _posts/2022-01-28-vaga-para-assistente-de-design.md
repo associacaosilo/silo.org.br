@@ -37,7 +37,7 @@ Requisitos:
 
 Critérios de seleção:
 * Se encaixar no perfil da vaga;
-* Experiência;
+* Portifólio;
 * Critério de gênero;
 * Critério racial e fenótipo.
  
