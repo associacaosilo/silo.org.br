@@ -158,6 +158,11 @@ prose:
             - name: 'English'
               value: 'en'
     _pages/people:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Nome"
+          placeholder: "Nome e Sobrenome"
       - name: "link"
         field:
           element: "text"
