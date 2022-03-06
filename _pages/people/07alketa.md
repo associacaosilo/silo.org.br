@@ -1,7 +1,6 @@
 ---
 title: Alketa Bestaku
-link: 
-cover: media/images/people/pb_alketa.jpg
+cover: media/images/people/Alketa.bio.jpg
 category: equipe
 published: true
 ref: bio-alketa
