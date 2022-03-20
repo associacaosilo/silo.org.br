@@ -769,6 +769,32 @@ i.fa-1_5x {
   padding: 0px;
 }
 
+#sib-container input:-ms-input-placeholder {
+    text-align: left;
+    color: #ff0583;
+  }
+
+#sib-container input::placeholder {
+    text-align: left;
+    color: #ff0583;
+    border:0px !important;
+}
+
+
+.entry__field{
+    display: inline !important;
+}
+
+.entry__field .input{
+    border:0px !important;
+}
+
+
+.sib-input{
+    text-align:left !important;
+    color: black !important;
+}
+
 .popup-show {
     width: 400px;
 }
