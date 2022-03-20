@@ -62,7 +62,9 @@ a {
         margin: 0 auto;   
     }
     .content-text a {
-    text-decoration: none;
+        font: normal $TEXT-SIZE Font3;
+        font-weight: bold;
+        text-decoration: none;
     }
     .center{
         margin-top: 50px;
