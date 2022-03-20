@@ -6,4 +6,4 @@ published: true
 ref: bio-ana
 lang: pt
 ---
-**Coordenadora Financeira** Graduada em Administração de Empresas pela Universidade Federal Fluminense e MBA em Finanças Públicas pela UnyPublica. Atualmente é funcionária pública pelo Instituto de Previdência dos Servidores Públicos de Itatiaia, onde atua na Tesouraria e também é membro titular do Comitê de Investimentos. É integrante do grupo de Mulheres Negras de Resende e do Movimento Feminista das Agulhas Negras. Também é ativista em movimentos políticos, sociais e LGBTQIA+
+**Coordenadora Financeira** Ana Faustino é bacharel em Administração de Empresas pela Universidade Federal Fluminense e Pós graduada em Finanças Públicas pela UnyPublica. Atuou como servidora pública municipal durante 6 anos na área de Tesouraria e também foi membro titular do Comitê de Investimentos, além do serviços públicos, também já atuou na area financeira do setor privado em multinacionais.É integrante do grupo de Mulheres Negras de Resende e do Movimento Feminista das Agulhas Negras. Também é ativista em movimentos políticos, sociais e LGBTQIA+.
