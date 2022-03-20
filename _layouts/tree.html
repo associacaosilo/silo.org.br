@@ -12,7 +12,7 @@
         <br>     
         {% assign link = site.data.links | sort: 'index' %}
         {% for item in link %}
-        <a class="nav-call" style="text-decoration:none; color: white; background-color: {{ item.color }}" href="{{ item.url }}">{{ item.title }}</a>
+        <a class="nav-call" style="text-decoration:none; color: black; background-color: white" href="{{ item.url }}">{{ item.title }}</a>
         {% endfor %}
         <div class="center">
             {% include social-icons.html %}
