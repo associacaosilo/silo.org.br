@@ -1,6 +1,6 @@
 ---
 title: Juliana Oliveira
-cover: media/images/people/juliana_bio.jpg
+cover: media/images/people/juliana_bio2.jpg
 category: equipe
 published: true
 ref: bio-juliana
