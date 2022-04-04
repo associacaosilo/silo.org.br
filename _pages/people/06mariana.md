@@ -1,6 +1,6 @@
 ---
 title: Mariana Silveira Costa
-cover: media/images/people/Mariana_bio.jpg
+cover: media/images/people/Mariana_bio2.jpg
 category: equipe
 published: true
 ref: bio-mariana
