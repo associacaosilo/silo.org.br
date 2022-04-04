@@ -1,6 +1,6 @@
 ---
 title: Lila Almendra
-cover: media/images/people/Lila_bio.jpg
+cover: media/images/people/Lila_bio2.jpg
 category: equipe
 published: true
 ref: bio-lila
