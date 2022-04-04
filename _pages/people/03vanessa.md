@@ -1,6 +1,6 @@
 ---
 title: Vanessa Lucena
-cover: media/images/people/vanessa_bio.jpg
+cover: media/images/people/vanessa_bio2.jpg
 category: associadas
 published: true
 ref: bio-vanessa
