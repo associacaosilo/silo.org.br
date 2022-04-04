@@ -6,7 +6,4 @@ published: true
 ref: bio-vanessa
 lang: pt
 ---
-Relações públicas por amor e formação, Vanessa é esperta em fazer conexões de saberes e pessoas.  
-Mulher, mãe, lésbica, antirracista e feminista, atua como mobilizadora de recursos do Fundo ELAS em busca de parcerias para o fortalecimento dos direitos das mulheres e pessoas trans no Brasil.
-Construiu sua carreira de mais de 15 anos no terceiro setor nas áreas de planejamento estratégico, governança, comunicação de causa e relacionamento. 
-Participou com orgulho da concepção da Silo e atua voluntariamente em projetos geridos por mulheres nos temas de comunicação e planejamento.
+Relações públicas por amor e formação, Vanessa é esperta em fazer conexões de saberes e pessoas. Mulher, mãe, lésbica, antirracista e feminista atua no terceiro setor há quase 20 anos e atualmente está como coordenadora executiva da Associação Bem-Te-Vi Diversidade, organização que promove os direitos humanos no Brasil por meio de apoio a projetos socioambientais, de cultura, saúde e educação. Construiu sua carreira vivenciando e se especializando em temas como: filantropia para justiça social, mobilização de recursos, planejamento estratégico, governança, comunicação de causa e relacionamento. É, com muito orgulho, associada fundadora da Silo e atua voluntariamente apoiando organizações geridas por mulheres na construção de projetos e busca por recursos.
