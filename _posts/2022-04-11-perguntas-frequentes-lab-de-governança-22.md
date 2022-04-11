@@ -8,7 +8,7 @@ category:
   - interactivos
   - laboratorios
 swipebox:
-lang: portugues
+lang: pt
 ref: opencallfaq
 ---
 
