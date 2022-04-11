@@ -5,7 +5,7 @@ title: 'Perguntas Frequentes - Laboratório de Governança'
 cover: media/images/cover28.jpg
 category:
   - silo
-  - labs
+  - laboratorios
 swipebox:
 lang: 
 ref: opencallfaq
