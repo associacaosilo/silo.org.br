@@ -11,7 +11,7 @@ ref: lab-governança-call
 ---
 
 
-![https://silo.org.br/labs/](/media/images/Banner_projetos_portugues.png)
+![https://silo.org.br/labs/](/media/images/Banner_projetos_portugues.jpg)
 
 <br>
 
