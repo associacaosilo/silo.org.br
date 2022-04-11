@@ -13,6 +13,10 @@ ref: opencallfaq
 
 <br>
 
+## Perguntas Frequentes 
+
+<br>
+
 **Quem pode se inscrever?**<br>
 Esta chamada é voltada para coletividades. Organizações da sociedade civil,  associações, empresas, coletivos, governo, secretarias, escolas, plataformas, cooperativas, grupos autogeridos, grupos identitários ou ativistas e etc.   
 
@@ -57,3 +61,4 @@ Sim.
 **Sobre o COVID-19**:
 Após a seleção, a Silo - Arte e Latitude Rural disponibilizará um protocolo de segurança sanitária que deverá ser seguido para que as/os participantes possam viajar e permanecer em nossas instalações com segurança, mitigando os riscos de transmissão da Covid 19. Será solicitada a carteira de vacinação com o esquema vacinal completo.
 
+![https://silo.org.br/labs/](/media/images/Banner_form.png)
