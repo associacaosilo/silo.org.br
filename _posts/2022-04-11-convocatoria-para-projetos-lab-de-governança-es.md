@@ -23,7 +23,7 @@ ref: lab-governança-call-es
 
 Hasta el día **01 de mayo de 2022**, instituciones, redes y colectivos de diferentes áreas de actuación pueden aplicar sus propuestas. Las instituciones, proyectos o grupos seleccionados recibirán transporte, hospedaje, alimentación y mentorías de expertos, además de la participación de colaboradoras/es para el desarrollo de sus ideas.
 
-Preguntas frecuentes
+[Preguntas frecuentes](https:silo.org.br/2022-04-11-preguntas-frecuentes-lab-en-gobernancia-22-es)
 
 **Para aplicar** accede al [formulario aquí](https://docs.google.com/forms/d/e/1FAIpQLSek8yyqfEI3HOkudqMOa12vyadddq8F0tInVki2yQ8uVmsBkw/viewform?pli=1).
 
