@@ -14,7 +14,7 @@ ref: lab-governança-call-es
 
 <br>
 
-![https://silo.org.br/en/labs/](/media/images/Banner_projetos_espanhol.png)
+![https://silo.org.br/en/labs/](/media/images/Banner_projetos_espanhol.jpg)
 
 ## Silo – Arte y Latitud Rural presenta:
 
