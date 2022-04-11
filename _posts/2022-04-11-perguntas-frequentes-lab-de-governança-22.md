@@ -13,6 +13,10 @@ ref: opencallfaq
 
 <br>
 
+![https://silo.org.br/labs/](/media/images/Banner_Perg_Freq_laranja.png)
+
+<br>
+
 ## Perguntas Frequentes 
 
 <br>
