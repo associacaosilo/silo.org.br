@@ -15,7 +15,7 @@ ref: lab-governança-call
 
 <br>
 
-Convocatoria en español
+[Convocatoria en español](https://silo.org.br/convocatoria-para-projetos-lab-de-governan%C3%A7a-es/){:target="_blank"}
 
 <br>
 
@@ -27,29 +27,36 @@ Convocatoria en español
 
 **Até o dia  01 de maio de 2022**, instituições, redes e coletivos de diferentes áreas de atuação podem inscrever propostas. As instituições, projetos ou grupos selecionados receberão transporte, hospedagem, alimentação e contarão com mentoria de especialistas, além da participação de colaboradoras/es para o desenvolvimento de suas ideias.
 
-[Acesse aqui](https://silo.org.br/perguntas-frequentes-resilience-2021/){:target="_blank"} a página com respostas às **perguntas mais frequentes**. 
+[Acesse aqui](https://silo.org.br/perguntas-frequentes-lab-de-governan%C3%A7a-22/){:target="_blank"} a página com respostas às **perguntas mais frequentes**. 
 
-**Inscreva-se** através deste [formulário](https://docs.google.com/forms/d/e/1FAIpQLSek8yyqfEI3HOkudqMOa12vyadddq8F0tInVki2yQ8uVmsBkw/viewform?pli=1).
+**Inscreva-se** através deste [formulário](https://docs.google.com/forms/d/e/1FAIpQLSek8yyqfEI3HOkudqMOa12vyadddq8F0tInVki2yQ8uVmsBkw/viewform?pli=1){:target="_blank"}.
 
 **Contato**: contato@silo.org.br
  
  <br> 
  
- ## Contexto 
+## Contexto 
  
- E se pudéssemos ajudar a desenhar a maneira como organizações, coletivos e redes da sociedade, tomam decisões e a executam? Como habitar e governar? Como não separar o lugar das decisões do lugar da execução? Como fazer para compensar mecanismos de poder? O que acontece para que as estruturas de governança possam ser radicalmente horizontais e abertas a escuta? Como incluir nisso todos os seres (humanos e não humanos)? 
+E se pudéssemos ajudar a desenhar a maneira como organizações, coletivos e redes da sociedade, tomam decisões e a executam? Como não separar o lugar das decisões do lugar da execução? O que acontece para que os modos de governança possam ser radicalmente horizontais e abertas a escuta? Como incluir nisso todos os seres (humanos e não humanos)? 
+
 
 O Lab de Governança deseja unir pessoas e instituições (coletivos, redes, projetos) da **América Latina para experimentar e criar novas formas de governança** colaborando para a tarefa interminável de como aprender a **viver juntas**. Atento aos problemas que enfrentamos diante dos impactos da pandemia da COVID–19, da crise democrática, da crise econômica, da perda de direitos, dos constantes retrocessos no Brasil e no mundo, da crise climática e da necessidade de cultivar o cuidado, o Lab busca apoiar o desenvolvimento de ideias e proposições a novas maneiras de governança que sejam capazes de alimentar o vigor das instituições e dos projetos para o atravessamento de crises e a renovação da perseverança de suas ações e impactos. **Queremos abrir espaço para pensar e imaginar outras possibilidades de organização, formas mais participativas e menos distantes de nossos cotidianos**. 
 
+
 O Lab de experimentação e inovação tem por objetivo desenvolver um processo de trabalho com equipes transdisciplinares que resulte na inovação e em possíveis soluções para a melhoria dos diferentes modos de governança. **Tais inovações visam a sustentabilidade e a saúde de pessoas, instituições e de projetos** diante de um novo cenário mundial pós pandemia, **atendendo demandas atuais inegociáveis** como diretrizes de mitigação e adaptação a partir dos efeitos da **mudança climática** e ações efetivas em prol da diversidade**.
 
-De caráter multidisciplinar, o laboratório é caracterizado pelo encontro de culturas, saberes e gerações. Ele promove o diálogo entre os conhecimentos populares, ancestrais, a ciência e as novas tecnologias e quer promover também o intercâmbio entre diferentes modos de fazer e pensar governança.
-
-Serão lançadas duas chamadas, uma para projetos - os proponentes podem ser: organizações da sociedade civil,  associações, empresas, coletivos, governo, secretarias, conselhos, escolas, plataformas, cooperativas, grupos autogeridos, grupos identitários e etc - e outra para colaboradoras/es que podem ser externos ou internos à instituição, grupo ou projeto selecionado. A ideia é que as equipes de trabalho sejam mistas. 
 
 Este laboratório quer ajudar a pensar e a concretizar diversos jeitos de fazer governança: **governança do bem comum, de uma plataforma virtual, de um mecanismo, um dispositivo, de uma cooperativa, de um projeto, de uma associação comunitária, de uma organização, de uma secretaria, de uma escola, de uma comunidade cultural, de um grupo ativista, de uma ocupação, de um coletivo autogerido, de orçamentos participativos ou fundos coletivos, de redes e articulações** por exemplo, que atuem em qualquer área do conhecimento. 
 
+
+De caráter multidisciplinar, o laboratório é caracterizado pelo encontro de culturas, saberes e gerações. Ele promove o diálogo entre os conhecimentos populares, ancestrais, a ciência e as novas tecnologias e quer promover também o intercâmbio entre diferentes modos de fazer e pensar governança.
+
+
+Serão lançadas duas chamadas, uma para projetos - os proponentes podem ser: organizações da sociedade civil,  associações, empresas, coletivos, governo, secretarias, conselhos, escolas, plataformas, cooperativas, grupos autogeridos, grupos identitários e etc - e outra para colaboradoras/es que podem ser externos ou internos à instituição, grupo ou projeto selecionado. A ideia é que as equipes de trabalho sejam mistas. 
+
+
 O Lab é um **evento imersivo presencial** que reunirá - entre proponentes, colaboradoras/es e mentoras/es - pessoas interessadas na colaboração, na formação de redes, no aprendizado e no desenvolvimento de projetos. Ele acontece **na sede da Silo**, em uma comunidade rural - Serrinha do Alambari -  localizada na Serra da Mantiqueira.
+
 
 A partir das propostas desenvolvidas será elaborado um **Caderno de Novas Ideias em Governança** que será disponibilizado para todas as pessoas e instituições interessadas dentro da lógica de conhecimento aberto, visando a ampla circulação e o acesso irrestrito ao material desenvolvido no laboratório.
  
