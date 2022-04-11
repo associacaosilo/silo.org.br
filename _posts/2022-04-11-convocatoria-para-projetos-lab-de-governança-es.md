@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: 'CONVOCATÓRIA INTERNACIONAL: Laboratorio de Experimentación y Innovación en Gobernancia'
+title: 'Convocatória abierta | Laboratorio en Gobernancia'
 cover: media/images/cover28.jpg
 category:
   - silo
@@ -31,7 +31,7 @@ Preguntas frecuentes
  
  <br> 
  
- ## Contexto
+## Contexto
  
  ¿Y si pudiésemos ayudar a diseñar la manera como organizaciones, colectivos y redes de la sociedad toman dicciones y las conducen? ¿Cómo habitar y gobernar? ¿Cómo no separar el lugar de las decisiones del lugar de ejecución? ¿Cómo hacer para compensar mecanismos del poder? ¿Qué ocurre para que las estructuras de gobernancia pueden ser radicalmente horizontales y abiertas a la escucha? ¿Cómo incluir en eso a todos los seres (humanos y no humanos)?
 
