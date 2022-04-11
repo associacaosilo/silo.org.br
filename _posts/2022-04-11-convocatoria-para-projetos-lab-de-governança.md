@@ -35,7 +35,7 @@ Convocatoria en español
  
  <br> 
  
- ## Contexto
+ ## Contexto 
  
  E se pudéssemos ajudar a desenhar a maneira como organizações, coletivos e redes da sociedade, tomam decisões e a executam? Como habitar e governar? Como não separar o lugar das decisões do lugar da execução? Como fazer para compensar mecanismos de poder? O que acontece para que as estruturas de governança possam ser radicalmente horizontais e abertas a escuta? Como incluir nisso todos os seres (humanos e não humanos)? 
 
