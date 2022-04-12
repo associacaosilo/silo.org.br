@@ -89,3 +89,9 @@ Após a seleção, a Silo - Arte e Latitude Rural disponibilizará um protocolo 
 
 
  <br> 
+
+## A identidade visual
+Esta identidade visual foi realizada pela artista Karina Duarte tendo como referência os diagramas do artista Ricardo Basbaum.
+
+
+<br>
