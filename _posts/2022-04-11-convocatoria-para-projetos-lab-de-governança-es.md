@@ -23,9 +23,9 @@ ref: lab-governança-call-es
 
 Hasta el día **01 de mayo de 2022**, instituciones, redes y colectivos de diferentes áreas de actuación pueden aplicar sus propuestas. Las instituciones, proyectos o grupos seleccionados recibirán transporte, hospedaje, alimentación y mentorías de expertos, además de la participación de colaboradoras/es para el desarrollo de sus ideas.
 
-[Preguntas frecuentes](https:silo.org.br/2022-04-11-preguntas-frecuentes-lab-en-gobernancia-22-es)
+[Preguntas frecuentes](https:silo.org.br/preguntas-frecuentes-lab-en-gobernancia-22-es/){:target="_blank"}
 
-**Para aplicar** accede al [formulario aquí](https://docs.google.com/forms/d/e/1FAIpQLSek8yyqfEI3HOkudqMOa12vyadddq8F0tInVki2yQ8uVmsBkw/viewform?pli=1).
+**Para aplicar** accede al [formulario aquí](https://docs.google.com/forms/d/e/1FAIpQLSek8yyqfEI3HOkudqMOa12vyadddq8F0tInVki2yQ8uVmsBkw/viewform?pli=1){:target="_blank"}.
 
 **Contacto**: contato@silo.org.br
  
@@ -62,3 +62,9 @@ El **Lab de Gobernancia** se sucederá en la Serrinha do Alambari que integra un
 ## COVID-19
 Después de la selección, Silo - Arte e Latitude Rural proporcionará un protocolo de seguridad sanitaria que deberá seguirse para que los participantes puedan viajar y permanecer en nuestras instalaciones de manera segura, mitigando los riesgos de transmisión de Covid 19. Se solicitará carné de vacunación con el calendario de vacunación completo.
 
+
+## La identidad visual
+Esta identidad visual fue creada por la artista Karina Duarte con referencia a los diagramas del artista Ricardo Basbaum.
+
+
+<br>
