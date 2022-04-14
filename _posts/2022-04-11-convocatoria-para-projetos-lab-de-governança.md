@@ -20,9 +20,7 @@ ref: lab-governança-call
 
 <br>
 
-## A SILO - ARTE E LATITUDE RURAL apresenta:
-
-**Laboratório de Experimentação e Inovação em Governança** onde serão selecionadas 5 propostas vindas de diversas áreas do conhecimento (agricultura, arte, cultura, educação, ciências, tecnologia, meio ambiente, entre outras) para serem desenvolvidas com o aporte de colaboradoras/es e mentoras/es na sede da SILO **de 29 de maio a 12 de junho** de 2022. 
+A Silo - Arte E Latitude Rural apresenta o **Laboratório de Experimentação e Inovação em Governança**, onde serão selecionadas 5 propostas vindas de diversas áreas do conhecimento (agricultura, arte, cultura, educação, ciências, tecnologia, meio ambiente, entre outras) para serem desenvolvidas com o aporte de colaboradoras/es e mentoras/es na sede da SILO **de 29 de maio a 12 de junho** de 2022. 
 
 <br>
 
