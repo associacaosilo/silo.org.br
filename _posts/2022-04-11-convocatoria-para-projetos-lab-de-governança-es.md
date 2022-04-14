@@ -16,10 +16,7 @@ ref: lab-governança-call-es
 
 ![https://silo.org.br/en/labs/](/media/images/Banner_projetos_espanhol.jpg)
 
-# Silo – Arte y Latitud Rural presenta:
-
- 
-**Laboratorio de Experimentación y Innovación en Gobernanza** donde serán seleccionadas 5 propuestas de distintas áreas del conocimiento (agricultura, arte, cultura, educación, tecnología, medio ambiente, entre otras) para que sean desarrolladas con el aporte de colaboradoras/es y mentores/as en un laboratorio rural con localización en Serrinha do Alambari – RJ, desde **29 de mayo a 12 de junio de 2022**.
+Silo – Arte y Latitud Rural presenta el **Laboratorio de Experimentación y Innovación en Gobernanza**, donde serán seleccionadas 5 propuestas de distintas áreas del conocimiento (agricultura, arte, cultura, educación, tecnología, medio ambiente, entre otras) para que sean desarrolladas con el aporte de colaboradoras/es y mentores/as en un laboratorio rural con localización en Serrinha do Alambari – RJ, desde **29 de mayo a 12 de junio de 2022**.
 
 Hasta el día **01 de mayo de 2022**, instituciones, redes y colectivos de diferentes áreas de actuación pueden aplicar sus propuestas. Las instituciones, proyectos o grupos seleccionados recibirán transporte, hospedaje, alimentación y mentorías de expertos, además de la participación de colaboradoras/es para el desarrollo de sus ideas.
 
