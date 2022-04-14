@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: 'Preguntas Frecuentes - Laboratorio en Gobernancia'
+title: 'Preguntas Frecuentes - Laboratorio en Gobernanza'
 cover: media/images/cover28.jpg
 category:
   - silo
@@ -15,7 +15,7 @@ ref: opencallfaq
 <br>
 
 **¿Quién puede aplicar?**<br>
-Esta convocatoria está dirigida a colectivos. Organizaciones de la sociedad civil, asociaciones, empresas, colectivos, gobierno, secretarías, escuelas, plataformas, cooperativas, grupos autogestionarios, grupos identitarios o activistas, etc.
+Esta convocatoria está dirigida a colectivos, organizaciones de la sociedad civil, asociaciones, empresas, colectivos, gobierno, secretarías, escuelas, plataformas, cooperativas, grupos autogestionarios, grupos identitarios o activistas, etc.
 
 
 **¿Hay alguna restricción en la edad de los candidatos?**<br>
