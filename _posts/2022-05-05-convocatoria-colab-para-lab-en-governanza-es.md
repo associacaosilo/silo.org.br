@@ -34,9 +34,11 @@ Dudas o problemas con el formulario, contáctenos por correo electrónico: **con
 
 ## CONVOCATÓRIA INTERNACIONAL PARA COLABORADORAS E COLABORADORES
 
-Para participar en el Laboratorio de Gobernanza como colaboradores, externos o internos a la institución o propuesta seleccionada, lea sobre las propuestas seleccionadas a continuación, elija con cuál desea colaborar e inscríbase.
+Para participar en el Laboratorio de Gobernanza como colaboradores, externos o internos a la institución o propuesta seleccionada, **lea sobre las propuestas seleccionadas a continuación, elija con cuál desea colaborar e inscríbase**.
 
-# REESTRUCTURACIÓN DE LA FEDERACIÓN DE AGRITURISMO CON  “ACOLHIDA DA COLONIA”
+<br>
+
+## REESTRUCTURACIÓN DE LA FEDERACIÓN DE AGRITURISMO CON  “ACOLHIDA DA COLONIA”
 
 “ACOLHIDA DA COLÔNIA” - San José, Santa Catarina, Brasil
 
@@ -46,7 +48,7 @@ Acolhida da Colônia es una organización de agricultores familiares que hace m�
 
 Abogados/técnicos o personas con experiencia jurídica especializada en Organizaciones No Gubernamentales, personas con experiencia en estructuras organizativas del tercer sector, educadores, artistas, diseñadores, personas con experiencia en metodologías participativas y personas que quieran colaborar de alguna manera.
 
-# PROCESOS SOMÁTICOS DE GOBERNANZA
+## PROCESOS SOMÁTICOS DE GOBERNANZA
 
 FORO REGIONAL DE POLÍTICAS CULTURALES EN EL MEDIO PARAÍBA FLUMINENSE - Resende, RJ
 
@@ -56,7 +58,7 @@ Compuesto por los 12 municipios de la región del Médio Paraíba Fluminense, el
 
 Artistas (involucrados o no) en gestión pública o colectiva, especialistas en accesibilidad, productores culturales, abogados especialistas en políticas públicas para la cultura, especialistas en comunicación, diseñadores, personas que quieran colaborar de alguna manera.
 
-# JARDÍN ECOPEDAGÓGICO AGROFORESTAL
+## JARDÍN ECOPEDAGÓGICO AGROFORESTAL
 
 CENTRO DE FORMACIÓN PROFESIONAL MUNICIPAL DE IPOJUCA - Ipojuca, Pernambuco
 
@@ -66,7 +68,7 @@ El Centro Municipal de Educación Profesional de Ipojuca – CEMEP es el organis
 
 Expertos y expertas en los Objetivos de Desarrollo Sostenible, profesionales con experiencia en agroecología, profesionales con experiencia en comunidades quilombolas, gestores y participantes en procesos educativos, artistas, comunicadores, diseñadores, personas que quieran colaborar de alguna manera.
 
-# CONECTANDO LA GOBERNANZA PARA PROMOVER LA JUSTICIA CLIMÁTICA
+## CONECTANDO LA GOBERNANZA PARA PROMOVER LA JUSTICIA CLIMÁTICA
 
 SARAMBUÍ - BRAGANÇA, Pará
 
@@ -76,7 +78,7 @@ La Asociación para el Desarrollo Social y la Conservación de los Ambientes de 
 
 Ilustradoras y diseñadoras con interés por el medio ambiente, periodistas y comunicadoras, expertas en políticas públicas y relaciones internacionales interesadas en la justicia climática y las comunidades tradicionales, desarrolladoras y programadoras, sociólogos, artistas, miembros de comunidades tradicionales, personas interesadas en colaborar de alguna manera.
 
-# FLORISTIC
+## FLORISTIC
 
 RIZOMA - São Paulo-SP
 
@@ -86,7 +88,7 @@ En la era de la Web3 y la descentralización digital, ¿cómo abordaremos la inf
 
 Profesionales de la educación y la comunicación interesados ​​en el aprendizaje descentralizado; Desarrolladores con experiencia/interés en Blockchain y Web3; artistas; Gestor de proyectos y/o UX; Redactor/escritor de UX; economistas y profesionales de las finanzas; diseñadores; personas interesadas en colaborar con el proyecto.
 
-# PLATAFORMA LATINO AMERICANA DE GOBERNANZA
+## PLATAFORMA LATINO AMERICANA DE GOBERNANZA
 
 VIOLETAS LATINO AMERICANAS - São José, Costa Rica
 
@@ -96,7 +98,7 @@ La colectiva Violetas Latino Americanas surge con mujeres migrantes latinoameric
 
 Personas que estén interesadas en el mapeo de la gobernanza, que cuenten con experiencias en colectivas, comunidades o el activismo desde diferentes ejes. Antropólogas, sociólogas, o personas que trabajen con comunidades y proyectos sociales. Personas con conocimiento de programación, diseño de experiencia de usuario, creación de páginas web, diseño gráfico, sistemas de información geográfica, ilustradoras, artistas. Cualquier persona con interés de colaborar en la creación de la plataforma, documentación de experiencias o mapeo comunitario. 
 
-# TÁCTICAS DEL GOCE
+## TÁCTICAS DEL GOCE
 
 LABORATORIO EXPERIMENTAL DE CINE - Cidade do México, México
 
@@ -114,7 +116,7 @@ A los colaboradores del laboratorio se les ofrece: alojamiento, alimentación; a
 
 **¿Quieres saber más sobre el Laboratorio de Experimentación e Innovación en Gobernanza?**
 
-# CONTEXTO
+## CONTEXTO
 
 ¿Y si pudiésemos ayudar a diseñar la manera como organizaciones, colectivos y redes de la sociedad toman dicciones y las conducen? ¿Cómo habitar y gobernar? ¿Cómo no separar el lugar de las decisiones del lugar de ejecución? ¿Cómo hacer para compensar mecanismos del poder? ¿Qué ocurre para que las estructuras de gobernancia pueden ser radicalmente horizontales y abiertas a la escucha? ¿Cómo incluir en eso a todos los seres (humanos y no humanos)? El Lab de Gobernancia desea unir personas e instituciones (colectivos, redes, proyectos) de America Latina para experimentar y crear nuevas formas de gobernancia colaborando para la tarea interminable de cómo aprender a vivir juntas. Atento a los problemas que enfrentamos delante de los impactos de la pandemia de COVID-19, de la crisis democrática, de la crisis económica, de la pérdida de derechos, de los constantes retrocesos en Brasil y mundo, de la crisis climática y de la necesidad de cultivar el cuidado, el Lab busca apoyar el desarrollo de ideas y proposiciones a nuevas maneras de gobernancia que sean capaces de alimentar el vigor de las instituciones y de los proyectos para el atravesamiento de crisis y la renovación de la perseverancia de sus acciones e impactos. Queremos abrir espacio para pensar e imaginar otras posibilidades de organización, formas más participativas y menos lejanas de nuestros cotidianos.
 
@@ -122,24 +124,24 @@ El Lab de experimentación e innovación tiene por objetivo desarrollar un proce
 
 El Lab es un evento inmersivo presencial que va unir – entre proponentes, colaboradoras/es y mentoras/es – personas interesadas en la colaboración, en la formación de redes, en el aprendizaje y en el desarrollo de proyectos. Se sucederá en la sede de Silo, en una comunidad rural – Serrinha do Alambari – situada en la Sierra de la Mantiqueira. Como resultado queremos preparar un Cuaderno de Nuevas Ideas en Governancia que estará disponible para todas las personas e instituciones interesadas dentro de la lógica del conocimiento abierto, buscando la amplia circulación y el acceso irrestricto a lo material desarrollado en laboratorio.
 
-#METODOLOGIA
+## METODOLOGIA
 
 Esta metodología de trabajo pretende ser una plataforma de investigación, producción y aprendizaje colectiva delante de los proyectos seleccionados. Serán seleccionados 5 propuestas de América Latina para ser desarrolladas en grupos multidisciplinares formados por la autora/autor/autores y por colaboradoras/es, con el asesoramiento de mentoras/es con el objetivo de monitorear los experimentos en gobernancia, enfocado en el uso de metodologías y en la documentación criteriosa de los proyectos. La convocatoria destinada a las colaboradoras se lanzará poco después de la selección de los proyectos.
 Uno de los objetivos fundamentales del programa es fomentar el desarrollo, la difusión y el libre acceso a las redes de colaboración y conocimiento. El laboratorio de experimentación e innovación es un ambiente de creación de prototipos que propicia la creación de una red articulada de personas y comunidades interesadas en la colaboración para que se pueda avanzar en el debate de las prácticas de gobernancia en el ámbito regional, nacional y global. 
 
-# La identidad visual
+## La identidad visual
 
 Esta identidad visual fue creada por la artista Karina Duarte con referencia a los diagramas del artista Ricardo Basbaum.
 
-# COVID 19
+## COVID 19
 
 Después de la selección, Silo - Arte e Latitude Rural proporcionará un protocolo de seguridad sanitaria que deberá seguirse para que los participantes puedan viajar y permanecer en nuestras instalaciones de manera segura, mitigando los riesgos de transmisión de Covid 19. Se solicitará carné de vacunación con el calendario de vacunación completo.
 
-# HISTÓRICO
+## HISTÓRICO
 
 El equipo de Silo viene trabajando con esa metodología en los últimos 12 años. El modelo de trabajo de este programa está basado en la metodología desarrollada por el MediaLab-Matadero en el diálogo con nosotros y con otras organizaciones latinoamericanas. El Lab propone un modelo interactivo de aprendizaje que supera la típica dinámica jerárquica establecida en las figuras maestra/o y alumna/o y propone la creación colectiva y el uso de herramientas libres, en un ambiente en que las/os participantes puedan tanto aprender como enseñar.
 
-# EL SITIO
+## EL SITIO
 
 El **Lab de Gobernancia** se sucederá en la Serrinha do Alambari que integra una Área de Protección Ambiental (APA), localizada en la ciudad de Resende (RJ), en la sección este del Parque Nacional de Itatiaia, Sierra de la Mantiqueira.
 
