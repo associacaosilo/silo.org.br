@@ -16,7 +16,7 @@ ref: lab-governança-call
 
 <br>
 
-[Convocatoria en español](https://silo.org.br/convocatoria-para-projetos-lab-de-governan%C3%A7a-es/){:target="_blank"}
+[Convocatoria en español](https://silo.org.br/convocatoria-para-proyectos-lab-de-governanca-es/){:target="_blank"}
 
 <br>
 
