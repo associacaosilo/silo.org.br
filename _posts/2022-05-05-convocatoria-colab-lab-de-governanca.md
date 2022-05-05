@@ -16,7 +16,7 @@ ref: lab-governança-colabs-call
 
 ![https://silo.org.br/en/labs/](/media/images/Banner_colab_portugues.jpg)
 
-[Convocatoria en español](https://silo.org.br/preguntas-frecuentes-lab-en-gobernancia-22-es/){:target="_blank"}
+[Convocatoria en español](https://silo.org.br/convocatoria-colab-para-lab-en-governanza-es/){:target="_blank"}
 
 A SILO - ARTE E LATITUDE RURAL apresenta o **Laboratório de Experimentação e Inovação em Governança** onde foram selecionadas **7 propostas latinoamericanas** vindas de diversas áreas do conhecimento (agricultura, arte, cultura, educação, ciências, tecnologia, meio ambiente, entre outras) para serem desenvolvidas com o aporte de colaboradoras/es e mentoras/es na sede da SILO de **29 de maio a 12 de junho de 2022**. 
 **Até o dia 18 de maio**, convidamos para a apresentação de candidaturas para colaboradoras/es aquelas/es que desejam participar diretamente da criação e do desenvolvimento dos projetos selecionados, atuando e tomando decisões junto a uma equipe de trabalho.
