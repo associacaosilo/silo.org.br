@@ -62,7 +62,7 @@ CENTRO DE FORMACIÓN PROFESIONAL MUNICIPAL DE IPOJUCA - Ipojuca, Pernambuco
 
 El Centro Municipal de Educación Profesional de Ipojuca – CEMEP es el organismo ejecutor del Programa Municipal de Educación y Calificación Profesional, coordinado por la Secretaría Municipal de Educación, y tiene como objetivo ofrecer cursos para mejorar la escolaridad y preparación profesional, promoviendo el vínculo entre cualificación, saber, técnica, ciencia, mundo del trabajo y de la producción. El Proyecto Huerto Ecopedagógico Agroforestal tiene como objetivo articular y preparar a la comunidad escolar y a los diferentes segmentos de la sociedad para la implementación de un espacio socioeducativo en la Escuela Municipal Nossa Senhora das Mercês, ubicada en una comunidad quilombola remanente en la zona rural de el municipio de Ipojuca, Litoral Sur de Pernambuco, que sirve como laboratorio viviente, rescatando valores sociales, culturales, ambientales, la conexión de los seres vivos humanos y no humanos y atiende a los Objetivos de Desarrollo Sostenible.
 
-*Perfil Colaboradoras/es*:
+**Perfil Colaboradoras/es**:
 
 Expertos y expertas en los Objetivos de Desarrollo Sostenible, profesionales con experiencia en agroecología, profesionales con experiencia en comunidades quilombolas, gestores y participantes en procesos educativos, artistas, comunicadores, diseñadores, personas que quieran colaborar de alguna manera.
 
@@ -74,7 +74,7 @@ La Asociación para el Desarrollo Social y la Conservación de los Ambientes de 
 
 **Perfil Colaboradoras/es**:
 
-Ilustradoras y diseñadoras con interés por el medio ambiente, periodistas y comunicadoras, expertas en políticas públicas y relaciones internacionales interesadas ​​en la justicia climática y las comunidades tradicionales, desarrolladoras y programadoras, sociólogos, artistas, miembros de comunidades tradicionales, personas interesadas en colaborar de alguna manera.
+Ilustradoras y diseñadoras con interés por el medio ambiente, periodistas y comunicadoras, expertas en políticas públicas y relaciones internacionales interesadas en la justicia climática y las comunidades tradicionales, desarrolladoras y programadoras, sociólogos, artistas, miembros de comunidades tradicionales, personas interesadas en colaborar de alguna manera.
 
 # FLORISTIC
 
