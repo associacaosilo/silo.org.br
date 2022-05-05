@@ -29,16 +29,18 @@ Confira abaixo os projetos que serão desenvolvidos.
 
 Dúvidas ou problemas com o formulário, **entre em contato** por email: contato@silo.org.br
 
-**[Perguntas frequentes]**(https://silo.org.br/preguntas-frecuentes-lab-en-gobernancia-22-es/){:target="_blank"}
+[Perguntas frequentes](https://silo.org.br/preguntas-frecuentes-lab-en-gobernancia-22-es/){:target="_blank"}
 
-# CONVOCATÓRIA INTERNACIONAL PARA COLABORADORAS E COLABORADORES 
+<br>
+
+## CONVOCATÓRIA INTERNACIONAL PARA COLABORADORAS E COLABORADORES 
 
 Para participar do Lab de Governança como colaboradoras/es - externas/os ou internas/os à instituição ou proposta selecionada, **leia sobre as propostas selecionadas abaixo, escolha com qual deseja colaborar e inscreva-se**! 
 
 
 ## REESTRUTURAÇÃO DA FEDERAÇÃO DE AGROTURISMO ACOLHIDA NA COLÔNIA
 
-ACOLHIDA DA COLÔNIA| São José, SC
+ACOLHIDA DA COLÔNIA - São José, SC
 
 Acolhida na Colônia é uma organização de agricultores familiares que a mais de 20 anos vem atuando no desenvolvimento do agroturismo ecológico e da agroecologia, como instrumentos de desenvolvimento rural sustentável e valorização da agricultura familiar. A organização nasceu no território das Encostas da Serra Geral (SC) e vem crescendo desde então para outros territórios. Todavia, se por um lado, a ampliação da Acolhida na Colônia vem beneficiando um maior número de famílias (120 aproximadamente), por outro complexificou o sistema organizativo, hoje constituído em oito associações regionais e uma Federação Catarinense das Associações de Agroturismo Acolhida na Colônia. O projeto submetido ao Silo tem como objetivo, desenhar uma nova forma de organização da Acolhida na Colônia, que seja mais leve e orgânica, menos custosa do ponto de vista financeiro e garanta uma participação efetiva e prazerosa dos membros que a constituem.
 
@@ -48,7 +50,7 @@ Advogadas/técnicas ou pessoas com experiência jurídica especializadas em Orga
 
 ## PROCESSOS SOMÁTICOS DE GOVERNANÇA
 
-FÓRUM REGIONAL DE POLÍTICAS CULTURAIS DO MÉDIO PARAÍBA FLUMINENSE | Resende, RJ
+FÓRUM REGIONAL DE POLÍTICAS CULTURAIS DO MÉDIO PARAÍBA FLUMINENSE - Resende, RJ
 
 Composto pelos 12 municípios da região do Médio Paraíba Fluminense, o Fórum atua proporcionando diálogo entre os gestores públicos da cultura, ampliando sua valorização, promovendo uma descentralização na gestão e nas ações, buscando também estimular a participação pública da sociedade. A atual proposta visa realizar uma pesquisa focada no desenvolvimento de processos somáticos de governança, onde o corpo é instrumento, fonte e ponto de partida para a geração de novas soluções, questões e ornamentos a partir do nosso fazer artístico para um projeto de governança encarnado e sensível. O entendimento somático e a noção de tensegridade são os dois eixos dos quais partimos na busca por uma governança horizontal, participativa e inclusiva.Quem governa dirige com o todo. Propomos para este laboratório a busca de questões pelo sentido, pela forma e pelo movimento, na intenção de acessar com maior potência os processos de comunicação. Representamos instituições de governança voltada a políticas públicas para a cultura, e acreditamos que as relações que se constroem nessas instituições devem espelhar o que elas representam, ou seja, o processo de governança de cultura precisa se basear no fazer cultural. 
  
@@ -58,7 +60,7 @@ Artistas (envolvidos ou não) em gestão pública ou de coletivos, especialistas
 
 ## JARDIM ECOPEDAGÓGICO AGROFLORESTAL
 
-CENTRO MUNICIPAL DE EDUCAÇÃO PROFISSIONAL DO IPOJUCA| Ipojuca, PE
+CENTRO MUNICIPAL DE EDUCAÇÃO PROFISSIONAL DO IPOJUCA - Ipojuca, PE
 
 O Centro Municipal de Educação Profissional do Ipojuca – CEMEP é o órgão executor do Programa Municipal de Educação e Qualificação Profissional, coordenado pela Secretaria Municipal de Educação e tem entre suas finalidades ofertar cursos de elevação de escolaridade e preparação profissional, promovendo o vínculo entre qualificação, conhecimento, técnica, ciência, mundo do trabalho e da produção. O Projeto Jardim Ecopedagógico Agroflorestal tem como objetivo articular e preparar a comunidade escolar e os diferentes segmentos da sociedade para a implementação de um espaço socioeducativo na Escola Municipal Nossa Senhora das Mercês, localizada em uma comunidade remanescente de quilombo na área rural do município do Ipojuca, Litoral Sul de Pernambuco, que sirva como laboratório vivo, resgatando os valores sociais ,culturais, ambientais, a conexão dos seres vivos humanos e não humanos e atenda aos Objetivos do Desenvolvimento Sustentável. 
 
@@ -68,7 +70,7 @@ Conhecedores e especialistas nos Objetivos de Desenvolvimento Sustentável, prof
 
 ## CONECTANDO A GOVERNANÇA PARA PROMOVER JUSTIÇA CLIMÁTICA
 
-SARAMBUÍ| BRAGANÇA, PA
+SARAMBUÍ - BRAGANÇA, PA
 
 A Associação para o Desenvolvimento Social e Conservação dos Ambientes da Costa Amazônica - Sarambuí é uma organização estuarino costeira que tem como objetivo a execução de atividades de educação urbana e rural (de crianças, jovens e adultos), atividades ambientais, socioambientais, de vigilância epidemiológica e ambiental em saúde a partir da perspectiva do desenvolvimento ambiental solidário e sustentável. Considerando a falta de incentivos para cumprir com as diretrizes da Política Nacional sobre Mudança do Clima - PNMC,  a disseminação e a democratização do acesso à informação climática (climate literacy) é o primeiro passo para promover a participação cidadã ativa para que posteriormente possam ter atuação na proposta de políticas públicas. Nesse sentido, o projeto propõe validar um marco conceitual (framework) para fortalecer a justiça climática com base na tríade ciência cidadã-educomunicação-conectando experiências, utilizando uma metodologia educomunicativa a partir de uma Campanha virtual “Embaixadores Climáticos” para a sensibilização climática, dos ODS, Década do Oceano, Ano Internacional da Pesca Artesanal e da Aquicultura (IYAFA 2022) e a Agenda 2030. 
 
@@ -78,7 +80,7 @@ Ilustradores e designers com interesse na área ambiental, jornalistas e comunic
 
 ## FLORISTIC
 
-RHIZOM| São Paulo, SP
+RHIZOM - São Paulo, SP
 
 Na era da Web3 e da descentralização digital, como lidaremos com informação e aprendizagem? A empresa Rhizom é um ecossistema para economia digital sustentável, que busca no Lab de Governança um ponto de encontro na evolução desse experimento. Queremos construir juntos “Floristic” como um bem público digital. Floristic é uma plataforma de Learntech em e para governança descentralizada. Permite jornadas de aprendizagem através de curadoria colaborativa e incentivos, integrados diretamente ao cotidiano e operações das organizações, estimulando a documentação, colaboração e criatividade. Baseia-se na Web3 e em blockchain para incorporar valores como descentralização e transparência diretamente na arquitetura tecnológica, sendo otimizada para organizações de impacto social, regeneração ambiental e bens públicos digitais. A visão de Floristic é ser um experimento aberto de plataforma como cooperativa digital que fomenta a interconexão de organizações através de práticas como a de polinização cruzada, tornando-se um bem público digital. 
 
@@ -88,7 +90,7 @@ Profissionais das áreas de educação e comunicação interessados em aprendiza
 
 ## PLATAFORMA LATINOAMERICANA DE GOBERNANZA
 
-VIOLETAS LATINO AMERICANAS| São José, Costa Rica
+VIOLETAS LATINO AMERICANAS - São José, Costa Rica
 
 O coletivo Violetas Latino Americanas surge com mulheres migrantes latino-americanas, que compartilham os mesmos problemas mesmo em contextos diferentes. O objetivo do coletivo é criar espaços seguros de reflexão e diálogo feminista em contextos periféricos, por meio de aprendizagem comunitária e horizontal. A Plataforma Latino-Americana de Governança propõe a documentação e registro de experiências de governança de comunidades, sociedade civil, academia e ativismo, que podem ser propostas de melhoria social, proteção de ecossistemas, desenvolvimento rural e comunitário, luta por direitos sexuais e reprodutivos. A plataforma reunirá as histórias com o objetivo de mobilizar e tornar visíveis essas experiências, ser fonte de informação sobre propostas de governança, limitações e problemas, desafios da colaboração governamental e tornar visível a luta latino-americana. A documentação das experiências permitirá a socialização da informação, a criação de alianças e a ampliação de redes dentro da luta comum na América Latina.
 
@@ -98,7 +100,7 @@ Pessoas interessadas no mapeamento de governança, que tenham experiências em c
 
 ## TÁCTICAS DEL GOCE (TÁTICAS LÚDICAS PARA GOVERNANÇA) 
 
-LABORATÓRIO EXPERIMENTAL DE CINE| Cidade do México, México
+LABORATÓRIO EXPERIMENTAL DE CINE - Cidade do México, México
 
 O Laboratório Experimental de Cine (LEC) é uma associação civil sem fins lucrativos dedicada à criação, curadoria e divulgação do cinema experimental e periférico desde 2013. A partir da colaboração, promove a imagem em movimento e sua relação com outros formatos artísticos para criar um cinema que expanda e desafie os limites da linguagem audiovisual convencional. A partir do LEC propomos modelos de governança para grupos artísticos ou qualquer forma de organização criativa, resultado da intersecção de conhecimentos sobre festivais tradicionais no México, Brasil e América Latina, no intuito de desencadear processos horizontais, colaborativos, diversos e inclusivos, concebido a partir do gozo, do jogo e de outras expressões lúdicas, artísticas, artesanais e rituais. Como resultado, queremos gerar um protótipo replicável e de acesso aberto que atenda as comunidades artísticas e criativas como forma de organização, tomada de decisão coletiva e vínculo com a sociedade e o meio ambiente. Entendemos o comum como um espaço para tecer laços com a comunidade, pertencimento e solidariedade, expressões universais que, neste caso, focalizamos conceitos, práticas e modos de vida adotados pelos povos indígenas e afrodescendentes da América Latina.
 
@@ -111,6 +113,9 @@ Antropólogas especializadas em festivais e rituais em comunidades latino-americ
 É oferecido as/os colaboradoras do laboratório: hospedagem, alimentação; ambiente de trabalho com ferramentas e conexão à internet; espaços coletivos para reuniões e descanso; mentorias especializadas; materiais para o desenvolvimento das propostas e equipamentos.
 
 **Quer saber mais sobre o Lab de Experimentação e Inovação em Governança?** 
+
+<br> 
+
 
 ## CONTEXTO
 
@@ -139,6 +144,10 @@ Após a seleção, a Silo - Arte e Latitude Rural disponibilizará um protocolo 
 
 A equipe da Silo vem trabalhando com essa metodologia nos últimos 12 anos. O modelo de trabalho deste programa se baseia na metodologia desenvolvida pelo MediaLab-Matadero em diálogo conosco e com outras organizações latinoamericanas. O lab propõe um modelo interativo de aprendizagem que supera a típica dinâmica hierárquica estabelecida nas figuras professora/or e aluna/o e propõe a criação coletiva e o uso de ferramentas livres, em um ambiente em que as/os participantes podem tanto aprender como ensinar. 
 
-# O LOCAL
+## O LOCAL
 
 O **Lab de Governança** acontecerá na Serrinha do Alambari que integra uma Área de Proteção Ambiental (APA), situada no município de Resende (RJ), na encosta leste do Parque Nacional de Itatiaia, Serra da Mantiqueira.
+
+## A identidade visual
+
+Esta identidade visual foi realizada pela artista Karina Duarte tendo como referência os diagramas do artista Ricardo Basbaum.
