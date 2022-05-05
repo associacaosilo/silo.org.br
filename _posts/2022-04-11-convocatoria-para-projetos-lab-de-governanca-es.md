@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: 'Llamada para proyectos | Laboratorio en Gobernancia'
+title: 'Convocatoria para proyectos | Laboratorio en Gobernanza'
 cover: media/images/cover28.jpg
 category:
   - silo
