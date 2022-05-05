@@ -29,7 +29,7 @@ Confira abaixo os projetos que serão desenvolvidos.
 
 Dúvidas ou problemas com o formulário, **entre em contato** por email: contato@silo.org.br
 
-[Perguntas frequentes](https://silo.org.br/preguntas-frecuentes-lab-en-gobernancia-22-es/){:target="_blank"}
+[Perguntas frequentes](https://silo.org.br/perguntas-frequentes-lab-de-governan%C3%A7a-22/){:target="_blank"}
 
 <br>
 
