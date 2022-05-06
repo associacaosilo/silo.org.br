@@ -46,7 +46,7 @@ Acolhida da Colônia es una organización de agricultores familiares que hace m�
 
 **Perfil Colaboradoras/es**:
 
-Abogados/técnicos o personas con experiencia jurídica especializada en Organizaciones No Gubernamentales, personas con experiencia en estructuras organizativas del tercer sector, educadores, artistas, diseñadores, personas con experiencia en metodologías participativas y personas que quieran colaborar de alguna manera.
+Abogados/técnicos o personas con experiencia jurídica especializada en Organizaciones No Gubernamentales, personas con experiencia en estructuras organizativas del tercer sector, educadores, artistas, diseñadores, editoras, escritoras, personas con experiencia en metodologías participativas y personas que quieran colaborar de alguna manera.
 
 ## PROCESOS SOMÁTICOS DE GOBERNANZA
 
@@ -56,7 +56,7 @@ Compuesto por los 12 municipios de la región del Médio Paraíba Fluminense, el
 
 **Perfil Colaboradoras/es**:
 
-Artistas (involucrados o no) en gestión pública o colectiva, especialistas en accesibilidad, productores culturales, abogados especialistas en políticas públicas para la cultura, especialistas en comunicación, diseñadores, personas que quieran colaborar de alguna manera.
+Artistas (involucrados o no) en gestión pública o colectiva, especialistas en accesibilidad, productores culturales, abogados especialistas en políticas públicas para la cultura, editoras, escritoras, especialistas en comunicación, diseñadores, personas que quieran colaborar de alguna manera.
 
 ## JARDÍN ECOPEDAGÓGICO AGROFORESTAL
 
@@ -66,7 +66,7 @@ El Centro Municipal de Educación Profesional de Ipojuca – CEMEP es el organis
 
 **Perfil Colaboradoras/es**:
 
-Expertos y expertas en los Objetivos de Desarrollo Sostenible, profesionales con experiencia en agroecología, profesionales con experiencia en comunidades quilombolas, gestores y participantes en procesos educativos, artistas, comunicadores, diseñadores, personas que quieran colaborar de alguna manera.
+Expertos y expertas en los Objetivos de Desarrollo Sostenible, profesionales con experiencia en agroecología, editoras, escritoras, profesionales con experiencia en comunidades quilombolas, gestores y participantes en procesos educativos, artistas, comunicadores, diseñadores, personas que quieran colaborar de alguna manera.
 
 ## CONECTANDO LA GOBERNANZA PARA PROMOVER LA JUSTICIA CLIMÁTICA
 
@@ -76,17 +76,17 @@ La Asociación para el Desarrollo Social y la Conservación de los Ambientes de 
 
 **Perfil Colaboradoras/es**:
 
-Ilustradoras y diseñadoras con interés por el medio ambiente, periodistas y comunicadoras, expertas en políticas públicas y relaciones internacionales interesadas en la justicia climática y las comunidades tradicionales, desarrolladoras y programadoras, sociólogos, artistas, miembros de comunidades tradicionales, personas interesadas en colaborar de alguna manera.
+Ilustradoras y diseñadoras con interés por el medio ambiente, periodistas y comunicadoras, expertas en políticas públicas y relaciones internacionales interesadas en la justicia climática y las comunidades tradicionales, desarrolladoras y programadoras, sociólogos, editoras, escritoras, artistas, miembros de comunidades tradicionales, personas interesadas en colaborar de alguna manera.
 
 ## FLORISTIC
 
-RIZOMA - São Paulo-SP
+RIZOM - São Paulo-SP
 
 En la era de la Web3 y la descentralización digital, ¿cómo abordaremos la información y el aprendizaje? La empresa Rhizom es un ecosistema para la economía digital sostenible, que busca en el Lab de Gobernanza un punto de encuentro en la evolución de este experimento. Queremos construir juntos “Floristic” como bien público digital. Floristic es una plataforma Learntech en y para la gobernanza descentralizada. Permite viajes de aprendizaje a través de curaduría e incentivos colaborativos, integrados directamente en la vida diaria y las operaciones de las organizaciones, fomentando la documentación, la colaboración y la creatividad. Se basa en Web3 y blockchain para incorporar valores como la descentralización y la transparencia directamente en la arquitectura tecnológica, siendo optimizado para organizaciones de impacto social, regeneración ambiental y bienes públicos digitales. La visión de Floristic es ser un experimento de plataforma abierta como cooperativa digital que fomente la interconexión de organizaciones a través de prácticas como la polinización cruzada, convirtiéndose en un bien público digital.
 
 **Perfil Colaboradoras/es**:
 
-Profesionales de la educación y la comunicación interesados ​​en el aprendizaje descentralizado; Desarrolladores con experiencia/interés en Blockchain y Web3; artistas; Gestor de proyectos y/o UX; Redactor/escritor de UX; economistas y profesionales de las finanzas; diseñadores; personas interesadas en colaborar con el proyecto.
+Profesionales de la educación y la comunicación interesados ​​en el aprendizaje descentralizado; Desarrolladores con experiencia/interés en Blockchain y Web3; artistas; Gestor de proyectos y/o UX; Redactor/escritor de UX; editoras, escritoras, economistas y profesionales de las finanzas; diseñadores; personas interesadas en colaborar con el proyecto.
 
 ## PLATAFORMA LATINO AMERICANA DE GOBERNANZA
 
@@ -96,7 +96,7 @@ La colectiva Violetas Latino Americanas surge con mujeres migrantes latinoameric
 
 **Perfil Colaboradoras/es**:
 
-Personas que estén interesadas en el mapeo de la gobernanza, que cuenten con experiencias en colectivas, comunidades o el activismo desde diferentes ejes. Antropólogas, sociólogas, o personas que trabajen con comunidades y proyectos sociales. Personas con conocimiento de programación, diseño de experiencia de usuario, creación de páginas web, diseño gráfico, sistemas de información geográfica, ilustradoras, artistas. Cualquier persona con interés de colaborar en la creación de la plataforma, documentación de experiencias o mapeo comunitario. 
+Personas que estén interesadas en el mapeo de la gobernanza, que cuenten con experiencias en colectivas, comunidades o el activismo desde diferentes ejes. Antropólogas, sociólogas, o personas que trabajen con comunidades y proyectos sociales. Personas con conocimiento de programación, diseño de experiencia de usuario, creación de páginas web, diseño gráfico, sistemas de información geográfica, editoras, escritoras, ilustradoras, artistas. Cualquier persona con interés de colaborar en la creación de la plataforma, documentación de experiencias o mapeo comunitario. 
 
 ## TÁCTICAS DEL GOCE
 
@@ -106,7 +106,7 @@ El Laboratorio es una associación civil sin fines de lucro dedicada a la creaci
 
 **Perfil Colaboradoras/es**:
 
-Antropólogos especializados en fiestas y rituales en comunidades de América Latina. Artistas, artistas audiovisuales o cineastas con experiencia en trabajo comunitario o colaborativo. Mediadores artísticos o culturales con interés en trabajar con personas de diferentes edades de comunidades rurales.Designers. Personas que tienen interés en ayudar con el proyecto.
+Antropólogos especializados en fiestas y rituales en comunidades de América Latina. Artistas, artistas audiovisuales o cineastas con experiencia en trabajo comunitario o colaborativo. Mediadores artísticos o culturales con interés en trabajar con personas de diferentes edades de comunidades rurales.Designers, editoras, escritoras. Personas que tienen interés en ayudar con el proyecto.
 
 <br>
 
