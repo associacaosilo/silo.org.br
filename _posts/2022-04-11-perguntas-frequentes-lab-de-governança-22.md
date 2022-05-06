@@ -64,7 +64,7 @@ Não! É totalmente gratuito.
 
 
 **Quando posso me inscrever para colaborador/a?**<br>
-As inscrições para colaboradoras/es estarão abertas do dia 09 ao 22 de maio.
+As inscrições para colaboradoras/es estarão abertas do dia 05 ao 18 de maio.
 
 
 **Como escolher qual projeto colaborar?**<br>
