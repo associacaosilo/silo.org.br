@@ -70,7 +70,7 @@ Conhecedores e especialistas nos Objetivos de Desenvolvimento Sustentável, prof
 
 ## CONECTANDO A GOVERNANÇA PARA PROMOVER JUSTIÇA CLIMÁTICA
 
-SARAMBUÍ - BRAGANÇA, PA
+SARAMBUÍ E LABORATÓRIO DE ECOLOGIA DE MANGUEZAL (LAMA) - BRAGANÇA, PA
 
 A Associação para o Desenvolvimento Social e Conservação dos Ambientes da Costa Amazônica - Sarambuí é uma organização estuarino costeira que tem como objetivo a execução de atividades de educação urbana e rural (de crianças, jovens e adultos), atividades ambientais, socioambientais, de vigilância epidemiológica e ambiental em saúde a partir da perspectiva do desenvolvimento ambiental solidário e sustentável. Considerando a falta de incentivos para cumprir com as diretrizes da Política Nacional sobre Mudança do Clima - PNMC,  a disseminação e a democratização do acesso à informação climática (climate literacy) é o primeiro passo para promover a participação cidadã ativa para que posteriormente possam ter atuação na proposta de políticas públicas. Nesse sentido, o projeto propõe validar um marco conceitual (framework) para fortalecer a justiça climática com base na tríade ciência cidadã-educomunicação-conectando experiências, utilizando uma metodologia educomunicativa a partir de uma Campanha virtual “Embaixadores Climáticos” para a sensibilização climática, dos ODS, Década do Oceano, Ano Internacional da Pesca Artesanal e da Aquicultura (IYAFA 2022) e a Agenda 2030. 
 
