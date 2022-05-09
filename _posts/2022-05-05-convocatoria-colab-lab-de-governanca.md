@@ -90,6 +90,8 @@ Ilustradores e designers com interesse na área ambiental, jornalistas e comunic
 
 RHIZOM - São Paulo, SP
 
+![]({{site.baseurl}}/media/images/photo1652125064.jpeg)
+
 Na era da Web3 e da descentralização digital, como lidaremos com informação e aprendizagem? A empresa Rhizom é um ecossistema para economia digital sustentável, que busca no Lab de Governança um ponto de encontro na evolução desse experimento. **Queremos construir juntos “Floristic” como um bem público digital. Floristic é uma plataforma de Learntech em e para governança descentralizada. Permite jornadas de aprendizagem através de curadoria colaborativa e incentivos, integrados diretamente ao cotidiano e operações das organizações, estimulando a documentação, colaboração e criatividade.** Baseia-se na Web3 e em blockchain para incorporar valores como descentralização e transparência diretamente na arquitetura tecnológica, sendo otimizada para organizações de impacto social, regeneração ambiental e bens públicos digitais. **A visão de Floristic é ser um experimento aberto de plataforma como cooperativa digital que fomenta a interconexão de organizações através de práticas como a de polinização cruzada, tornando-se um bem público digital.** 
 
 **Perfil Colaboradoras/es**:
