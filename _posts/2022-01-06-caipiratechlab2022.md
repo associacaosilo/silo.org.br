@@ -40,7 +40,7 @@ Abaixo o cronograma:
 **Encontro de abertura – 03 de julho (16:00 - 17:00h)**
 
 **Módulo 1: FINANÇAS E ORGANIZAÇÃO EM REDE -  04, 05, 06 e 16 de julho**
-* **REMOTO Dia 04/07 (segunda 16:00 - 18:00h)** - Experiência com as Cadernetas Agroecológicas - com Beth Cardoso (Centro de Tecnologias Alternativas - CTA e Articulação NAcional de Agroecologia - ANA)
+* **REMOTO Dia 04/07 (segunda 16:00 - 18:00h)** - Cadernetas Agroecológicas - com Beth Cardoso (Centro de Tecnologias Alternativas - CTA e Articulação NAcional de Agroecologia - ANA)
 * **REMOTO Dia 05/07 (terça 16:00 - 18:00h)** - Fundos Rotativos Solidários, experiências e repertórios - com Luciano Silveira  (AS-PTA - Agricultura Familiar e Agroecologia) 
 * **LIVE Dia 06/07 (quarta 16:00 - 18:00h)** - **Aula aberta pelo YouTube**: Associativismo e  acesso a políticas públicas para redes, coletivos e cooperativas, experiências e repertórios - com Gildene Soares Carvalho (Unicafes - União Nacional das Cooperativas de Agricultura Familiar e Economia Solidária), mediação: Marcela Martins (Amerek/UFMG, MG)
 * **PRESENCIAL Dia 16/07 (sábado 9:00 - 11:00h)** - Laboratório de prática (encontro presencial) - Ferramentas de finanças: Excel na prática  - com Ana Faustino (Coordenadora de Finanças da Silo - Arte e Latitude Rural)
@@ -52,13 +52,13 @@ Abaixo o cronograma:
 
 
 **Módulo 3: Arte e Comunicação - 16, 18 e 19 de julho**
-* **PRESENCIAL Dia 16/07 (sábado 13:00 - 17:00h)** - Laboratório de Práticas (encontro presencial) - Cerâmica experimental, - com Gisele Ferreira (Serrinha do Alambari)
-* **REMOTO Dia 18/07 (segunda 16:00 - 18:00h)** - Edição de vídeos - com (a confirmar)
+* **PRESENCIAL Dia 16/07 (sábado 13:00 - 17:00h)** - Laboratório de Práticas (encontro presencial) - Cerâmica experimental, - com Gisele Ferreira (RJ)
+* **REMOTO Dia 18/07 (segunda 16:00 - 18:00h)** - Produção e edição de vídeos para as redes sociais - com Déborah Minardi (DF)
 * **REMOTO Dia 19/07 (terça 16:00 - 18:00h)** - Ferramentas e técnicas de comunicação com clientes e uso das redes - com Paulo Lemos (Lano-Alto fazenda experimental que rende experiências, eventos e produtos sobre a vida rural & seus saberes)
 
 **Encerramento on-line – 20 de julho (quarta 16:00 - 17:00h)**
 
-**ENCONTRO DE ENCERRAMENTO PRESENCIAL - 23 de julho (sábado 8:00 - 17:00h)**
+**Encontro de Encerramento Presencial - 23 de julho (sábado 8:00 - 17:00h)  - Laboratório de Práticas: Carimbos e Embalagens, repertórios estéticos - com Andrés Sandoval (SP)**
   
 ---
 
@@ -66,14 +66,14 @@ Abaixo o cronograma:
 
 Podem participar agricultoras/es, produtoras/es de alimentos e prestadoras/es de serviço (dentro do mercado de infraestrutura, beneficiamento e escoamento); indivíduos e representantes de grupos, organizações, articulações e populações tradicionais (indígenas, quilombolas e outros) em especial a/os que foram mapeadas/os no programa e que compõem o sistema agroalimentar das seguintes regiões:
 
-* Serra da Mantiqueira, Serra da Bocaina, Serra do Mar e Vale do Paraíba (em Minas Gerais, Rio de Janeiro e São Paulo), para os quais serão destinados 75% das vagas (Participação on-line e presencial);
+* Serra da Mantiqueira, Serra da Bocaina, Serra do Mar e Vale do Paraíba (em Minas Gerais, Rio de Janeiro e São Paulo), para os quais serão destinados 80% das vagas (Participação on-line e presencial);
 * Regiões serranas dos biomas Cerrado e Caatinga, especificamente: Chapada da Ibiapaba (PI, CE), Planalto da Borborema (AL, RN, PE, PB), Serra das Confusões (PI), Serra do Cipó (MG) e Alto Jequitinhonha, na Serra do Espinhaço (MG) (Participação apenas on-line).
 
 Obs.: A inclusão dessas regiões da Caatinga e do Cerrado está sendo proposta para que haja, durante o curso na modalidade on-line, um intercâmbio entre produtoras/es com o objetivo de enriquecer seus repertórios referentes a mercado, cooperações e mudanças climáticas.
 
 Garantimos vagas para pessoas negras, indígenas, de comunidades tradicionais, mulheres, juventude, representantes de organizações/movimentos sociais do campo (MST, MPA etc). Além disso, parte das vagas serão destinadas a pessoas que já participaram do mapeamento do CaipiratechLAB.
 
-Serão oferecidas de **15 a 20 vagas**. O curso é gratuito e a inscrição é realizada por meio do [FORMULÁRIO DE INSCRIÇÃO](https://forms.gle/px8cP5qScRDirNS36){:target="_blank"} 
+Serão oferecidas um total de **15 vagas**. O curso é **gratuito** e a inscrição é realizada por meio do [FORMULÁRIO DE INSCRIÇÃO](https://forms.gle/px8cP5qScRDirNS36){:target="_blank"} 
 
 Haverá emissão de certificado para as/os participantes que tiverem ao menos 75% de presença.
 
@@ -100,7 +100,7 @@ Oferecemos uma bolsa (parcela única) no valor de R$ 1.000,00 de suporte à part
 Entraremos em contato pontualmente, aproximadamente a cada 3 meses, esperando saber: se foi possível replicar os aprendizados do curso, se encontrou pessoas e grupos interessados nos recursos aprendidos, se houve e quais foram as mudanças significativas percebidas na organização (social, financeira e produtiva) do grupo.
 
 **Como requerer a bolsa?** 
-No momento da inscrição via formulário a pessoa interessada pode optar por concorrer a bolsa ou não. As/os candidatas/os à bolsa serão selecionadas/os de acordo com critérios pré estabelecidos na convocatória. No total, serão oferecidas 8 bolsas.
+No momento da inscrição via formulário a pessoa interessada pode optar por concorrer a bolsa ou não. As/os candidatas/os à bolsa serão selecionadas/os de acordo com critérios pré estabelecidos na convocatória. No total, serão oferecidas 5 bolsas.
 
 **Requisitos, responsabilidades e compromisso da/os bolsistas**
 
@@ -132,23 +132,8 @@ _*caso tenha restrição para participar em algum dos dias, um outro membro do s
 
 ## Apresentação do programa
 
-CaipiraTechLab é um programa da Silo - Arte e Latitude Rural que tem por objetivo colaborar com o fortalecimento dos sistemas alimentares territoriais orientados pela agroecologia, fortalecendo a perenidade da produção e os circuitos curtos de distribuição de alimentos saudáveis, sustentáveis e justos.
+CaipiratechLAB é um programa da Silo Arte e Latitude Rural que colabora com o **fortalecimento dos sistemas agroalimentares regionais e sua expressão cultural** por meio de mapeamento, cursos e desenvolvimento de tecnologia que convergem na plataforma multifuncional baseada em princípios do cooperativismo.
 
 
-Sistemas alimentares envolvem todos os processos relacionados à alimentação. A maneira como nos organizamos para produzir, processar, distribuir, comercializar e consumir alimentos tem profundo impacto na saúde das pessoas e do ambiente - podemos nos guiar por uma ética de solidariedade, cuidado e respeito ou, ao contrário, reforçar o individualismo e a deterioração das condições de vida na Terra. 
+Esse projeto está sendo realizado com o apoio de **Porticus, Cal e Ford Foundation**.
 
-Sistemas alimentares também expressam cultura e valor. A valorização de grupos tradicionais e camponeses é uma forma de prevenir a degradação da diversidade das culturas alimentares e incidir sobre a distribuição da riqueza nos circuitos de produção e consumo.
-
-Os efeitos sociais da pandemia, especialmente a fome e insegurança alimentar e nutricional, demonstram a dimensão estratégica das formas participativas de organização que apoiem a democratização do acesso a comida de verdade e sem agrotóxicos, a redução do consumo de alimentos ultraprocessados, a constituição de circuitos curtos de distribuição e de instrumentos alternativos de regulação política e institucional.
-
-O programa se materializa por meio de três frentes:
-
-* Mapeamento e campanha de divulgação para conhecer quem são as produtoras e os produtores rurais das regiões Serra da Mantiqueira, Vale do Paraíba, Serra da Bocaina e Serra do Mar - Conheça nossa campanha de incentivo aos alimentos produzidos em nossa região acessando nosso site e nossas redes sociais na internet! 
-[https://www.instagram.com/silo.arte.e.latitude.rural ](https://www.instagram.com/silo.arte.e.latitude.rural ){:target="_blank"}
-
-* Cursos livres oferecidos gratuitamente, e que são desenhados especialmente para as agricultoras/es dessas regiões;
-
-* Criação de uma plataforma virtual colaborativa.
- 
- 
-Esse projeto está sendo realizado com o apoio do **Instituto Ibirapitanga** e da **Ford Foundation**.
