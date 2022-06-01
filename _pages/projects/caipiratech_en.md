@@ -12,6 +12,9 @@ The program CaipiraTechLab collaborates with the strengthening of local agri-foo
   
 **LATEST EVENTS:**
   
+[![](/media/images/banner_caipiratechlab_curso2022.png)](https://silo.org.br/caipiratechlab2022/){:target="_blank"}
+
+
 [![](/media/images/c21_cursolivre_banner.jpg)](https://silo.org.br/caipiratechlab2021/){:target="_blank"}
 
 
