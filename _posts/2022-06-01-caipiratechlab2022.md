@@ -47,7 +47,7 @@ Abaixo o cronograma:
 
 
 **Módulo 2: AGRICULTURA E MUDANÇAS CLIMÁTICAS - 11 e 12 de julho**
-* **REMOTO Dia 11/07 (segunda 16:00 - 18:00h)** - Ameaças e eventos extremos: introdução e testemunhos - com Marina Hirota (IpES/UFSC, SC), Pablo Borges (GIZ, Alemanha) e Alann Yu Iwama (Universidad de los Lagos, Chile)
+* **REMOTO Dia 11/07 (segunda 16:00 - 18:00h)** - Ameaças e eventos extremos: introdução e testemunhos - com Marina Hirota (IpES/UFSC, SC), Pablo Borges (GIZ, Alemanha) e Allan Yu Iwama (Universidad de los Lagos, Chile)
 * **REMOTO Dia 12/07 (terça 16:00 - 18:00h)** - Laboratório de práticas: Adaptação, mitigação e experiências - com Marina Hirota (IpES/UFSC, SC), Pablo Borges (GIZ, Alemanha) e Alann Yu Iwama (Universidad de los Lagos, Chile)
 
 
