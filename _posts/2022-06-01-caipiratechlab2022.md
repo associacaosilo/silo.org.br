@@ -83,10 +83,6 @@ Haverá emissão de certificado para as/os participantes que tiverem ao menos 75
 
 O curso será principalmente ministrado na modalidade virtual, em videoconferências on-line na plataforma Zoom. A comunicação e partilha de materiais entre as/os participantes e equipe de organização acontecerá por meio de um grupo no Telegram e e-mail.
 
-Ao fim do curso, será disponibilizado material didático do conteúdo abordado, para dar suporte às/aos participantes na hora de replicarem os aprendizados junto aos seus grupos/organizações.
-
-Não deixe a internet ou a pouca familiaridade com ferramentas virtuais serem um empecilho à sua participação. Se houver necessidade, podemos fornecer orientações antes do curso, para que todas e todos aprendam a utilizar as plataformas e estruturas necessárias! Basta sinalizar essa necessidade no campo “Informações complementares, dúvidas e comentários“ no formulário de inscrição.
-
 **Ao participar, você autoriza o uso e divulgação da sua imagem para os fins aqui mencionados e autoriza sua participação em nossa pesquisa com agentes dos sistemas agroalimentares territoriais.**
 
 ---
@@ -105,7 +101,7 @@ No momento da inscrição via formulário a pessoa interessada pode optar por co
 **Requisitos, responsabilidades e compromisso da/os bolsistas**
 
 **Requisitos:**
-* Perenidade da produção agrícola (atividade permanente)
+* Possuir atividade de produção agrícola (atividade permanente)
 * Comercialização estabelecida (mínimo 1 ano de vendas)
 * Residir na região de abrangência do Vale do Paraíba, Serra da Mantiqueira, Serra da Bocaina e Serra do Mar (MG, SP, RJ).
 
@@ -119,16 +115,6 @@ No momento da inscrição via formulário a pessoa interessada pode optar por co
 _*caso tenha restrição para participar em algum dos dias, um outro membro do seu coletivo/organização/grupo familiar poderá participar no lugar, mediante análise. Se este for o caso, por favor indique no formulário de inscrição, no campo ”Informações complementares, dúvidas e comentários”._
 
 ---
-
-## Finalidade do curso livre 
-  
-* Fortalecer sistemas agroalimentares territoriais sob orientação da agroecologia, especialmente agricultoras/es familiares e povos tradicionais (quilombolas, indígenas e outros) que cultivam em bases ecológicas ou em transição;
-* Facilitar a formação de redes de co-responsabilidade compostas por organizações e conselhos da sociedade civil, produtoras/es, consumidoras/es e prestadoras/es de serviço (distribuição/comercialização) fortalecendo a economia local e a perenidade da produção e da distribuição de alimentos sem veneno nas regiões do Vale do Paraíba, Serra da Mantiqueira, Serra da Bocaina e Serra do Mar, promovendo, ainda, o intercâmbio com produtoras/es das serras dos bioma Caatinga e Cerrado;
-* Compartilhar ferramentas (de gestão, comunicação e financeiras) e conhecimentos (científico, popular e de políticas públicas) para qualificar atividades que já vêm sendo feitas, ligadas ao cultivo e oferta de alimentos saudáveis, justos e sustentáveis nessas regiões; mobilizar a cultura local como estratégia de valorização do potencial ambiental, ecológico e de produção alimentar, para possibilitar o avanço da economia solidária e da agroecologia;
-* Trocar conhecimento sobre adaptação e mitigação na agricultura por conta dos efeitos das mudanças climáticas;
-
----
-
 
 ## Apresentação do programa
 
