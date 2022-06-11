@@ -41,14 +41,14 @@ Abaixo o cronograma:
 
 **Módulo 1: FINANÇAS E ORGANIZAÇÃO EM REDE -  04, 05, 06 e 16 de julho**
 * **REMOTO Dia 04/07 (segunda 16:00 - 18:00h)** - Cadernetas Agroecológicas - com Beth Cardoso (Centro de Tecnologias Alternativas - CTA e Articulação NAcional de Agroecologia - ANA)
-* **REMOTO Dia 05/07 (terça 16:00 - 18:00h)** - Fundos Rotativos Solidários, experiências e repertórios - com Luciano Silveira  (AS-PTA - Agricultura Familiar e Agroecologia) 
+* **REMOTO Dia 05/07 (terça 16:00 - 18:00h)** - Fundos Rotativos Solidários - com Luciano Silveira  (AS-PTA - Agricultura Familiar e Agroecologia) 
 * **LIVE Dia 06/07 (quarta 16:00 - 18:00h)** - **Aula aberta pelo YouTube**: Associativismo e  acesso a políticas públicas para redes, coletivos e cooperativas, experiências e repertórios - com Gildene Soares Carvalho (Unicafes - União Nacional das Cooperativas de Agricultura Familiar e Economia Solidária), mediação: Marcela Martins (Amerek/UFMG, MG)
 * **PRESENCIAL Dia 16/07 (sábado 9:00 - 11:00h)** - Laboratório de prática (encontro presencial) - Ferramentas de finanças: Excel na prática  - com Ana Faustino (Coordenadora de Finanças da Silo - Arte e Latitude Rural)
 
 
 **Módulo 2: AGRICULTURA E MUDANÇAS CLIMÁTICAS - 11 e 12 de julho**
 * **REMOTO Dia 11/07 (segunda 16:00 - 18:00h)** - Ameaças e eventos extremos: introdução e testemunhos - com Marina Hirota (IpES/UFSC, SC), Pablo Borges (GIZ, Alemanha) e Allan Yu Iwama (Universidad de los Lagos, Chile)
-* **REMOTO Dia 12/07 (terça 16:00 - 18:00h)** - Laboratório de práticas: Adaptação, mitigação e experiências - com Marina Hirota (IpES/UFSC, SC), Pablo Borges (GIZ, Alemanha) e Alann Yu Iwama (Universidad de los Lagos, Chile)
+* **REMOTO Dia 12/07 (terça 16:00 - 18:00h)** - Laboratório de práticas: Adaptação, mitigação e experiências - com Marina Hirota (IpES/UFSC, SC), Pablo Borges (GIZ, Alemanha) e Allan Yu Iwama (Universidad de los Lagos, Chile)
 
 
 **Módulo 3: Arte e Comunicação - 16, 18 e 19 de julho**
