@@ -6,5 +6,5 @@ published: true
 ref: bio-lila
 lang: pt
 ---
-**Pesquisadora do programa CaipiraTechLab.**
-Lila Almendra é professora de yoga e produtora audiovisual. Trabalhou por mais de dez anos como produtora e pesquisadora audiovisual e atua há sete anos como professora de yoga. Bacharel em comunicação pela UFF e mestra em ciências sociais pela UFRRJ, tem se dedicado a iniciativas em defesa do meio ambiente, dos povos e em prol do fortalecimento da agricultura familiar, especialmente no sul de Minas Gerais.
+**Pesquisadora e mediadora do programa CaipiratechLAB**
+Lila Almendra atuou por mais de dez anos como produtora e pesquisadora audiovisual e há sete trabalha como professora de yoga e revisora editorial. Bacharel em comunicação social pela UFF e mestra em ciências sociais pela UFRRJ, foi gerente de comunidade da plataforma latino-americana RedColaborar de 2017 a 2020. Há alguns anos se dedica a iniciativas em defesa do meio ambiente e dos povos e em prol do fortalecimento da agricultura familiar, no sul de Minas Gerais. Atuou como assessora de imprensa e militante na Aliança pela Pedra Branca, principalmente nos processos de resistência à mineração predatória na região.
