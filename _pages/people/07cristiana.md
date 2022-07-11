@@ -1,6 +1,6 @@
 ---
 title: Cristiana Moreira
-cover: media/images/people/Alketa.bio.jpg
+cover: media/images/people/Cristina.bio.jpg
 category: equipe
 published: true
 ref: bio-cristiana
