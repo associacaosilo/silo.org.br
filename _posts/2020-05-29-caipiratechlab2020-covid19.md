@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: post
 title: 'CaipiraTech Lab: Conheça a produção de nossos vizinhos!'
 cover: media/images/cover3.jpg
