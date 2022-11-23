@@ -830,8 +830,29 @@ i.fa-1_5x {
 }
 
 .img-center-legenda{
-  display: inline-flex;
   text-align: center;
-  margin-left: 24%;
-  margin-right: 24%;
+}
+
+.img-center-legenda img {
+    width: 48%;
+    margin: auto;
+}
+
+.imgdupla-legenda-center{
+  text-align: center;
+}
+
+.imgdupla-legenda-center img {
+    width: 48%;
+    display: inline-flex;
+}
+
+.duasimg-legenda-center{
+  text-align: center;
+}
+
+.duasimg-legenda-center img {
+    width: 48%;
+    display: inline-flex;
+    margin: 5px;
 }
