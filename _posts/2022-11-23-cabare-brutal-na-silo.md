@@ -24,8 +24,6 @@ Depois do lançamento, vamos servir um almoço bem popular em diferentes regiõe
 
 Seguindo com a programação estão as atrações regionais. A primeira delas é a **Mazurca do Cacete**, também chamada de Dança do Bastão. A mazurca chegou à Serrinha do Alambari na década de 1960, trazida por Pedro da Conceição, pai de Hilton Silva da Conceição, que hoje comanda a tropa de homens que dançam e batem os bastões de madeira – os cacetes – no ritmo da sanfona de oito baixos.
 
-Em seguida será a apresentação de **viola caipira com Braz da Viola e João Heredia.** Braz da Viola reside em Penedo atualmente e trabalha com viola e luteria desde 1990. João Heredia estudou música na Escola de Música do Estado de São Paulo e atualmente é pequeno produtor na Serrinha do Alambari. A dupla vai apresentar músicas da autoria de Braz e do compositor Nilton Blau.
-
 E para iniciar as performances do dia teremos o **Cabaré Brutal**, um formato de apresentação experimental que une artes performativas, artes plásticas, música, vídeo e gastronomia. No evento - que combina narrativa cênica com a criação de uma atmosfera vaudevilliana - é apresentada uma programação variada com atuações de artistas locais e internacionais reunidos em torno de uma dramaturgia comum, conduzida por um anfitrião.
 
 [![]({{site.baseurl}}/media/images/noticias/cabare_brutal_2.jpg)![]({{site.baseurl}}/media/images/noticias/cabare_brutal_3.jpg)
