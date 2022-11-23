@@ -34,11 +34,11 @@ Clique para ver a postagem completa](https://www.instagram.com/p/Ckwgoi1vreh/){:
 
 Essa realização é fruto de uma **residência luso-brasileira** - entre o espaço independente português Rua do Sol e a Silo - Arte e Latitude Rural. No Brasil temos a parceria mais que especial do **Festival Internacional Novas Frequências**, onde o Cabaré vai se apresentar nos dias 01 e 02 de dezembro. Faz parte desta edição do Cabaré Brutal:
 
-**Anfitriões**: Svenja Tiger (DE), Francisco Babo (PT) e Daniel Toledo (BR)
-**Direção artística**: Cinthia Mendonça (BR), Rick Lins (AT) e José Oliveira (PT)
-**Cenografia**: Patrícia Pescada (PT)
-**Direção técnica**: João Maya (PT)
-**Iluminação**: Gonçalo Araújo (PT)
+**Anfitriões**: Svenja Tiger (DE), Francisco Babo (PT) e Daniel Toledo (BR) <br>
+**Direção artística**: Cinthia Mendonça (BR), Rick Lins (AT) e José Oliveira (PT) <br>
+**Cenografia**: Patrícia Pescada (PT) <br>
+**Direção técnica**: João Maya (PT) <br>
+**Iluminação**: Gonçalo Araújo (PT) <br>
 **Artistas**: Andres Montes (MX), Dani D'Emília (BR), Ece Canli (TR), Edgar Calel (GT), Luana Vitra (BR), Leonor Parda (PT), Piolho Nababo: Desali e Daniel Toledo (BR), Susana Chiocca (PT).
 
 E será com o teatro que vamos finalizar a noite! E teatro local! A **CIA Labex_Teatro** surgiu do encontro de artistas da região do Vale da Mantiqueira que, após o isolamento social imposto pela pandemia, uniram-se desejosos no aprofundamento da prática da pesquisa, investigação e criação em Teatro.
