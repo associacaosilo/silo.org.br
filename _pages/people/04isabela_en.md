@@ -2,7 +2,7 @@
 title: Isabela Muller
 cover: media/images/people/Isabela.bio.jpeg
 category: equipe
-published: true
+published: false
 ref: bio-isabela
 lang: en
 ---
