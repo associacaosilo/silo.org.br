@@ -1,6 +1,6 @@
 ---
 title: Carolina Melo
-cover: media/images/people/carol.bio.jpg
+cover: media/images/people/Carol.bio.jpg
 category: equipe
 published: true
 ref: bio-carol
