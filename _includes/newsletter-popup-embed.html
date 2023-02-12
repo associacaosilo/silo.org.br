@@ -1,0 +1,16 @@
+<div  id="popup-newsletter" class="sidebar popup-show popup-hide">
+  <a href="javascript:void(0)" id="hide-popup" class="closebtn">×</a>
+    <div id="mc_embed_signup">
+      <iframe width="540" height="305" src="https://76abd233.sibforms.com/serve/MUIEABrcjcUDlWPfpRfHx8B_EVNfEmFFvMVuHlJQJ9ewtPs5Jxw9ddjgJFzoOj6PFVxD-qRH6MM_yaSsYCxzpM-sx7oEww2MD88EQBZTYBLapgkD3QOl35n_WLxSG8f41ojO3jBIitPo5-0YZsh9BRtMb5Jx37QHrCchWLtlhx4ovIdFMs3g5Vrf1A94ucq8HC3v5jZOD2bNzvuG" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
+    </div>
+</div>
+
+<div id="newsletter">
+    {% if page.lang == 'pt' %}
+    <button class="openbtn">&nbsp ASSINE NOSSA NEWSLETTER &nbsp</button>  
+    {% else %}
+    <button class="openbtn">SUBSCRIBE TO OUR NEWSLETTER</button>  {% endif %}  
+</div>
+
+<script type="text/javascript" src="{{ site.baseurl }}/js/newsletter.js">
+</script>

@@ -12,6 +12,8 @@ Every year we organise a laboratory for the development of collaborative open so
   
 **Past editions documentation:**
     
+[![](/media/images/lab_governanca-min.png)](https://labdegovernanca.silo.org.br){:target="_blank"}
+ 
 [![](/media/images/lab_emergencia_3ed.png)](https://labdeemergencia.silo.org.br/3ed){:target="_blank"}
   
 [![](/media/images/lab_emergencia_2ed.png)](https://labdeemergencia.silo.org.br/2ed){:target="_blank"}
