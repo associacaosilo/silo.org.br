@@ -10,7 +10,7 @@
 <meta name="keywords" content="art, arte, latitude, rural">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta http-equiv="Content-Security-Policy" content="default-src 'none'; img-src 'self' data: www.paypal.com www.paypalobjects.com; media-src 'self'; frame-src player.vimeo.com www.youtube.com www.mailchimp.com gallery.autodesk.com; frame-ancestors 'self'; script-src 'self' ajax.googleapis.com; font-src 'self' data: maxcdn.bootstrapcdn.com fonts.googleapis.com fonts.gstatic.com; style-src 'self' 'unsafe-inline' script-src 'unsafe-inline' maxcdn.bootstrapcdn.com fonts.googleapis.com; base-uri 'self'; form-action 'self' www.mailchimp.com https://silo.us20.list-manage.com/subscribe/post?u=34708f45e069e327474942d91&id=4b3933b8f6 www.paypal.com; ">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; img-src 'self' data: www.paypal.com www.paypalobjects.com www.google-analytics.com; media-src 'self'; frame-src player.vimeo.com www.youtube.com www.mailchimp.com gallery.autodesk.com; frame-ancestors 'self'; font-src 'self' data: maxcdn.bootstrapcdn.com fonts.googleapis.com fonts.gstatic.com assets.sendinblue.com; style-src 'self' 'unsafe-inline' sibforms.com fonts.googleapis.com maxcdn.bootstrapcdn.com; script-src 'self' ajax.googleapis.com 'unsafe-inline' maxcdn.bootstrapcdn.com fonts.googleapis.com sibforms.com www.googletagmanager.com www.google-analytics.com; base-uri 'self'; form-action 'self' www.mailchimp.com silo.us20.list-manage.com www.paypal.com 76abd233.sibforms.com; connect-src 'self' www.google-analytics.com 76abd233.sibforms.com ">
 
 
 <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
@@ -28,6 +28,49 @@
   <link rel="stylesheet" href="{{ site.baseurl }}/css/swipebox.min.css">
   <script src="{{ site.baseurl }}/js/jquery.swipebox.min.js"></script>
 {% endif %}
+
+<!-- START - We recommend to place the below code in head tag of your website html  -->
+<style>
+  @font-face {
+    font-display: block;
+    font-family: Roboto;
+    src: url(https://assets.sendinblue.com/font/Roboto/Latin/normal/normal/7529907e9eaf8ebb5220c5f9850e3811.woff2) format("woff2"), url(https://assets.sendinblue.com/font/Roboto/Latin/normal/normal/25c678feafdc175a70922a116c9be3e7.woff) format("woff")
+  }
+
+  @font-face {
+    font-display: fallback;
+    font-family: Roboto;
+    font-weight: 600;
+    src: url(https://assets.sendinblue.com/font/Roboto/Latin/medium/normal/6e9caeeafb1f3491be3e32744bc30440.woff2) format("woff2"), url(https://assets.sendinblue.com/font/Roboto/Latin/medium/normal/71501f0d8d5aa95960f6475d5487d4c2.woff) format("woff")
+  }
+
+  @font-face {
+    font-display: fallback;
+    font-family: Roboto;
+    font-weight: 700;
+    src: url(https://assets.sendinblue.com/font/Roboto/Latin/bold/normal/3ef7cf158f310cf752d5ad08cd0e7e60.woff2) format("woff2"), url(https://assets.sendinblue.com/font/Roboto/Latin/bold/normal/ece3a1d82f18b60bcce0211725c476aa.woff) format("woff")
+  }
+
+  #sib-container input:-ms-input-placeholder {
+    text-align: left;
+    font-family: "Courier New", monospace;
+    color: #ff0583;
+  }
+
+  #sib-container input::placeholder {
+    text-align: left;
+    font-family: "Courier New", monospace;
+    color: #ff0583;
+  }
+
+  #sib-container textarea::placeholder {
+    text-align: left;
+    font-family: "Courier New", monospace;
+    color: #ff0583;
+  }
+</style>
+<link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css">
+<!--  END - We recommend to place the above code in head tag of your website html -->
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
