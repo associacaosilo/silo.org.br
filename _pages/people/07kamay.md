@@ -2,7 +2,7 @@
 title: Katyllin Kamay
 cover: media/images/people/pb_kamay.jpg
 category: equipe
-published: true
+published: false
 ref: bio-kamay
 lang: pt
 ---
