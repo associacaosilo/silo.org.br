@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: 'CURSO LIVRE  CaipiratechLAB 2023'
+title: 'CURSO CaipiratechLAB 2023'
 cover: media/images/cover29.jpg
 category:
   - silo
@@ -12,7 +12,7 @@ lang: pt
 ref: curso-livre_caipiratechlab-23
 ---
 
-![](/media/images/Banner_Curso_Livre_CaipiratechLAB2023.png)
+![](/media/images/Banner_Curso_CaipiratechLAB2023.png)
 
 
 ## Inscrições
@@ -46,7 +46,7 @@ Os encontros virtuais acontecem entre 04 de julho e 09 de agosto de 2023, sempre
 
 **MÓDULO 1: GESTÃO, FINANÇAS E ARRANJOS ECONÔMICOS - 5, 11, 12, 19 de julho e 2 de agosto**
 
-* **REMOTO - 5 de julho** (quarta - 16h30 - 18h30) <br> **Aula Aberta Online - Cadernetas Agroecológicas. O que é? Como funciona?** <br> com usuária e técnica das Cadernetas e mediação da Marcela Martins (Amerek Lab, UFMG)
+* **REMOTO - 5 de julho** (quarta - 16h30 - 18h30) <br> **Aula Aberta Online - Cadernetas Agroecológicas. O que é? Como funciona?** <br> com Heidyanny Nogueira (técnica das cadernetas) e Ozirene Cardoso (usuária das cadernetas), mediação de Marcela Martins (Amerek Lab, UFMG)
 
 * **REMOTO - 11 de julho** (terça - 16h30 - 18h30) <br> **Plataformas digitais - venda, comunicação e escoamento** <br> com Thiago Hersan (Associado Silo Arte e Latitude Rural)
 
@@ -61,7 +61,7 @@ Os encontros virtuais acontecem entre 04 de julho e 09 de agosto de 2023, sempre
 
 * **REMOTO - 18 de julho** (terça - 16h30 - 18h30) <br> **Justiça Climática, Racismo Ambiental e qualidade de vida** <br> com Marcele Oliveira (Agenda Realengo 2030 e Coalizão O Clima é de Mudança)
 
-* **AULA PRESENCIAL - 05 de agosto** (sábado - 9h - 17h) <br> **Laboratório de Práticas \| Agricultura e Mudanças Climáticas - Ameaças e eventos extremos: introdução, testemunhos, adaptação mitigação e experiências** <br> com Marina Hirota (IpES/UFSC, SC) e Allan Yu Iwama (Universidad de los Lagos, Chile)
+* **AULA PRESENCIAL - 05 de agosto** (sábado - 9h - 17h) <br> **Laboratório de Práticas \| Agricultura e Mudanças Climáticas - Ameaças e eventos extremos: introdução, testemunhos, adaptação mitigação e experiências** <br> com Marina Hirota (IpES/UFSC) e Allan Yu Iwama (UFPB)
 
 * **REMOTO - 9 de agosto** (quarta - 16h30 - 18h30) <br> **Aula Aberta Online - Agrotóxicos e Saúde** <br> com Raquel Rigotto (Núcleo TRAMAS/UFC) e mediação da Marcela Martins
 (Amerek Lab, UFMG)
@@ -69,7 +69,7 @@ Os encontros virtuais acontecem entre 04 de julho e 09 de agosto de 2023, sempre
 
 **MÓDULO 3: ARTE E COMUNICAÇÃO - 25 e 26 de julho, 4 e 6 de agosto**
 
-* **REMOTO - 25 de julho** (terça - 16h30 - 18h30) <br> **Mídias digitais: produção de conteúdo e narrativasFacilitadora** <br> a confirmar
+* **REMOTO - 25 de julho** (terça - 16h30 - 18h30) <br> **Mídias digitais: produção de conteúdo e narrativas** <br> com Priscila Tapajowara (Mídia Índia)
 
 * **REMOTO - 26 de julho** (quarta - 16h30 - 18h30) <br> **Redes Sociais, vídeo e Canva** <br> com Mariana Silveira (Coordenadora de Comunicação \| Silo Arte e Latitude Rural)
 
@@ -77,20 +77,20 @@ Os encontros virtuais acontecem entre 04 de julho e 09 de agosto de 2023, sempre
 
 <br>
 
-*As aulas regulares serão realizadas pela plataforma Zoom e as aulas abertas serão transmitidas pelo YouTube.**
+*As aulas regulares serão realizadas pela plataforma Zoom e as aulas abertas serão transmitidas pelo YouTube.
 
 ---
 
 ## Quem pode participar? 
 
-Podem participar agricultoras/es, produtoras/es de alimentos e prestadoras/es de serviço (dentro do mercado de infraestrutura, beneficiamento e escoamento); indivíduos e representantes de grupos, organizações, articulações e populações tradicionais (indígenas, quilombolas e outros) em especial a/os que foram mapeadas/os no programa e que compõem o sistema agroalimentar das seguintes regiões:
+Podem participar agricultoras/es e produtoras/es de alimentos, sendo estes indivíduos e/ou representantes de grupos, organizações e articulações; populações camponesas ou originárias (indígenas, quilombolas, ribeirinhas e outros) e mapeadas/os no programa que compõem o sistema agroalimentar das seguintes regiões:
 
-* Serra da Mantiqueira, Serra da Bocaina, Serra do Mar e Vale do Paraíba (em Minas Gerais, Rio de Janeiro e São Paulo), para os quais serão destinados 80% das vagas (Participação on-line e presencial);
+* Serra da Mantiqueira, Serra da Bocaina, Serra do Mar, Vale do Paraíba e do Café (em Minas Gerais, Rio de Janeiro e São Paulo), para os quais serão destinados 80% das vagas (Participação on-line e presencial);
 * Regiões serranas dos biomas Cerrado e Caatinga, especificamente: Chapada da Ibiapaba (PI, CE), Planalto da Borborema (AL, RN, PE, PB), Serra das Confusões (PI), Serra do Cipó (MG) e Alto Jequitinhonha, na Serra do Espinhaço (MG) (Participação apenas on-line).
 
-Obs.: A inclusão dessas regiões da Caatinga e do Cerrado está sendo proposta para que haja, durante o curso na modalidade on-line, um intercâmbio entre produtoras/es com o objetivo de enriquecer seus repertórios referentes a mercado, cooperações e mudanças climáticas.
+Obs.: A inclusão dessas regiões da Caatinga e do Cerrado está sendo proposta para que haja, durante o curso na modalidade on-line, um intercâmbio entre agricultoras/es com o objetivo de enriquecer seus repertórios referentes a cultura-cultivo, mercado, cooperações e mudanças climáticas.
 
-Reservamos vagas para pessoas negras, indígenas, de comunidades tradicionais, mulheres, juventude, representantes de organizações/movimentos sociais do campo (MST, MPA etc). Além disso, parte das vagas serão destinadas a pessoas que já participaram do mapeamento do CaipiratechLAB e que ainda não fizeram essa formação.
+Reservamos vagas para pessoas negras, indígenas, de comunidades tradicionais e/ou originárias, mulheres, juventude, representantes de organizações/movimentos sociais do campo (MST, MPA, etc). Além disso, parte das vagas serão destinadas a pessoas que já participaram do mapeamento do CaipiratechLAB e que ainda não fizeram essa formação.
 
 Serão oferecidas um total de **15 vagas**. O curso é **gratuito** e a inscrição é realizada por meio do [FORMULÁRIO DE INSCRIÇÃO](https://docs.google.com/forms/d/e/1FAIpQLSdEY1ToiwHofPKntWaySFDYyD6TlfzhSNbt1wEMBAGv8YzMZg/viewform){:target="_blank"} 
 
@@ -100,7 +100,7 @@ Haverá emissão de certificado para as/os participantes que tiverem ao menos 75
 
 ## Estruturas digitais e material didático
 
-O curso será ministrado na modalidade virtual em videoconferências on-line na plataforma Zoom. haverá aulas abertas transmitidas para o canal youtube da Silo. A comunicação, a partilha de materiais para as/os participantes e os encontros contínuos de consolidação do conhecimento acontecerão por meio do grupo "Portal" no Telegram.
+O curso será ministrado na modalidade virtual em videoconferências on-line na plataforma Zoom. Haverá aulas abertas transmitidas para o canal youtube da Silo. A comunicação, a partilha de materiais para as/os participantes e os encontros contínuos de consolidação do conhecimento acontecerão por meio do grupo "Portal" no Telegram.
 
 **Ao participar, você autoriza o uso e divulgação da sua imagem para os fins aqui mencionados e autoriza sua participação em nossa pesquisa com agentes dos sistemas agroalimentares territoriais.**
 
@@ -108,7 +108,7 @@ O curso será ministrado na modalidade virtual em videoconferências on-line na 
 
 ## Concessão do auxílio à participação e ao acompanhamento
   
-Com o objetivo de mensurar os impactos do processo formativo em grupos camponeses de nossa área de atuação, oferecemos uma bolsa (parcela única) no valor de R$ 1.000,00 para o acompanhamento pontual da pessoa contemplada (até 18 meses após o curso).
+Com o objetivo de mensurar os impactos do processo formativo em grupos camponeses de nossa área de atuação, oferecemos uma bolsa (parcela única) no valor de R$ 1.000,00 para o acompanhamento pontual da pessoa contemplada (por até 18 meses após o curso).
 
 **Como será o acompanhamento?**
 
