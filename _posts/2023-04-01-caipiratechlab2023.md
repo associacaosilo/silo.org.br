@@ -2,12 +2,12 @@
 published: true
 layout: post
 title: 'CURSO CaipiratechLAB 2023'
-cover: media/images/cover29.jpg
+cover: media/images/cover2.jpg
 category:
   - silo
   - caipiratechlab
   - opencall
-swipebox: c21_3o_cursolivre
+swipebox:
 lang: pt
 ref: curso-livre_caipiratechlab-23
 ---
