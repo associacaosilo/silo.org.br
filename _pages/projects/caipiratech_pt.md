@@ -1,5 +1,5 @@
 ---
-title: 'CaipiratechLAB'
+title: 'CaipiraTechLab'
 cover: 'media/images/caipiratechlab.png'
 layout: list
 permalink: /caipiratechlab/
@@ -12,7 +12,6 @@ O CaipiraTechLab colabora com o fortalecimento dos sistemas agroalimentares regi
 
 **Últimos atividades:**
 
-[![](/media/images/Banner_Curso_CaipiratechLAB2023.png)](/caipiratechlab2023/){:target="_blank"}
 
 [![](/media/images/banner_caipiratechlab_curso2022.png)](https://silo.org.br/caipiratechlab2022/){:target="_blank"}
 
