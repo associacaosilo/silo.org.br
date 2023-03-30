@@ -1,5 +1,5 @@
 ---
-title: 'CaipiraTechLab'
+title: 'CaipiratechLAB'
 cover: 'media/images/caipiratechlab.png'
 layout: list
 permalink: /en/caipiratechlab/
@@ -11,6 +11,9 @@ ref: caipiratechlab-list
 The program CaipiraTechLab collaborates with the strengthening of local agri-food systems and their cultural expression through mapping, courses and technology development.
   
 **LATEST EVENTS:**
+
+[![](/media/images/Banner_Curso_CaipiratechLAB2023.png)](/caipiratechlab2023/){:target="_blank"}
+
   
 [![](/media/images/banner_caipiratechlab_curso2022.png)](https://silo.org.br/caipiratechlab2022/){:target="_blank"}
 
