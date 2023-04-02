@@ -11,8 +11,11 @@ ref: residentes2023
 ---
 
 
-_O que se pensa sobre o universo camponês da atualidade e o que é pensado a partir dele?_
-Cinthia Mendonça
+![](/media/images/Banner_Residencia_Arte_e_Agricultura.png)
+
+_O que se pensa sobre o universo camponês da atualidade e o que é pensado a partir dele?_<br>_Cinthia Mendonça_
+
+<br>
 
 Por meio desta chamada, a *Silo - Arte e Latitude Rural* convida artistas e curadores de origem camponesa, residentes no campo ou que realizam pesquisa e/ou que tenham uma produção sobre aspectos da Agricultura e do Mundo Rural a se inscreverem na [Resiliência: Residência Artística](https://resilience.silo.org.br/){:target="_blank"} \| Arte e Agricultura que acontecerá **de 23 de julho a 21 de agosto de 2023** na sede da Silo, Serra da Mantiqueira. A residência oferece **imersão para pesquisa e experimentação artística** voltada para artistas e curadores, promovendo o encontro destes com cientistas, agricultores e a população camponesa.
 
