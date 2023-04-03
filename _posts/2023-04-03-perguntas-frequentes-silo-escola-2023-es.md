@@ -5,7 +5,7 @@ title: 'Preguntas frecuentes - Curso Silo Escuela ¿Cómo Hacer Laboratorios?'
 cover: media/images/cover28.jpg
 category:
   - silo
-  - silo-escola
+  - siloescola
   - laboratorios
 swipebox:
 lang: es
