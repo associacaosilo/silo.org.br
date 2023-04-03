@@ -1,6 +1,6 @@
 ---
 title: 'Silo Escola'
-cover: 'media/images/Banner_Silo_Escola_1.png'
+cover: '/media/images/Banner_Curso_Como_Fazer_Labs_2.png'
 layout: list
 permalink: /siloescola/cursos
 lang: pt
@@ -18,5 +18,5 @@ Por meio de diferentes formatos, unindo pensamento e prática, a Silo Escola vai
 Nossos cursos podem ser online, presenciais e imersivos. 
 
 
-[![](/media/images/Banner_Curso_Como_Fazer_Labs_2.png)](/convocatoria-curso-silo-escola)
+[![](/media/images/Banner_Curso_Como_Fazer_Labs_2.png)](/silo-escola-2023)
 
