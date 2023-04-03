@@ -1,0 +1,105 @@
+---
+published: true
+layout: post
+title: 'Resiliência: Residência Artística – Residentes 2023'
+cover: media/images/cover3.jpg
+category:
+  - silo
+  - residence
+lang: pt
+ref: residentes2023
+---
+
+
+![](/media/images/Banner_Residencia_Arte_e_Agricultura.png)
+
+_O que se pensa sobre o universo camponês da atualidade e o que é pensado a partir dele?_<br>_Cinthia Mendonça_
+
+<br>
+
+Por meio desta chamada, a *Silo - Arte e Latitude Rural* convida artistas e curadores de origem camponesa, residentes no campo ou que realizam pesquisa e/ou que tenham uma produção sobre aspectos da Agricultura e do Mundo Rural a se inscreverem na [Resiliência: Residência Artística](https://resilience.silo.org.br/){:target="_blank"} \| Arte e Agricultura que acontecerá **de 23 de julho a 21 de agosto de 2023** na sede da Silo, Serra da Mantiqueira. A residência oferece **imersão para pesquisa e experimentação artística** voltada para artistas e curadores, promovendo o encontro destes com cientistas, agricultores e a população camponesa.
+
+
+## Calendário
+
+Abertura da Chamada: **03 de abril** <br>
+Encerramento da Chamada: **15 de maio** <br>
+Residência Artística: **23 de julho a 21 de agosto de 2023** <br>
+
+
+## Agricultura, crise climática e crise cultural
+
+Vivemos uma crise climática, mas também cultural, que nos exige transformações nos modos de pensar e agir. A mudança que queremos reúne desenvolvimento humano e ambiental; respeita e cultiva diferentes modos de existência; cria, preserva e regenera biodiversidades. O campo e o campesinato - baseados na negociação constante entre diversos modos de existência - estão no centro dessa mudança e dessa disputa cultural.
+
+No momento em que se percebe que as cidades brasileiras estão cada vez mais longe de serem sustentáveis, apresentando formas agudas de colapso econômico, arquitetônico e sanitário, muitas pessoas dirigem o olhar para o campo buscando um modo de vida mais saudável e sustentável.
+
+Do campo e do campesinato vem nossa energia vital. A qualidade do alimento que consumimos está diretamente relacionada à qualidade de vida daqueles que cultivam esse alimento. Então, mais do que nunca, os saberes e os modos de vida do campesinato e dos povos que vivem na natureza precisam ser respeitados, cuidados e preservados. Suas histórias precisam ser contadas e suas práticas continuadas.
+
+Com a explosão da agroindústria no país, em um desdobramento tecnológico da matriz latifundiária e exportadora que marca nossa história colonial, qual o espaço do camponês no imaginário brasileiro? O que aconteceu com os modos de vida do campo? No que terá se transformado o que entendemos como o meio rural?
+
+
+## Objetos da convocatória
+
+A Resiliência: Residência Artística pretende criar, ao longo dos anos, narrativas sobre o universo rural/ambiental da atualidade por meio das Artes. Ela possibilita uma vivência geográfica, focada na experiência territorial, na cotidianidade, nos biomas regionais e no campesinato. A imersão oferece uma experiência que se diferencia da vida urbana, além de favorecer um ambiente propício para a troca de saberes incentivando, de um lado, que a ciência e a agricultura possam se transformar a partir das referências e modos de pensar e fazer da arte e, de outro que, a arte possa ter voz ativa em debates de grande impacto da sociedade como as questões científicas, agrícolas e agrárias.
+
+Para a atual residência, gostaríamos de reunir pessoas que, por meio de experiência, pesquisa e/ou produção, possam somar contribuir com a reflexão sobre arte, agricultura, campesinato e sociedade
+
+Sendo assim, nos interessa abordagens de diferentes aspectos da agricultura e da vida no campo a partir da ética, da estética e do poético: o arcaico, o futurismo; o material, o espiritual; transição agrícola 1 ou transição rural justa; crise alimentar, climática e energética; sistemas agroalimentares; reforma agrária; ocupação social de espaços/territórios rurais; culinária; cultura popular; ancestralidade; educação no campo; cultura da autonomia; gestão do bem comum; ruralidades; cultivos (de animais e plantas); compostagem; microfauna; processos químicos-físicos; a vida das plantas, dos animais, da terra e a nossa vida; florestas e biomas; solos; fenômenos naturais; processos regenerativos; sintropia; entre outros.
+
+
+## Metodologia
+
+A residência é composta por visitas a assentamentos e espaços produtivos da agricultura familiar regional; expedições na região da APA da **Serrinha do Alambari** e no **Parque Nacional do Itatiaia**, além da participação no programa **CaipiraTechLab** por meio da **Silo Escola**.
+
+A residência oferece espaços de criação e pesquisa (atelier ou studios compartilhados); conversa com curadores, cientistas, pesquisadores e agricultores.
+
+Durante parte da estadia, as/os/es residentes poderão dialogar com o curso do programa CaipiratechLAB, voltado para agricultores da região, uma iniciativa da Silo Escola, linha de ação da organização que se dedica a oferecer processos formativos.
+
+No final da residência realizamos uma mostra com as pesquisas, processos e trabalhos desenvolvidos. Após a residência será realizada uma publicação com a documentação do processo e resultado dos trabalhos desenvolvidos.
+
+
+## Recursos
+
+A Silo oferece hospedagem, alimentação, transporte local, atelier, materiais disponíveis em nosso laboratório, expedições territoriais, conversa com curadores, pesquisadores e comunidade local, comunicação e divulgação dos artistas em residência (website e redes sociais). Ao final da residência publicaremos um livro impresso e digital sobre as pesquisas realizadas.
+
+
+## Inscrições
+
+As inscrições para a residência serão feitas exclusivamente através do email: **contato@silo.org.br**. No assunto do email deve constar: **Inscrição - Resiliência: Residência Artística - Arte e Agricultura**. Emails sem assunto ou com assunto diferentes serão desconsiderados. O email deve conter **1 arquivo em formato PDF** com:
+* Proposta artística
+* Plano de trabalho, desenhos, esquemas e etc (imagens e texto máx. 3 páginas A4)
+* Portfólio incluindo dados pessoais e contato: nome; bairro, cidade e estado; nacionalidade; data de nascimento; email e telefone de contato (telegram ou whatsapp).
+* Link da homepage, redes sociais e demais referências, caso houver.
+* Carta de intenção.
+
+Serão aceitas propostas enviadas em português.
+
+O processo seletivo será realizado por Cinthia Mendonça e Icaro Ferraz Vidal Jr.
+
+
+## Obrigações das pessoas selecionadas
+
+As pessoas participantes se comprometem a participar da residência durante todo o período proposto, assim como da publicação do livro sobre a residência.
+
+
+## Condições
+
+A residência ocorrerá entre os dias **23 de julho a 21 de agosto de 2023**. Cada pessoa selecionada receberá: passagens - ida e volta - de seu local de origem, alojamento privado ou compartilhado com uma pessoa, estúdios compartilhados, alimentação gratuita e a quantia de **R$2.000,00**.
+
+
+## Locais e contexto
+
+A residência acontecerá entre a Área de Proteção Ambiental da Serrinha do Alambari e o Planalto do Parque Nacional do Itatiaia, ambos localizados na Serra da Mantiqueira, RJ, Brasil, entre as cidades de Rio de Janeiro e São Paulo. O entorno também estará disponível para a realização dos trabalhos: reservas ambientais, comunidades rurais e polo industrial.
+
+A Serrinha do Alambari é parte integrante de uma Área de Proteção Ambiental (APA), situada no município de Resende (RJ), na encosta leste do Parque Nacional de Itatiaia, Serra da Mantiqueira. Esta área tem a particularidade de integrar zona rural e zona de proteção ambiental. A Serrinha conta com cerca de 1.000 habitantes, comércio e atividade turística. A APA (Área de Proteção Ambiental) da Serrinha do Alambari abrange as comunidades de Serrinha e Capelinha, protegendo a parte alta das microbacias dos rios Alambari e Pirapitinga. Sua área total corresponde a 4.500 hectares.
+
+O Planalto do Itatiaia está localizado dentro do território do Parque Nacional do Itatiaia. Primeiro Parque Nacional do Brasil, criado em 1937, situado na Serra da Mantiqueira, o Parque Nacional do Itatiaia possui cerca de 28 mil hectares que abrange os Estados do Rio de Janeiro e Minas Gerais apresentando um relevo caracterizado por montanhas e elevações rochosas, com altitude variando de 600 a 2.791 m, no seu ponto culminante, o Pico das Agulhas Negras. Na região do Planalto do Itatiaia, encontram-se os campos de altitude e os vales suspensos. A área do Parque guarda nascentes de 12 importantes bacias hidrográficas regionais, que drenam para duas bacias principais: a do rio Grande, afluente do rio Paraná, e a do rio Paraíba do Sul, o mais importante do Rio de Janeiro.
+
+
+Os Assentamentos da reforma agrária e demais unidades produtivas coletivas ou comunitárias que serão visitadas durante a residência fazem parte do mapeamento realizado pelo programa CaipiraTechLab e estão localizadas dentro de nossa área de atuação: Vale do Rio Paraíba, Serra da Mantiqueira, Serra do Mar, Serra da Bocaina e Vale do Café.
+
+## Código de ética
+
+## Perguntas frequentes
+
+Acesse aqui a página com respostas às perguntas mais frequentes.
