@@ -49,7 +49,7 @@ Sendo assim, nos interessa abordagens de diferentes aspectos da agricultura e da
 
 ## Metodologia
 
-A residência é composta por visitas a assentamentos e espaços produtivos da agricultura familiar regional; expedições na região da APA da **Serrinha do Alambari** e no **Parque Nacional do Itatiaia**, além da participação no programa **CaipiraTechLab** por meio da **Silo Escola**.
+A residência é composta por visitas a assentamentos e espaços produtivos da agricultura familiar regional; expedições na região da APA da **Serrinha do Alambari** e no **Parque Nacional do Itatiaia**, além da participação no programa **CaipiratechLAB** por meio da **Silo Escola**.
 
 A residência oferece espaços de criação e pesquisa (atelier ou studios compartilhados); conversa com curadores, cientistas, pesquisadores e agricultores.
 
