@@ -5,7 +5,7 @@ layout: list
 permalink: /siloescola/cursos
 lang: pt
 category: siloescola
-ref: siloescola-list
+ref: siloescola
 ---
 
 

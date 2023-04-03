@@ -1,20 +1,20 @@
 ---
 published: true
 layout: post
-title: ''
+title: 'Curso: Cómo hacer laboratorios?'
 cover: media/images/cover24.jpg
 category:
   - siloescola
   - laboratorios
   - opencall
 swipebox:
-lang: pt
+lang: es
 ref: lab-siloescola-call
 ---
 
 <br>
 
-![https://silo.org.br/en/labs/](/media/images/Banner_Curso_Como_Fazer_Labs_ESP.png)
+![](/media/images/Banner_Curso_Como_Fazer_Labs_ESP.png)
 
 **SILO ESCUELA**
 

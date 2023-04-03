@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: ''
+title: 'Curso: Como fazer laboratórios?'
 cover: media/images/cover24.jpg
 # permalink: /siloescola/convocatoria
 category:
@@ -15,7 +15,7 @@ ref: lab-siloescola-call
 
 <br>
 
-![https://silo.org.br/en/labs/](/media/images/Banner_Curso_Como_Fazer_Labs.png)
+![](/media/images/Banner_Curso_Como_Fazer_Labs.png)
 
 **SILO ESCOLA**
 

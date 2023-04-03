@@ -5,7 +5,7 @@ layout: list
 permalink: /siloescola/construindo_a_silo_escola_pt
 lang: pt
 category: siloescola
-ref: siloescola-list
+ref: siloescola
 ---
 
 

@@ -9,12 +9,12 @@ category:
   - laboratorios
 swipebox:
 lang: pt
-ref: opencallfaq
+ref: siloescola2023faq
 ---
 
 <br>
 
-![https://silo.org.br/labs/](/media/images/Banners_Perguntas_Frequentes.png)
+![](/media/images/Banners_Perguntas_Frequentes.png)
 
 
 <br>
