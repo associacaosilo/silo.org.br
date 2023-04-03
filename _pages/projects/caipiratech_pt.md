@@ -8,7 +8,7 @@ category: caipiratechlab
 ref: caipiratechlab-list
 ---
   
-O CaipiraTechLab colabora com o fortalecimento dos sistemas agroalimentares regionais e sua expressão cultural por meio de mapeamento, cursos e desenvolvimento de tecnologia.  
+O CaipiratechLAB colabora com o fortalecimento dos sistemas agroalimentares regionais e sua expressão cultural por meio de mapeamento, cursos e desenvolvimento de tecnologia.  
 
 **Últimos atividades:**
 

@@ -8,7 +8,7 @@ category: caipiratechlab
 ref: caipiratechlab-list
 ---
   
-The program CaipiraTechLab collaborates with the strengthening of local agri-food systems and their cultural expression through mapping, courses and technology development.
+The program CaipiratechLAB collaborates with the strengthening of local agri-food systems and their cultural expression through mapping, courses and technology development.
   
 **LATEST EVENTS:**
 
