@@ -1,5 +1,5 @@
 ---
-title: 'Silo Escola'
+title: 'Curso Silo Escola'
 cover: '/media/images/Banner_Silo_Escola_1.png'
 layout: list
 permalink: /siloescola/
