@@ -1,5 +1,5 @@
 ---
-title: 'Silo Escola'
+title: ''
 cover: '/media/images/Banner_Silo_Escola_1.png'
 layout: list
 permalink: /siloescola/construindo_a_silo_escola_pt
