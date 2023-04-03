@@ -41,18 +41,18 @@ Os encontros virtuais acontecem **entre 04 de julho e 09 de agosto de 2023, semp
 
 ## CRONOGRAMA
 
-**Encontro de abertura – 4 de julho (terça - 16:30 - 17:30h)**
+**Encontro de abertura – 4 de julho (terça - 16:30 - 18:30h)**
 
 
 **MÓDULO 1: GESTÃO, FINANÇAS E ARRANJOS ECONÔMICOS - 5, 11, 12, 19 de julho e 2 de agosto**
 
 * **REMOTO - 5 de julho** (quarta - 16h30 - 18h30) <br> **Aula Aberta Online - Cadernetas Agroecológicas. O que é? Como funciona?** <br> com Heidyanny Nogueira (técnica das cadernetas) e Ozirene Cardoso (usuária das cadernetas), mediação de Marcela Martins (Amerek Lab, UFMG)
 
-* **REMOTO - 11 de julho** (terça - 16h30 - 18h30) <br> **Plataformas digitais - venda, comunicação e escoamento** <br> com Thiago Hersan (Associado Silo Arte e Latitude Rural)
+* **REMOTO - 11 de julho** (terça - 16h30 - 18h30) <br> **Plataformas digitais - venda, comunicação e escoamento** <br> com Thiago Hersan (Associado da Silo - Arte e Latitude Rural)
 
-* **REMOTO - 12 de julho** (quarta - 16h30 - 18h30) <br> **Educação Previdenciária - contribuição e aposentadoria no campo** <br> com Ernesto Frech (Servidor do IPREVI)
+* **REMOTO - 12 de julho** (quarta - 16h30 - 18h30) <br> **Educação Previdenciária - contribuição e aposentadoria no campo** <br> com Ernesto Frech (Gestor ambiental e Servidor do IPREVI - Instituto de Previdência dos Servidores Públicos do Município de Itatiaia)
 
-* **REMOTO - 19 de julho** (quarta - 16h30 - 18h30) <br> **Legalização Rural e acesso a políticas públicas** <br> com Junior Florenzano (EMATER RIO - Escritório local de Três Rios-RJ)
+* **REMOTO - 19 de julho** (quarta - 16h30 - 18h30) <br> **Legalização Rural e acesso a políticas públicas** <br> Legalização do produto, da propriedade e do produtor e acesso a políticas públicas com Junior Florenzano (EMATER RIO - Escritório local de Três Rios-RJ)
 
 * **REMOTO - 2 de agosto** (quarta - 16h30 - 18h30) <br> **Aula Aberta Online - Panorama da Agroecologia no Brasil** <br> com Irene Cardoso (ABA/UFV) e mediação da Marcela Martins (Amerek Lab, UFMG)
 
@@ -71,7 +71,7 @@ Os encontros virtuais acontecem **entre 04 de julho e 09 de agosto de 2023, semp
 
 * **REMOTO - 25 de julho** (terça - 16h30 - 18h30) <br> **Mídias digitais: produção de conteúdo e narrativas** <br> com Priscila Tapajowara (Mídia Índia)
 
-* **REMOTO - 26 de julho** (quarta - 16h30 - 18h30) <br> **Redes Sociais, vídeo e Canva** <br> com Mariana Silveira (Coordenadora de Comunicação \| Silo Arte e Latitude Rural)
+* **REMOTO - 26 de julho** (quarta - 16h30 - 18h30) <br> **Redes Sociais, vídeo e Canva** <br> com Mariana Silveira (Coordenadora de Comunicação da Silo - Arte e Latitude Rural)
 
 * **AULAS PRESENCIAIS - 04 e 06 de agosto** (sexta - 14h - 18h e domingo - 8h - 12h) <br> **Laboratório de Práticas \| Atividades artísticas com Artistas da Resiliência: Residência Artística I Arte e Agricultura**
 
