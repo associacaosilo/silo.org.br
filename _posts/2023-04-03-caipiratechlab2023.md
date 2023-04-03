@@ -17,14 +17,14 @@ ref: curso-livre_caipiratechlab-23
 
 ## Inscrições
   
-O período de inscrição é de **03 de abril de 2023 a 15 de maio de 2023**. Para inscrever-se acesse o formulário: [FORMULÁRIO DE INSCRIÇÃO](https://docs.google.com/forms/d/e/1FAIpQLSdEY1ToiwHofPKntWaySFDYyD6TlfzhSNbt1wEMBAGv8YzMZg/viewform){:target="_blank"} 
+O curso é gratuito. O período de inscrição é de **03 de abril de 2023 a 15 de maio de 2023**. Para inscrever-se acesse o formulário: [FORMULÁRIO DE INSCRIÇÃO](https://docs.google.com/forms/d/e/1FAIpQLSdEY1ToiwHofPKntWaySFDYyD6TlfzhSNbt1wEMBAGv8YzMZg/viewform){:target="_blank"} 
 
 ---
 
 
-## Programação
+## Metodologia
 
-O processo formativo acontece entre os dias 04 de julho de 2023 e 09 de agosto de 2023, das 16h30 às 18h30. Haverá um encontro presencial de três dias na Silo Escola, Serrinha do Alambari, Resende, RJ.
+O processo formativo acontece entre os dias **04 de julho de 2023 e 09 de agosto de 2023**. Haverá um encontro presencial de três dias na Silo Escola, Serrinha do Alambari, Resende, RJ.
 
 Oferecemos 34h de formação organizadas em 3 módulos:
 
@@ -34,9 +34,9 @@ Oferecemos 34h de formação organizadas em 3 módulos:
 
 O curso é formado por aulas online, aulas abertas online (transmitidas via youtube), laboratórios de práticas presenciais e contínua consolidação da aprendizagem via grupo no telegram.
 
-Ao se inscrever a pessoa se compromete a participar de todos os módulos do curso e do grupo de telegram. As pessoas participantes das regiões da Serra da Mantiqueira, Serra da Bocaina, Serra do Mar, Vale do Paraíba e do Café se comprometem a participar também do encontro presencial na Silo Escola, na Serrinha do Alambari, Resende - RJ, de 4 a 6 de agosto de 2023 (para isso oferecemos alimentação, hospedagem e reembolso do custo de passagens ou combustível).
+Ao se inscrever a pessoa se compromete a participar de todos os módulos do curso e do grupo de telegram. As pessoas participantes das regiões da Serra da Mantiqueira, Serra da Bocaina, Serra do Mar, Vale do Paraíba e do Café se comprometem a participar também do **encontro presencial na Silo Escola, na Serrinha do Alambari, Resende - RJ, de 4 a 6 de agosto de 2023** (para isso oferecemos alimentação, hospedagem e reembolso do custo de passagens ou combustível).
 
-Os encontros virtuais acontecem entre 04 de julho e 09 de agosto de 2023, sempre entre 16:30 e 18:30h. Cada encontro contará com uma/um facilitadora/or específica/o que tem experiência de vida e trabalho qualificado ligado ao tema do módulo. O curso é dividido em momentos de laboratório de práticas, aulas temáticas, aulas abertas e consolidação da aprendizagem. As aulas são interativas, as/os participantes poderão fazer perguntas e ainda compartilhar práticas e conhecimentos. Os momentos de Consolidação da Aprendizagem contam com uma programação específica de conversas, aulas e interações. Eles serão via Telegram, por meio do grupo "Portal", onde as/os participantes poderão conversar sobre os temas das aulas, realizar exercícios práticos, conhecer as pessoas que participaram nas edições anteriores e ainda receber formação contínua por meio de encontros mensais com agricultoras/es convidadas/os, técnicas/os e pesquisadoras/es.
+Os encontros virtuais acontecem **entre 04 de julho e 09 de agosto de 2023, sempre entre 16:30 e 18:30h**. Cada encontro contará com uma/um facilitadora/or específica/o que tem experiência de vida e trabalho qualificado ligado ao tema do módulo. O curso é dividido em momentos de laboratório de práticas, aulas temáticas, aulas abertas e consolidação da aprendizagem. As aulas são interativas, as/os participantes poderão fazer perguntas e ainda compartilhar práticas e conhecimentos. Os momentos de Consolidação da Aprendizagem contam com uma programação específica de conversas, aulas e interações. Eles serão via Telegram, por meio do grupo "Portal", onde as/os participantes poderão conversar sobre os temas das aulas, realizar exercícios práticos, conhecer as pessoas que participaram nas edições anteriores e ainda receber formação contínua por meio de encontros mensais com agricultoras/es convidadas/os, técnicas/os e pesquisadoras/es.
 
 
 ## CRONOGRAMA
@@ -85,8 +85,8 @@ Os encontros virtuais acontecem entre 04 de julho e 09 de agosto de 2023, sempre
 
 Podem participar agricultoras/es e produtoras/es de alimentos, sendo estes indivíduos e/ou representantes de grupos, organizações e articulações; populações camponesas ou originárias (indígenas, quilombolas, ribeirinhas e outros) e mapeadas/os no programa que compõem o sistema agroalimentar das seguintes regiões:
 
-* Serra da Mantiqueira, Serra da Bocaina, Serra do Mar, Vale do Paraíba e do Café (em Minas Gerais, Rio de Janeiro e São Paulo), para os quais serão destinados 80% das vagas (Participação on-line e presencial);
-* Regiões serranas dos biomas Cerrado e Caatinga, especificamente: Chapada da Ibiapaba (PI, CE), Planalto da Borborema (AL, RN, PE, PB), Serra das Confusões (PI), Serra do Cipó (MG) e Alto Jequitinhonha, na Serra do Espinhaço (MG) (Participação apenas on-line).
+* Serra da Mantiqueira, Serra da Bocaina, Serra do Mar, Vale do Paraíba e do Café (em Minas Gerais, Rio de Janeiro e São Paulo). **Participação on-line e presencial**;
+* Regiões serranas dos biomas Cerrado e Caatinga, especificamente: Chapada da Ibiapaba (PI, CE), Planalto da Borborema (AL, RN, PE, PB), Serra das Confusões (PI), Serra do Cipó (MG) e Alto Jequitinhonha, na Serra do Espinhaço (MG) **para os quais serão destinados 25% das vagas. Participação apenas on-line**.
 
 Obs.: A inclusão dessas regiões da Caatinga e do Cerrado está sendo proposta para que haja, durante o curso na modalidade on-line, um intercâmbio entre agricultoras/es com o objetivo de enriquecer seus repertórios referentes a cultura-cultivo, mercado, cooperações e mudanças climáticas.
 
@@ -143,4 +143,4 @@ _*Caso tenha restrição para participar em algum dos dias, uma outra pessoa int
 
 CaipiratechLAB é um programa da Silo Arte e Latitude Rural que colabora com o **fortalecimento dos sistemas agroalimentares regionais e sua expressão cultural** por meio de mapeamento, cursos formativos contínuos e desenvolvimento de tecnologia que converge em uma plataforma multifuncional, para formação, comunicação e venda, baseada em princípios do cooperativismo.
 
-Esse projeto está sendo realizado com o apoio de **Porticus e Cal**, instituições filantrópicas.
+Esse projeto está sendo realizado com o apoio do **Instituto Ibirapitanga, Porticus e Cal**, instituições filantrópicas.
