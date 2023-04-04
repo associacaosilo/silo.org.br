@@ -59,7 +59,7 @@ Com a mediação da Lívia Araújo, dividimos o coletivo em três grupos de trab
 Você pode conferir como foi o clima durante essa linda imersão na nossa sede:
 
 <div class="video-wrapper video-wrapper-16x9">
-  <iframe width="800" height="450" src="https://www.youtube.com/embed/41uyLnsP0Ec?rel=0&modestbranding=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL1H9MV88EWPr3YtvuaDl-Wu2OCcvN7c-z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 ![](/media/images/Banner_Silo_Escola_6.png)
