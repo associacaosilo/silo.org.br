@@ -86,7 +86,7 @@ Os encontros virtuais acontecem **entre 04 de julho e 09 de agosto de 2023, semp
 Podem participar agricultoras/es e produtoras/es de alimentos, sendo estes indivíduos e/ou representantes de grupos, organizações e articulações; populações camponesas ou originárias (indígenas, quilombolas, ribeirinhas e outros) e mapeadas/os no programa que compõem o sistema agroalimentar das seguintes regiões:
 
 * Serra da Mantiqueira, Serra da Bocaina, Serra do Mar, Vale do Paraíba e do Café (em Minas Gerais, Rio de Janeiro e São Paulo). **Participação on-line e presencial**;
-* Regiões serranas dos biomas Cerrado e Caatinga, especificamente: Chapada da Ibiapaba (PI, CE), Planalto da Borborema (AL, RN, PE, PB), Serra das Confusões (PI), Serra do Cipó (MG) e Alto Jequitinhonha, na Serra do Espinhaço (MG) **para os quais serão destinados 25% das vagas. Participação apenas on-line**.
+* Regiões serranas dos biomas Cerrado e Caatinga, especificamente: Chapada da Ibiapaba (PI, CE), Planalto da Borborema (AL, RN, PE, PB), Serra das Confusões (PI), Serra do Cipó (MG) e Alto Jequitinhonha, na Serra do Espinhaço (MG) **para as quais serão destinadas 25% das vagas. Participação apenas on-line**.
 
 Obs.: A inclusão dessas regiões da Caatinga e do Cerrado está sendo proposta para que haja, durante o curso na modalidade on-line, um intercâmbio entre agricultoras/es com o objetivo de enriquecer seus repertórios referentes a cultura-cultivo, mercado, cooperações e mudanças climáticas.
 
