@@ -63,8 +63,7 @@ Os encontros virtuais acontecem **entre 04 de julho e 09 de agosto de 2023, semp
 
 * **AULA PRESENCIAL - 05 de agosto** (sábado - 9h - 17h) <br> **Laboratório de Práticas \| Agricultura e Mudanças Climáticas - Ameaças e eventos extremos: introdução, testemunhos, adaptação mitigação e experiências** <br> com Marina Hirota (IpES/UFSC) e Allan Yu Iwama (UFPB)
 
-* **REMOTO - 9 de agosto** (quarta - 16h30 - 18h30) <br> **Aula Aberta Online - Agrotóxicos e Saúde** <br> com Raquel Rigotto (Núcleo TRAMAS/UFC) e mediação da Marcela Martins
-(Amerek Lab, UFMG)
+* **REMOTO - 9 de agosto** (quarta - 16h30 - 18h30) <br> **Aula Aberta Online - Agrotóxicos na teia da Vida? Conhecer para cuidar** <br> com Raquel Rigotto (Núcleo TRAMAS/UFC) e mediação da Marcela Martins (Amerek Lab, UFMG)
 
 
 **MÓDULO 3: ARTE E COMUNICAÇÃO - 25 e 26 de julho, 4 e 6 de agosto**
