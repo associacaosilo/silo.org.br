@@ -80,7 +80,7 @@ No processo seletivo será avaliado:
 
 
 **O curso é pago?**<br>
-Sim. A instituição selecionada para realizar a formação deverá investir a quantia de R$ 15.000,00 mil por dupla (R$ 7.500,00 por pessoa).
+Sim. A instituição selecionada para realizar a formação deverá investir a quantia de R$ 15.400,00 mil por dupla (R$ 7.700,00 por pessoa).
 
 
 **O que está incluso neste valor investido?**<br>
