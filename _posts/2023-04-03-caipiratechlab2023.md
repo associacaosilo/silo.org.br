@@ -50,7 +50,7 @@ Os encontros virtuais acontecem **entre 04 de julho e 09 de agosto de 2023, semp
 
 * **REMOTO - 11 de julho** (terça - 16h30 - 18h30) <br> **Plataformas digitais - venda, comunicação e escoamento** <br> com Thiago Hersan (Artista e desenvolvedor, Associado da Silo - Arte e Latitude Rural)
 
-* **REMOTO - 12 de julho** (quarta - 16h30 - 18h30) <br> **Educação Previdenciária - contribuição e aposentadoria no campo** <br> com Ernesto Frech (Gestor ambiental e Servidor do IPREVI - Instituto de Previdência dos Servidores Públicos do Município de Itatiaia)
+* **REMOTO - 12 de julho** (quarta - 16h30 - 18h30) <br> **Educação Previdenciária - contribuição e aposentadoria no campo** <br> 
 
 * **REMOTO - 19 de julho** (quarta - 16h30 - 18h30) <br> **Legalização do produto, da propriedade e do produtor e acesso a políticas públicas** <br> com Junior Florenzano (EMATER RIO - Escritório local de Três Rios-RJ)
 
