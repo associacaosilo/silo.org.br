@@ -7,4 +7,4 @@ published: true
 ref: bio-thiago
 lang: pt
 ---
-Formado em engenharia da computação, trabalhou como designer de circuitos integrados. Hoje trabalha com educação, cultura digital, jornalismo e outras coisas. É integrante do coletivo Astrovandalistas, um grupo que explora conexões entre tecnologia, arte, ativismo e design.
+Formado em engenharia da computação, já trabalhou como designer de circuitos integrados e desenvolvedor web. Foi orientador técnico em instituições culturais como o Museu da Imagem e do Som em São Paulo e Marginalia+Lab em Belo Horizonte. Hoje trabalha com arte, educação, cultura digital e jornalismo.
