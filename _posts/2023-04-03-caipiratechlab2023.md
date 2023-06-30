@@ -68,7 +68,7 @@ Os encontros virtuais acontecem **entre 04 de julho e 09 de agosto de 2023, semp
 
 **MÓDULO 3: ARTE E COMUNICAÇÃO - 25 e 26 de julho, 4 e 6 de agosto**
 
-* **REMOTO - 25 de julho** (terça - 16h30 - 18h30) <br> **Mídias digitais: produção de conteúdo e narrativas** <br> com Priscila Tapajowara (Mídia Índia)
+* **REMOTO - 25 de julho** (terça - 16h30 - 18h30) <br> **Mídias digitais: produção de conteúdo e narrativas** <br> com Priscila Tapajowara (Mídia Indígena)
 
 * **REMOTO - 26 de julho** (quarta - 16h30 - 18h30) <br> **Redes Sociais, vídeo e Canva** <br> com Mariana Silveira (Coordenadora de Comunicação da Silo - Arte e Latitude Rural)
 
