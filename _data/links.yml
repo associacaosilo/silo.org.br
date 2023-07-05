@@ -4,8 +4,8 @@
   url: https://76abd233.sibforms.com/serve/MUIEAHCxZSzs0UYPCOUpcbPgvTJisxKE9UcS0gd2WJeN432kiS3nH9sI87HbGvPvDDnPxzKdEh9wOe0JgWR-58qeWjIfsD19lcOxr9VAnbUH_GmGJ8c5QXxfxsCF29Ruue6pxd4fyuOa7aNneTkHusHNq20JYIqJdkwjDwqlWSRw8oCwjNMNImbBAh4yHDXdr7XJvFBfdIsEgUX3
     
 - indice: 2
-  title: "Silo Site"
-  url: https://silo.org.br/
+  title: "Aula Aberta: Cadernetas Agroecológicas"
+  url: https://www.youtube.com/live/SGsgTjcu1U4?feature=share
 
 - indice: 3
   title: "Conheça mais sobre a Silo acessando o nosso YouTube"
@@ -26,3 +26,7 @@
 - indice: 7
   title: "DOE | DONATE"
   url: https://silo.org.br/doe/
+
+  - indice: 8
+  title: "Silo Site"
+  url: https://silo.org.br/
