@@ -12,3 +12,5 @@ Na Silo - Arte e Latitude Rural, a transparência é parte importante da governa
 
 <h3>Certificado</h3>
 [![](/media/images/certificado_SILO88.png){:.certificado}](/media/docs/certificado_SILO88.pdf){:target="_blank"}
+
+[![](/media/images/Certificado_SILO_2022.png){:.certificado}](/media/docs/Certificado_SILO_2022.pdf){:target="_blank"}
