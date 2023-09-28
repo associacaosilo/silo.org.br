@@ -15,7 +15,7 @@ A convite do Goethe-Institut e do Serviço de Cooperação Cultural do Consulado
 
 A **primeira etapa da residência aconteceu na Silo** entre os dias 09 e 14 de junho, onde recebemos as/os artistas selecionades Azizi Cypriano, Lorena Portela, Rubens Takamine e Yaminaah Abayomi, que depois seguiram para a Despina e a Casa Figueira. 
 
-Por fim, a **Mostra Cidade Floresta: início, meio, início** aconteceu no Centro Cultural Justiça Federal, com entrada gratuita, entre os dias 8 de julho a 6 de agosto. A exposição contou com as obras desenvolvidas durante o programa de residência pelas/os artistas residentes.
+Por fim, a **Mostra Cidade Floresta: início, meio, início** acontece no Centro Cultural Justiça Federal, com entrada gratuita, entre os dias 8 de julho a 6 de agosto. A exposição conta com as obras desenvolvidas durante o programa de residência pelas/os artistas residentes.
 
 Para saber mais e conhecer as obras desenvolvidas pelas/os artistas, acesse o site: [[Cidade Floresta]](http://cidadefloresta.com.br/){:target="_blank"}. 
 
