@@ -5,7 +5,7 @@ title: 'Guia: Como Montar um Laboratório de Experimentação e Inovação em Bi
 cover: media/images/cover7.jpg
 category:
   - silo
-  - guia
+  - labs
 swipebox:
 lang: pt
 ref: guia_iberbibliotecas
