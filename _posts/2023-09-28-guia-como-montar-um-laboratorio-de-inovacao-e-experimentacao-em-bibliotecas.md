@@ -11,7 +11,6 @@ lang: pt
 ref: guia_iberbibliotecas
 ---
 
-### Guia: Como montar um laboratório de experimentação e inovação em bibliotecas
 
 **Como realizar um laboratório de experimentação e inovação em uma biblioteca pública, comunitária e popular na Ibero-América?**
 
