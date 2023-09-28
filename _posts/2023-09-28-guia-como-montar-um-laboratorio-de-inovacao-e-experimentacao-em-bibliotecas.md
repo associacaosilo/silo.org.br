@@ -21,3 +21,7 @@ Dividido em seis capítulos, o guia facilita a compreensão, criação e prátic
 O IBERBIBLIOTECAS é  liderado pela Secretaria-Geral Ibero-Americana, SEGIB.
 
 Para baixar o Guia, acesse: [[português]](https://www.iberbibliotecas.org/por/guia-como-montar-un-laboratorio-de-experimentacion-e-innovacion-en-una-biblioteca/){:target="_blank"} e [[espanhol]](https://www.iberbibliotecas.org/guia-como-montar-un-laboratorio-de-experimentacion-e-innovacion-en-una-biblioteca/){:target="_blank"}. 
+
+Você pode conferir também como foi a conversa com Cinthia e Marcos durante o lançamento do guia, que rolou em novembro de 2022 pelo canal no YouTube do Iberbibliotecas Bibliotecas Públicas: 
+
+<div class="video-wrapper video-wrapper-16x9"><iframe width="560" height="315" src="https://www.youtube.com/embed/MgKII5FjE14?si=mmpTIjjvsRE06Nar" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
