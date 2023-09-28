@@ -12,8 +12,8 @@ ref: guia_iberbibliotecas
 ---
 
 ### Guia: Como montar um laboratório de experimentação e inovação em bibliotecas
-## Como realizar um laboratório de experimentação e inovação em uma biblioteca pública, comunitária e popular na Ibero-América?
 
+**Como realizar um laboratório de experimentação e inovação em uma biblioteca pública, comunitária e popular na Ibero-América?**
 
 Lançado pelo Programa Ibero-Americano de Bibliotecas Públicas - IBERBIBLIOTECAS, o **Guia "Como montar um laboratório de experimentação e inovação em bibliotecas"** - idealizado pela diretora da Silo, Cinthia Mendonça, e o gestor cultural Marcos García, se aprofunda mais em como facilitar encontros para colaboração, experimentação e criação coletiva de projetos que buscam melhorar a vida em comum. 
 
