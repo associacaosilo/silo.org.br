@@ -1,6 +1,6 @@
 ---
 title: Yurij Castelfranchi
-cover: media/images/people/pb_Yurij.jpg
+cover: media/images/people/pb_yurij.jpg
 category: conselho
 published: true
 ref: bio-yurij
