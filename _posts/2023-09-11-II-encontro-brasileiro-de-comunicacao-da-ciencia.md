@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: ‘II Encontro Brasileiro de Comunicação da Ciência’
+title: II Encontro Brasileiro de Comunicação da Ciência
 cover: media/images/cover29.jpg
 category:
   - silo
