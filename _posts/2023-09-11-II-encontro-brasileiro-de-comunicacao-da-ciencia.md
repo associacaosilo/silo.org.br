@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: II Encontro Brasileiro de Comunicação da Ciência
+title: II Encontro Brasileiro de Divulgadores da Ciência
 cover: media/images/cover29.jpg
 category:
   - silo
@@ -13,7 +13,7 @@ ref: encontro_divulgadoresdaciencia
 
 **Como a ciência, comunicação e política podem contribuir com a implementação de diversas políticas públicas?**
 
-Essa foi a pergunta disparadora do **II Encontro Brasileiro de Comunicação da Ciência (EBDC)**, que recebeu divulgadores de ciência, pesquisadores e comunicadores, para discutir temas como: saúde, meio ambiente, desinformação, preconceito de gênero, etnia, sexualidade, entre outros.
+Essa foi a pergunta disparadora do **II Encontro Brasileiro de Divulgadores da Ciência (EBDC)**, que recebeu divulgadores de ciência, pesquisadores e comunicadores, para discutir temas como: saúde, meio ambiente, desinformação, preconceito de gênero, etnia, sexualidade, entre outros.
 
 Nossa Diretora Cinthia Mendonça representou a Silo na primeira mesa com o tema **“O Lugar do Normativo na Comunicação de Ciência”**, ao lado da professora, pesquisadora do Instituto de Física da UFBA e conselheira da Silo, Katemari Rosa, e do artista, professor e pesquisador, formado pela UNIRIO e USP, Guilherme Terreri (Tempero Drag). 
 
