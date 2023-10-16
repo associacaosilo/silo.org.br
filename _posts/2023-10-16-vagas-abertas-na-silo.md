@@ -6,7 +6,8 @@ cover: media/images/cover9.jpg
 category:
   - silo
 swipebox:
-ref: vagas_abertas
+lang: pt
+ref: vaga_designer
 ---
 
 
