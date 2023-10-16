@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: Vagas Abertas para Design & Ilustração
-cover: media/images/cover9.jpg
+cover: media/images/cover_preto.png
 category:
   - silo
 swipebox:
@@ -47,7 +47,8 @@ Dados da vaga:
 - Reuniões semanais;
 - Tipo de contratação: PJ;
 - Oferecemos contrato anual com renovação. O primeiro contrato será de seis meses para período de adaptação;
-- Remuneração: R$ X (para designer gráfico - que necessite formar dupla com um/a/e ilustrador/a/e na equipe) ou R$ X (para pessoas que assumam a função de designer e ilustrador/a/e).
+- Remuneração: a definir
+
 
 Requisitos:
 - Domínio dos princípios básicos e fundamentos do Design
@@ -74,10 +75,6 @@ Vamos receber currículos até o dia **12/01/2024**. Após uma primeira seleçã
 Em caso de dúvidas escreva para contato@silo.org.br
 
 **Obs.:** Entre os dias 16 de dezembro e 15 de janeiro toda a equipe estará de recesso. Assim sendo, os emails ou mensagens enviadas durante esse período terão resposta após o dia 15 de janeiro. 
-
----
-
-**Silo – Arte e Latitude Rural** é uma organização da sociedade civil que cria, acolhe e difunde arte, ciência, tecnologia e agroecologia em zonas rurais, áreas periféricas e de preservação ambiental, estimulando o cruzamento entre técnicas intuitivas e saberes científicos. Na Silo acontecem experiências imersivas e práticas transdisciplinares como residências artísticas e laboratórios de experimentação e inovação. Atualmente, estamos situadas na área de Proteção Ambiental da Serrinha do Alambari, localizada na Serra da Mantiqueira na tríplice fronteira entre os estados de Rio de Janeiro, Minas Gerais e São Paulo e nossas atividades possuem abrangência nacional e internacional. Somos uma organização conduzida por uma equipe de mulheres e estamos comprometidas com a igualdade de raça e gênero.
 
 ---
 
@@ -109,7 +106,7 @@ Dados da vaga:
 - Reuniões semanais;
 - Tipo de contratação: PJ;
 - Oferecemos contrato anual com renovação. O primeiro contrato será de seis meses para período de adaptação;
-- Remuneração: R$ X (com perspectiva de reajuste)
+- Remuneração: a definir
 
 Requisitos:
 
