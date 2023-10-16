@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: Vaga de Moderador/a/e da Comunidade CaipiratechLAB
-cover: media/images/cover30.jpg
+cover: media/images/cover_preto.png
 category:
   - silo
 swipebox:
