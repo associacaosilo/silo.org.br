@@ -8,16 +8,7 @@ category:
 swipebox:
 lang: pt
 ref: vaga_designer
----
 
-   
-**1 Designer/Ilustrador/a/e** (uma pessoa atuando nas duas funções);
-
-**Se você é Designer ou Designer/Ilustrador/a/e** leia atentamente a Chamada para Designer 2024, e no seu respectivo [formulário](https://forms.gle/uZLuyxwgJUTrWj5P9){:target="_blank"} preencha a pergunta que se refere ao seu desejo de trabalhar também com ilustração.
-
----
-
-## **Vaga para Designer 2024**
 
 A **Silo – Arte e Latitude Rural** oferece uma vaga para **Designer**, exclusiva para **mulheres e pessoas trans**, a partir de fevereiro de 2024.
 Buscamos um/a/e Designer para:
