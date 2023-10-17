@@ -10,6 +10,9 @@ lang: pt
 ref: vaga_designer
 
 
+---
+
+
 A **Silo – Arte e Latitude Rural** oferece uma vaga para **Designer**, exclusiva para **mulheres e pessoas trans**, a partir de fevereiro de 2024.
 Buscamos um/a/e Designer para:
 - Criação de Identidades Visuais para novos eventos, programas e/ou campanhas, seguindo o briefing sugerido pela equipe de comunicação.
