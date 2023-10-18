@@ -11,12 +11,13 @@ ref: vaga_moderador
 ---
 
 
-A **Silo – Arte e Latitude Rural** oferece uma vaga para moderador/a/e na comunidade digital do programa CaipiratechLAB. Atualmente, a comunidade conta com cerca de 60 pessoas advindas dos cursos promovidos pelo programa, que atua na área de sistemas alimentares, agricultura familiar, agroecologia, soberania e segurança alimentar, dentre outras temáticas correlatas. 
+A **Silo – Arte e Latitude Rural** oferece uma vaga para **moderador/a/e na comunidade digital** do programa CaipiratechLAB. 
+Atualmente, a comunidade conta com cerca de 60 pessoas advindas dos cursos promovidos pelo programa, que atua na área de sistemas alimentares, agricultura familiar, agroecologia, soberania e segurança alimentar, dentre outras temáticas correlatas. 
 
 Esta é uma vaga afirmativa, dando-se preferência a mulheres cis e pessoas trans, com ênfase em pessoas pretas, LGBTQIAPN+, portadoras de deficiência, indígenas e/ou quilombolas. 
 
 **Buscamos um/a/e moderador/a/e para:**  
-- Mediar/moderar a comunidade de comunicação, em plataforma de mensagens instantâneas, através de interação e envio de postagens coerentes; 
+- Mediar/moderar a comunidade do curso do CaipiratechaLAB, em plataforma de mensagens instantâneas, através de interação e envio de postagens coerentes; 
 - Enviar e-mails ou mensagens de whatsapp privativas quando necessário; 
 - Colaborar como auxiliar da coordenação na comunicação com integrantes do grupo; 
 - Estabelecer cronograma de interação junto à coordenação programática;
