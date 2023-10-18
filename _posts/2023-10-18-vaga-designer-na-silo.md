@@ -13,15 +13,19 @@ ref: vaga_designer
 ---
 
 
-A **Silo – Arte e Latitude Rural** oferece uma vaga para **Designer**, exclusiva para **mulheres e pessoas trans**, a partir de fevereiro de 2024.
-Buscamos um/a/e Designer para:
-- Criação de Identidades Visuais para novos eventos, programas e/ou campanhas, seguindo o briefing sugerido pela equipe de comunicação.
+A **Silo – Arte e Latitude Rural** oferece uma vaga para um/a/e profissional que trabalhe com **Ilustração e Design Gráfico**, exclusiva para **mulheres e pessoas trans**, a partir de fevereiro de 2024.
+
+Buscamos um/a/e profissional para:
+
+- Criação de Identidades Visuais e ilustrações para novos eventos, programas e/ou campanhas da Silo, seguindo o briefing sugerido pela equipe de comunicação.
 - Criação de peças gráficas para mídias sociais, cartazes, banners e outros, seguindo a Identidade Visual de cada uma das frentes da Silo.
+- Dar continuidade às ilustrações do programa CaipiratechLAB, seguindo a Identidade Visual atual.
 - Diagramação de documentos institucionais, seguindo a Identidade Visual da Silo.
 
 Gostaríamos de contar com uma pessoa que:
 
 - Saiba se virar: trabalhar com autonomia a partir das diretrizes propostas, gerenciar prioridades e organizar sua rotina;
+- Trabalhe com diversos estilos de ilustração (perfil generalista);
 - Tenha agilidade para manejar possíveis demandas urgentes e imprevistas
 - Tenha disponibilidade de tempo para se dedicar às demandas diárias
 - Esteja disposta a trabalhar com uma grande diversidade de pessoas, áreas de interesse, modos de ser, agir e pensar;*
@@ -39,18 +43,19 @@ Dados da vaga:
 
 
 Requisitos:
-- Domínio dos princípios básicos e fundamentos do Design
+- Saber ilustrar seguindo uma Identidade Visual pré-existente;
+- Ter a capacidade de criar um estilo de ilustração seguindo um briefing específico;
+- Domínio dos princípios básicos e fundamentos do Design;
 - Domínio das ferramentas do Adobe Illustrator (para criação de peças gráficas em vetor);
-- Domínio das ferramentas do Adobe Photoshop (para tratamento de fotos);
+- Domínio das ferramentas do Adobe Photoshop (para tratamento de fotos) e/ou Procreate;
 - Conhecimento básico do programa Adobe Indesign (desejável);
 - Conhecimento básico do programa Adobe Premiere (desejável);
-- Saber ilustrar será um diferencial; (caso a pessoa escolhida não ilustre, ela terá que trabalhar em conjunto com uma ilustradora na equipe)
 - Ter seu próprio computador;
 - Ser mulher ou pessoa transgênera e moradora da região do Vale do Rio Paraíba e Serra da Mantiqueira, de preferência das cidades a menos de 2:30h de Resende.
 
 Critérios de seleção:
 - Se encaixar no perfil da vaga;
-- Portfólio;
+- Portfólio de Ilustração e Design;
 - Critério de gênero;
 - Critério racial (fenótipo).
 
