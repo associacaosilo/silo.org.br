@@ -46,11 +46,12 @@ A **Silo – Arte e Latitude Rural** oferece uma vaga para um/a/e profissional q
 - Saber ilustrar seguindo uma Identidade Visual pré-existente;
 - Ter a capacidade de criar um estilo de ilustração seguindo um briefing específico;
 - Domínio dos princípios básicos e fundamentos do Design;
-- Domínio das ferramentas do Adobe Illustrator (para criação de peças gráficas em vetor);
-- Domínio das ferramentas do Adobe Photoshop (para tratamento de fotos) e/ou Procreate;
+- Domínio das ferramentas do Adobe Illustrator;
+- Domínio das ferramentas do Adobe Photoshop e/ou Procreate;
 - Conhecimento básico do programa Adobe Indesign (desejável);
 - Conhecimento básico do programa Adobe Premiere (desejável);
 - Ter seu próprio computador;
+- Ter sua própria mesa digitalizadora ou iPad;
 - Ser mulher ou pessoa transgênera e moradora da região do Vale do Rio Paraíba e Serra da Mantiqueira, de preferência das cidades a menos de 2:30h de Resende.
 
 **Critérios de seleção**:
