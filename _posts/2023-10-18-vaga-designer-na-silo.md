@@ -15,14 +15,14 @@ ref: vaga_designer
 
 A **Silo – Arte e Latitude Rural** oferece uma vaga para um/a/e profissional que trabalhe com **Ilustração e Design Gráfico**, exclusiva para **mulheres e pessoas trans**, a partir de fevereiro de 2024.
 
-Buscamos um/a/e profissional para:
+**Buscamos um/a/e profissional para**:
 
 - Criação de Identidades Visuais e ilustrações para novos eventos, programas e/ou campanhas da Silo, seguindo o briefing sugerido pela equipe de comunicação.
 - Criação de peças gráficas para mídias sociais, cartazes, banners e outros, seguindo a Identidade Visual de cada uma das frentes da Silo.
 - Dar continuidade às ilustrações do programa CaipiratechLAB, seguindo a Identidade Visual atual.
 - Diagramação de documentos institucionais, seguindo a Identidade Visual da Silo.
 
-Gostaríamos de contar com uma pessoa que:
+**Gostaríamos de contar com uma pessoa que**:
 
 - Saiba se virar: trabalhar com autonomia a partir das diretrizes propostas, gerenciar prioridades e organizar sua rotina;
 - Trabalhe com diversos estilos de ilustração (perfil generalista);
@@ -32,7 +32,7 @@ Gostaríamos de contar com uma pessoa que:
 
 > *Não aceitamos expressões de ódio ou intolerância em temas de gênero, raça, etnia, posição social, orientação sexual, religiosa, ou de outra procedência.
 
-Dados da vaga:
+**Dados da vaga**:
 
 - Trabalho parcialmente remoto com encontros pontuais em nossa sede (previsão de  1 encontro mensal), na Serrinha do Alambari, no município de Resende – RJ;
 - A jornada de trabalho será de aproximadamente 40 horas semanais, organizada por demandas e cumprimento de tarefas;
@@ -42,7 +42,7 @@ Dados da vaga:
 - Remuneração: R$3.000,00
 
 
-Requisitos:
+**Requisitos**:
 - Saber ilustrar seguindo uma Identidade Visual pré-existente;
 - Ter a capacidade de criar um estilo de ilustração seguindo um briefing específico;
 - Domínio dos princípios básicos e fundamentos do Design;
@@ -53,7 +53,7 @@ Requisitos:
 - Ter seu próprio computador;
 - Ser mulher ou pessoa transgênera e moradora da região do Vale do Rio Paraíba e Serra da Mantiqueira, de preferência das cidades a menos de 2:30h de Resende.
 
-Critérios de seleção:
+**Critérios de seleção**:
 - Se encaixar no perfil da vaga;
 - Portfólio de Ilustração e Design;
 - Critério de gênero;
