@@ -13,7 +13,7 @@ ref: vaga_designer
 ---
 
 
-A **Silo – Arte e Latitude Rural** oferece uma vaga para um/a/e profissional que trabalhe com **Ilustração e Design Gráfico**, exclusiva para **mulheres e pessoas trans**, a partir de fevereiro de 2024.
+A **Silo – Arte e Latitude Rural** oferece uma vaga para um/a/e profissional que trabalhe com **Ilustração e Design Gráfico**, exclusiva para **mulheres e pessoas trans**, a partir de fevereiro de 2024. Buscamos pessoas que residem na região do Vale do Rio Paraíba e Serra da Mantiqueira, de preferência das cidades a menos de 2:30h de Resende.
 
 **Buscamos um/a/e profissional para**:
 
