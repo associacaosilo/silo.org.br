@@ -1,6 +1,6 @@
 ---
 title: 'CaipiratechLAB'
-cover: 'media/images/caipiratechlab.png'
+cover: 'media/images/logo_caipiratechlab.png'
 layout: list
 permalink: /en/caipiratechlab/
 lang: en

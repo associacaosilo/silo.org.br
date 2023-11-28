@@ -10,8 +10,8 @@ parceiras:
     cover: media/images/logos/arts_council.png 
   - link: 'https://prohelvetia.ch'
     cover: media/images/logos/prohelvetia.png
-  - link: 'http://crescentefertil.org.br/'
-    cover: media/images/logos/crescentefertil.jpg
+  - link: 'https://serrapilheira.org'
+    cover: media/images/logos/serrapilheira.png
   - link: 'http://medialab-prado.es'
     cover: media/images/logos/medialabprado.jpg
   - link: 'http://www.procomum.org/'
@@ -28,12 +28,18 @@ parceiras:
     cover: media/images/logos/epicentrodalva.png
   - link: 'https://oama.eco.br/'
     cover: media/images/logos/oama.jpg
-  - link: 'https://ludmilalacerdabarros.com/'
-    cover: media/images/logos/ludmila.png
+  - link: 'http://crescentefertil.org.br/'
+    cover: media/images/logos/crescentefertil.jpg
   - link: 'https://oco.arq.br'
     cover: media/images/logos/oco.png
   - link: 'http://www.fundosocialelas.org/'
     cover: media/images/logos/elas.svg
+  - link: 'https://www.goethe.de/'
+    cover: media/images/logos/logo_goethe_institut.png
+  - link: 'https://www.instagram.com/amerek_ufmg/'
+    cover: media/images/logos/logo_amerek_lab_ciencia.png
+  - link: ''
+    cover: ''
 ref: pagina-sobre
 lang: pt
 ---
@@ -76,24 +82,31 @@ Para nós, trazer o nome Silo é também disputar o imaginário rural que vem se
 
 
 <div class="about-section-title-wrapper">
-  <h3 class="about-section-title" id="apoio">Apoio</h3>
+  <h3 class="about-section-title" id="apoio">Recursos</h3>
 </div>
 
- <div class="parceiras-container">
+<div class="parceiras-container">
+
+  {% assign pCover = site.baseurl | append: '/' | append: 'media/images/logos/ibirapitanga.png' %}
+   <a href="https://www.ibirapitanga.org.br" target="_blank">
+    <div class="parceira-logo" style="background-image: url('{{ pCover }}');">
+    </div>
+  </a>
+
+  {% assign pCover = site.baseurl | append: '/' | append: 'media/images/logos/logo_porticus.png' %}
+   <a href="https://www.porticus.com/" target="_blank">
+    <div class="parceira-logo" style="background-image: url('{{ pCover }}');">
+    </div>
+  </a>
+
+  {% assign pCover = site.baseurl | append: '/' | append: 'media/images/logos/logo_cal.png' %}
+   <a href="https://communityartslab.org/" target="_blank">
+    <div class="parceira-logo" style="background-image: url('{{ pCover }}');">
+    </div>
+  </a>
+
   {% assign pCover = site.baseurl | append: '/' | append: 'media/images/logos/ford_color.svg' %}
   <a href="https://www.fordfoundation.org/" target="_blank">
-    <div class="parceira-logo" style="background-image: url('{{ pCover }}');">
-    </div>
-  </a>
-  
-  {% assign pCover = site.baseurl | append: '/' | append: 'media/images/logos/serrapilheira.png' %} 
-   <a href="https://serrapilheira.org" target="_blank">
-    <div class="parceira-logo" style="background-image: url('{{ pCover }}');">
-    </div>
-  </a>
-    
-  {% assign pCover = site.baseurl | append: '/' | append: 'media/images/logos/ibirapitanga.png' %} 
-   <a href="https://www.ibirapitanga.org.br" target="_blank">
     <div class="parceira-logo" style="background-image: url('{{ pCover }}');">
     </div>
   </a>

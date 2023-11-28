@@ -1,6 +1,6 @@
 ---
 title: 'Labs'
-cover: 'media/images/interactivos.jpg'
+cover: 'media/images/logo_labs_inov_exp.png'
 layout: list
 permalink: /en/labs/
 lang: en

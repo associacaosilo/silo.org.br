@@ -1,6 +1,6 @@
 ---
 title: 'Curso Silo Escola'
-cover: '/media/images/Banner_Silo_Escola_1.png'
+cover: 'media/images/logo_silo_escola.png'
 layout: list
 permalink: /siloescola/
 lang: pt

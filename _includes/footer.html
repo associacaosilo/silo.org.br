@@ -21,24 +21,29 @@
 
 {% if page.permalink == '/' or page.permalink == '/en/' %}
   <div class="footer">
-    {% assign app_sup = 'Apoio:' %}
+    {% assign app_sup = 'Recursos:' %}
     {% if page.lang == 'en' %}
       {% assign app_sup = 'Support:' %}
     {% endif %}
     <div class="footer-line">{{ app_sup }}</div>
-    <a href="https://www.fordfoundation.org/" target="_blank">
-      <div class="footer-line parceira-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/ford_black.svg');"></div>
-    </a>
-    <br>
-    <a href="https://serrapilheira.org" target="_blank">
-      <div class="footer-line parceira-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/serrapilheira.png');');">
+    <div class="home-list">
+      <a class="list-item project-item" href="https://www.ibirapitanga.org.br/" target="_blank">
+        <div class="parceira-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/ibirapitanga.png');');">
+      </div>
+      </a>
+      <a class="list-item project-item" href="https://www.porticus.com/" target="_blank">
+        <div class="parceira-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/logo_porticus.png');');">
+      </div>
+      </a>
+      <a class="list-item project-item" href="https://communityartslab.org/" target="_blank">
+        <div class="parceira-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/logo_cal.png');');">
+      </div>
+      </a>
+      <a class="list-item project-item" href="https://www.fordfoundation.org/" target="_blank">
+        <div class="parceira-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/ford_black.svg');"></div>
+      </a>
+      <br>
     </div>
-    </a>
-    <a href="https://www.ibirapitanga.org.br/" target="_blank">
-      <div class="footer-line parceira-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/ibirapitanga.png');');">
-    </div>
-    </a>
-    
   </div>
 {% endif %}
 
