@@ -11,7 +11,7 @@ ref: vaga_gerenciador
 ---
 
 
-A **Silo – Arte e Latitude Rural** oferece uma vaga para **gerenciador/a/e das nossas comunidades digitais**. 
+A **Silo – Arte e Latitude Rural** oferece uma vaga para **gerenciamento das nossas comunidades digitais**. 
 Atualmente, a Silo está presente em diferentes plataformas sociais, e nutre, também, uma comunidade chamada Portal CaipiratechLAB, que conta com cerca de 60 pessoas advindas dos cursos promovidos pelo programa, que atua na área de sistemas alimentares, agricultura familiar, agroecologia, soberania e segurança alimentar, dentre outras temáticas correlatas. 
 
 Esta é uma vaga afirmativa, dando-se preferência a mulheres cis e pessoas trans, com ênfase em pessoas pretas, LGBTQIAPN+, portadoras de deficiência, indígenas e/ou quilombolas. 
@@ -64,6 +64,9 @@ Preencha o seguinte [FORMULÁRIO](https://forms.gle/GuEU1K5rF1yC86Tv6){:target="
 - Em caso de dúvidas escreva para contato@silo.org.br
 
 Obs.: Entre os dias 16 de dezembro e 15 de janeiro toda a equipe estará de recesso. Assim sendo, os emails ou mensagens enviadas durante esse período terão resposta após o dia 15 de janeiro.
+
+
+![](/media/images/Calendario2vagacommunitymanager.jpg)
 
 ---
 
