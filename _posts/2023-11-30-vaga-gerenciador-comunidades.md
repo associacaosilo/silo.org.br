@@ -1,28 +1,31 @@
 ---
 published: true
 layout: post
-title: Vaga de Moderador/a/e da Comunidade CaipiratechLAB
+title: Vaga de Gerenciador/a/e da Comunidades da Silo 
 cover: media/images/cover_preto.png
 category:
   - silo
 swipebox:
 lang: pt
-ref: vaga_moderador
+ref: vaga_gerenciador
 ---
 
 
-A **Silo – Arte e Latitude Rural** oferece uma vaga para **moderador/a/e na comunidade digital** do programa CaipiratechLAB. 
-Atualmente, a comunidade conta com cerca de 60 pessoas advindas dos cursos promovidos pelo programa, que atua na área de sistemas alimentares, agricultura familiar, agroecologia, soberania e segurança alimentar, dentre outras temáticas correlatas. 
+A **Silo – Arte e Latitude Rural** oferece uma vaga para **gerenciador/a/e das nossas comunidades digitais**. 
+Atualmente, a Silo está presente em diferentes plataformas sociais, e nutre, também, uma comunidade chamada Portal CaipiratechLAB, que conta com cerca de 60 pessoas advindas dos cursos promovidos pelo programa, que atua na área de sistemas alimentares, agricultura familiar, agroecologia, soberania e segurança alimentar, dentre outras temáticas correlatas. 
 
 Esta é uma vaga afirmativa, dando-se preferência a mulheres cis e pessoas trans, com ênfase em pessoas pretas, LGBTQIAPN+, portadoras de deficiência, indígenas e/ou quilombolas. 
 
-**Buscamos um/a/e moderador/a/e para:**  
-- Mediar/moderar a comunidade do curso do CaipiratechaLAB, em plataforma de mensagens instantâneas, através de interação e envio de postagens coerentes; 
+**Buscamos um/a/e gerenciador/a/e para:**  
+- Moderar a comunidade de comunicação, em plataforma de mensagens instantâneas, através de interação e envio de postagens coerentes; 
 - Enviar e-mails ou mensagens de whatsapp privativas quando necessário; 
 - Colaborar como auxiliar da coordenação na comunicação com integrantes do grupo; 
 - Estabelecer cronograma de interação junto à coordenação programática;
 - Elaborar boletins trimestrais em PPT, a partir do conteúdo trocado na comunidade; 
-- Apoiar mensalmente a coordenação programática nos encontros de aprendizado em plataforma de reuniões online.
+- Apoiar mensalmente à coordenação programática nos encontros de aprendizado em plataforma de reuniões online;
+- Gerenciamento de Redes Sociais (agendamento de posts para Facebook, Instagram - Feed, Stories, Carrossel e Reels- e LinkedIn);
+- Engajamento com a Comunidade da Silo nas Redes Sociais;
+- Formulação de relatórios trimestrais com métricas dos diferentes canais de comunicação da Silo;
 
 **Gostaríamos de contar com uma pessoa que:**  
 - Saiba se virar: trabalhar com autonomia, gerenciar prioridades e organizar sua rotina.
@@ -31,38 +34,36 @@ Esta é uma vaga afirmativa, dando-se preferência a mulheres cis e pessoas tran
 - Possua uma perspectiva progressista, feminista e antirracista.
 
 **Dados da vaga:**  
-- Trabalho remoto com um encontro mensal em nossa sede, na Serrinha do Alambari, no município de Resende\|RJ
-- Carga horária estimada de **8 horas semanais**, organizada por demandas e cumprimento de tarefas.
-- Alinhamentos semanais com a coordenação do programa CaipiratechLAB
-- Tipo de contratação: PJ 
-- Oferecemos um primeiro contrato de três meses de experiência, após o qual será renovado para fechamento do período de 12 meses.
-- Honorários: R$ 1.000,00
+-  Trabalho parcialmente remoto com encontros pontuais em nossa sede (previsão de 2 encontros mensais), na Serrinha do Alambari, no município de Resende – RJ;
+- Carga horária estimada de **40 horas semanais**, organizada por demandas e cumprimento de tarefas;
+- Alinhamentos semanais com a coordenação de Comunicação e a coordenação do programa CaipiratechLAB;
+- Tipo de contratação: PJ; 
+- Oferecemos um primeiro contrato de três meses de experiência, após o qual será renovado para fechamento do período de 12 meses;
+- Remuneração: R$ 2.500,00.
 
 **Requisitos:**
-- Residir na região do Vale do Paraíba ou Serra da Mantiqueira, com preferência a pessoas residentes a cerca de 2h da cidade de Resende/RJ.
-- Ter seu próprio computador e smartphone.
-- Conhecimento de uso de plataformas de comunicação instantânea.
-- Familiaridade/conhecimento de elaboração de apresentações 
-- Habilidades com o uso de redes sociais
+- Residir na região do Vale do Paraíba ou Serra da Mantiqueira, com preferência a pessoas residentes a cerca de 2h da cidade de Resende/RJ;
+- Ter seu próprio computador e smartphone;
+- Conhecimento de uso de plataformas de comunicação instantânea;
+- Familiaridade/conhecimento de elaboração de apresentações; 
+- Habilidades com o uso de redes sociais.
 
 **Critérios de seleção:**
-- Se encaixar no perfil da vaga
-- Experiência
-- Critério de gênero
-- Critério racial e fenótipo
+- Se encaixar no perfil da vaga;
+- Experiência;
+- Critério de gênero;
+- Critério racial e fenótipo.
 
 **Forma de Inscrição:**  
 Preencha o seguinte [FORMULÁRIO](https://forms.gle/GuEU1K5rF1yC86Tv6){:target="_blank"}
 
 **Etapas de Seleção:**  
-- Recebimento de Inscrições: **16 de outubro de 2023 a 30 de novembro de 2023**.  
-- Agendamento das Entrevistas com Pré-Selecionades: **01 a 06 de dezembro de 2023**.  
-- Entrevistas: **07 a 13 de dezembro de 2023**  
-- Divulgação dos Resultados:**14 e 15 de dezembro de 2023**  
-- Início das atividades/treinamento:**15 de janeiro de 2024**  
+- Recebimento de Inscrições: **16 de outubro de 2023 a 12 de janeiro de 2024**;  
+- Agendamento das Entrevistas com Pré-Selecionades: **a partir do dia 15 de janeiro de 2024**;    
+- Início das atividades/treinamento:**fevereiro de 2024**;
+- Em caso de dúvidas escreva para contato@silo.org.br
 
-
-![](/media/images/calendario_chamada_moderadora_caip.jpg)
+Obs.: Entre os dias 16 de dezembro e 15 de janeiro toda a equipe estará de recesso. Assim sendo, os emails ou mensagens enviadas durante esse período terão resposta após o dia 15 de janeiro.
 
 ---
 
