@@ -62,7 +62,7 @@ A **Silo – Arte e Latitude Rural** oferece uma vaga para um/a/e profissional q
 
 Se você se identificou, inscreva-se através deste [FORMULÁRIO](https://forms.gle/uZLuyxwgJUTrWj5P9){:target="_blank"}.
 
-Vamos receber currículos até o dia **12/01/2024**. Após uma primeira seleção de currículos, faremos uma entrevista com a/os/us candidatas/os/es prevista para a segunda quinzena de janeiro de 2023. Após o período de entrevistas, chamaremos a/o/u selecionada/o/e para início imediato.
+Vamos receber currículos até o dia **12/01/2024**. Após uma primeira seleção de currículos, faremos uma entrevista com a/os/us candidatas/os/es prevista para a segunda quinzena de janeiro de 2024. Após o período de entrevistas, chamaremos a/o/u selecionada/o/e para início imediato.
 
 ![](/media/images/calendario_chamada_designer.jpg)
 
