@@ -449,7 +449,7 @@ a {
     display: block;
     width: 80%;
     margin: 0 auto 24px;
-    min-height: 200px;
+    // min-height: 200px;
     min-width: 260px;
 
     @include media-query(DESKTOP) {
