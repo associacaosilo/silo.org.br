@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {% include head.html %}
+    {% include meta.html %}
+  </head>
+  <body>
+    {% include newsletter-popup.html %}
+    {% include menu.html %}
+    <div class="main-div">
+      <section class="content-text">
+				<h2 class="post-title">{{ page.title }}</h2>
+				{% include post-date.html %}       
+        {% include submenu.html %}
+				{{ content }}
+				<div class="col-12 mx-auto text-center">
+					<p> <a href="{{ site.baseurl }}/feirinha_da_agricultura_familiar_da_silo_2023_todas/">TODAS AS REGIÕES</a>
+					 <br><br>
+					<a href="{{ site.baseurl }}/feirinha_da_agricultura_familiar_da_silo_2023_regiao_ma">Serra da Mantiqueira</a>
+					<br>
+					<a href="{{ site.baseurl }}/feirinha_da_agricultura_familiar_da_silo_2023_regiao_sm">Serra do Mar</a>
+					 <br> 
+					 <a href="{{ site.baseurl }}/feirinha_da_agricultura_familiar_da_silo_2023_regiao_vp">Vale do Paraíba</a>
+					 <br> 
+					<a href="{{ site.baseurl }}/feirinha_da_agricultura_familiar_da_silo_2023_regiao_bo">Serra da Bocaina</a>
+					<br> 
+					<a href="{{ site.baseurl }}/feirinha_da_agricultura_familiar_da_silo_2023_regiao_vc">Vale do Café</a></p>
+				</div>
+        
+				<h1 class="post-title">{{ page.regiao }}</h1>
+				{% if page.ref != "caipiratechlab18122023" %}
+					<p>Clique nas imagens para ver em tela cheia</p>
+				{% endif %}
+
+        {% if page.swipebox %}
+          {% include swipebox.html prefix=page.swipebox %}
+        {% endif %}
+        {% include share.html %}
+      </section>
+    </div>
+    {% include footer.html %}
+  </body>
+</html>
