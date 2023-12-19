@@ -5,6 +5,7 @@ swipebox: /images/caipiratechlab_noticia18122023/ma/
 title: "Feirinha da Agricultura Familiar da Silo 2023 - SERRA DA MANTIQUEIRA"
 date: 2023-12-18
 regiao: "Serra da Mantiqueira"
+lang: pt
 ---
 
 Prepare sua ceia com alimentos saudáveis de quem produz perto de você!

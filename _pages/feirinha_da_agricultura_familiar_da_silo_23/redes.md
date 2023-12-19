@@ -5,6 +5,7 @@ swipebox: /images/caipiratechlab_noticia18122023/
 title: Feirinha da Agricultura Familiar da Silo 2023
 date: 2023-12-18
 regiao: "Todas as regiões"
+lang: pt
 ---
 
 Prepare sua ceia com alimentos saudáveis de quem produz perto de você!

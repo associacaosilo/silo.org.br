@@ -5,6 +5,7 @@ swipebox: /images/caipiratechlab_noticia18122023/vp/
 title: "Feirinha da Agricultura Familiar da Silo 2023 - VALE DO PARAÍBA"
 date: 2023-12-18
 regiao: "Vale do Paraíba"
+lang: pt
 ---
 
 Prepare sua ceia com alimentos saudáveis de quem produz perto de você!

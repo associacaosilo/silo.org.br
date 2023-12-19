@@ -5,6 +5,7 @@ swipebox: /images/caipiratechlab_noticia18122023/sm/
 title: "Feirinha da Agricultura Familiar da Silo 2023 - SERRA DO MAR"
 date: 2023-12-18
 regiao: "Serra do Mar"
+lang: pt
 ---
 
 Prepare sua ceia com alimentos saudáveis de quem produz perto de você!

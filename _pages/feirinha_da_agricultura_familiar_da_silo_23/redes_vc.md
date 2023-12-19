@@ -5,6 +5,7 @@ swipebox: /images/caipiratechlab_noticia18122023/vc/
 title: "Feirinha da Agricultura Familiar da Silo 2023 - VALE DO CAFÉ"
 date: 2023-12-18
 regiao: "Vale do Café"
+lang: pt
 ---
 
 Prepare sua ceia com alimentos saudáveis de quem produz perto de você!
