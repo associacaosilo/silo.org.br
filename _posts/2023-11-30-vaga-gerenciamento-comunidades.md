@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Vaga de Gerenciador/a/e de Comunidades da Silo 
+title: Vaga de Gerenciador/a/e de Comunidades da Silo - ENCERRADA
 cover: media/images/cover_preto.png
 category:
   - silo
