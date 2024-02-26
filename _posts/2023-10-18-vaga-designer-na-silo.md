@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Vaga Aberta para Design & Ilustração
+title: Vaga Aberta para Design & Ilustração - ENCERRADA
 cover: media/images/cover_preto.png
 category:
   - silo
