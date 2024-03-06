@@ -77,11 +77,11 @@ Os encontros virtuais irão acontecer entre **29 de abril e 29 de maio de 2024**
 
 - **REMOTO - 21 de maio (terça - 17:00 - 19:00)**  
   **Redes Sociais e Canva**  
-  com Mari Silveira (Coordenadora de Comunicação da Silo - Arte e Latitude Rural)
+  com Mariana Silveira (Coordenadora de Comunicação da Silo - Arte e Latitude Rural)
 - **AULA PRESENCIAL -** AULAS PRESENCIAIS - 24 de maio (sexta - 14h - 18h)  
   Laboratório de Práticas | A definir
-- **REMOTO - 29 de maio** - (quarta - 17h00 - 18h00)  
-  Encontro de encerramento
+  
+- **Encontro de encerramento – 29 de maio**  (quarta - 17h00 - 18h00)  
 
 *As aulas regulares serão realizadas pela plataforma Zoom e as aulas abertas serão transmitidas pelo YouTube.*
 
