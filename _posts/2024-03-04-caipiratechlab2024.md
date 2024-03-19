@@ -42,20 +42,17 @@ Os encontros virtuais irão acontecer entre **29 de abril e 29 de maio de 2024**
 
 - **Encontro de abertura – 29 de abril** (segunda - 17:00 - 18:00)
 
-### **MÓDULO 1: GESTÃO, FINANÇAS E ARRANJOS ECONÔMICOS - 30 de abril a 14 de maio**
+### **MÓDULO 1: GESTÃO, FINANÇAS E ARRANJOS ECONÔMICOS - 2 de maio a 14 de maio**
 
-- **REMOTO - 30 de abril -** (terça - 17:00 - 19:00)  
-  **Cadernetas Agroecológicas e a produção de alimentos nos quintais femininos**  
-  A definir
 - **REMOTO - 2 de maio -** (quinta - 17:00 - 19:00)  
   **Aula Aberta Online - Previdência Social Rural: a efetivação da proteção social dos agricultores familiares e camponeses**  
-  com Amanda Moura (Advogada previdenciarista, especialista em Planejamento Previdenciário e Aposentadorias)
+  com Amanda Moura (Advogada previdenciarista, especialista em Planejamento Previdenciário e Aposentadorias) e mediação de Marcela Martins (Amerek Lab, UFMG)
 - **REMOTO - 7 de maio -** (terça - 17:00 - 19:00)  
   **Novos arranjos na produção de alimentos: modelo agrossilvopastoril -consórcio de animais, cultivos agrícolas e árvores**  
   com Gilberto Terra (Diretor Técnico da Courageous Land) e Rafael Ciraqui (Gerente agroflorestal - Courageous Land)
 - **REMOTO - 8 de maio -** (quarta - 17:00 - 19:00)  
   **Aula Aberta Online - Crédito de carbono em comunidades: como funciona na prática?**  
-  com Sinéia do Vale (Gestora ambiental e coordenadora do departamento ambiental do Conselho Indígena de Roraima)
+  com Sinéia do Vale (Gestora ambiental e coordenadora do departamento ambiental do Conselho Indígena de Roraima) e mediação de Marcela Martins (Amerek Lab, UFMG)
 - **REMOTO - 14 de maio - (terça - 17:00 - 19:00)**  
   **Agroecologia LAVIDA - Turismo Rural Comunitário e juventude camponesa**  
   com Maria Laís (Técnica de campo na cadeia produtiva da apicultura pelo SENAR, Zootecnista, e membro do espaço agroecologia LAVIDA)
@@ -79,7 +76,10 @@ Os encontros virtuais irão acontecer entre **29 de abril e 29 de maio de 2024**
   **Redes Sociais e Canva**  
   com Mariana Silveira (Coordenadora de Comunicação da Silo - Arte e Latitude Rural)
 - **AULA PRESENCIAL -** AULAS PRESENCIAIS - 24 de maio (sexta - 14h - 18h)  
-  Laboratório de Práticas | A definir
+  Laboratório de Práticas | Tecelagem natural (10h - 12h)
+  com Liliana Wiegand (Tecelã)
+  Laboratório de Práticas | Narrativas em vídeo (14h - 18h)
+  com Rosane Svartman (Cineasta e escritora)
   
 - **Encontro de encerramento – 29 de maio**  (quarta - 17h00 - 18h00)  
 
