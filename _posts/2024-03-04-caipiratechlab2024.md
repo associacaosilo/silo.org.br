@@ -51,7 +51,7 @@ Os encontros virtuais irão acontecer entre **29 de abril e 29 de maio de 2024**
   **Novos arranjos na produção de alimentos: modelo agrossilvopastoril -consórcio de animais, cultivos agrícolas e árvores**  
   com Gilberto Terra (Diretor Técnico da Courageous Land) e Rafael Ciraqui (Gerente agroflorestal - Courageous Land)
 - **REMOTO - 14 de maio - (terça - 17:00 - 19:00)**  
-  **Agroecologia LAVIDA - Turismo Rural Comunitário e juventude camponesa**  
+  **Aula Aberta Online - Agroecologia LAVIDA - Turismo Rural Comunitário e juventude camponesa**  
   com Maria Laís (Técnica de campo na cadeia produtiva da apicultura pelo SENAR, Zootecnista, e membro do espaço agroecologia LAVIDA)
 - **REMOTO - 28 de maio -** (terça - 17:00 - 19:00)  
   **Desmistificando o mercado de carbono em comunidades: oportunidade para todos**  
