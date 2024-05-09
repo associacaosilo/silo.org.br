@@ -50,12 +50,13 @@ Os encontros virtuais irão acontecer entre **29 de abril e 29 de maio de 2024**
 - **REMOTO - 7 de maio -** (terça - 17:00 - 19:00)  
   **Novos arranjos na produção de alimentos: modelo agrossilvopastoril -consórcio de animais, cultivos agrícolas e árvores**  
   com Gilberto Terra (Diretor Técnico da Courageous Land) e Rafael Ciraqui (Gerente agroflorestal - Courageous Land)
-- **REMOTO - 8 de maio -** (quarta - 17:00 - 19:00)  
-  **Aula Aberta Online - Crédito de carbono em comunidades: como funciona na prática?**  
-  com Sinéia do Vale (Gestora ambiental e coordenadora do departamento ambiental do Conselho Indígena de Roraima) e mediação de Marcela Martins (Amerek Lab, UFMG)
 - **REMOTO - 14 de maio - (terça - 17:00 - 19:00)**  
   **Agroecologia LAVIDA - Turismo Rural Comunitário e juventude camponesa**  
   com Maria Laís (Técnica de campo na cadeia produtiva da apicultura pelo SENAR, Zootecnista, e membro do espaço agroecologia LAVIDA)
+- **REMOTO - 28 de maio -** (terça - 17:00 - 19:00)  
+  **Desmistificando o mercado de carbono em comunidades: oportunidade para todos**  
+  com Pedro Rajão (engenheiro florestal responsável pela quantificação de carbono em áreas de reflorestamento do programa “Produtores de Água e Floresta”, do
+  Comitê Guandu
 
 ### **MÓDULO 2: SAÚDE E MUDANÇAS CLIMÁTICAS - 15 a 26 de maio**
 
