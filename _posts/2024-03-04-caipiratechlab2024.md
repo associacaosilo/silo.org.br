@@ -52,7 +52,8 @@ Os encontros virtuais irão acontecer entre **29 de abril e 29 de maio de 2024**
   com Gilberto Terra (Diretor Técnico da Courageous Land) e Rafael Ciraqui (Gerente agroflorestal - Courageous Land)
 - **REMOTO - 14 de maio - (terça - 17:00 - 19:00)**  
   **Aula Aberta Online - Agroecologia LAVIDA - Turismo Rural Comunitário e juventude camponesa**  
-  com Maria Laís (Técnica de campo na cadeia produtiva da apicultura pelo SENAR, Zootecnista, e membro do espaço agroecologia LAVIDA)
+  com Maria Laís (Técnica de campo na cadeia produtiva da apicultura pelo SENAR, Zootecnista, e membro do espaço Agroecologia LAVIDA) e mediação de Marcela
+  Martins (Amerek Lab, UFMG)
 - **REMOTO - 28 de maio -** (terça - 17:00 - 19:00)  
   **Desmistificando o mercado de carbono em comunidades: oportunidade para todos**  
   com Pedro Rajão (engenheiro florestal responsável pela quantificação de carbono em áreas de reflorestamento do programa “Produtores de Água e Floresta”, do
@@ -76,7 +77,7 @@ Os encontros virtuais irão acontecer entre **29 de abril e 29 de maio de 2024**
 - **REMOTO - 21 de maio (terça - 17:00 - 19:00)**  
   **Redes Sociais e Canva**  
   com Mariana Silveira (Coordenadora de Comunicação da Silo - Arte e Latitude Rural)
-- **AULA PRESENCIAL -** AULAS PRESENCIAIS - 24 de maio (sexta - 14h - 18h)  
+- **AULA PRESENCIAL -** AULAS PRESENCIAIS - 24 de maio (sexta - 10h - 18h)  
   Laboratório de Práticas | Tecelagem natural (10h - 12h)
   com Liliana Wiegand (Tecelã)
   Laboratório de Práticas | Narrativas em vídeo (14h - 18h)
