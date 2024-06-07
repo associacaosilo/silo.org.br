@@ -1,7 +1,7 @@
 ---
 title: Paloma Goulart
 link: 
-cover: media/images/people/bio_palomagoulart
+cover: media/images/people/bio_palomagoulart.jpg
 category: equipe
 published: true
 ref: bio-paloma
