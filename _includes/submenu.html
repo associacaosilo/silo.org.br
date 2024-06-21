@@ -32,6 +32,22 @@
   </div>
 {% endif %}
 
+{% if page.permalink == '/transparencia/' %}
+  <div class="about-nav">
+    <a class="nav-item" data-id="#auditoria">Auditoria</a>
+    <a class="nav-item" data-id="#salvaguarda">Salvaguarda</a>
+    <style>
+      @media only screen and (min-width: 640px) {
+          a.nav-item[data-id="#politica-de-dados"] {
+              font-size: 0.7rem;
+          }
+      }
+    </style>
+    <a class="nav-item" data-id="#politica-de-dados">Política de Dados</a>
+    <a class="nav-item" data-id="#relatorios">Relatórios</a>
+  </div>
+{% endif %}
+
 {% if page.layout == 'post' and page.lang != 'en' and page.ref != nil and page.ref != '' %}
   {% assign posts = site.posts | where:"ref", page.ref %}
   <div class="language-nav">
