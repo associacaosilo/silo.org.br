@@ -18,7 +18,9 @@
         {% if page.swipebox %}
           {% include swipebox.html prefix=page.swipebox %}
         {% endif %}
-        {% include share.html %}
+        {% if page.path contains '_posts/' %}
+          {% include share.html %}
+        {% endif %}
       </section>
     </div>
     {% include footer.html %}

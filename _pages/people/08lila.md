@@ -2,7 +2,7 @@
 title: Lila Almendra
 cover: media/images/people/Lila_bio3.jpeg
 category: equipe
-published: true
+published: false
 ref: bio-lila
 lang: pt
 ---

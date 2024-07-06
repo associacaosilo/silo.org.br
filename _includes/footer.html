@@ -1,11 +1,15 @@
 <div class="footer">
-  <div class="footer-line">Silo - Arte e Latitude Rural</div>
-  <a class="footer-line" href="mailto:contato@silo.org.br" target="_blank">contato@silo.org.br</a>
-  <div class="footer-line">
+  <!-- <div class="footer-line">Silo - Arte e Latitude Rural</div> -->
+  <img src="{{ site.baseurl }}/media/images/silo_logo_footer.png" alt="Silo - Arte e Latitude Rural" class="logo-footer">
+  <div class="footer-line">Fale com a gente: <a href="mailto:contato@silo.org.br" target="_blank">contato@silo.org.br</a></div>
+  <div class="footer-line">Caixa Postal: 82230</div>
+  <div class="footer-line"><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" target="_blank" rel="license noopener noreferrer" class="cc-footer"><img src="{{ site.baseurl }}/media/images/creative-commons_cc.svg" alt=""><img src="{{ site.baseurl }}/media/images/creative-commons_by.svg" alt=""><img src="{{ site.baseurl }}/media/images/creative-commons_sa.svg" alt="">CC BY-SA 4.0</a></div>
+  <!-- <a class="footer-line" href="mailto:contato@silo.org.br" target="_blank">contato@silo.org.br</a> -->
+  <!-- <div class="footer-line">
     {% include social-icons.html %}
-  </div>
+  </div> -->
 
-  {% assign paypal_button = 'https://www.paypalobjects.com/pt_BR/i/btn/btn_donate_LG.gif' %}
+  <!-- {% assign paypal_button = 'https://www.paypalobjects.com/pt_BR/i/btn/btn_donate_LG.gif' %}
   {% if page.lang == 'en' %}
     {% assign paypal_button = 'https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif' %}
   {% endif %}
@@ -16,7 +20,7 @@
     <input type="image" src="{{ paypal_button }}" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
     <img alt="" border="0" src="https://www.paypal.com/en_BR/i/scr/pixel.gif" width="1" height="1" />
     </form>
-  </div>
+  </div> -->
 </div>
 
 {% if page.permalink == '/' or page.permalink == '/en/' %}

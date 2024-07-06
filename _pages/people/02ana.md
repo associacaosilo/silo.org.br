@@ -2,7 +2,7 @@
 title: Ana Faustino
 cover: media/images/people/pb_ana.jpg
 category: equipe
-published: true
+published: false
 ref: bio-ana
 lang: pt
 ---

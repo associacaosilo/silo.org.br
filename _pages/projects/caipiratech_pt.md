@@ -10,7 +10,9 @@ ref: caipiratechlab-list
   
 O CaipiratechLAB colabora com o fortalecimento dos sistemas agroalimentares regionais e sua expressão cultural por meio de mapeamento, cursos e desenvolvimento de tecnologia.  
 
-**Últimos atividades:**
+**Últimas atividades:**
+
+Confira fotos dos últimos encontros [aqui](https://www.flickr.com/photos/196098481@N03/albums/){:target="_blank"}!
 
 [![Banner Curso CaipiratechLAB 2024](/media/images/Banner_Curso_CaipiratechLAB2024.png)](/caipiratechlab2024/){:target="_blank"}
 

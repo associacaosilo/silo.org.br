@@ -915,3 +915,49 @@ i.fa-1_5x {
   text-decoration: none;
   cursor: pointer;
 }
+
+.certificados {
+  display: flex;
+  flex-direction: column; /* As imagens são empilhadas verticalmente no mobile */
+  padding-top: 10px; /* Adiciona um espaço no topo */
+  /* width: 100%; */
+}
+.certificados a {
+  width: 100%; /* Cada imagem ocupa toda a largura da div no mobile */
+  height: auto;
+  margin-bottom: 5px; /* Adiciona um espaço entre as imagens */
+}
+.certificados a:last-child {
+  margin-bottom: 0; /* Remove a margem do último item para evitar espaço extra no final */
+}
+
+/* Class: "certificados"
+Media query para telas mais largas (desktops) */
+@media only screen and (min-width: 640px) {
+  .certificados {
+      flex-direction: row; /* As imagens são alinhadas horizontalmente no desktop */
+      justify-content: space-between; /* Distribui o espaço entre as imagens */
+  }
+  .certificados a {
+      width: calc(100% - 5px); /* divide o espaço das imagens e retira 10px para espaço */
+      margin-bottom: 0; /* Remove a margem no desktop */
+      margin-right: 5px; /* Adiciona um espaço entre as imagens */
+  }
+  .certificados a:last-child {
+      margin-right: 0; /* Remove espaço extra no último item */
+  }
+}
+
+.logo-footer{
+  height: 1.7rem;
+}
+
+.cc-footer{
+  display:inline-block;
+}
+
+.cc-footer img{
+  height:22px!important;
+  margin-right:3px;
+  vertical-align:text-bottom;
+}

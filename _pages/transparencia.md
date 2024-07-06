@@ -13,9 +13,18 @@ Na Silo - Arte e Latitude Rural, a transparência é parte importante da governa
 <div class="about-section-title-wrapper">
   <h3 class="about-section-title" id="auditoria">Auditoria</h3>
 </div>
-[![](/media/images/certificado_SILO88.png){:.certificado}](/media/docs/certificado_SILO88.pdf){:target="_blank"}
 
-[![](/media/images/Certificado_SILO_2022.png){:.certificado}](/media/docs/Certificado_SILO_2022.pdf){:target="_blank"}
+<div class="certificados">
+  <a href="/media/docs/certificado_silo_2021.pdf" target="_blank">
+    <img src="/media/images/certificado_silo_2021.jpg" alt="Certificado de Auditoria 2021">
+  </a>
+  <a href="/media/docs/certificado_silo_2022.pdf" target="_blank">
+    <img src="/media/images/certificado_silo_2022.jpg" alt="Certificado de Auditoria 2022">
+  </a>
+  <a href="/media/docs/certificado_silo_2023.pdf" target="_blank">
+    <img src="/media/images/certificado_silo_2023.jpg" alt="Certificado de Auditoria 2023">
+  </a>
+</div>
 
 <div class="about-section-title-wrapper">
   <h3 class="about-section-title" id="salvaguarda">Salvaguarda</h3>
