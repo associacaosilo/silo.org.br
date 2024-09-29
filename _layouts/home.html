@@ -28,7 +28,7 @@
         {% endif %}
         <a href="/noticias/"><h2>{{ news }}</h2></a>
         <div class="home-list">
-          {% assign posts = site.posts | where:"lang", page.lang %}
+          {% assign posts = site.posts | where:"lang", page.lang | where:"category", "silo" %}
           {% for post in posts limit: 2 %}
             {% assign pCover = site.baseurl | append: '/' | append: post.cover %}
             <a class="list-item" href="{{ site.baseurl }}{{ post.url }}">

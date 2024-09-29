@@ -107,12 +107,14 @@ prose:
               value: 'residence'
             - name: 'CaipiratechLAB'
               value: 'caipiratechlab'
+            - name: 'Silo Escola'
+              value: 'siloescola'
             - name: 'Convocatória'
               value: 'opencall'
             - name: 'Participação'
-              value: 'participacao'
-            - name: 'Publicação'
-              value: 'publicacao'
+              value: 'participation'
+            - name: 'Biblioteca'
+              value: 'library'
       - name: "lang"
         field:
           element: "select"

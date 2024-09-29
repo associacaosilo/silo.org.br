@@ -2,10 +2,10 @@
 published: true
 title: Biblioteca
 permalink: /biblioteca/
-ref: library
+ref: lib-list
 lang: pt
+layout: list
+category: library
 ---
-
-<h2>Biblioteca</h2>
 
 Em breve mais informações.
