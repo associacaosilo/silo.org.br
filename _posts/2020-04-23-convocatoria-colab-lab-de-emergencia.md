@@ -5,7 +5,7 @@ title: 'Convocatória para Colaboradores | Laboratório de Emergência | COVID-1
 cover: media/images/cover2.jpg
 category:
   - silo
-  - interactivos
+  - labs
   - callclosed
 lang: pt
 ref: lab-de-emergencia-2020-convocatoria-colab

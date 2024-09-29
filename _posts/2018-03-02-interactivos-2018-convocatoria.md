@@ -5,7 +5,7 @@ title: 'Convocatória para Interactivos?’18: Tecnosfera Rural'
 cover: media/images/cover17.jpg
 category:
   - silo
-  - interactivos
+  - labs
   - callclosed
 lang: pt
 ref: interactivos-2018-call

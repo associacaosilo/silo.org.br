@@ -5,7 +5,7 @@ title: 'Call for Interactivos?’19: Rural Science'
 cover: media/images/cover20.jpg
 category:
   - silo
-  - interactivos
+  - labs
   - callclosed
 lang: en
 ref: interactivos-2019-call

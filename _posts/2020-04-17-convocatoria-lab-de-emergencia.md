@@ -5,7 +5,7 @@ title: 'Convocatória para o Laboratório de Emergência | COVID-19'
 cover: media/images/cover1.jpg
 category:
   - silo
-  - interactivos
+  - labs
   - callclosed
 lang: pt
 ref: lab-de-emergencia-2019-convocatoria

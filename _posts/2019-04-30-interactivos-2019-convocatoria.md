@@ -5,7 +5,7 @@ title: 'Convocatória para Interactivos?’19: Ciência na Roça'
 cover: media/images/cover20.jpg
 category:
   - silo
-  - interactivos
+  - labs
   - callclosed
 lang: pt
 ref: interactivos-2019-call

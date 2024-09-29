@@ -5,7 +5,7 @@ title: 'Convocatoria para proyectos | Laboratorio en Gobernanza'
 cover: media/images/cover28.jpg
 category:
   - silo
-  - laboratorios
+  - labs
   - opencall
 swipebox:
 lang: es

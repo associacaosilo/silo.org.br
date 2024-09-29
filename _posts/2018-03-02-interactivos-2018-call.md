@@ -5,7 +5,7 @@ title: 'Call for Interactivos?’18: Rural Technosphere'
 cover: media/images/cover17.jpg
 category:
   - silo
-  - interactivos
+  - labs
   - callclosed
 lang: en
 ref: interactivos-2018-call

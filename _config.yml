@@ -37,7 +37,6 @@ defaults:
 social:
   instagram: "https://www.instagram.com/silo.arte.e.latitude.rural"
   facebook: "https://www.facebook.com/silo.arte.latitude.rural"
-  linkedin: "https://www.linkedin.com/company/silo-arte-e-latitude-rural/?originalSubdomain=br"
   twitter: ""
   flickr: ""
   github: "https://github.com/associacaosilo"
@@ -46,6 +45,7 @@ social:
   soundcloud: ""
   tumblr: ""
   pinterest: ""
+  linkedin: "https://www.linkedin.com/company/silo-arte-e-latitude-rural"
   envelope-o: "mailto:contato@silo.org.br"
 twitter_user: "SiloLatitude"
 
@@ -101,8 +101,8 @@ prose:
               value: 'silo'
             - name: 'Encontrada'
               value: 'encontrada'
-            - name: 'Interactivos!'
-              value: 'interactivos'
+            - name: 'Laboratórios'
+              value: 'labs'
             - name: 'Residência'
               value: 'residence'
             - name: 'CaipiratechLAB'

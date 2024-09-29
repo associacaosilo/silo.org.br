@@ -5,8 +5,7 @@ title: 'Preguntas Frecuentes - Laboratorio en Gobernanza'
 cover: media/images/cover28.jpg
 category:
   - silo
-  - interactivos
-  - laboratorios
+  - labs
 swipebox:
 lang: es
 ref: opencallfaq

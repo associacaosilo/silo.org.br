@@ -5,7 +5,7 @@ title: 'Convocatória para Colaboradores | Interactivos?’19: Ciência na Roça
 cover: media/images/cover16.jpg
 category:
   - silo
-  - interactivos
+  - labs
   - callclosed
 lang: pt
 ref: interactivos-collaborators-2019-call

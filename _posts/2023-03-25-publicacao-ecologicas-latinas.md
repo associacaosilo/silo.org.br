@@ -5,7 +5,7 @@ title: 'Livro Eco-Lógicas Latinas'
 cover: media/images/cover6.jpg
 category:
   - silo
-  - residencia
+  - residence
 swipebox:
 lang: pt
 ref: livro_ecologicaslatinas

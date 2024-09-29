@@ -4,7 +4,7 @@ title: "Documentation Interactivos?'16: Water and Autonomy"
 cover: media/images/cover4.jpg
 category:
   - silo
-  - interactivos
+  - labs
 swipebox: i16
 lang: en
 ref: doc-interactivos16

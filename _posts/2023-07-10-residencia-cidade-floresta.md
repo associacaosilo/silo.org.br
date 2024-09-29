@@ -5,7 +5,7 @@ title: 'II Edição do Programa de Residência Cidade Floresta'
 cover: media/images/cover28.jpg
 category:
   - silo
-  - residencia
+  - residence
 swipebox:
 lang: pt
 ref: residencia_cidadefloresta

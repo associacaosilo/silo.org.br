@@ -4,7 +4,7 @@ layout: post
 title: 'Call for Projects | Emergency Lab | 2ed.'
 cover: media/images/cover5.jpg
 category:
-  - interactivos
+  - labs
   - callclosed
 lang: en
 ref: lab-emergencia-2ed-call

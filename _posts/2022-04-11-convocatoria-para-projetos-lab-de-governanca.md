@@ -4,8 +4,7 @@ layout: post
 title: 'Chamada para Projetos | Laboratório de Governança'
 cover: media/images/cover5.jpg
 category:
-  - laboratorios
-  - interactivos
+  - labs
   - opencall
 lang: pt
 ref: lab-governança-call

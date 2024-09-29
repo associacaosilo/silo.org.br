@@ -6,7 +6,7 @@ cover: media/images/cover28.jpg
 category:
   - silo
   - siloescola
-  - laboratorios
+  - labs
 swipebox:
 lang: es
 ref: siloescola2023faq

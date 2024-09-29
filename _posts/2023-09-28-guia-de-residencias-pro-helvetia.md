@@ -5,7 +5,7 @@ title: 'Guia: Residências na América do Sul - Pro Helvetia'
 cover: media/images/cover8.jpg
 category:
   - silo
-  - residencia
+  - residence
 swipebox:
 lang: pt
 ref: guia_residenciasprohelvetia

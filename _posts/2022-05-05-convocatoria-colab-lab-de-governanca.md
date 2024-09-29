@@ -5,7 +5,7 @@ title: 'Chamada para Colaboradoras/es | Laboratório de Governança'
 cover: media/images/cover24.jpg
 category:
   - silo
-  - laboratorios
+  - labs
   - opencall
 swipebox:
 lang: pt

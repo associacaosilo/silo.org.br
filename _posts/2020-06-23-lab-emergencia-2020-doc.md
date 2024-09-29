@@ -4,7 +4,7 @@ layout: post
 title: 'Confira a documentação | 2ed. | Laboratório de Emergência | COVID–19 '
 cover: media/images/cover8.jpg
 category:
-  - interactivos
+  - labs
 lang: pt
 ref: lab-emergencia-2ed-doc
 ---

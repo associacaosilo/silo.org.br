@@ -5,7 +5,7 @@ title: 'Convocatoria para colaboradoras/es | Laboratorio en Gobernanza'
 cover: media/images/cover26.jpg
 category:
   - silo
-  - laboratorios
+  - labs
   - opencall
 swipebox:
 lang: es

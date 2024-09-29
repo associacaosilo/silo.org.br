@@ -5,7 +5,7 @@ title: 'Call for Collaborators | Interactivos?’19: Rural Sciences'
 cover: media/images/cover16.jpg
 category:
   - silo
-  - interactivos
+  - labs
   - callclosed
 lang: en
 ref: interactivos-collaborators-2019-call
