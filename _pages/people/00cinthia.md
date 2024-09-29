@@ -1,6 +1,6 @@
 ---
 title: Cinthia Mendonça
-cover: media/images/people/cinthia_bio.jpg
+cover: media/images/people/pb_cinthia.jpg
 category: equipe
 published: true
 ref: bio-cinthia

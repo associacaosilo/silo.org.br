@@ -1,6 +1,6 @@
 ---
-title: ' Isabela Muller'
-cover: media/images/people/Isabela.bio.jpeg
+title: 'Isabela Muller'
+cover: media/images/people/pb_isabela.jpg
 category: equipe
 published: false
 ref: bio-isabela

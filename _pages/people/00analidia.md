@@ -1,6 +1,6 @@
 ---
 title: Ana Lídia
-cover: media/images/people/AnaLidia.bio.jpg
+cover: media/images/people/pb_analidia.jpg
 category: conselho
 published: true
 ref: bio-analidia

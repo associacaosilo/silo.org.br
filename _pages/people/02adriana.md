@@ -1,6 +1,6 @@
 ---
 title: Adriana Alves
-cover: media/images/people/pb_adriana.jpeg
+cover: media/images/people/pb_adriana.jpg
 category: conselho
 published: true
 ref: bio-adriana
