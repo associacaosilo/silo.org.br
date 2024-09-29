@@ -104,6 +104,16 @@ prose:
               value: 'interactivos'
             - name: 'Residência'
               value: 'residence'
+            - name: 'CaipiratechLAB'
+              value: 'caipiratechlab'
+            - name: 'Convocatória'
+              value: 'opencall'
+            - name: 'Convocatória'
+              value: 'opencall'
+            - name: 'Participação'
+              value: 'participacao'
+            - name: 'Publicação'
+              value: 'publicacao'
       - name: "lang"
         field:
           element: "select"
