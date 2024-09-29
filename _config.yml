@@ -66,6 +66,7 @@ prose:
     - css
     - js
     - CNAME
+    - Gemfile
     - TODO.md
     - publish.sh
     - media/favicons
@@ -106,8 +107,6 @@ prose:
               value: 'residence'
             - name: 'CaipiratechLAB'
               value: 'caipiratechlab'
-            - name: 'Convocatória'
-              value: 'opencall'
             - name: 'Convocatória'
               value: 'opencall'
             - name: 'Participação'
