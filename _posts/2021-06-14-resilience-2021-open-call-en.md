@@ -6,7 +6,7 @@ cover: media/images/cover28.jpg
 category:
   - silo
   - residence
-  - callclosed
+  - opencall
 swipebox:
 lang: en
 ref: opencall21

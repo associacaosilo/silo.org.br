@@ -4,6 +4,7 @@ layout: post
 title: 'Chamada para Projetos | Laboratório de Governança'
 cover: media/images/cover5.jpg
 category:
+  - silo
   - labs
   - opencall
 lang: pt

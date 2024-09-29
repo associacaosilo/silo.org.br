@@ -5,6 +5,7 @@ title: Vaga de Gerenciador/a/e de Comunidades da Silo - ENCERRADA
 cover: media/images/cover_preto.png
 category:
   - silo
+  - opencall
 swipebox:
 lang: pt
 ref: vaga_gerenciador

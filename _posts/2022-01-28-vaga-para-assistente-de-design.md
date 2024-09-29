@@ -4,6 +4,7 @@ layout: post
 title: Vaga para assistente de design
 category:
   - silo
+  - opencall
 lang: pt
 cover: media/images/cover25.jpg
 ---

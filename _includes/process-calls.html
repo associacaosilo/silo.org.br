@@ -1,0 +1,19 @@
+{% assign def_date = site.time | date: "%Y-%m-%d" | date: "%s" | plus: 0 | minus: 3600 %}
+{% assign now_date = site.time | date: "%Y-%m-%d" | date: "%s" | plus: 0 %}
+
+{% assign calls = site.posts | where:"lang", page.lang | where:"category", "opencall" %}
+
+{% assign closed = "" | split: "" %}
+{% assign open = "" | split: "" %}
+{% for call in calls %}
+  {% assign close_date = def_date %}
+  {% if call.close %}
+    {% assign close_date = call.close | date: "%Y-%m-%d" | date: "%s" | plus: 0 %}
+  {% endif %}
+
+  {% if close_date < now_date %}
+    {% assign closed = closed | push: call %}
+  {% else %}
+    {% assign open = open | push: call %}
+  {% endif %}
+{% endfor %}

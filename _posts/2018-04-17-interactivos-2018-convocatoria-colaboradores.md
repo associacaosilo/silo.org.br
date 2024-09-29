@@ -5,7 +5,7 @@ title: 'Convocatória para Colaboradores | Interactivos?’18: Tecnosfera Rural'
 cover: media/images/cover18.jpg
 category:
   - labs
-  - callclosed
+  - opencall
 lang: pt
 ref: interactivos-collaborators-2018-call
 ---

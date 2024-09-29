@@ -5,6 +5,7 @@ title: A Silo no Festival WOW Rio de Janeiro 2023
 cover: media/images/cover29.jpg
 category:
   - silo
+  - participation
 swipebox:
 lang: pt
 ref: festivalwow2023

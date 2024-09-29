@@ -6,7 +6,7 @@ cover: media/images/cover20.jpg
 category:
   - silo
   - labs
-  - callclosed
+  - opencall
 lang: en
 ref: interactivos-2019-call
 ---

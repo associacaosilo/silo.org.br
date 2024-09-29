@@ -5,7 +5,7 @@ title: 'Chamada para Projetos | Laboratório de Emergência | 3ed.'
 cover: media/images/cover9.jpg
 category:
   - labs
-  - callclosed
+  - opencall
 lang: pt
 ref: lab-emergencia-3ed-call
 ---

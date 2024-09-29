@@ -5,7 +5,7 @@ title: 'Call for Projects | Emergency Lab | 3ed.'
 cover: media/images/cover9.jpg
 category:
   - labs
-  - callclosed
+  - opencall
 lang: en
 ref: lab-emergencia-3ed-call
 ---

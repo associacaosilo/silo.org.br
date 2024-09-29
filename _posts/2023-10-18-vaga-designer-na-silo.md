@@ -5,6 +5,7 @@ title: Vaga Aberta para Design & Ilustração - ENCERRADA
 cover: media/images/cover_preto.png
 category:
   - silo
+  - opencall
 swipebox:
 lang: pt
 ref: vaga_designer

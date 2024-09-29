@@ -5,7 +5,7 @@ title: 'Convocatória: comunicação'
 cover: media/images/cover3.jpg
 category:
   - silo
-  - callclosed
+  - opencall
 lang: pt
 ref: comunicacao-convocatoria
 ---

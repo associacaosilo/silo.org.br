@@ -5,7 +5,7 @@ title: 'Chamada para Projetos | Laboratório de Emergência | 2ed.'
 cover: media/images/cover5.jpg
 category:
   - labs
-  - callclosed
+  - opencall
 lang: pt
 ref: lab-emergencia-2ed-call
 ---

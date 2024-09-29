@@ -6,7 +6,7 @@ cover: media/images/cover1.jpg
 category:
   - silo
   - labs
-  - callclosed
+  - opencall
 lang: pt
 ref: lab-de-emergencia-2019-convocatoria
 ---

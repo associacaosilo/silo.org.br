@@ -135,6 +135,11 @@ prose:
           element: "text"
           label: "prefixo dos arquivos de imagem para serem incluidos na galeria"
           placeholder: "p1_"
+      - name: "close"
+        field:
+          element: "text"
+          label: "Data de encerramento da chamada (formato: aaaa-mm-dd)"
+          placeholder: "2024-02-22"
     _pages:
       - name: "layout"
         field:
