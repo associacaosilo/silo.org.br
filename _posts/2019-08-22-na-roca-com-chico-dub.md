@@ -20,7 +20,7 @@ Em algumas concepções indígenas elas devem estar localizadas próximas às al
 Desejamos oferecer com a nossa ROÇA um ambiente de imersão para criar e provar novas práticas de vivenciar o nosso mundo: diferentes pedagogias, novas linguagens, outras dinâmicas cognitivas e processos epistêmicos, alimentando a pesquisa que se realiza nas nossas roças, nas fronteiras do conhecimento.
 
 
-![](/media/images/roca02.jpeg)
+![](/media/images/roca02.jpg)
 
 **Chico Dub** é curador com foco em música experimental, música de vanguarda e arte sonora. É curador do Festival Novas Frequências, co-curador do Brazil Music Conference e curador e gestor do Incidências Sonoras, plataforma de música experimental e arte sonora vinculada ao Coincidência, um programa de intercâmbios culturais entre a Suiça e América do Sul desenvolvido pelo instituto suiço Pro Helvetia.
 
