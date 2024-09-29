@@ -19,8 +19,12 @@
         <div class="home-list">
           {% assign posts = site.posts | where:"lang", page.lang %}
           {% for post in posts %}
-             {% assign pCover = site.baseurl | append: '/' | append: post.cover %}
-            <a class="list-item" href="{{ site.baseurl }}{{ post.url }}">
+            {% assign pCover = site.baseurl | append: '/' | append: post.cover %}
+            {% assign cats = post.category | where_exp:"c","c != 'silo'" | join: " cat-" %}
+            {% if cats.size > 0 %}
+              {% assign cats = cats | prepend: "cat-" %}
+            {% endif %}
+            <a class="list-item {{ cats }}" href="{{ site.baseurl }}{{ post.url }}" >
               <div class="list-item-image" style="background-image: url('{{ pCover }}');">
                 <div class="list-item-title">{{ post.title }}
                 </div>
