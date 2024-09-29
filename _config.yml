@@ -125,6 +125,8 @@ prose:
               value: 'pt'
             - name: 'English'
               value: 'en'
+            - name: 'Español'
+              value: 'es'
       - name: "ref"
         field:
           element: "text"
