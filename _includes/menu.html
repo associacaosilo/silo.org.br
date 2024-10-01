@@ -3,20 +3,20 @@
   {% assign home_url = site.baseurl | append: '/en' %}
 {% endif %}
 
-<div id="menu-mobile">
+<div id="silo-menu-mobile">
   <i id="show-menu" class="fa fa-bars menu-icon show-menu" aria-hidden="true"></i>
   <a class="menu-title" href="{{ home_url }}/">
-    <div class="menu-logo"></div>
+    <div class="silo-menu-logo"></div>
   </a>
-  <div id="menu-retratil" class="menu-hide">
+  <div id="silo-menu-retratil" class="menu-hide">
     <div id="hide-menu" class="menu-icon hide-menu">✖</div>
     {% include menu-items.html %}
   </div>
 </div>
 
-<div id="menu">
+<div id="silo-menu">
   <a class="menu-title" href="{{ home_url }}/">
-    <div class="menu-logo"></div>
+    <div class="silo-menu-logo"></div>
   </a>
   <div class="menu-container">
     {% include menu-items.html %}

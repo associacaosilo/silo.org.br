@@ -1,0 +1,169 @@
+---
+---
+
+@import 'constants';
+@import url('fonts.css');
+
+#silo-menu-mobile {
+  display: block;
+  width: 100%;
+  z-index: 10;
+  position: relative;
+  padding: 30px 0;
+  text-align: center;
+
+  #silo-menu-retratil {
+    position: absolute;
+    z-index: 20;
+    width: 100%;
+    background-color: $BACKGROUND;
+    top: 0;
+    padding-top: 30px;
+    transition: left 0.3s linear;
+
+    &.menu-hide {
+      left: -100vw;
+      @include media-query(DESKTOP) {
+        left: 0;
+      }
+    }
+
+    &.menu-show {
+      left: 0;
+    }
+  }
+
+  .menu-icon {
+    font: normal 1.5rem $FONT-MENU;
+    color: $LINK-COLOR;
+    cursor: pointer;
+    transition: color $TRANSITION-PERIOD linear;
+  
+    &:hover {
+      color: $LINK-COLOR-HOVER;
+    }
+  }
+
+  .show-menu {
+    position: absolute;
+    left: 2 * $RESPONSIVE-SPACING;
+    top: 30px;
+    font-size: 24px;
+  }
+
+  .hide-menu {
+    position: absolute;
+    top: 20px;
+    right: 2 * $RESPONSIVE-SPACING;
+    font-size: 24px;
+  }
+
+  .silo-menu-section {
+    width: 66%;
+    margin: 0 auto;
+  }
+
+  @include media-query(DESKTOP) {
+    display: none;
+  }
+}
+
+.silo-menu-section {
+  border-top: 2px #000 solid;
+  padding: 10px 0;
+  li a {
+    text-transform: uppercase;
+    font: normal $MENU-ITEM-SIZE $FONT-MENU;
+    line-height: 1.7;
+    vertical-align: middle;
+  }
+}
+
+.silo-menu-logo {
+  height: 100%;
+  min-height: 90px;
+  background-image: url("{{site.baseurl}}/media/images/logos/silo.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+#silo-menu {
+  padding: 30px 0;
+  box-sizing: border-box;
+  background-color: $MENU-BACKGROUND-COLOR;
+  width: 100%;
+  margin: 0 auto;
+  display: none;
+
+  @include media-query(DESKTOP) {
+    width: 85%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-right: 5%;
+  }
+
+  .menu-title {
+    width: 25%;
+  }
+
+  .menu-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    padding: 0 2vw;
+  }
+
+  .silo-menu-section {
+    width: 20%;
+    max-width: 200px;
+    min-width: 150px;
+  }
+  .silo-menu-section+.silo-menu-section {
+    margin-left: 10%;
+  }
+}
+
+#silo-menu-mobile ul, #silo-menu ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+.silo-social-menu-item {
+  padding: 0;
+  font-size: $MENU-ITEM-SIZE;
+  font-weight: normal;
+  color: $MENU-TEXT-COLOR;
+  text-transform: none;
+  display: inline;
+
+  @include media-query(DESKTOP) {
+    font-size: $MENU-ITEM-SIZE;
+  }
+
+  &:visited {
+    color: $MENU-TEXT-COLOR;
+  }
+
+  &:hover {
+    color: $MENU-TEXT-HOVER-COLOR;
+  }
+}
+
+.menu-language-section {
+  height: 100%;
+
+  .menu-language-option {
+    display: inline;
+    height: 100%;
+    line-height: 100%;
+    vertical-align: bottom;
+  }
+  
+  .menu-language-option-selected {
+    font-weight: bold;
+    border-bottom: 2px solid #222;
+  }
+}
