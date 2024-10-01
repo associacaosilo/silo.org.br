@@ -1,18 +1,23 @@
+{% assign silo_baseurl = site.baseurl %}
+{% if site.silo_url %}
+  {% assign silo_baseurl = site.silo_url %}
+{% endif %}
+
 <div class="silo-menu-section">
   <ul>
     {% case page.lang %}
       {% when 'en' %}
-        <li><a href="{{ site.baseurl }}/about/">about</a></li>
-        <li><a href="{{ site.baseurl }}/who-we-are/">who we are</a></li>
-        <li><a href="{{ site.baseurl }}/news/">news</a></li>
-        <li><a href="{{ site.baseurl }}/library/">library</a></li>
-        <li><a href="{{ site.baseurl }}/donate/">donate</a></li>
+        <li><a href="{{ silo_baseurl }}/about/">about</a></li>
+        <li><a href="{{ silo_baseurl }}/who-we-are/">who we are</a></li>
+        <li><a href="{{ silo_baseurl }}/news/">news</a></li>
+        <li><a href="{{ silo_baseurl }}/library/">library</a></li>
+        <li><a href="{{ silo_baseurl }}/donate/">donate</a></li>
       {% else %}
-        <li><a href="{{ site.baseurl }}/sobre/">sobre</a></li>
-        <li><a href="{{ site.baseurl }}/quem-somos/">quem somos</a></li>
-        <li><a href="{{ site.baseurl }}/noticias/">notícias</a></li>
-        <li><a href="{{ site.baseurl }}/biblioteca/">biblioteca</a></li>
-        <li><a href="{{ site.baseurl }}/transparencia/">Transparência</a></li>
+        <li><a href="{{ silo_baseurl }}/sobre/">sobre</a></li>
+        <li><a href="{{ silo_baseurl }}/quem-somos/">quem somos</a></li>
+        <li><a href="{{ silo_baseurl }}/noticias/">notícias</a></li>
+        <li><a href="{{ silo_baseurl }}/biblioteca/">biblioteca</a></li>
+        <li><a href="{{ silo_baseurl }}/transparencia/">Transparência</a></li>
     {% endcase %}
   </ul>
 </div>
@@ -20,21 +25,23 @@
   <ul>
     {% case page.lang %}
       {% when 'en' %}
-        <li><a href="{{ site.baseurl }}/en/caipiratechlab/">caipiraTech lab</a></li>
-        <li><a href="{{ site.baseurl }}/en/encontrada/">encontrada</a></li>
-        <li><a href="{{ site.baseurl }}/en/residencia/">residency</a></li>
-        <li><a href="{{ site.baseurl }}/en/labs/">labs</a></li>
-        <li><a href="{{ site.baseurl }}/en/siloescola/">silo school</a></li>
+        <li><a href="{{ silo_baseurl }}/en/caipiratechlab/">caipiraTech lab</a></li>
+        <li><a href="{{ silo_baseurl }}/en/encontrada/">encontrada</a></li>
+        <li><a href="{{ silo_baseurl }}/en/residencia/">residency</a></li>
+        <li><a href="{{ silo_baseurl }}/en/labs/">labs</a></li>
+        <li><a href="{{ silo_baseurl }}/en/siloescola/">silo school</a></li>
       {% else %}
-        <li><a href="{{ site.baseurl }}/caipiratechlab/">caipiraTech lab</a></li>
-        <li><a href="{{ site.baseurl }}/encontrada/">encontrada</a></li>
-        <li><a href="{{ site.baseurl }}/residencia/">residência</a></li>
-        <li><a href="{{ site.baseurl }}/labs/">laboratórios</a></li>
-        <li><a href="{{ site.baseurl }}/siloescola/">silo escola</a></li>
+        <li><a href="{{ silo_baseurl }}/caipiratechlab/">caipiraTech lab</a></li>
+        <li><a href="{{ silo_baseurl }}/encontrada/">encontrada</a></li>
+        <li><a href="{{ silo_baseurl }}/residencia/">residência</a></li>
+        <li><a href="{{ silo_baseurl }}/labs/">laboratórios</a></li>
+        <li><a href="{{ silo_baseurl }}/siloescola/">silo escola</a></li>
     {% endcase %}
   </ul>
 </div>
 <div class="silo-menu-section">
   {% include social-icons.html %}
-  {% include language-selection.html %}
+  {% if page.lang %}
+    {% include language-selection.html %}
+  {% endif %}
 </div>

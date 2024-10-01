@@ -11,12 +11,13 @@
   position: relative;
   padding: 30px 0;
   text-align: center;
+  background-color: $MENU-BACKGROUND-COLOR;
 
   #silo-menu-retratil {
     position: absolute;
     z-index: 20;
     width: 100%;
-    background-color: $BACKGROUND;
+    background-color: $MENU-BACKGROUND-COLOR;
     top: 0;
     padding-top: 30px;
     transition: left 0.3s linear;
@@ -33,22 +34,16 @@
     }
   }
 
-  .menu-icon {
-    font: normal 1.5rem $FONT-MENU;
-    color: $LINK-COLOR;
-    cursor: pointer;
-    transition: color $TRANSITION-PERIOD linear;
-  
-    &:hover {
-      color: $LINK-COLOR-HOVER;
-    }
-  }
-
   .show-menu {
     position: absolute;
     left: 2 * $RESPONSIVE-SPACING;
     top: 30px;
     font-size: 24px;
+    width: 32px;
+    height: 32px;
+    img {
+      width: 100%;
+    }
   }
 
   .hide-menu {
@@ -69,13 +64,28 @@
 }
 
 .silo-menu-section {
-  border-top: 2px #000 solid;
+  border-top: 2px $MENU-TEXT-COLOR solid;
   padding: 10px 0;
   li a {
     text-transform: uppercase;
     font: normal $MENU-ITEM-SIZE $FONT-MENU;
     line-height: 1.7;
     vertical-align: middle;
+    color: $MENU-TEXT-COLOR;
+    &:hover {
+      color: $MENU-TEXT-HOVER-COLOR;
+    }
+  }
+}
+
+.menu-icon {
+  font: normal 1.5rem $FONT-MENU;
+  color: $MENU-TEXT-COLOR;
+  cursor: pointer;
+  transition: color $TRANSITION-PERIOD linear;
+
+  &:hover {
+    color: $MENU-TEXT-HOVER-COLOR;
   }
 }
 
