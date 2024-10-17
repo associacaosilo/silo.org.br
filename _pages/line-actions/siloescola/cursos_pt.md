@@ -1,5 +1,5 @@
 ---
-title: 'Silo Escola'
+title: 'Cursos Silo Escola'
 cover: '/media/images/Banner_Curso_Como_Fazer_Labs_2.png'
 layout: list
 permalink: /siloescola/cursos
