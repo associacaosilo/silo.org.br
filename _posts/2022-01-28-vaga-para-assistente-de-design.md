@@ -7,7 +7,6 @@ category:
   - opencall
 lang: pt
 cover: media/images/cover25.jpg
-close: '2024-10-31'
 ---
 A **Silo – Arte e Latitude Rural** oferece uma vaga para **assistente de design** da organização. A vaga é exclusiva para **mulheres e pessoas trans**.
 
