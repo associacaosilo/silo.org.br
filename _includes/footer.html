@@ -1,4 +1,33 @@
-<div class="footer">
+{% if page.permalink == '/' or page.permalink == '/en/' %}
+  <div class="footer">
+    {% assign app_sup = 'Recursos:' %}
+    {% if page.lang == 'en' %}
+      {% assign app_sup = 'Support:' %}
+    {% endif %}
+    <!-- <div class="footer-line">{{ app_sup }}</div> -->
+    <h2>{{ app_sup }}</h2>
+    <div class="home-list">
+      <a class="list-item support-item" href="https://www.ibirapitanga.org.br/" target="_blank">
+      <div class="parceira-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/ibirapitanga.png');');">
+      </div>
+      </a>
+      <a class="list-item support-item" href="https://www.porticus.com/" target="_blank">
+        <div class="parceira-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/logo_porticus.png');');">
+      </div>
+      </a>
+      <a class="list-item support-item" href="https://communityartslab.org/" target="_blank">
+        <div class="parceira-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/logo_cal.png');');">
+      </div>
+      </a>
+      <a class="list-item support-item" href="https://www.fordfoundation.org/" target="_blank">
+        <div class="parceira-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/ford_black.svg');"></div>
+      </a>
+      <br>
+    </div>
+  </div>
+{% endif %}
+
+<div class="footer footer-section">
   <!-- <div class="footer-line">Silo - Arte e Latitude Rural</div> -->
   <img src="{{ site.baseurl }}/media/images/silo_logo_footer.png" alt="Silo - Arte e Latitude Rural" class="logo-footer">
   <div class="footer-line">Fale com a gente: <a href="mailto:contato@silo.org.br" target="_blank">contato@silo.org.br</a></div>
@@ -22,35 +51,6 @@
     </form>
   </div> -->
 </div>
-
-{% if page.permalink == '/' or page.permalink == '/en/' %}
-  <div class="footer">
-    {% assign app_sup = 'Recursos:' %}
-    {% if page.lang == 'en' %}
-      {% assign app_sup = 'Support:' %}
-    {% endif %}
-    <div class="footer-line">{{ app_sup }}</div>
-    <div class="home-list">
-      <a class="list-item project-item" href="https://www.ibirapitanga.org.br/" target="_blank">
-        <div class="parceira-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/ibirapitanga.png');');">
-      </div>
-      </a>
-      <a class="list-item project-item" href="https://www.porticus.com/" target="_blank">
-        <div class="parceira-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/logo_porticus.png');');">
-      </div>
-      </a>
-      <a class="list-item project-item" href="https://communityartslab.org/" target="_blank">
-        <div class="parceira-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/logo_cal.png');');">
-      </div>
-      </a>
-      <a class="list-item project-item" href="https://www.fordfoundation.org/" target="_blank">
-        <div class="parceira-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/ford_black.svg');"></div>
-      </a>
-      <br>
-    </div>
-  </div>
-{% endif %}
-
 
 <!-- START - We recommend to place the below code in footer or bottom of your website html  -->
 <script>

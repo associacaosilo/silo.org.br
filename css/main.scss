@@ -468,6 +468,15 @@ a {
     }
   }
 
+  .support-item {
+    @include media-query(DESKTOP) {
+      width: 20%;
+      min-width: 150px;
+      // height: 20vw;
+      min-height: 120px;
+      max-height: 230px;
+    }
+  }
   .people-image-wrapper {
     width: 100%;
     padding-top: 100%;
@@ -583,6 +592,10 @@ a {
   @include media-query(DESKTOP) {
     width: 85%;
   }
+}
+
+.footer.footer-section {
+  padding: 40px 0;
 }
 
 .footer-line {

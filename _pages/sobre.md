@@ -67,19 +67,26 @@ Uma escola livre e transdisciplinar. Uma escola rural criada para oferecer curso
 <div class="about-section-title-wrapper">
   <h3 class="about-section-title" id="historico">Histórico</h3>
 </div>
-Silo nasceu em 2017, apoiada pela experiência, de algumas de nós, no desenvolvimento de modelos laboratoriais de experimentação e inovação, há 10 anos. A convergência da associação foi possível a partir da sinergia entre pessoas que habitam, trabalham e pesquisam espaços rurais e de áreas ambientais. A Silo é uma estação rural que, na atualidade, traz perguntas e respostas pertinentes às questões de nosso tempo. Ela nasce do desejo de promover o trânsito de saberes entre campo e cidade, evidenciando que nas extremas periferias há produção de pensamento, arte, ciência e tecnologia. Ela reflete, por um lado, a experiência geracional de filhos e netos de camponeses, gente do campo que se relaciona com as novas tecnologias. Por outro, reflete a vivência de uma geração urbana que deseja estar no campo.
+Nascemos como organização da sociedade civil em 2017, apoiadas por um conjunto de experiências anteriores em práticas artísticas, em processos de experimentação, em projetos colaborativos e comunitários com referência em  arte, ciência, tecnologia, agroecologia e gestão.  
+
+A iniciativa foi da artista Cinthia Mendonça, filha e neta de camponeses que traz consigo uma longa experiência profissional - como artista e gestora - na criação de Residências Artísticas e Laboratórios Colaborativos em comunidades latino americanas. Cinthia reuniu artistas, cientistas, desenvolvedores e ativistas para configurar a base associativa da Silo. Logo depois vieram os Conselhos fiscal,  consultivo e administrativo que atualmente são compostos por pessoas que sentem, pensam e fazem coisas em diferentes áreas do conhecimento: artes, ciência, direito, comunicação, economia, agroecologia,  meio ambiente, ativismo e ajuda humanitária.  
+
+A convergência da associação foi possível a partir da sinergia entre pessoas que habitam, trabalham, pesquisam e reconhecem o valor do campo e do campesinato em relação aos biomas e à biodiversidade.  
+
+A Silo trabalha na elaboração de boas perguntas pertinentes às questões de nosso tempo e na criação de novos imaginários. Ela nasce do desejo de promover o trânsito de saberes entre campo e cidade, evidenciando que nas extremas periferias há uma imensa produção de conhecimento, cultura e tecnologia. Ela reflete, por um lado, a experiência geracional de filhos e netos de camponeses, gente do campo, dos mares, rios e florestas que se relaciona com as novas tecnologias. Por outro, reflete a vivência de uma geração urbana que deseja estar no campo.  
 
 <div class="about-section-title-wrapper">
   <h3 class="about-section-title" id="silo">Silo</h3>
 </div>
-Queremos evocar o símbolo comunal presente nos silos, dando a ver sua potência coletiva e a importância do que é bem comum. 
-  
-Um silo é uma edificação que funciona como recipiente para armazenar, em temperatura adequada, sementes, grãos, biomassa e manufaturados. Cavados no solo, os silos arcaicos tinham uma forma redonda e senoidal, que ficavam ou no centro das ocas, nos quintais, ou em espaços comunais que atendiam até mesmo grandes populações como as do Egito antigo. No Brasil, os Yawalapiti, como os demais alto-xinguanos que vivem basicamente da agricultura e da pesca, ainda armazenam o polvilho e a massa de mandioca em silos no centro das ocas. 
-  
-Hoje, inversa à forma ancestral, a maioria dessas estruturas são verticalizadas. A proliferação desses edifícios verticais está diretamente ligada à superprodução de grãos da agricultura restrita ao comércio de matéria prima. Hoje os silos são - imponentes - símbolos do agronegócio,  deixaram de ser estruturas de subsistência e passaram a funcionar como meio de acumulação e exploração. 
-  
-Para nós, trazer o nome Silo é também disputar o imaginário rural que vem sendo devastado pelas grandes estruturas econômicas e industriais. É recobrar, de certa forma, a autonomia sobre a produção de alimentos e de pensamentos. É militar pela mitigação dos impactos produzidos pela desconexão do campo e da natureza porque os saberes e o modo de vida do campo e dos povos que vivem na natureza  precisam ser respeitados, cuidados e preservados. 
+Quando escolhemos Silo como nome, queremos evocar o símbolo comunal e ancestral presente nessa estrutura, dando a ver sua potência coletiva e a importância do que é bem comum.  
 
+Um silo funciona como recipiente para armazenar, em temperatura adequada, grãos e produtos beneficiados. Cavados no solo, os silos arcaicos tinham uma forma redonda e senoidal, que ficavam no centro das ocas, nos quintais, ou em espaços comunais que atendiam até mesmo grandes populações como as do Egito antigo. Na Amazônia brasileira, ainda hoje, o silo é usado por alguns povos do alto-xingu, como os Yawalapiti, para armazenar o polvilho e a massa de mandioca.  
+
+Atualmente, inversa à forma ancestral, a maioria dos silos são verticalizados. Essa orientação está diretamente ligada à superprodução de grãos do modelo agroindustrial em um desdobramento tecnológico da matriz latifundiária e exportadora que marca nossa história colonial. Como  símbolo imponente de um modelo extrativista de produção, ele deixou de ser uma estrutura de subsistência e passou a funcionar como meio de acumulação e exploração.  
+
+Somos Silo porque evocamos o bem comum e o bem viver. Como modelo artístico, social e econômico, os silos ancestrais nos ensinam sobre a gestão de recursos comunitários, baseada em valores como solidariedade, autonomia e corresponsabilidade. Acreditamos que o campesinato e os povos que vivem em integração com a natureza representam modos de vida e valores que estão muito além de um modelo de negócios.  
+
+Para nós, trazer o nome Silo é também disputar o imaginário rural que vem sendo devastado pelas grandes estruturas econômicas e industriais. É recobrar, de certa forma, o símbolo do campesinato, a autonomia sobre a produção de alimentos e de pensamentos. É militar pela reconexão do campo com a biodiversidade porque os saberes e o modo de vida dos povos que vivem na natureza precisam ser respeitados, cuidados e preservados. Suas histórias precisam ser contadas e suas práticas continuadas.  
 
 <div class="about-section-title-wrapper">
   <h3 class="about-section-title" id="apoio">Recursos</h3>

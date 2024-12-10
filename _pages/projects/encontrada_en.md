@@ -7,7 +7,7 @@ lang: en
 category: encontrada
 ref: encontrada-list
 ---
-Silo organises EncontrADA, a feminist event focussed on the exchange of knowledge between different feminist and feminine realities. By means of this programme, we offer different courses aimed at technical learning, given by professionals from different areas. Furthermore, we offer assistance or mentorship on projects carried out by women or transgender people.
+Feminist meetings focussed on the exchange of knowledge between different generations of feminists and their sociocultural, racial, economic, ethical and esthetic characteristics. Aimed at women, trans and non-binary people, the meeting may offer courses, training and support for projects, in addition to being a space for political awareness and micropolitical practices.  
   
 **LATEST EVENTS:**
   

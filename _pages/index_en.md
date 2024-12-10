@@ -7,6 +7,8 @@ permalink: /en/
 lang: en
 ref: silo-home
 ---
-**Silo – Art and Rural Latitude** is a non profit organization dedicated to create and promote Art, Science and Technology in rural, peripheral and environmental protection areas, stimulating exchange between intuitive techniques and scientific knowledge. Silo works through immersive experiences, transdisciplinary and collaborative practices.
+We are a civil society organization founded in 2017, run by a team of women committed to promoting dialogue between the countryside and the city, by means of art, science and technology. We exist as an organization to stimulate sociocultural development in the countryside, through a range of programs developed with their own methodologies, that aim to foster the crossover between popular and scientific knowledge, as well as autonomy and cooperation in rural areas.  
 
-We are currently based in Serrinha do Alambari, an APA (Environmental Protection Area), located in the Mantiqueira Mountain Range on the triple border between the states of Rio de Janeiro, Minas Gerais and São Paulo. Our activities encompass local and international communities.Women primarily run our team and we are committed to race and gender equality. 
+Our meeting and interaction space has a 500m² building and is situated in part of the  Atlantic Rainforest, in the Environmental Protection Area of Serrinha do Alambari, located between the Paraíba Valley and the Mantiqueira mountain range, where the borders of the states of Rio de Janeiro, Minas Gerais and São Paulo meet.  
+
+We are guided by the desire to bring about the transit of knowledge between country and city, including urban spaces, valuing peripheries and rural environments with their wealth of experiences. In this way, we have developed a series of programs designed to interweave solid connections between these territories.  

@@ -8,4 +8,8 @@ category: siloescola
 ref: siloescola-list
 ---
 
-More info soon.
+Is a crosswise line of action to our programs, inspired on popular education, which offers training and qualification in different formats, aligned with the organization’s  programs and with the issues and areas of knowledge we work with.  
+
+[![](/media/images/Banner_Silo_Escola_1.png)](construindo_a_silo_escola_pt)
+
+[![](/media/images/Banner_Silo_Escola_1B.png)](cursos)

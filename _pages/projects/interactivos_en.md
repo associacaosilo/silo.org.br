@@ -1,5 +1,5 @@
 ---
-title: 'Labs'
+title: 'Innovation and Experimental Labs'
 cover: 'media/images/logo_labs_inov_exp.png'
 layout: list
 permalink: /en/labs/
@@ -7,9 +7,10 @@ lang: en
 category: labs
 ref: labs-list
 ---
-Every year we organise a laboratory for the development of collaborative open source projects, thereby promoting the learning and exchange of knowledge horizontally and experientially, based on the demands of the projects themselves. Our laboratory produces different types of technologies, either linked to the technical or the social realm, taking in areas as diverse as engineering, economics, social sciences, art, education, among many others. Moreover, we offer mentorship and assistance programmes to replicate the methodology we use in other contexts.
+Are multidisciplinary spaces of collaborative prototyping aimed at developing projects with the participation of collaborators and mentors from different areas.  With a view to empowering and securing autonomy for the participants and territories, the labs offer training and give support to the proposals by means of a range of resources.  
 
-  
+Our labs are spaces promoting an exchange between popular, artistic and scientific knowledges of solutions for the complex problems of our time, incentivizing autonomy, solidarity and contributing to the communities’ prosperity.  
+
 **Past editions documentation:**
     
 [![](/media/images/lab_governanca-min.png)](https://labdegovernanca.silo.org.br){:target="_blank"}

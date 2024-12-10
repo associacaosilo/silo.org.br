@@ -7,6 +7,6 @@ permalink: /
 lang: pt
 ref: silo-home
 ---
-**Silo – Arte e Latitude Rural** é uma organização da sociedade civil que cria, acolhe e difunde arte, ciência, tecnologia e agroecologia em zonas rurais, áreas periféricas e de preservação ambiental, estimulando o cruzamento entre técnicas intuitivas e saberes científicos. Na Silo acontecem experiências imersivas e práticas transdisciplinares como residências artísticas e laboratórios de experimentação e inovação. 
+Somos uma organização da sociedade civil fundada em 2017, conduzida por uma equipe de mulheres, engajada em promover o diálogo entre o campo e a cidade, por meio da arte, da ciência e da tecnologia. Por meio de uma linha de programas desenvolvidos com metodologias próprias, que visam estimular o cruzamento entre saberes populares e científicos, estimulamos o desenvolvimento sociocultural no campo e nas periferias, fomentando a autonomia e a cooperação.  
 
-Atualmente, estamos situadas na área de Proteção Ambiental da Serrinha do Alambari, localizada na Serra da Mantiqueira na tríplice fronteira entre os estados de Rio de Janeiro, Minas Gerais e São Paulo e nossas atividades possuem abrangência nacional e internacional. Somos uma organização conduzida por uma equipe de mulheres e estamos comprometidas com a igualdade de raça e gênero. 
+Nosso espaço de convivência e interação possui edificação de 500m² e está situado em um território da Mata Atlântica, na Área de Proteção Ambiental da Serrinha do Alambari, localizada entre o Vale do Paraíba e a Serra da Mantiqueira, onde se unem as fronteiras dos estados do Rio de Janeiro, Minas Gerais e São Paulo.  

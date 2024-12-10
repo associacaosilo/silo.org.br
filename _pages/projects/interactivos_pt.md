@@ -1,5 +1,5 @@
 ---
-title: 'Laboratórios'
+title: 'Laboratórios de Experimentação e Inovação'
 cover: 'media/images/logo_labs_inov_exp.png'
 layout: list
 permalink: /labs/
@@ -7,7 +7,7 @@ lang: pt
 category: labs
 ref: labs-list
 ---
-Anualmente realizamos um laboratório para o desenvolvimento de projetos de maneira colaborativa a partir do uso de licenças livres, promovendo o aprendizado e a troca de saberes de maneira horizontal e experimental, partindo das demandas dos próprios projetos. Nosso laboratório produz diferentes tipos de tecnologias sejam elas ligadas ao universo técnico ou ao universo social, abrangendo áreas como engenharia, economia, ciências sociais, arte, educação entre tantas outras. Além disso oferecemos serviço de mentoria e assessoria para a replicação da metodologia que usamos em diferentes contextos.
+São espaços multidisciplinares de prototipagem colaborativa para o desenvolvimento de projetos com a participação de colaboradores e mentores de diferentes áreas do conhecimento.  Em busca de capacitar e garantir autonomia aos participantes e aos territórios, os laboratórios oferecem formação e dão suporte às propostas por meio de diferentes recursos.  
   
 **Veja a documentação das edições passadas:**
 
@@ -27,5 +27,3 @@ Mais fotos [aqui](https://www.flickr.com/photos/silolatitude/albums){:target="_b
   
 [![](/media/images/interactivos16.jpg)](https://interactivos.silo.org.br/2016){:target="_blank"}
 Mais fotos [aqui](https://www.flickr.com/photos/interactivos16/){:target="_blank"}
-
-

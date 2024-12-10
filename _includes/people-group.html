@@ -4,9 +4,9 @@
     {% if page.lang == 'en' %}
       {% case include.section %}
         {% when 'diretoria' %}{% assign section_title = 'board' %}
-        {% when 'conselho' %}{% assign section_title = 'council' %}
+        {% when 'conselho' %}{% assign section_title = 'Advisory Council' %}
         {% when 'associadas' %}{% assign section_title = 'associates' %}
-        {% when 'equipe' %}{% assign section_title = 'team' %}
+        {% when 'equipe' %}{% assign section_title = 'The team' %}
       {% endcase %}
     {% endif %}
     <h2 class="people-section-title">{{ section_title }}</h2>

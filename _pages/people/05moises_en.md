@@ -6,7 +6,4 @@ published: true
 ref: bio-moises
 lang: en
 ---
-
-Caribeño de Cartagena. Educador e investigador social, formado de la facultad de ciencias sociales de la Universidad de Cartagena y con estudios en sociología en la Escuela de Ciencias Sociales, Artes y Humanidades -ECSAH- UNAD.
- 
-Trabajador humanitario en zonas de conflictos sociales y armados; se ha desempeñado como jefe de programas sociales de agremiaciones nacionales del sector privado y como asesor de organismos internacionales.
+Moisés Medrano is Caribbean from Cartagena. He is an educator and social investigator, with a Social Sciences degree from the Universidad de Cartagena and with sociological studies from the Escuela de Ciencias Sociales, Artes y Humanidades -ECSAH- UNAD. He is a humanitarian worker in armed social conflict zones; he has headed social programs of national private sector groups and assisted international bodies.  

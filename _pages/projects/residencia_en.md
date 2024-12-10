@@ -1,5 +1,5 @@
 ---
-title: 'Residency'
+title: 'Resilience: Artistic Residency'
 cover: 'media/images/resilience.png'
 layout: list
 permalink: /en/residencia/
@@ -7,6 +7,6 @@ lang: en
 category: residence
 ref: residencia-list
 ---
-Silo organises Resilience: Artist in Residence, which is a programme with an international call for participants. The residency offers artists and curators space and other resources for creation and experimentation. On this programme we offer financial support  for the development of artistic works. Every year we hold an exhibition with artists in residence, guests and publish a catalogue.
+Is an immersion for research and artistic experimentation in an Atlantic Rainforest reserve, aimed at artists and curators, with the participation of scientists and rural communities. The residency offers a territorial experience which differs from urban living, via artistic creation, while creating narratives about the current rural/environmental universe by means of the Arts.  
 
 [![](/media/images/resiliencia.png)](https://resilience.silo.org.br/){:target="_blank"}
