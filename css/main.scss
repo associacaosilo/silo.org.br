@@ -469,6 +469,9 @@ a {
   }
 
   .support-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     @include media-query(DESKTOP) {
       width: 20%;
       min-width: 150px;
@@ -974,3 +977,31 @@ Media query para telas mais largas (desktops) */
   margin-right:3px;
   vertical-align:text-bottom;
 }
+
+.home-image-list-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  align-items: center;
+  justify-content: space-between;
+  
+  .home-image-a {
+    flex: 1 1 200px;
+    width: 100%;
+    display: block;
+  }
+  
+  .home-image {
+    height: auto;
+    object-fit: cover;
+    filter: grayscale(100%);
+    transition: filter $TRANSITION-PERIOD linear;
+    max-height: 200px;
+    
+    &:hover {
+      filter: grayscale(0%);
+    }
+  }
+}
+
+
