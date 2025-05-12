@@ -988,15 +988,18 @@ Media query para telas mais largas (desktops) */
   .home-image-a {
     flex: 1 1 200px;
     width: 100%;
-    display: block;
+    display: flex;
+    justify-content: center;
   }
   
   .home-image {
     height: auto;
+    width: 80%;
     object-fit: cover;
     filter: grayscale(100%);
     transition: filter $TRANSITION-PERIOD linear;
     max-height: 200px;
+    max-width: 300px;
     
     &:hover {
       filter: grayscale(0%);
