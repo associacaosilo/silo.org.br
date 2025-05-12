@@ -469,6 +469,9 @@ a {
   }
 
   .support-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     @include media-query(DESKTOP) {
       width: 20%;
       min-width: 150px;
