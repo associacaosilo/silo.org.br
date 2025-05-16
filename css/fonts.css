@@ -1,6 +1,6 @@
 @font-face {
     font-family: Font1;
-    src: url(fonts/selected/Font1R.ttf);
+    src: url(fonts/base-mono-wide/basemonowidereg-regular.ttf);
     font-style: normal;
     font-weight: normal;
 }
@@ -65,7 +65,7 @@
 
 @font-face {
     font-family: Font3;
-    src: url(fonts/selected/Font3RB.ttf);
+    src: url(fonts/base-mono-wide/base-mono-wide-ot-bold.otf);
     font-style: normal;
     font-weight: bold;
 }

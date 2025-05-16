@@ -46,11 +46,11 @@
         {% endif %}
       </section>
       <section class="list-wrapper project-list">
-        {% assign projects = 'Projetos' %}
+        {% assign projects = 'Progamas' %}
         {% if page.lang == 'en' %}
           {% assign projects = 'Projects' %}
         {% endif %}
-        <h2>{{ projects }}:</h2>
+        <h2>{{ projects }}</h2>
         <!---
         {% assign project-text = 'Nossas atividades se dividem em 4 frentes de ação:' %}
         {% if page.lang == 'en' %}
@@ -58,14 +58,13 @@
         {% endif %}
         {{ project-text }}
         --->
-        <div class="home-list">
+        <div class="home-image-list-wrapper">
           {% assign pages = site.pages | where:"lang", page.lang %}
           {% for page in pages %}
             {% if page.path contains 'projects' %}
               {% assign pCover = site.baseurl | append: '/' | append: page.cover %}
-              <a class="list-item project-item" href="{{ site.baseurl }}{{ page.url }}">
-                <div class="list-item-image" style="background-image: url('{{ pCover }}');">
-                </div>
+              <a class="home-image-a" href="{{ site.baseurl }}{{ page.url }}">
+                <img class="home-image" src="{{ pCover }}"></img>
               </a>
             {% endif %}
           {% endfor %}
