@@ -115,6 +115,8 @@ prose:
               value: 'participation'
             - name: 'Biblioteca'
               value: 'library'
+            - name: 'Ocupa Silo'
+              value: 'ocupasilo'
       - name: "lang"
         field:
           element: "select"
