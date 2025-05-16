@@ -14,13 +14,27 @@
 
         {% include process-calls.html %}
         {% if open.size > 0 %}
-          <br>
-          {% if page.lang == 'en' %}
-            <a class="nav-call" href="{{ site.baseurl }}/open-calls">Open Calls</a>
-          {% else %}
-            <a class="nav-call" href="{{ site.baseurl }}/convocatorias">Convocatórias Abertas</a>
-          {% endif %}
+        <br>
+        {% if page.lang == 'en' %}
+        <a class="nav-call" href="{{ site.baseurl }}/open-calls">Open Calls</a>
+        {% else %}
+        <a class="nav-call" href="{{ site.baseurl }}/convocatorias">Convocatórias Abertas</a>
         {% endif %}
+        {% endif %}
+      </section>
+      <section class="home-banner-section">
+        <div class="banner-item">
+          <img src="/media/images/banner/banner_nossas_publicacoes.svg" alt="Nossas Publicações" class="banner-image">
+          <div class="banner-text">
+            <span>// Conheça Nossas Publicações //</span>
+          </div>
+        </div>
+        <div class="banner-item">
+          <img src="/media/images/banner/banner_nossos_programas.svg" alt="Nossos Programas" class="banner-image">
+          <div class="banner-text">
+            <span>// Acesse Nossos Programas //</span>
+          </div>
+        </div>
       </section>
       <section class="list-wrapper">
         {% assign news = 'Últimas Notícias' %}
