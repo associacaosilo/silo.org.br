@@ -450,7 +450,7 @@ a {
     width: 80%;
     margin: 0 auto 24px;
     // min-height: 200px;
-    min-width: 260px;
+    min-width: 230px;
 
     @include media-query(DESKTOP) {
       width: 45%;

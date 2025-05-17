@@ -1,7 +1,7 @@
 ---
 title: 'Ocupa Silo'
 layout: list
-permalink: /ocupasilo-en/
+permalink: /en/ocupasilo/
 lang: en 
 category: ocupa-silo
 ref: ocupa-silo
