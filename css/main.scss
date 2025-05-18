@@ -981,6 +981,14 @@ Media query para telas mais largas (desktops) */
   vertical-align:text-bottom;
 }
 
+.support-title {
+  margin-bottom: 60px;
+
+  @media (min-width: 768px) {
+  margin-bottom: 25px;
+  }
+}
+
 .home-image-list-wrapper {
   display: flex;
   flex-wrap: wrap;

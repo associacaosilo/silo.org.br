@@ -23,18 +23,18 @@
         {% endif %}
       </section>
       <section class="home-banner-section">
-        <div class="banner-item">
+        <a class="banner-item" href="/biblioteca/">
           <img src="/media/images/banner/banner_nossas_publicacoes.svg" alt="Nossas Publicações" class="banner-image">
           <div class="banner-text">
             <span>// Conheça Nossas Publicações //</span>
           </div>
-        </div>
-        <div class="banner-item">
+        </a>
+        <a class="banner-item" href="/programas/">
           <img src="/media/images/banner/banner_nossos_programas.svg" alt="Nossos Programas" class="banner-image">
           <div class="banner-text">
             <span>// Acesse Nossos Programas //</span>
           </div>
-        </div>
+        </a>
       </section>
       <section class="list-wrapper">
         {% assign news = 'Últimas Notícias' %}
@@ -75,10 +75,11 @@
         <div class="home-image-list-wrapper">
           {% assign pages = site.pages | where:"lang", page.lang %}
           {% for page in pages %}
-            {% if page.path contains 'projects' %}
+            {% if page.path contains 'projects' and page.cover %}
               {% assign pCover = site.baseurl | append: '/' | append: page.cover %}
+              {% assign coverScale = page.coverScale | default: 1 %}
               <a class="home-image-a" href="{{ site.baseurl }}{{ page.url }}">
-                <img class="home-image" src="{{ pCover }}"></img>
+                <img class="home-image" src="{{ pCover }}" style="transform: scale({{ coverScale }});" alt="{{ page.title }}">
               </a>
             {% endif %}
           {% endfor %}
