@@ -13,14 +13,14 @@ category:
 ref: programas
 ---
 
-[![](/media/images/programs/banner/banners_caipiratech.svg)](../caipiratechlab)
-[![](/media/images/programs/banner/banners_residencia.svg)](../residencia)
-[![](/media/images/programs/banner/banners_laboratorios.svg)](../labs)
-[![](/media/images/programs/banner/banners_encontrada.svg)](../encontrada)
+[![](/media/images/programs/banner/banners_caipiratech.jpg)](../caipiratechlab)
+[![](/media/images/programs/banner/banners_residencia.jpg)](../residencia)
+[![](/media/images/programs/banner/banners_laboratorios.jpg)](../labs)
+[![](/media/images/programs/banner/banners_encontrada.jpg)](../encontrada)
 
 ## Transversalidades
 
-[![](/media/images/programs/banner/banners_siloescola.svg)](../siloescola)
-[![](/media/images/programs/banner/banners_ocupasilo.svg)](../ocupasilo)
+[![](/media/images/programs/banner/banners_siloescola.jpg)](../siloescola)
+[![](/media/images/programs/banner/banners_ocupasilo.jpg)](../ocupasilo)
 
 

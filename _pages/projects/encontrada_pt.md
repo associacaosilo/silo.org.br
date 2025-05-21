@@ -1,7 +1,6 @@
 ---
 title: 'EncontrADA'
 cover: 'media/images/logo_encontrada.svg'
-coverScale: 0.8
 layout: list
 permalink: /encontrada/
 lang: pt

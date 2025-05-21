@@ -22,17 +22,21 @@
         {% endif %}
         {% endif %}
       </section>
-      <section class="home-banner-section">
-        <a class="banner-item" href="/biblioteca/">
-          <img src="/media/images/banner/banner_nossas_publicacoes.svg" alt="Nossas Publicações" class="banner-image">
-          <div class="banner-text">
-            <span>// Conheça Nossas Publicações //</span>
+      <section class="home-items-wrapper m-w-85">
+        <a class="home-item home-card" href="/biblioteca/">
+          <img src="/media/images/banner/banner_nossas_publicacoes.png" alt="Nossas Publicações" class="banner-image">
+          <div class="banner-text-wrapper">
+            <div class="banner-text">
+              <span>// Conheça Nossas Publicações //</span>
+            </div>
           </div>
         </a>
-        <a class="banner-item" href="/programas/">
-          <img src="/media/images/banner/banner_nossos_programas.svg" alt="Nossos Programas" class="banner-image">
-          <div class="banner-text">
-            <span>// Acesse Nossos Programas //</span>
+        <a class="home-item home-card" href="/programas/">
+          <img src="/media/images/banner/banner_nossos_programas.png" alt="Nossos Programas" class="banner-image">
+          <div class="banner-text-wrapper">
+            <div class="banner-text">
+              <span>// Acesse Nossos Programas //</span>
+            </div>
           </div>
         </a>
       </section>
@@ -42,11 +46,11 @@
           {% assign news = 'Latest News' %}
         {% endif %}
         <a href="/noticias/"><h2>{{ news }}</h2></a>
-        <div class="home-list">
+        <div class="home-items-wrapper news-wrapper">
           {% assign posts = site.posts | where:"lang", page.lang | where:"category", "silo" %}
           {% for post in posts limit: 2 %}
             {% assign pCover = site.baseurl | append: '/' | append: post.cover %}
-            <a class="list-item" href="{{ site.baseurl }}{{ post.url }}">
+            <a class="home-item home-card" href="{{ site.baseurl }}{{ post.url }}">
               <div class="list-item-image" style="background-image: url('{{ pCover }}');">
                 <div class="list-item-title">{{ post.title }}</div>
               </div>
@@ -77,9 +81,8 @@
           {% for page in pages %}
             {% if page.path contains 'projects' and page.cover %}
               {% assign pCover = site.baseurl | append: '/' | append: page.cover %}
-              {% assign coverScale = page.coverScale | default: 1 %}
               <a class="home-image-a" href="{{ site.baseurl }}{{ page.url }}">
-                <img class="home-image" src="{{ pCover }}" style="transform: scale({{ coverScale }});" alt="{{ page.title }}">
+                <img class="home-image" src="{{ pCover }}" alt="{{ page.title }}">
               </a>
             {% endif %}
           {% endfor %}
