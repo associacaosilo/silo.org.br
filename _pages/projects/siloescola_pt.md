@@ -14,4 +14,4 @@ ref: siloescola-list
 
 [![](/media/images/Banner_Silo_Escola_1B.png)](cursos)
 
-[![](/media/images/silo-escola/banner_biblioteca_siloescola.png)](javascript:;)
+[![](/media/images/silo-escola/banner_biblioteca_siloescola.png)](../biblioteca)

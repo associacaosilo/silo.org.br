@@ -11,7 +11,7 @@ category: library
 <section class="content-text">
     <h2>{{ page.title }}</h2>
     Nessa página reunimos as nossas publicações independentes, e outros conteúdos como: artigos, vídeos e guias produzidos por nós e pelos nossos parceiros. <br>
-    <b>Leia, assista e compartilhe.</b>
+    <strong>Leia, assista e compartilhe.</strong>
 </section>
 
 # Nossas Publicações
