@@ -13,6 +13,12 @@ markdown: kramdown
 port: 4666
 future: false
 
+# Collections
+collections:
+  library:
+    output: true
+    permalink: /biblioteca/:title/
+
 # Plugins
 repository: associacaosilo/silo.org.br
 plugins:
@@ -72,6 +78,62 @@ prose:
     - media/favicons
     - media/swipebox
   metadata:
+    _library:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "publication"
+      - name: "published"
+        field:
+          element: "hidden"
+          value: "true"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Título"
+          placeholder: "Colocar Aqui o Título"
+      - name: "cover"
+        field:
+          element: "text"
+          label: "imagem de capa"
+          placeholder: "media/images/cover.jpg"
+      - name: "file"
+        field:
+          element: "text"
+          label: "Arquivo para download"
+          placeholder: "media/docs/arquivo.pdf"
+      - name: "link"
+        field:
+          element: "text"
+          label: "link externo"
+          placeholder: "https://www.youtube.com/watch?v=..."
+      - name: "type"
+        field:
+          element: "select"
+          label: "tipo de conteúdo"
+          placeholder: "clique aqui"
+          options:
+            - name: 'Publicação'
+              value: 'publication'
+            - name: 'Artigo'
+              value: 'article'
+      - name: "lang"
+        field:
+          element: "select"
+          label: "idioma"
+          placeholder: "clique aqui"
+          options:
+            - name: 'Português'
+              value: 'pt'
+            - name: 'English'
+              value: 'en'
+            - name: 'Español'
+              value: 'es'
+      - name: "ref"
+        field:
+          element: "text"
+          label: "referência para conteúdos bilíngue (igual em todas as línguas)"
+          placeholder: "conteudo-2023"
     _posts:
       - name: "layout"
         field:

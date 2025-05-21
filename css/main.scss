@@ -1088,3 +1088,18 @@ Media query para telas mais largas (desktops) */
     }
   }
 }
+
+.layout-wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 50px;
+}
+
+.library-card {
+  max-width: 400px;
+
+  @media (min-width: 768px) {
+    max-width: 100%;
+    min-width: 400px;
+  }
+}
