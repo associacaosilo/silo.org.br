@@ -13,3 +13,5 @@ Is a crosswise line of action to our programs, inspired on popular education, wh
 [![](/media/images/Banner_Silo_Escola_1.png)](construindo_a_silo_escola_pt)
 
 [![](/media/images/Banner_Silo_Escola_1B.png)](cursos)
+
+[![](/media/images/silo-escola/banner_biblioteca_siloescola.png)](../library)
