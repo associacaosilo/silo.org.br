@@ -9,7 +9,9 @@
       <div class="wrapper">
         <section class="list-wrapper">{% include submenu.html %}</section>
         <section class="programs">{{ content }}</section>
-        {% include related-news.html %}
+        <section class="w-80 m-auto">
+          {% include related-news.html %}
+        </section>
       </div>
     </div>
     {% include footer.html %}

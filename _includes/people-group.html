@@ -14,6 +14,7 @@
     <br>
   <div class="people-list">
     {% assign pages = site.pages | where:"lang", page.lang %}
+    {{ pages.title }}
     {% for page in pages %}
       {% if page.category == include.section %}
         {% assign pCover = site.baseurl | append: '/' | append: page.cover %}
