@@ -5,7 +5,12 @@ permalink: /biblioteca/
 ref: lib-list
 lang: pt
 layout: library
-category: library
+category:
+  - caipiratechlab
+  - encontrada
+  - labs
+  - residence
+  - siloescola
 ---
 
 <section class="content-text">
