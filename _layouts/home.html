@@ -27,7 +27,11 @@
           <img src="/media/images/banner/banner_nossas_publicacoes.png" alt="Nossas Publicações" class="banner-image">
           <div class="banner-text-wrapper">
             <div class="banner-text">
+              {% if page.lang == 'en' %}
+              <span>// Our Publications //</span>
+              {% else %}
               <span>// Conheça Nossas Publicações //</span>
+              {% endif %}
             </div>
           </div>
         </a>
@@ -35,7 +39,11 @@
           <img src="/media/images/banner/banner_nossos_programas.png" alt="Nossos Programas" class="banner-image">
           <div class="banner-text-wrapper">
             <div class="banner-text">
+              {% if page.lang == 'en' %}
+              <span>// Access Our Programs //</span>
+              {% else %}
               <span>// Acesse Nossos Programas //</span>
+              {% endif %}
             </div>
           </div>
         </a>
