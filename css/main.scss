@@ -1091,13 +1091,13 @@ Media query para telas mais largas (desktops) */
     padding: 10px 20px;
     border-radius: 4px;
     line-height: 28px;
-    font: normal $LINK-SIZE-MOBILE $FONT-TITLE;
+    font: normal 1rem $FONT-TITLE;
     font-variant: petite-caps;
     font-weight: bold;
     text-align: center;
 
     @media (min-width: 768px) {
-      font-size: $LINK-SIZE;
+      font-size: 1.25rem;
     }
   }
 }
