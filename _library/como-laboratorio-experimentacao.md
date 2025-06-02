@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Como Montar um Laboratório de Experimentação e Inovação em...'
+title: 'Como montar um laboratório de Experimentação e inovação em uma biblioteca?'
 cover: media/images/library/articles/banners_artigo_ComoMontarUmLab_biblioteca.jpg
 file: media/docs/library/articles/GuiaLaboratorios_portugues.pdf
 type: article
