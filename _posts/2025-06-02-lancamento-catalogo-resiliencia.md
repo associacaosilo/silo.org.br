@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: 'Lançamento Do Catálogo Resiliência: Artistas E Curadores Compartilham Vivências Na Residência'
+title: 'Lançamento Do Catálogo Resiliência: Artistas E Curadores Compartilham Vivências'
 cover: media/images/cover26.jpg
 category:
   - silo
