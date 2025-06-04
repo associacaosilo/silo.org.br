@@ -462,6 +462,8 @@ a {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
+
     @include media-query(DESKTOP) {
       width: 20%;
       min-width: 150px;
@@ -637,9 +639,10 @@ i.fa-1_5x {
   height: 48px;
   background-repeat: no-repeat;
   background-size: contain;
-  background-position: left center;
+  background-position: center center;
   filter: grayscale(100%);
   transition: filter $TRANSITION-PERIOD linear;
+  width: 100%;
 
   &:hover {
     filter: grayscale(0%);
