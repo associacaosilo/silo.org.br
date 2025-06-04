@@ -36,7 +36,3 @@ A Cartilha para o Pacto do Cuidado Compartilhado é um resumo das diretrizes e o
 </div>
 Em breve mais informações.
 
-<div class="about-section-title-wrapper">
-  <h3 class="about-section-title" id="relatorios">Relatórios</h3>
-</div>
-Em breve mais informações.
