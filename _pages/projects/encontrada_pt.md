@@ -11,7 +11,7 @@ Encontros feministas focados na troca de conhecimento entre diferentes geraçõe
 
 **Últimos eventos:**
 
-[![](/media/images/banner_encontrada2024.jpg)](https://silo.org.br/encontrada2024/){:target="_blank"}
+[![](/media/images/programs/banner/encontrada_confabulacoes.svg)](https://silo.org.br/encontrada2024/){:target="_blank"}
 
 [![](/media/images/encontrada19.jpg)](https://silo.org.br/encontrada-2019-di-logo/){:target="_blank"}
   
