@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+  <head>
+    {% include head.html %} {% include meta.html %}
+  </head>
+  <body>
+    {% include newsletter-popup.html %} {% include menu.html %}
+    <div class="main-div">
+      <div class="wrapper">
+        <section class="list-wrapper">{% include submenu.html %}</section>
+        <section>{{ content }}</section>
+        <section class="w-80 m-auto">
+          {% include related-news.html %}
+        </section>
+      </div>
+    </div>
+    {% include footer.html %}
+  </body>
+</html>
