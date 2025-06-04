@@ -11,6 +11,7 @@ category:
   - labs
   - residence
   - siloescola
+  - ocupa-silo
 ---
 
 <section class="content-text">
