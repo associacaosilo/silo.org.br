@@ -5,9 +5,14 @@ permalink: /en/library/
 ref: lib-list
 lang: en
 layout: library
-category: library
+category: 
+  - caipiratechlab
+  - encontrada
+  - labs
+  - residence
+  - siloescola
+  - ocupa-silo
 ---
-
 
 <section class="content-text">
     <h2>{{ page.title }}</h2>
@@ -18,7 +23,7 @@ category: library
 # Our Publications
 
 <section class="home-items-wrapper">
-    {% assign publications = site.library | where:"lang", page.lang | where:"type", "publication" %}
+    {% assign publications = site.library | where:"type", "publication" %}
     {% for publication in publications %}
       {% assign pCover = site.baseurl | append: '/' | append: publication.cover %}
       {% if publication.file %}
@@ -37,7 +42,7 @@ category: library
 # Articles, Videos and Guides
 
 <section class="home-items-wrapper">
-    {% assign articles = site.library | where:"lang", page.lang | where:"type", "article" %}
+    {% assign articles = site.library | where:"type", "article" %}
     {% for article in articles %}
       {% assign pCover = site.baseurl | append: '/' | append: article.cover %}
       {% if article.file %}

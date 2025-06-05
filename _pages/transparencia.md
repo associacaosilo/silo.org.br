@@ -8,7 +8,7 @@ lang: pt
 
 <h2>Transparência</h2>
 
-Na Silo - Arte e Latitude Rural, a transparência é parte importante da governança, na qual buscamos construir uma relação de confiança com a rede que forma e apoia a organização. Nesta página você encontra certificados de auditorias independentes anuais. Em breve estarão aqui também os nossos relatórios anuais.
+Na Silo - Arte e Latitude Rural, a transparência é parte importante da governança, na qual buscamos construir uma relação de confiança com a rede que forma e apoia a organização. Nesta página você encontra certificados de auditorias independentes anuais.
 
 <div class="about-section-title-wrapper">
   <h3 class="about-section-title" id="auditoria">Auditoria</h3>
@@ -36,7 +36,3 @@ A Cartilha para o Pacto do Cuidado Compartilhado é um resumo das diretrizes e o
 </div>
 Em breve mais informações.
 
-<div class="about-section-title-wrapper">
-  <h3 class="about-section-title" id="relatorios">Relatórios</h3>
-</div>
-Em breve mais informações.
