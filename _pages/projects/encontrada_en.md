@@ -11,7 +11,7 @@ Feminist meetings focussed on the exchange of knowledge between different genera
   
 **LATEST EVENTS:**
   
-[![](/media/images/programs/banner/encontrada_confabulacoes.svg)](https://silo.org.br/encontrada2024/){:target="_blank"}
+[![](/media/images/programs/banner/encontrada_confabulacoes.png)](https://silo.org.br/encontrada2024/){:target="_blank"}
 
 [![](/media/images/encontrada19.jpg)](https://silo.org.br/encontrada-2019-di-logo/){:target="_blank"}
   
