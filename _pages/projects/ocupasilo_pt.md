@@ -10,6 +10,7 @@ ref: ocupa-silo
 <section class="content-text">
     <h2>{{ page.title }}</h2>
     É uma ação de linha transversal aos programas da Silo. O Ocupa Silo reúne a comunidade local promovendo o compartilhamento de arte, cultura, vivências e reflexões que fortalecem o sentimento de pertencimento e incentivam o protagonismo.<br>
+    <br>
     <strong>Clique nos banners e confira as fotos de cada edição.</strong>
 </section>
 
