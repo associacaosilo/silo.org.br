@@ -5,7 +5,7 @@ title: 'Festival de Cultura Tradicional e Contemporânea do Vale do Paraíba e S
 cover: media/images/cover2.jpg
 category:
   - silo
-  - residence
+  - ocupa-silo
 swipebox:
 lang: pt
 ref: festival-cultura-vale-paraiba
