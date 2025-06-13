@@ -5,6 +5,7 @@ title: 'Guia de Residências Artísticas da América Latina'
 cover: media/images/cover10.jpg
 category:
   - silo
+  - library
 swipebox: Post_ProHelv_
 lang: pt
 ref: guia-residencias-artisticas-america-latina

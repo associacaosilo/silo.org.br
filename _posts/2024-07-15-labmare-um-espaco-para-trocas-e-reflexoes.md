@@ -5,6 +5,7 @@ title: 'Labmaré: Um Espaço Para Trocas e Reflexões que Impactam no Bem-estar 
 cover: media/images/cover6.jpg
 category:
   - silo
+  - labs
 swipebox: imersaolabmare_julho_post
 lang: pt
 ref: labmare-um-espaco-para-trocas-e-reflexoes

@@ -5,6 +5,7 @@ title: 'A Silo Integra o Dossiê Da Revista Arte & Ensaios'
 cover: media/images/cover9.jpg
 category:
   - silo
+  - library
 swipebox: Post_ArteEnsaios_
 lang: pt
 ref: dossie-da-revista-arte-e-ensaios

@@ -6,6 +6,7 @@ cover: media/images/cover13.jpg
 category:
   - silo
   - cabare
+  - ocupa-silo
 swipebox:
 lang: pt
 ref: cabare_brutal_dez22

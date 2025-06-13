@@ -6,6 +6,7 @@ cover: media/images/cover13.jpg
 category:
   - silo
   - caipiratechlab
+  - ocupa-silo
 swipebox: caipiratechlab_2024_imersao_silo_
 lang: pt
 ref: caipiratechlab24-o-mundo-e-uma-floresta

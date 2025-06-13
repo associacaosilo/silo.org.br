@@ -6,6 +6,7 @@ cover: media/images/cover26.jpg
 category:
   - silo
   - residence
+  - library
 swipebox:
 lang: pt
 ref: catalogo-residencia-2025
