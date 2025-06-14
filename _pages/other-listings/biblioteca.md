@@ -6,12 +6,7 @@ ref: lib-list
 lang: pt
 layout: library
 category:
-  - caipiratechlab
-  - encontrada
-  - labs
-  - residence
-  - siloescola
-  - ocupa-silo
+  - library
 ---
 
 <section class="content-text">

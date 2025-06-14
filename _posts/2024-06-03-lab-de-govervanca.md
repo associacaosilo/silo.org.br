@@ -6,6 +6,7 @@ cover: media/images/cover11.jpg
 category:
   - silo
   - governanca
+  - library
 swipebox:
 lang: pt
 ref: lab-de-govervanca-publicacao

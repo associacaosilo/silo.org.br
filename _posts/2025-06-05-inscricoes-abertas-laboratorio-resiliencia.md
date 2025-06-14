@@ -6,6 +6,7 @@ cover: media/images/cover1.jpg
 category:
   - silo
   - residence
+  - labs
 swipebox:
 lang: pt
 ref: inscricoes-abertas-laboratorio-resiliencia
