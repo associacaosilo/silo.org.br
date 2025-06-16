@@ -11,7 +11,7 @@ lang: pt
 ref: festival-cultura-vale-paraiba
 ---
 
-Evento do Ocupa Silo reúne arte popular e contemporânea com programação gratuita para todas as idades
+Evento da Silo reúne arte popular e contemporânea com programação gratuita para todas as idades
 
 Nos dias **05 e 06 de julho**, às **14h**, a Silo – Arte e Latitude Rural realiza mais uma edição do Ocupa Silo, em sua sede na Serrinha do Alambari, em Resende (RJ). O _**Festival de Cultura Tradicional e Contemporânea do Vale do Paraíba e Serra da Mantiqueira**_ reúne manifestações locais, populares e contemporâneas em um **encontro gratuito** e **aberto ao público**. Em sintonia com as **festas de São João**, o evento incorpora o clima julino com expressões artísticas e elementos típicos dessa festividade. 
 
