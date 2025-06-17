@@ -31,4 +31,9 @@ ref: ocupa-silo
 [![Narrativa em Vídeo](/media/images/programs/ocupa-silo/narrativa_video.svg)](https://www.flickr.com/photos/196098481@N03/albums/72177720317982952){:target="_blank"}
 
 [![Sarau Comunitário](/media/images/programs/ocupa-silo/sarau_comunitario.svg)](https://www.flickr.com/photos/196098481@N03/albums/72177720305651371/){:target="_blank"}
+
+[![Cabaré Brutal](/media/images/programs/ocupa-silo/cabare.svg)](https://drive.google.com/drive/u/1/folders/18RPK3yuK5J0MuaTHouRexIdPl7-BGCuU){:target="_blank"}
+
+[![Mostra Final - Resiliência](/media/images/programs/ocupa-silo/resiliencia-mostra-final.svg)](https://www.flickr.com/photos/199101472@N04/albums/72177720311207393/){:target="_blank"}
+
 </div>
