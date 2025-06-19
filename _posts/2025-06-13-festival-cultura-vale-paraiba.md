@@ -13,7 +13,7 @@ ref: festival-cultura-vale-paraiba
 
 Evento da Silo reúne arte popular e contemporânea com programação gratuita para todas as idades
 
-Nos dias **05 e 06 de julho**, às **14h**, a Silo – Arte e Latitude Rural realiza mais uma edição do Ocupa Silo, em sua sede na Serrinha do Alambari, em Resende (RJ). O _**Festival de Cultura Tradicional e Contemporânea do Vale do Paraíba e Serra da Mantiqueira**_ reúne manifestações locais, populares e contemporâneas em um **encontro gratuito** e **aberto ao público**. Em sintonia com as **festas de São João**, o evento incorpora o clima julino com expressões artísticas e elementos típicos dessa festividade. 
+Nos dias **05 (14h) e 06 (11h) de julho**, a Silo – Arte e Latitude Rural realiza mais uma edição do Ocupa Silo, em sua sede na Serrinha do Alambari, em Resende (RJ). O _**Festival de Cultura Tradicional e Contemporânea do Vale do Paraíba e Serra da Mantiqueira**_ reúne manifestações locais, populares e contemporâneas em um **encontro gratuito** e **aberto ao público**. Em sintonia com as **festas de São João**, o evento incorpora o clima julino com expressões artísticas e elementos típicos dessa festividade. 
 
 O Festival traz uma **programação diversa** e voltada para **todas as idades**, reunindo oficinas infantis, apresentações artísticas, sessões de cinema, rodas de conversa, arte sonora, teatro e comidas típicas - como **quentão**, **caldos** na **noite de sábado (5)** e **feijoada** no almoço de **domingo (6)**.  A proposta é convidar crianças, jovens e adultos da comunidade a celebrarem, juntos, o fazer artístico da região, fortalecendo os laços culturais e o senso de pertencimento local.
 
@@ -50,6 +50,9 @@ O Ocupa Silo é uma iniciativa transversal da Silo – Arte e Latitude Rural que
    Teatro: _Toda Nudez – Excertos de uma Experiência Obsessiva_ – com o Coletivo Labex Teatro (Resende-RJ), a partir da dramaturgia de Nelson Rodrigues, dirigido por Takna Formaggini – 20h | Música: Forró ao vivo – Fogueira Doce e Márcio Mamede  – Térreo Silo
 
 **Domingo, 6 de julho**
+* 11h |
+   Show de Prêmios
+
 * 12h30 
    às 14h30 | Almoço: Feijoada da Regina – Área de convivência
 
