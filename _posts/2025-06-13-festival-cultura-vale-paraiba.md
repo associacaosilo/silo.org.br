@@ -38,7 +38,7 @@ O Ocupa Silo é uma iniciativa transversal da Silo – Arte e Latitude Rural que
     às 22h | Exibição de filme: _Farinha do Pinhão: Uma Herança da Mantiqueira_ (2024, 17 min) – documentário sobre o saber ancestral da farinha de pinhão na Serra da Mantiqueira
 
 * 17h 
-    | Contação de histórias com Gabriel – Gramado da Silo
+    | Contação de histórias com Gabriel Sant'ana – Gramado da Silo
 
 * 18h 
     | Arte sonora: _Zumbido_ – experiência imersiva com sons captados de colmeias de abelhas nativas, criação de João Machado e Daniel Magnani – Térreo Silo
@@ -47,11 +47,17 @@ O Ocupa Silo é uma iniciativa transversal da Silo – Arte e Latitude Rural que
    às 21h | Jantar: Caldos da Regina – Área de convivência
 
 * 19h 
-   Teatro: _Toda Nudez – Excertos de uma Experiência Obsessiva_ – com o Coletivo Labex Teatro (Resende-RJ), a partir da dramaturgia de Nelson Rodrigues, dirigido por Takna Formaggini – 20h | Música: Forró ao vivo – Fogueira Doce e Márcio Mamede  – Térreo Silo
+   Teatro: _Toda Nudez – Excertos de uma Experiência Obsessiva_ – com o Coletivo Labex Teatro (Resende-RJ), a partir da dramaturgia de Nelson Rodrigues, dirigido por Takna Formaggini
+
+* 20h 
+    | Música: Forró ao vivo – Fogueira Doce e Márcio Mamede  – Térreo Silo
 
 **Domingo, 6 de julho**
 * 11h |
    Show de Prêmios
+
+* 12h 
+    às 13h | Poesia Caipira com Sanfona: Otton Maciel e Hilton Fonseca
 
 * 12h30 
    às 14h30 | Almoço: Feijoada da Regina – Área de convivência
