@@ -25,7 +25,7 @@ category:
       {% else %}
         {% assign pLink = publication.link %}
       {% endif %}
-      <a class="home-item home-card library-card" href="{{ pLink }}" target="_blank">
+      <a class="home-item home-card library-card" href="{{ pLink | relative_url }}" target="_blank">
         <div class="list-item-image" style="background-image: url('{{ pCover }}');">
           <div class="list-item-title">{{ publication.title }}</div>
         </div>
