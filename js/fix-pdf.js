@@ -4,12 +4,18 @@ console.log('Found PDF links:', pdfLinks.length);
 pdfLinks.forEach(function(link, index) {
   console.log(`PDF Link ${index + 1}:`, link.href);
   
-  fetch(link.href, { method: 'HEAD' })
+  fetch(link.href)
     .then(response => {
       console.log(`PDF ${index + 1} Status:`, response.status);
       console.log(`PDF ${index + 1} Content-Type:`, response.headers.get('content-type'));
       console.log(`PDF ${index + 1} Content-Length:`, response.headers.get('content-length'));
-      console.log(`PDF ${index + 1} Accessible:`, response.ok);
+      return response.text();
+    })
+    .then(text => {
+      console.log(`PDF ${index + 1} Content (first 200 chars):`, text.substring(0, 200));
+      if (text.length < 1000) {
+        console.log(`PDF ${index + 1} FULL CONTENT:`, text);
+      }
     })
     .catch(error => {
       console.error(`PDF ${index + 1} Error:`, error);
