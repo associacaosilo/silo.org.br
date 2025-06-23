@@ -9,7 +9,6 @@ category:
   - library
 ---
 
-<script src="{{ site.baseurl}}/js/fix-pdf.js"></script>
 <section class="content-text">
     <h2>{{ page.title }}</h2>
     Nessa página reunimos as nossas publicações independentes, e outros conteúdos como: artigos, vídeos e guias produzidos por nós e pelos nossos parceiros. <br>
@@ -26,7 +25,7 @@ category:
       {% else %}
         {% assign pLink = publication.link %}
       {% endif %}
-      <a class="home-item home-card library-card" href="{{ site.baseurl }}{{ pLink }}" download target="_blank">
+      <a class="home-item home-card library-card" href="{{ site.baseurl }}{{ pLink }}" download="labmare_livro_digital.pdf" >
         <div class="list-item-image" style="background-image: url('{{ pCover }}');">
           <div class="list-item-title">{{ publication.title }}</div>
         </div>
