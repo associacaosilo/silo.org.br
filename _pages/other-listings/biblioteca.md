@@ -25,7 +25,7 @@ category:
       {% else %}
         {% assign pLink = publication.link %}
       {% endif %}
-      <a class="home-item home-card library-card" href="{{ site.baseurl }}{{ pLink }}" download="labmare_livro_digital.pdf" >
+      <a class="home-item home-card library-card" href="{{ site.baseurl }}{{ pLink }}" target="_blank">
         <div class="list-item-image" style="background-image: url('{{ pCover }}');">
           <div class="list-item-title">{{ publication.title }}</div>
         </div>
