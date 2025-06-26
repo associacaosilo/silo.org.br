@@ -40,7 +40,7 @@ O Ocupa Silo é uma iniciativa transversal da Silo – Arte e Latitude Rural que
     às 22h | Exibição de filme: _Farinha do Pinhão: Uma Herança da Mantiqueira_ (2024, 17 min) – documentário sobre o saber ancestral da farinha de pinhão na Serra da Mantiqueira
 
 * 15h 
-    às 17h | A Cruz e a espada: uma reflexão das políticas indigenistas e seus impactos no Vale do Paraíba - VX ao XVIII, com autor do livro Enio S. C. de Oliveira
+    às 17h | A Cruz e a espada: uma reflexão das políticas indigenistas e seus impactos no Vale do Paraíba - XV ao XVIII, com autor do livro Enio S. C. de Oliveira
 
 * 17h 
     | Contação de histórias com Gabriel Sant'ana – Gramado da Silo
