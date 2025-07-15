@@ -1,5 +1,5 @@
 ---
-title: 'Ocupa Silo'
+title: 'Ocupa Silo!'
 layout: ocupa_silo
 permalink: /en/ocupasilo/
 lang: en 
