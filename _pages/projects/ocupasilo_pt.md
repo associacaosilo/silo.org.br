@@ -16,7 +16,10 @@ ref: ocupa-silo
 
 
 <div class="ocupa-silo-images" markdown="1">
+
 ![Ocupa Silo](/media/images/programs/ocupa-silo/logo.svg)
+
+[![Arraiá OCUPA SILO](/media/images/programs/ocupa-silo/arraia_ocupasilo.svg)](https://drive.google.com/drive/folders/1LV5b9Y7tNC-Ydn9B6vgITyLi9L7SbPjM?usp=sharing){:target="_blank"}
 
 [![Jongo de Pinheral + DJ OXXY](/media/images/programs/ocupa-silo/jongo_pinheral.svg)](https://www.flickr.com/photos/encontrada/albums/72177720320003465){:target="_blank"}
 
