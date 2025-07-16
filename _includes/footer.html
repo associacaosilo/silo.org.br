@@ -1,29 +1,50 @@
 {% if page.permalink == '/' or page.permalink == '/en/' %}
   <div class="footer">
+
+    <div class="footer-cultura-wrapper">
+      <a class="footer-cultura-a" href="#">
+        <img class="footer-cultura-img" src="{{ site.baseurl }}/media/images/logos/footer/selo_cultura_viva.svg" alt="Selo Cultura Viva">
+      </a>
+      <a class="footer-cultura-a" href="#">
+        <img class="footer-cultura-img" src="{{ site.baseurl }}/media/images/logos/footer/rede_cultura_viva.svg" alt="Rede Cultura Viva">
+      </a>
+      <a class="footer-cultura-a" href="#">
+        <img class="footer-cultura-img" src="{{ site.baseurl }}/media/images/logos/footer/pnab.svg" alt="Política Nacional PNAB">
+      </a>
+    </div>
+
     {% assign app_sup = 'Recursos' %}
     {% if page.lang == 'en' %}
       {% assign app_sup = 'Support' %}
     {% endif %}
     <!-- <div class="footer-line">{{ app_sup }}</div> -->
     <h2 class="support-title">{{ app_sup }}</h2>
-    <div class="home-list">
-      <a class="list-item support-item" href="https://www.ibirapitanga.org.br/" target="_blank">
-      <div class="parceira-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/ibirapitanga.png');');">
-      </div>
+    <div class="footer-recursos-wrapper">
+      <a class="footer-recursos-a" href="https://www.ibirapitanga.org.br/" target="_blank">
+        <img class="footer-recursos-img" src="{{ site.baseurl }}/media/images/logos/footer/ibi_logo.svg" alt="Ibirapitanga">
       </a>
-      <a class="list-item support-item" href="https://www.porticus.com/" target="_blank">
-        <div class="parceira-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/logo_porticus.png');');">
-      </div>
+      <a class="footer-recursos-a" href="https://www.porticus.com/" target="_blank">
+        <img class="footer-recursos-img" src="{{ site.baseurl }}/media/images/logos/footer/porticus.svg" alt="Porticus">
       </a>
-      <a class="list-item support-item" href="https://communityartslab.org/" target="_blank">
-        <div class="parceira-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/logo_cal.png');');">
-      </div>
+      <a class="footer-recursos-a" href="https://communityartslab.org/" target="_blank">
+        <img class="footer-recursos-img" src="{{ site.baseurl }}/media/images/logos/footer/community_arts_logo.svg" alt="Community Arts Lab">
       </a>
-      <a class="list-item support-item" href="https://www.fordfoundation.org/" target="_blank">
-        <div class="parceira-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/ford_black.svg');"></div>
+      <a class="footer-recursos-a" href="https://www.fordfoundation.org/" target="_blank">
+        <img class="footer-recursos-img" src="{{ site.baseurl }}/media/images/logos/ford_black.svg" alt="Ford Foundation">
       </a>
       <br>
     </div>
+
+    <h2 class="support-title">Realização</h2>
+    <div class="footer-realizacao-wrapper">
+      <a class="footer-realizacao-a" href="#">
+        <img class="footer-realizacao-img" src="{{ site.baseurl }}/media/images/logos/footer/secec.svg" alt="SECEC">
+      </a>
+      <a class="footer-realizacao-a" href="#">
+        <img class="footer-realizacao-img" src="{{ site.baseurl }}/media/images/logos/footer/ministerio_gov_federal.svg" alt="Ministério da Cultura">
+      </a>
+    </div>
+
   </div>
 {% endif %}
 
