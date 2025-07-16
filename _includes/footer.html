@@ -35,7 +35,12 @@
       <br>
     </div>
 
-    <h2 class="support-title">Realização</h2>
+    {% assign app_real = 'Realização' %}
+    {% if page.lang == 'en' %}
+      {% assign app_real = 'Resources' %}
+    {% endif %}
+
+    <h2 class="support-title">{{ app_real }}</h2>
     <div class="footer-realizacao-wrapper">
       <a class="footer-realizacao-a" href="#">
         <img class="footer-realizacao-img" src="{{ site.baseurl }}/media/images/logos/footer/secec.svg" alt="SECEC">
