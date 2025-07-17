@@ -609,6 +609,69 @@ a.footer-line {
   font-weight: 200;
 }
 
+.footer-recursos-wrapper {
+  display: grid;
+  grid-gap: 10px;
+  justify-items: center;
+
+  @include media-query(DESKTOP) {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.footer-recursos-a {
+  max-width: 230px;
+  align-content: center;
+}
+
+.footer-recursos-img {
+  width: 100%;
+  height: 100px;
+}
+
+.footer-cultura-wrapper {
+  display: grid;
+  grid-gap: 10px;
+  justify-items: center;
+
+  @include media-query(DESKTOP) {
+    grid-template-columns: repeat(3, 1fr);
+    margin-inline: 200px;
+  }
+}
+
+.footer-cultura-img {
+  width: 100%;
+  height: 110px;
+}
+
+.footer-cultura-a {
+  max-width: 300px;
+  align-content: center;
+}
+
+.footer-realizacao-wrapper {
+  display: grid;
+  grid-gap: 10px;
+  justify-items: center;
+
+  @include media-query(DESKTOP) {
+    margin-inline: 200px;
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.footer-realizacao-img {
+  width: 100%;
+  height: 110px;
+}
+
+.footer-realizacao-a {
+  max-width: 600px;
+  align-content: center;
+}
+
+
 i.fa-1_5x {
   font-size: 1.5em;
 }
@@ -979,10 +1042,11 @@ Media query para telas mais largas (desktops) */
 }
 
 .support-title {
-  margin-bottom: 60px;
+  margin-bottom: 20px;
+  margin-top: 40px;
 
   @media (min-width: 768px) {
-  margin-bottom: 25px;
+    margin-bottom: 30px;
   }
 }
 
