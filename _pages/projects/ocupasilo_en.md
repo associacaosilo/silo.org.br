@@ -17,6 +17,8 @@ ref: ocupa-silo
 <div class="ocupa-silo-images" markdown="1">
 ![Ocupa Silo](/media/images/programs/ocupa-silo/logo.svg)
 
+[![Arraiá OCUPA SILO](/media/images/programs/ocupa-silo/arraia_ocupasilo.svg)](https://www.flickr.com/photos/203184955@N04/albums/72177720327603239){:target="_blank"}
+
 [![Jongo de Pinheral + DJ OXXY](/media/images/programs/ocupa-silo/jongo_pinheral.svg)](https://www.flickr.com/photos/encontrada/albums/72177720320003465){:target="_blank"}
 
 [![Roda de Samba](/media/images/programs/ocupa-silo/roda_samba.svg)](https://www.flickr.com/photos/encontrada/albums/72177720319782053/){:target="_blank"}
