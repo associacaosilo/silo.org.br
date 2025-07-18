@@ -69,3 +69,5 @@ Após Otton Maciel narrar poesias caipira, seu Hilton Fonseca, acompanhado de ou
 <small>*Ocupa Silo encerra a programação com a apresentação do Jongo de Pinheiral, que proporcionou um momento de celebração ancestral com muita diversão e integração do público. Foto: Kamay*</small>
 
 O Ocupa Silo é um convite constante de ocupação do espaço da Silo - Arte e Latitude Rural por parte da população local a fim de fortalecer o vínculo com o território, tanto no seu sentido simbólico quanto geográfico.” _Esse espaço de ocupação tem acolhido manifestações artísticas de qualidade e funciona como estímulo para a continuidade destes projetos e também o fortalecimento e reconhecimento da produção cultural rural local_”, conclui a professora Takna Formaggini.
+
+[![Banner Ocupa Silo](/media/images/posts/ocupa-silo-estimula-vida-artistica/banner.jpg)](/ocupasilo){:target="_blank"}
