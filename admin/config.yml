@@ -1,0 +1,126 @@
+media_folder: "static/images/uploads"
+public_folder: "/media/images/uploads" 
+
+backend:
+  name: github
+  repo: associacaosilo/silo.org.br
+  branch: feat/cms-netlify
+  commit_messages:
+    create: Create {{collection}} “{{slug}}”
+    update: Update {{collection}} “{{slug}}”
+    delete: Delete {{collection}} “{{slug}}”
+    uploadMedia: Upload “{{path}}”
+    deleteMedia: Delete “{{path}}”
+    openAuthoring: '{{message}}'
+
+collections:
+  - name: "posts"
+    label: "Posts"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Published", name: "published", widget: "hidden", default: true}
+      - {label: "Título do post", name: "title", widget: "string"}
+      - {label: "Imagem de capa", name: "cover", widget: "string", required: false, hint: "Ex: media/images/cover.jpg"}
+      - label: "Categorias do post"
+        name: "category"
+        widget: "select"
+        multiple: true
+        options:
+          - {label: "Silo", value: "silo"}
+          - {label: "Encontrada", value: "encontrada"}
+          - {label: "Laboratórios", value: "labs"}
+          - {label: "Residência", value: "residence"}
+          - {label: "CaipiratechLAB", value: "caipiratechlab"}
+          - {label: "Silo Escola", value: "siloescola"}
+          - {label: "Convocatória", value: "opencall"}
+          - {label: "Participação", value: "participation"}
+          - {label: "Biblioteca", value: "library"}
+          - {label: "Ocupa Silo", value: "ocupasilo"}
+      - label: "Idioma do post"
+        name: "lang"
+        widget: "select"
+        options:
+          - {label: "Português", value: "pt"}
+          - {label: "English", value: "en"}
+          - {label: "Español", value: "es"}
+      - {label: "Referência para posts bilíngue", name: "ref", widget: "string", required: false, hint: "Ex: residencia-convocatoria-2017"}
+      - {label: "Prefixo para galeria de imagens", name: "swipebox", widget: "string", required: false, hint: "Ex: p1_"}
+      - {label: "Data de encerramento", name: "close", widget: "date", required: false, hint: "Para chamadas/convocatórias"}
+      - {label: "Conteúdo", name: "body", widget: "markdown"}
+
+  - name: "pages"
+    label: "Páginas"
+    folder: "_pages"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Published", name: "published", widget: "hidden", default: true}
+      - {label: "Nome da página", name: "title", widget: "string"}
+      - {label: "Referência para páginas bilíngue", name: "ref", widget: "string", required: false}
+      - {label: "Link da página", name: "permalink", widget: "string", hint: "Ex: /contato/"}
+      - label: "Idioma"
+        name: "lang"
+        widget: "select"
+        options:
+          - {label: "Português", value: "pt"}
+          - {label: "English", value: "en"}
+      - {label: "Conteúdo", name: "body", widget: "markdown"}
+
+  - name: "library"
+    label: "Biblioteca"
+    folder: "_library"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "publication"}
+      - {label: "Published", name: "published", widget: "hidden", default: true}
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Imagem de capa", name: "cover", widget: "string", required: false, hint: "Ex: media/images/cover.jpg"}
+      - {label: "Arquivo para download", name: "file", widget: "string", required: false, hint: "Ex: media/docs/arquivo.pdf"}
+      - {label: "Link externo", name: "link", widget: "string", required: false, hint: "Ex: https://www.youtube.com/watch?v=..."}
+      - label: "Tipo de conteúdo"
+        name: "type"
+        widget: "select"
+        options:
+          - {label: "Publicação", value: "publication"}
+          - {label: "Artigo", value: "article"}
+      - label: "Idioma"
+        name: "lang"
+        widget: "select"
+        options:
+          - {label: "Português", value: "pt"}
+          - {label: "English", value: "en"}
+          - {label: "Español", value: "es"}
+      - {label: "Referência para conteúdos bilíngue", name: "ref", widget: "string", required: false, hint: "Ex: conteudo-2023"}
+      - {label: "Conteúdo", name: "body", widget: "markdown"}
+
+  - name: "people"
+    label: "Pessoas"
+    folder: "_pages/people"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Nome", name: "title", widget: "string"}
+      - {label: "Link da página da pessoa", name: "link", widget: "string", required: false}
+      - {label: "Imagem da pessoa", name: "cover", widget: "string", required: false, hint: "Ex: media/images/people/pessoa.jpg"}
+      - {label: "Referência para páginas bilíngue", name: "ref", widget: "string", required: false}
+      - label: "Sub-grupo organizacional"
+        name: "category"
+        widget: "select"
+        options:
+          - {label: "Diretoria", value: "diretoria"}
+          - {label: "Associadas", value: "associadas"}
+          - {label: "Conselho", value: "conselho"}
+          - {label: "Equipe", value: "equipe"}
+      - label: "Idioma"
+        name: "lang"
+        widget: "select"
+        options:
+          - {label: "Português", value: "pt"}
+          - {label: "English", value: "en"}
+      - {label: "Biografia", name: "body", widget: "markdown"}
+
