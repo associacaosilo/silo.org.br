@@ -1,9 +1,8 @@
 media_folder: "static/images/uploads"
 public_folder: "/media/images/uploads" 
-site_id: cms.netlify.com
 
 backend:
-  name: github
+  name: git-gateway
   repo: associacaosilo/silo.org.br
   branch: stage
   commit_messages:
