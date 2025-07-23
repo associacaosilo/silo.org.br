@@ -692,6 +692,27 @@ a.footer-line {
   align-content: center;
 }
 
+.sobre-realizacao-wrapper {
+  display: grid;
+  grid-gap: 10px;
+  justify-items: center;
+  margin-bottom: 40px;
+
+  @include media-query(DESKTOP) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.sobre-realizacao-img {
+  width: 100%;
+  height: 75px;
+}
+
+.sobre-realizacao-a {
+  max-width: 300px;
+  align-content: center;
+}
+
 
 i.fa-1_5x {
   font-size: 1.5em;
@@ -1248,3 +1269,15 @@ Media query para telas mais largas (desktops) */
     }
   }
 }
+
+
+// helpers
+.image-gray-hover { 
+  filter: grayscale(100%);
+  transition: filter $TRANSITION-PERIOD linear;
+
+  &:hover {
+    filter: grayscale(0%);
+  }
+}
+

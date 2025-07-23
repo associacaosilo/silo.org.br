@@ -93,13 +93,13 @@ Para nós, trazer o nome Silo é também disputar o imaginário rural que vem se
 </div>
 <div class="sobre-cultura-wrapper">
   <a class="sobre-cultura-a" href="https://culturaviva.cultura.gov.br/">
-    <img class="sobre-cultura-img" style="height: 100px;" src="{{ site.baseurl }}/media/images/logos/footer/selo_cultura_viva.svg" alt="Selo Cultura Viva">
+    <img class="sobre-cultura-img image-gray-hover" style="height: 100px;" src="{{ site.baseurl }}/media/images/logos/footer/cor/rede_cultura2.svg" alt="Selo Cultura Viva">
   </a>
   <a class="sobre-cultura-a" href="https://culturaviva.cultura.gov.br/">
-    <img class="sobre-cultura-img" src="{{ site.baseurl }}/media/images/logos/footer/rede_cultura_viva.svg" alt="Rede Cultura Viva">
+    <img class="sobre-cultura-img image-gray-hover" src="{{ site.baseurl }}/media/images/logos/footer/cor/rede_cultura.svg" alt="Rede Cultura Viva">
   </a>
   <a class="sobre-cultura-a" href="https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc">
-    <img class="sobre-cultura-img" src="{{ site.baseurl }}/media/images/logos/footer/pnab.svg" alt="Política Nacional PNAB">
+    <img class="sobre-cultura-img image-gray-hover" src="{{ site.baseurl }}/media/images/logos/footer/cor/pnab.svg" alt="Política Nacional PNAB">
   </a>
 </div>
 
@@ -145,4 +145,17 @@ Para nós, trazer o nome Silo é também disputar o imaginário rural que vem se
       <div class="parceira-logo" style="background-image: url('{{ pCover }}');"></div>
     </a>
     {% endfor %}
+</div>
+
+
+<div class="about-section-title-wrapper">
+  <h3 class="about-section-title" id="realizacao">Realização</h3>
+</div>
+<div class="sobre-realizacao-wrapper">
+  <a class="sobre-realizacao-a" href="#">
+    <img class="sobre-realizacao-img image-gray-hover" src="{{ site.baseurl }}/media/images/logos/footer/cor/secec.svg" alt="Secretaria de Cultura">
+  </a>
+  <a class="sobre-realizacao-a" href="#">
+    <img class="sobre-realizacao-img image-gray-hover" src="{{ site.baseurl }}/media/images/logos/footer/cor/ministerio_cultura_gov.svg" alt="Ministério da Cultura">
+  </a>
 </div>
