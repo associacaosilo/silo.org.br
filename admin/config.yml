@@ -6,11 +6,11 @@ backend:
   repo: associacaosilo/silo.org.br
   branch: stage
   commit_messages:
-    create: Create {{collection}} “{{slug}}”
-    update: Update {{collection}} “{{slug}}”
-    delete: Delete {{collection}} “{{slug}}”
-    uploadMedia: Upload “{{path}}”
-    deleteMedia: Delete “{{path}}”
+    create: "[cms] - Create {{collection}} “{{slug}}”"
+    update: "[cms] - Update {{collection}} “{{slug}}”"
+    delete: "[cms] - Delete {{collection}} “{{slug}}”"
+    uploadMedia: "[cms] - Upload “{{path}}”"
+    deleteMedia: "[cms] - Delete “{{path}}”"
     openAuthoring: '{{message}}'
 
 collections:
