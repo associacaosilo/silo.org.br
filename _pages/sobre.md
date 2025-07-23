@@ -89,9 +89,23 @@ Somos Silo porque evocamos o bem comum e o bem viver. Como modelo artístico, so
 Para nós, trazer o nome Silo é também disputar o imaginário rural que vem sendo devastado pelas grandes estruturas econômicas e industriais. É recobrar, de certa forma, o símbolo do campesinato, a autonomia sobre a produção de alimentos e de pensamentos. É militar pela reconexão do campo com a biodiversidade porque os saberes e o modo de vida dos povos que vivem na natureza precisam ser respeitados, cuidados e preservados. Suas histórias precisam ser contadas e suas práticas continuadas.  
 
 <div class="about-section-title-wrapper">
-  <h3 class="about-section-title" id="apoio">Recursos</h3>
+  <div class="about-section-title" style="width: 80px; display: inline-block;" id="apoio"></div>
+</div>
+<div class="sobre-cultura-wrapper">
+  <a class="sobre-cultura-a" href="https://culturaviva.cultura.gov.br/">
+    <img class="sobre-cultura-img" style="height: 100px;" src="{{ site.baseurl }}/media/images/logos/footer/selo_cultura_viva.svg" alt="Selo Cultura Viva">
+  </a>
+  <a class="sobre-cultura-a" href="https://culturaviva.cultura.gov.br/">
+    <img class="sobre-cultura-img" src="{{ site.baseurl }}/media/images/logos/footer/rede_cultura_viva.svg" alt="Rede Cultura Viva">
+  </a>
+  <a class="sobre-cultura-a" href="https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc">
+    <img class="sobre-cultura-img" src="{{ site.baseurl }}/media/images/logos/footer/pnab.svg" alt="Política Nacional PNAB">
+  </a>
 </div>
 
+<div class="about-section-title-wrapper">
+  <h3 class="about-section-title" id="apoio">Recursos</h3>
+</div>
 <div class="parceiras-container">
 
   {% assign pCover = site.baseurl | append: '/' | append: 'media/images/logos/ibirapitanga.png' %}

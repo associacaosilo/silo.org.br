@@ -671,6 +671,27 @@ a.footer-line {
   align-content: center;
 }
 
+.sobre-cultura-wrapper {
+  display: grid;
+  grid-gap: 10px;
+  justify-items: center;
+  margin-bottom: 40px;
+
+  @include media-query(DESKTOP) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.sobre-cultura-img {
+  width: 100%;
+  height: 75px;
+}
+
+.sobre-cultura-a {
+  max-width: 300px;
+  align-content: center;
+}
+
 
 i.fa-1_5x {
   font-size: 1.5em;
