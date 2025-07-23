@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: 'UNIDADE DE CONSERVAÇÃO DE USO SUSTENTÁVEL É TEMA DE SEMINÁRIO'
+title: 'DIÁLOGO E PARTICIPAÇÃO COMUNITÁRIA EM UNIDADES DE CONSERVAÇÃO DE USO SUSTENTÁVEL'
 cover: media/images/cover4.jpg
 category:
   - silo
@@ -9,7 +9,7 @@ swipebox:
 lang: pt
 ref: unidade-conservacao-uso-sustentavel
 ---
-**Silo acolhe demandas da Serrinha do Alambari, Resende (RJ), e reúne comunidade e especialistas**
+**Seminário da Silo abre espaço para o diálogo em prol da defesa da biodiversidade e promoção ambiental**
 
 Nos dias 19 e 20 de agosto, de 17h às 20h30, a Silo \- Arte e Latitude Rural vai realizar o seminário **Diálogo e Participação Comunitária em Unidades de Conservação de Uso Sustentável: uma aliança em prol de uma governança interespécies** O objetivo do encontro é produzir reflexão do processo de implementação das **unidades de conservação de uso sustentável** e compartilhar proposições para a sua efetivação, considerando, para além da visão técnica, a perspectiva das diversas comunidades que habitam essas áreas e seus arredores, sejam elas humanas e não humanas. 
 
@@ -41,18 +41,18 @@ Mediação: [Cinthia Mendonça](mailto:cinthia.mendonca@silo.org.br), diretora d
 
 * Carolina Del Lama \-  Consultora ambiental e moradora da Serrinha  
 * Felipe Mendonça \- Gestor do Parque Nacional do Itatiaia (PNI)  
-* Silvana Amaral \- Vice Coordenadora \- Programa Biomas BR do Instituto Nacional de Pesquisas Espaciais  
-* José Donizete \- Presidente da Associação de Moradores da Serrinha do Alambari (AMOROSA) 
+* Silvana Amaral \- Vice Coordenadora \- Programa Biomas BR do Instituto Nacional de Pesquisas Espaciais (INPE)
+* Alexandre Chagas \- Biólogo da Agência do Meio Ambiente do Município de Resende (AMAR)
 
 
   
 **Pontos que serão abordados:**
 
 1. Propósito e objetivos para a realização desses seminários  
-2. O que é o SNUC  
-3. O que é uma UC de Uso Sustentável  
-4. O que é o Plano de Manejo de uma UC e sua importância  
-5. A importância das APAs para o planejamento territorial e a conservação da natureza  
+2. O que é o Sistema Nacional de Unidades de Conservação da Natureza (SNUC)
+3. O que é uma Unidade de Conservação de Uso Sustentável
+4. O que é o Plano de Manejo de uma Unidades de Conservação e sua importância
+5. A importância das Áreas de Proteção Ambiental (APA) para o planejamento territorial e a conservação da natureza
 6. O que é a Lei da Mata Atlântica  
 7. O mosaico da Mantiqueira
 
@@ -77,7 +77,6 @@ Mediação: [Cinthia Mendonça](mailto:cinthia.mendonca@silo.org.br), diretora d
 * Miguel Moraes \- Diretor de projetos da re.green e morador da Serrinha  
 * Roberta Dias de Oliveira \- Secretária da Secretaria de Turismo de Resende  
 * Alexandre Chagas \- Biólogo da Agência do Meio Ambiente do Município de Resende (AMAR)  
-* José Donizete \- Presidente da AMOROSA 
 
 
   
