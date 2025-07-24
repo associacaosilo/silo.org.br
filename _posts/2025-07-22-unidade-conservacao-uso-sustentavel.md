@@ -65,7 +65,6 @@ Mediação: [Cinthia Mendonça](mailto:cinthia.mendonca@silo.org.br), diretora d
 
 **Painel:**
 
-* Paulo Pereira \- Secretário de Meio Ambiente do município de Extrema-MG  
 * Rafael Mattos  \- Analista e Técnico Gestão Ecossistêmica na Secretária de Estado do Ambiente e Sustentabilidade SEAS/RJ  
 * José Donizete \- Presidente da AMOROSA 
 
@@ -89,5 +88,8 @@ Mediação: [Cinthia Mendonça](mailto:cinthia.mendonca@silo.org.br), diretora d
 5. Como a ação local gera resultados em escala  
 6. Benefícios da gestão que considera os ciclos da natureza  
 7. Participação na gestão de recursos hídricos
+
+
+O Seminário conta com o apoio da Fundação SOS Mata Atlântica.
 
 
