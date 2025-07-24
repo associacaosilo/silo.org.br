@@ -1,16 +1,16 @@
-media_folder: "static/images/uploads"
+media_folder: "/media/images/uploads"
 public_folder: "/media/images/uploads" 
 
 backend:
-  name: github
+  name: git-gateway
   repo: associacaosilo/silo.org.br
   branch: stage
   commit_messages:
-    create: Create {{collection}} “{{slug}}”
-    update: Update {{collection}} “{{slug}}”
-    delete: Delete {{collection}} “{{slug}}”
-    uploadMedia: Upload “{{path}}”
-    deleteMedia: Delete “{{path}}”
+    create: "[cms] - Create {{collection}} “{{slug}}”"
+    update: "[cms] - Update {{collection}} “{{slug}}”"
+    delete: "[cms] - Delete {{collection}} “{{slug}}”"
+    uploadMedia: "[cms] - Upload “{{path}}”"
+    deleteMedia: "[cms] - Delete “{{path}}”"
     openAuthoring: '{{message}}'
 
 collections:
@@ -47,8 +47,6 @@ collections:
           - {label: "English", value: "en"}
           - {label: "Español", value: "es"}
       - {label: "Referência para posts bilíngue", name: "ref", widget: "string", required: false, hint: "Ex: residencia-convocatoria-2017"}
-      - {label: "Prefixo para galeria de imagens", name: "swipebox", widget: "string", required: false, hint: "Ex: p1_"}
-      - {label: "Data de encerramento", name: "close", widget: "date", required: false, hint: "Para chamadas/convocatórias"}
       - {label: "Conteúdo", name: "body", widget: "markdown"}
 
   - name: "pages"
