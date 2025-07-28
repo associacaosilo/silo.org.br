@@ -1,5 +1,7 @@
 media_folder: "/media/images/uploads"
 public_folder: "/media/images/uploads" 
+site_url: "https://silo.org.br"
+locale: "pt"
 
 backend:
   name: git-gateway
