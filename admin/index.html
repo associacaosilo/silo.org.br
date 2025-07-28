@@ -4,13 +4,25 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="robots" content="noindex" />
-    <title>Content Manager</title>
+    <title>Gerenciador de Conteúdo</title>
   </head>
   <body>
-    <!-- Include the script that builds the page and powers Decap CMS -->
+    <!-- Include Decap CMS and the locales package -->
     <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+    <script src="https://unpkg.com/decap-cms-locales@^3.0.0/dist/decap-cms-locales.js"></script>
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    <script>
+
+    <script type="module">
+      import pt from "https://unpkg.com/decap-cms-locales@3.4.0/dist/esm/pt/index.js";
+      window.CMS_MANUAL_INIT = true
+      const { CMS, initCMS: init } = window
+
+      CMS.registerLocale("pt", pt);
+      window.CMS.init({
+        config,
+        locale: "pt",
+      });
+
       if (window.netlifyIdentity) {
         window.netlifyIdentity.on("init", (user) => {
           if (!user) {
