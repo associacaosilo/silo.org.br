@@ -10,7 +10,19 @@
 <meta name="keywords" content="art, arte, latitude, rural">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta http-equiv="Content-Security-Policy" content="default-src 'none'; img-src 'self' data: www.paypal.com www.paypalobjects.com www.google-analytics.com; media-src 'self'; frame-src player.vimeo.com www.youtube.com www.mailchimp.com gallery.autodesk.com; frame-ancestors 'self'; font-src 'self' data: maxcdn.bootstrapcdn.com fonts.googleapis.com fonts.gstatic.com assets.sendinblue.com; style-src 'self' 'unsafe-inline' sibforms.com fonts.googleapis.com maxcdn.bootstrapcdn.com; script-src 'self' ajax.googleapis.com 'unsafe-inline' maxcdn.bootstrapcdn.com fonts.googleapis.com sibforms.com www.googletagmanager.com www.google-analytics.com; base-uri 'self'; form-action 'self' www.mailchimp.com silo.us20.list-manage.com www.paypal.com 76abd233.sibforms.com; connect-src 'self' www.google-analytics.com 76abd233.sibforms.com ">
+<meta http-equiv="Content-Security-Policy" content="
+  default-src 'none';
+  img-src 'self' data: www.paypal.com www.paypalobjects.com www.google-analytics.com;
+  media-src 'self';
+  frame-src player.vimeo.com www.youtube.com www.mailchimp.com gallery.autodesk.com;
+  frame-ancestors 'self';
+  font-src 'self' data: maxcdn.bootstrapcdn.com fonts.googleapis.com fonts.gstatic.com assets.sendinblue.com;
+  style-src 'self' 'unsafe-inline' sibforms.com fonts.googleapis.com maxcdn.bootstrapcdn.com;
+  script-src 'self' ajax.googleapis.com 'unsafe-inline' maxcdn.bootstrapcdn.com fonts.googleapis.com sibforms.com www.googletagmanager.com www.google-analytics.com https://identity.netlify.com https://unpkg.com;
+  base-uri 'self';
+  form-action 'self' www.mailchimp.com silo.us20.list-manage.com www.paypal.com 76abd233.sibforms.com;
+  connect-src 'self' www.google-analytics.com 76abd233.sibforms.com https://siloweb.netlify.app/.netlify/identity/ https://api.netlify.com;
+">
 
 
 <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
@@ -81,4 +93,19 @@
   gtag('js', new Date());
 
   gtag('config', 'G-VE4PHTSLT7');
+</script>
+
+
+<script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", (user) => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
 </script>
