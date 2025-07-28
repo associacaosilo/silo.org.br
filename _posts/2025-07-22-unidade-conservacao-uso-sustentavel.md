@@ -1,11 +1,11 @@
 ---
 layout: post
 published: true
-lang: pt
-swipebox: null
 title: DIÁLOGO E PARTICIPAÇÃO COMUNITÁRIA EM UNIDADES DE CONSERVAÇÃO DE USO
   SUSTENTÁVEL
 cover: media/images/cover4.jpg
+lang: pt
+swipebox: null
 category:
   - silo
 ref: unidade-conservacao-uso-sustentavel
@@ -44,6 +44,9 @@ Mediação: [Cinthia Mendonça](mailto:cinthia.mendonca@silo.org.br), diretora d
 * Felipe Mendonça - Gestor do Parque Nacional do Itatiaia (PNI)  
 * Silvana Amaral - Vice Coordenadora - Programa Biomas BR do Instituto Nacional de Pesquisas Espaciais (INPE)
 * Alexandre Chagas - Biólogo da Agência do Meio Ambiente do Município de Resende (AMAR)
+* Carlos Dário - Gestor do Parque Estadual da Pedra Selada
+* Sandro Maciel - Secretário da Secretaria de Meio Ambiente de Itatiaia
+* Roberta Dias de Oliveira - Secretária de Turismo de Resende
 
 **Pontos que serão abordados:**
 
@@ -65,16 +68,21 @@ Mediação: [Cinthia Mendonça](mailto:cinthia.mendonca@silo.org.br), diretora d
 **Painel:**
 
 * Rafael Mattos  - Analista e Técnico Gestão Ecossistêmica na Secretária de Estado do Ambiente e Sustentabilidade SEAS/RJ  
-* José Donizete - Presidente da AMOROSA 
+* José Donizete - Presidente da AMOROSA ( Associação de Moradores da Serrinha do Alambari)
+* Maíra Matias - Coordenadora de projetos, Ciência da Geoinformação
 
 **Ativação:**
 
 * Roberto Palmieri - Professor de Sustentabilidade da Faculdade Getúlio Vargas (FGV)  
-* Representante da Articulação de Agroecologia do Médio Paraíba do Sul (AMPS)  
-* Representante da  Associação Pró-Gestão das Águas da Bacia Hidrográfica do Rio Paraíba do Sul (AGEVAP)   
+* Lea Nagel - Permacultora da Articulação de Agroecologia do Médio Paraíba do Sul (AMPS) e ativista climática
+* Vivian Faria  - Especialista em Recursos Hídricos na Associação Pró-Gestão das Águas da Bacia Hidrográfica do Rio Paraíba do Sul (AGEVAP)   
+* Ingrid Ferreira -  Gerente de Contrato de Gestão da 
+  Associação Pró-Gestão das Águas da Bacia Hidrográfica do Rio Paraíba do Sul (AGEVAP)  
 * Miguel Moraes - Diretor de projetos da re.green e morador da Serrinha  
+* Sara Mortara - Especialista em modelagem espacial e ecológica na re.green
 * Roberta Dias de Oliveira - Secretária da Secretaria de Turismo de Resende  
 * Alexandre Chagas - Biólogo da Agência do Meio Ambiente do Município de Resende (AMAR)  
+
 
 **Pontos que serão abordados:**
 
