@@ -566,14 +566,14 @@ a {
   font: normal $LINK-SIZE-MOBILE $FONT-TITLE;
   text-align: center;
   line-height: 28px;
-  font-variant: petite-caps;
+  text-transform: uppercase;
   color: #fff;
   background: linear-gradient(rgba(0,0,0,0), rgba(32,32,32,0.8));
 
   @include media-query(DESKTOP) {
     padding: 12px 12%;
     font: normal $LINK-SIZE $FONT-TITLE;
-    font-variant: petite-caps;
+    text-transform: uppercase;
     line-height: 28px;
   }
 }
