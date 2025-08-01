@@ -2,7 +2,7 @@
 published: true
 layout: home
 title: Silo
-subtitle: Arte e Latitude Rural
+description: Arte e Latitude Rural
 permalink: /en/
 lang: en
 ref: silo-home

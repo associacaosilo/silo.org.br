@@ -1,13 +1,7 @@
 <title>{{ page.title }}</title>
+{% seo %}
 
-{% if page.subtitle %}
-  {% assign subtitle = page.subtitle %}
-{% else %}
-  {% assign subtitle = page.content | strip_html | truncatewords: 25 %}
-{% endif %}
-
-<meta name="description" content="{{site.title}} - {{subtitle}}">
-<meta name="keywords" content="art, arte, latitude, rural">
+{% include schema.html %}
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Security-Policy" content="
