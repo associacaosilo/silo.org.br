@@ -8,11 +8,11 @@ backend:
   repo: associacaosilo/silo.org.br
   branch: stage
   commit_messages:
-    create: "[cms] - Create {{collection}} “{{slug}}”"
-    update: "[cms] - Update {{collection}} “{{slug}}”"
-    delete: "[cms] - Delete {{collection}} “{{slug}}”"
-    uploadMedia: "[cms] - Upload “{{path}}”"
-    deleteMedia: "[cms] - Delete “{{path}}”"
+    create: "[cms] - Create {{collection}} '{{slug}}'"
+    update: "[cms] - Update {{collection}} '{{slug}}'"
+    delete: "[cms] - Delete {{collection}} '{{slug}}'"
+    uploadMedia: "[cms] - Upload '{{path}}'"
+    deleteMedia: "[cms] - Delete '{{path}}'"
     openAuthoring: '{{message}}'
 
 collections:
@@ -25,7 +25,10 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Published", name: "published", widget: "hidden", default: true}
       - {label: "Título do post", name: "title", widget: "string"}
+      - {label: "Descrição SEO", name: "description", widget: "text", required: false, hint: "Descrição curta para SEO e redes sociais (150-160 caracteres)"}
       - {label: "Imagem de capa", name: "cover", widget: "string", required: false, hint: "Ex: media/images/cover.jpg"}
+      - {label: "Imagem para redes sociais", name: "image", widget: "image", required: false, hint: "Imagem otimizada para compartilhamento (1200x630px). Se vazio, usará a imagem de capa"}
+      - {label: "Autor", name: "author", widget: "string", required: false, hint: "Nome do autor do post"}
       - label: "Categorias do post"
         name: "category"
         widget: "select"
@@ -41,6 +44,11 @@ collections:
           - {label: "Participação", value: "participation"}
           - {label: "Biblioteca", value: "library"}
           - {label: "Ocupa Silo", value: "ocupasilo"}
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        required: false
+        hint: "Tags para organização e SEO (ex: arte, tecnologia, residência)"
       - label: "Idioma do post"
         name: "lang"
         widget: "select"
@@ -60,6 +68,8 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Published", name: "published", widget: "hidden", default: true}
       - {label: "Nome da página", name: "title", widget: "string"}
+      - {label: "Descrição SEO", name: "description", widget: "text", required: false, hint: "Descrição da página para SEO (150-160 caracteres)"}
+      - {label: "Imagem da página", name: "image", widget: "string", required: false, hint: "Imagem para compartilhamento social"}
       - {label: "Referência para páginas bilíngue", name: "ref", widget: "string", required: false}
       - {label: "Link da página", name: "permalink", widget: "string", hint: "Ex: /contato/"}
       - label: "Idioma"
@@ -79,15 +89,23 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "publication"}
       - {label: "Published", name: "published", widget: "hidden", default: true}
       - {label: "Título", name: "title", widget: "string"}
+      - {label: "Descrição", name: "description", widget: "text", required: false, hint: "Descrição da publicação para SEO"}
       - {label: "Imagem de capa", name: "cover", widget: "string", required: false, hint: "Ex: media/images/cover.jpg"}
+      - {label: "Imagem para compartilhamento", name: "image", widget: "string", required: false, hint: "Se vazio, usará a imagem de capa"}
       - {label: "Arquivo para download", name: "file", widget: "string", required: false, hint: "Ex: media/docs/arquivo.pdf"}
       - {label: "Link externo", name: "link", widget: "string", required: false, hint: "Ex: https://www.youtube.com/watch?v=..."}
+      - {label: "Autor", name: "author", widget: "string", required: false, hint: "Autor da publicação"}
       - label: "Tipo de conteúdo"
         name: "type"
         widget: "select"
         options:
           - {label: "Publicação", value: "publication"}
           - {label: "Artigo", value: "article"}
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        required: false
+        hint: "Tags para categorização"
       - label: "Idioma"
         name: "lang"
         widget: "select"
@@ -107,6 +125,7 @@ collections:
       - {label: "Nome", name: "title", widget: "string"}
       - {label: "Link da página da pessoa", name: "link", widget: "string", required: false}
       - {label: "Imagem da pessoa", name: "cover", widget: "string", required: false, hint: "Ex: media/images/people/pessoa.jpg"}
+      - {label: "Imagem para compartilhamento", name: "image", widget: "string", required: false, hint: "Se vazio, usará a imagem de capa"}
       - {label: "Referência para páginas bilíngue", name: "ref", widget: "string", required: false}
       - label: "Sub-grupo organizacional"
         name: "category"
@@ -123,4 +142,3 @@ collections:
           - {label: "Português", value: "pt"}
           - {label: "English", value: "en"}
       - {label: "Biografia", name: "body", widget: "markdown"}
-

@@ -1,8 +1,9 @@
 title: Silo
 subtitle: arte e latitude rural
+tagline: arte e latitude rural
 
 # URL
-url: http://silo.org.br
+url: https://silo.org.br
 baseurl: ''
 permalink: :title/
 
@@ -28,6 +29,34 @@ plugins:
   - jekyll-feed
   - jekyll-github-metadata
   - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-archives
+
+# SEO Configuration
+author:
+  name: "Silo - Arte e Latitude Rural"
+  twitter: "SiloLatitude"
+
+logo: "/media/images/logos/silo.svg"
+lang: pt_BR
+
+twitter:
+  username: "SiloLatitude"
+  card: summary_large_image
+
+facebook:
+  publisher: "https://www.facebook.com/silo.arte.latitude.rural"
+
+social:
+  name: "Silo - Arte e Latitude Rural"
+  links:
+    - "https://www.instagram.com/silo.arte.e.latitude.rural"
+    - "https://www.facebook.com/silo.arte.latitude.rural"
+    - "https://github.com/associacaosilo"
+    - "https://www.youtube.com/@SiloArteeLatitudeRural"
+    - "https://www.linkedin.com/company/silo-arte-e-latitude-rural"
 
 safe: true
 
