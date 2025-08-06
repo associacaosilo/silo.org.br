@@ -96,7 +96,8 @@ social:
 twitter_user: "SiloLatitude"
 
 prose:
-  media: 'media/images'
+  siteurl: "https://silo.org.br"
+  media: "media/images"
   ignore:
     - .gitignore
     - _config.yml
@@ -324,4 +325,3 @@ prose:
               value: 'pt'
             - name: 'English'
               value: 'en'
-
