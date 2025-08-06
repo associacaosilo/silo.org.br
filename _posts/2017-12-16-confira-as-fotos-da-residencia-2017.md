@@ -9,10 +9,6 @@ category:
 lang: pt
 ref: fotos-residencia-2017
 ---
-Mudança!!!
-
-![haha](https://silo.org.br/media/images/R1.pierre.jpg "haaaaaaaa")
-
 Em fevereiro de 2017, a Silo, Arte e Latitude Rural realizou a primeira Resiliência: Residência Artistica. Recebemos cerca de 200 inscrições de artistas do mundo todo. Foram selecionados 4 artistas e uma artista local foi convidada para participar do programa. 
 
 **Conheça os artistas selecionados**
