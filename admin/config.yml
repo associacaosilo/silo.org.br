@@ -20,12 +20,18 @@ collections:
     label: "Posts"
     folder: "_posts"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    sortable_fields: ["date", "title", "commit_date"]
+    slug: "{{year}}-{{month}}-{{day}}-{{fields.slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Published", name: "published", widget: "hidden", default: true}
       - {label: "Título do post", name: "title", widget: "string"}
-      - {label: "Descrição SEO", name: "description", widget: "text", required: false, hint: "Descrição curta para SEO e redes sociais (150-160 caracteres)"}
+      - {label: "Slug", name: "slug", widget: "string", hint: "É o nome do post na URL. Ex: residencia-convocatoria-2017"}
+      - label: "Descrição para SEO (Meta Description)"
+        name: "description"
+        widget: "text"
+        required: false
+        hint: "Texto que aparece nos resultados de busca do Google e ao compartilhar o link. Use 150–160 caracteres."
       - {label: "Imagem de capa", name: "cover", widget: "string", required: false, hint: "Ex: media/images/cover.jpg"}
       - {label: "Imagem para redes sociais", name: "image", widget: "image", required: false, hint: "Imagem otimizada para compartilhamento (1200x630px). Se vazio, usará a imagem de capa"}
       - {label: "Autor", name: "author", widget: "string", required: false, hint: "Nome do autor do post"}
@@ -44,11 +50,6 @@ collections:
           - {label: "Participação", value: "participation"}
           - {label: "Biblioteca", value: "library"}
           - {label: "Ocupa Silo", value: "ocupasilo"}
-      - label: "Tags"
-        name: "tags"
-        widget: "list"
-        required: false
-        hint: "Tags para organização e SEO (ex: arte, tecnologia, residência)"
       - label: "Idioma do post"
         name: "lang"
         widget: "select"
