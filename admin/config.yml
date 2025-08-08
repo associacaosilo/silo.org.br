@@ -20,11 +20,13 @@ collections:
     label: "Posts"
     folder: "_posts"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    sortable_fields: ["date", "title", "commit_date"]
+    slug: "{{year}}-{{month}}-{{day}}-{{fields.slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Published", name: "published", widget: "hidden", default: true}
       - {label: "Título do post", name: "title", widget: "string"}
+      - {label: "Slug", name: "slug", widget: "string", hint: "É o nome do post na URL. Ex: residencia-convocatoria-2017"}
       - label: "Descrição para SEO (Meta Description)"
         name: "description"
         widget: "text"
