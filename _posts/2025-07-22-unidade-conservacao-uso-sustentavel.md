@@ -8,6 +8,7 @@ lang: pt
 swipebox: null
 category:
   - silo
+  - siloescola
 ref: unidade-conservacao-uso-sustentavel
 ---
 **Seminário da Silo abre espaço para o diálogo em prol da defesa da biodiversidade e promoção ambiental**
