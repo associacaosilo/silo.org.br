@@ -10,6 +10,7 @@ description: Participe do curso "Extrativismo Ecológico da Palmeira Juçara", n
 cover: media/images/cover5.jpg
 category:
   - silo
+  - siloescola
 lang: pt
 ---
 Programa ROÇA convida a explorar os saberes e práticas em torno da Palmeira Juçara
