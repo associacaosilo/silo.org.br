@@ -13,6 +13,8 @@ category:
   - siloescola
 lang: pt
 ---
+![](/media/images/posts/extrativismo/banner_site_roca.jpg)
+
 Programa ROÇA convida a explorar os saberes e práticas em torno da Palmeira Juçara
 
 O curso **Extrativismo Ecológico da Palmeira Juçara** será realizado na sede da Silo – Arte e Latitude Rural, em Resende (RJ), nos dias 6 e 7 de setembro. Ele abordará a importância ecológica, social e cultural da palmeira juçara, passando pela coleta sustentável de frutos, a partir de informações ecológicas, científicas e legais. 
