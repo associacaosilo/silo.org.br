@@ -12,6 +12,7 @@ São espaços multidisciplinares de prototipagem colaborativa para o desenvolvim
 **Veja a documentação das edições passadas:**
 
 [![](/media/images/labdegovernanca-min.png)](https://labdegovernanca.silo.org.br){:target="_blank"}
+Mais fotos [aqui](https://www.flickr.com/photos/195815264@N08/albums/){:target="_blank"}
   
 [![](/media/images/lab_emergencia_3ed.png)](https://labdeemergencia.silo.org.br/3ed){:target="_blank"}
   
