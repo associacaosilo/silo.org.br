@@ -13,7 +13,7 @@ category:
   - siloescola
 lang: pt
 ---
-![](/media/images/posts/extrativismo/banner_site_roca.jpg)
+![](/media/images/posts/extrativismo/site_banner_roca_jucara.jpg)
 
 Programa ROÇA convida a explorar os saberes e práticas em torno da Palmeira Juçara
 
