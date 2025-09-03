@@ -18,5 +18,7 @@ Por meio de diferentes formatos, unindo pensamento e prática, a Silo Escola vai
 Nossos cursos podem ser online, presenciais e imersivos. 
 
 
+[![](/media/images/roca/banner_site_roca.jpg)](/siloescola/roca)
+
 [![](/media/images/silo-escola/Banner_Curso_Como_Fazer_Labs.png)](/silo-escola-2023)
 
