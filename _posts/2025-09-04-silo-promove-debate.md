@@ -6,6 +6,7 @@ slug: silo-promove-debate
 cover: media/images/cover7.jpg
 category:
   - siloescola
+  - silo
 lang: pt
 ---
 Especialistas, comunidade e gestores públicos discutem convivência, mediação de conflitos e preservação ambiental em UCs 
