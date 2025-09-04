@@ -20,6 +20,7 @@ A ação promoveu um aprofundamento **das discussões sobre os desafios e a impo
 A proposta do Seminário surgiu a partir de uma escuta comunitária, quando nossa diretora, Cinthia Mendonça, foi convidada pela Associação de Moradores da Serrinha do Alambari (AMOROSA), para mediar as reuniões com moradores e associados. Ao acompanhar essas reuniões, Cinthia identificou uma distância entre a linguagem e as informações apresentadas por técnicos gestores e o conhecimento da comunidade sobre Unidades de Conservação, o que evidenciou a necessidade de criar um espaço de diálogo e escuta pedagógica: mais acessível, democrático e transparente. 
 
 ![Cinthia Mendonça, diretora da Silo - Arte e Latitude Rural, dando início ao Seminário Seminário Diálogo e Participação Comunitária em Unidades de Conservação de Uso Sustentável: uma aliança em prol de uma governança interespécies, no primeiro dia de evento](/media/images/uploads/siloescola_noticia_seminario_1.jpg "Cinthia Mendonça, diretora da Silo - Arte e Latitude Rural, dando início ao Seminário Seminário Diálogo e Participação Comunitária em Unidades de Conservação de Uso Sustentável: uma aliança em prol de uma governança interespécies, no primeiro dia de evento")
+<small>*Cinthia Mendonça, diretora da Silo - Arte e Latitude Rural, dando início ao Seminário Seminário Diálogo e Participação Comunitária em Unidades de Conservação de Uso Sustentável: uma aliança em prol de uma governança interespécies, no primeiro dia de evento. Foto: Kamay*</small>
 
 Durante os dois dias de evento, ficou evidente a preocupação coletiva com a defesa e a boa gestão das Unidades de Conservação, em especial da APA da Serrinha do Alambari, além do empenho em pensar e agir de forma colaborativa. O público, formado por ouvintes e convidados dos estados do Rio de Janeiro, São Paulo e Minas Gerais, demonstrou grande interesse nos debates e apresentou uma presença equilibrada entre homens e mulheres. O encontro contou também com a presença de jovens e crianças 
 
@@ -51,6 +52,7 @@ Após as falas dos painelistas, Carolina Del Lama, bióloga e moradora da Serrin
 O primeiro dia cumpriu o objetivo de mostrar à comunidade que, para que uma Unidade de Conservação alcance seus propósitos, é essencial que ela faça sentido para a região e esteja alinhada às suas necessidades e especificidades.
 
 ![Convidados e ouvintes que estiveram presentes no Painel 1 - SNUC e a Lei da Mata Atlântica](/media/images/uploads/siloescola_noticia_seminario_2.jpg "Convidados e ouvintes que estiveram presentes no Painel 1 - SNUC e a Lei da Mata Atlântica")
+<small>*Convidados e ouvintes que estiveram presentes no Painel 1 - SNUC e a Lei da Mata Atlântica. Foto: Kamay*</small>
 
 20 de agosto |\
 **Painel 02 - Água, Ecossistemas e Biodiversidade**\
@@ -77,3 +79,4 @@ No segundo dia, o público se mostrou ainda mais participativo, compartilhando v
 “*A gente precisa que as pessoas sejam integradas efetivamente ao conceito da Natureza. Nós não teremos um planeta salvo se as pessoas não tiverem consciência de que os serviços ambientais e os serviços ecossistêmicos são importantes para a sobrevivência de todos, seres humanos e não humanos*”, comenta moradora da Serrinha do Alambari.
 
 ![Convidados e ouvintes que participaram do Painel 02 - Água, Ecossistemas e Biodiversidade](/media/images/uploads/siloescola_noticia_seminario_3.jpg "Convidados e ouvintes que participaram do Painel 02 - Água, Ecossistemas e Biodiversidade")
+<small>*Convidados e ouvintes que participaram do Painel 02 - Água, Ecossistemas e Biodiversidade. Foto: Kamay*</small>
