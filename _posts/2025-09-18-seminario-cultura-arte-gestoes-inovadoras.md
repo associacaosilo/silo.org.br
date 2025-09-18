@@ -20,6 +20,7 @@ Vinicius Cardoso, diretor de Educação e Cultura da Firjan SENAI SESI, e Anteno
 As falas de abertura destacaram a satisfação pela realização do encontro, resultado de um longo trabalho conjunto. Também reforçaram o compromisso das instituições em promover debates e articular profissionais da cultura e da arte na contemporaneidade, ressaltando a importância de integrar a cultura aos territórios e suas realidades. Por fim, incentivaram uma visão ampliada de economia, reconhecendo a cultura como um vetor econômico que se fortalece com a atuação colaborativa de gestores culturais.
 
 ![](/media/images/uploads/img1.jpg)
+<small>Painel de entrada do seminário Cultura e Arte, realizado na Casa Firjan - Rio de Janeiro</small>
 
 A primeira mesa, intitulada **“O papel das pesquisas e estudos na formulação de caminhos para a Gestão Cultural**”, reuniu **Joana Afonso Siqueira**, Consultora de Estudos e Pesquisas da Firjan e assessora do Conselho Empresarial de Indústria Criativa; **Lia Baron**, Professora de Artes e Cultura da UFF;  e **Manoel Silvestre Friques**, Professor de Engenharia de Produção da Unirio, de Pós-Graduação em Artes da Cena da UFRJ e de Pós-Graduação em Memória Social da Unirio. Os painelistas destacaram o momento atual como um cenário de retomada cultural, em continuidade ao trabalho iniciado nos anos 2000, quando o fazer artístico passou a valorizar manifestações e demandas locais e identitárias. Esse movimento, segundo eles, tem possibilitado o surgimento de gestores que desenvolvem métodos e aplicam tecnologias específicas para cada território.
 
@@ -28,6 +29,7 @@ Durante a mesa, destacou-se também o uso de dados como ferramenta de fortalecim
 Na parte final da primeira mesa, **Manoel Silvestre Friques** pontuou o trabalho de universidades e de instituições, como o **Observatório de Favelas**, na produção de dados e mapeamentos que apoiam gestores e agentes culturais na organização de suas próprias narrativas e produções. Convidou ainda a refletir que a criatividade não se limita aos produtos artísticos: ela também se expressa nas práticas de gestão, que podem inspirar e influenciar políticas culturais; e propôs a ampliar o olhar para pensar a engenharia cultural.
 
 ![](/media/images/uploads/img2.jpg)
+<small>Mesa "O papel das pesquisas e estudos na formulação de caminhos para a Gestão Cultural" composta por Joana Afonso Siqueira, Lia Baron e Manoel Silvestre Friques</small>
 
 A mesa **“O futuro da cultura e da indústria audiovisual na era digital”**, com **Antenor Oliveira**, Especialista em Gestão Cultura; **Ivana Bentes**,  pró-reitora de Extensão da UFRJ e presidenta do Fórum de Pró-Reitores de Extensão das Universidades Públicas Brasileiras; **Pedro Tourinho**, Comunicólogo e  empreendedor de Comunicação e **Julia Zardo**, Doutora em Políticas Públicas, Estratégia e Desenvolvimento pelo Instituto de Economia da UFRJ; apresentou um panorama do novo consumidor cultural, destacando como as transformações sociais redefinem hábitos e perfis de consumo. Os painelistas mostraram a importância de entender como as pessoas consomem cultura nas redes sociais. Um dado curioso compartilhado pelos participantes mostrou que o Instagram é usado como canal de entretenimento e  se consolidou como uma das maiores fontes de acesso a atividades culturais.
 
@@ -44,6 +46,7 @@ As discussões ressaltaram a necessidade de uma engenharia cultural renovada por
 O livro **“Gestão Cultural, Território e Diversidade”** reúne experiências de oito instituições profundamente ligadas aos seus territórios, que criam metodologias e tecnologias próprias para atender demandas locais. O livro foi lançado durante o Seminário, em uma mesa mediada por **Rebeca Brandão**, com a participação de **Cinthia Mendonça** (Silo – Arte e Latitude Rural), **Claudina Olivêira** (EncontrArte), **Almir Gonçalves** (Quilombo São José da Sera) e **Mateus Aragão** ( Rio Parada Funk). A conversa começou às 16h15 e marcou a finalização das mesas.
 
 ![](/media/images/uploads/img3.jpg)
+<small>Cinthia Mendonça, Claudina Olivêira, Almir Gonçalves, Mateus Aragão e Rebeca Brandão após a realização da mesa "Gestão cultural, território e diversidade no Rio de Janeiro"</small>
 
 De acordo com Rebeca Brandão, o livro pode ser compreendido com um manual para pensar políticas culturais a partir de métodos e tecnologias que são desenvolvidas por pessoas gestoras de organizações da sociedade civil em comunidades territorializadas do Estado do Rio de Janeiro.
 
@@ -60,9 +63,11 @@ O Quilombo de São José da Serra realiza uma das maiores festas quilombolas tra
 Além disso, o público também foi convidado a refletir sobre como os modos de vida que as ruralidades oferecem podem inspirar novas formas de pensar a cultura contemporânea e o futuro. 
 
 ![](/media/images/uploads/img4.jpg)
+<small>Cinthia Mendonça, na mesa Gestão Cultural, Território e Diversidade no Rio de Janeiro, apresenta a instituição Silo - Arte e Latitude Rural e suas metodologias de atuação. Ao lado, encontra-se  Claudina Olivêira, da EncontrArte.</small>
 
 Por fim, o projeto **Rio Parada Funk**, idealizado e conduzido por **Mateus Aragão**, encerrou a mesa. Atuante há 15 anos, a iniciativa oferece um espaço seguro para a criação e o consumo do funk. Durante a conversa, Mateus relatou episódios de opressão policial enfrentados por jovens periféricos nas casas de funk, destacando que a Rio Parada Funk se mantém como um importante instrumento na luta contra o preconceito às manifestações artísticas periféricas.
 
 O Seminário proporcionou um rico panorama sobre a diversidade cultural e apresentou possibilidades de gestões culturais criativas, reunindo experiências de organizações que atuam na periferia, no campo e em comunidades tradicionais; para pensar o futuro da cultura no país. O evento encerrou com a apresentação de jongo da comunidade **São José da Serra**, celebrando a resistência e a riqueza das tradições afro-brasileiras.
 
 ![](/media/images/uploads/img5.jpg)
+<small>Roda de Jongo do Quilombo São José da Serra, de Valença (RJ), encerra o seminário Cultura e Arte.</small>
