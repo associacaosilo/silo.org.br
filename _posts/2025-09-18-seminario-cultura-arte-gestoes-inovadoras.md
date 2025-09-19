@@ -8,8 +8,7 @@ category:
   - silo
 lang: pt
 ---
-**SEMINÁRIO CULTURA E ARTE EVIDÊNCIA GESTÕES INOVADORAS E TERRITORIALIZADAS**\
-Realizado na Casa Firjan, o evento apresentou práticas criativas de gestão cultural que acontecem no estado do Rio de Janeiro, adaptadas às particularidades de cada território.
+**Realizado na Casa Firjan, o evento apresentou práticas criativas de gestão cultural que acontecem no estado do Rio de Janeiro, adaptadas às particularidades de cada território.**
 
 Reunindo pesquisadores, professores, gestores culturais, artistas e profissionais da comunicação; o seminário Cultura e Arte ocupou a Casa Firjan, no Rio de Janeiro, em 12 de setembro. A programação trouxe reflexões sobre território, diversidade e gestão cultural do Rio de Janeiro, além de provocar debates sobre políticas públicas e os rumos da cultura na era digital. O seminário inaugurou uma agenda anual que tem o intuito de inovações, estudos e pesquisas acerca da cultura e arte do país.
 
