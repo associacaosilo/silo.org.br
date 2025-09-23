@@ -4,6 +4,7 @@ published: true
 title: FÓRUM “CIÊNCIA CIDADÃ COMO ABORDAGEM PARA O SANEAMENTO AMBIENTAL INCLUSIVO”
 slug: ciência-cidadã-justiça social-saneamento-inclusivo
 description: ""
+cover: media/images/cover1.jpg
 author: ""
 category:
   - silo
