@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: SEMINÁRIO CULTURA E ARTE EVIDÊNCIA GESTÕES INOVADORAS E TERRITORIALIZADAS
+title: SEMINÁRIO CULTURA E ARTE EVIDENCIA GESTÕES INOVADORAS E TERRITORIALIZADAS
 slug: seminario-cultura-arte-gestoes-inovadoras
 cover: media/images/cover2.jpg
 category:
