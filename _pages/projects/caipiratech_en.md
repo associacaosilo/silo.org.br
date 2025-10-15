@@ -9,6 +9,8 @@ ref: caipiratechlab-list
 ---
   
 The program works towards the strengthening of short chains of the local agrifood system and its cultural expression through mapping, courses and technological development co-designed with producers. It creates and broadens the possibilities for young country people to be able to live, work and reconnect with the countryside and be agents of change in their communities.  
+
+[![Where does the food you consume come from?](/media/images/ultimas-noticias/banner_desk_caipiratechLAB_plataforma_et2.jpg){:style="border-radius: 10px;"}](https://caipiratechlab.silo.org.br/){:target="_blank"}
   
 **LATEST EVENTS:**
 
