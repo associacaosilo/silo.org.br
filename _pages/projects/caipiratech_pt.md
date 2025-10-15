@@ -10,6 +10,8 @@ ref: caipiratechlab-list
   
 O programa colabora com o fortalecimento das cadeias curtas do sistema agroalimentar local e sua expressão cultural por meio de mapeamento, cursos e desenvolvimento de tecnologia em co-design com agricultores. Ele cria e amplia as possibilidades para que jovens camponeses possam viver, trabalhar, se reconectar com o campo e ser agentes de mudança na sua comunidade.  
 
+[![Banner de onde vem o alimento que você consome?](/media/images/ultimas-noticias/banner_desk_caipiratechLAB_plataforma_et2.jpg){:style="border-radius: 10px;"}](https://caipiratechlab.silo.org.br/){:target="_blank"}
+
 **Últimas atividades:**
 
 Confira fotos dos últimos encontros [aqui](https://www.flickr.com/photos/196098481@N03/albums/){:target="_blank"}!
