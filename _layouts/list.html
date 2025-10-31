@@ -28,7 +28,7 @@
           {% for post in posts %}
             {% assign pCover = site.baseurl | append: '/' | append: post.cover %}
             <a class="list-item" href="{{ site.baseurl }}{{ post.url }}">
-              <div class="list-item-image" style="background-image: url('{{ pCover }}');">
+              <div class="list-item-image" style="background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.0), rgb(0 0 0 / 68%), rgb(0 0 0)), url('{{ pCover }}')">
                 <div class="list-item-title">{{ post.title }}</div>
               </div>
             </a>
