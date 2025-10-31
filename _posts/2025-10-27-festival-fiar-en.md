@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: FIAR -  FESTIVAL INTERNACIONAL DE ARTE Y RURALIDAD
+title: FIAR – INTERNATIONAL FESTIVAL OF ART AND RURALITY
 slug: festival-internacional-arte-ruralidad
 cover: media/images/cover7.jpg
 category:
