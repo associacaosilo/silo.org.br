@@ -122,7 +122,7 @@ Para nós, trazer o nome Silo é também disputar o imaginário rural que vem se
 
   {% assign pCover = site.baseurl | append: '/' | append: 'media/images/logos/logo_cal.png' %}
    <a href="https://communityartslab.org/" target="_blank">
-    <div class="parceira-logo" style="background-image: url('{{ pCover }}');">
+    <div class="parceira-logo-small" style="background-image: url('{{ pCover }}');">
     </div>
   </a>
 
@@ -131,7 +131,29 @@ Para nós, trazer o nome Silo é também disputar o imaginário rural que vem se
     <div class="parceira-logo" style="background-image: url('{{ pCover }}');">
     </div>
   </a>
+
+  {% assign pCover = site.baseurl | append: '/' | append: 'media/images/logos/Bem-Te-Vi-Diversidade_sitesilo.svg' %}
+  {% assign pCoverHover = site.baseurl | append: '/' | append: 'media/images/logos/Bem-Te-Vi-Diversidade_CORES_sitesilo.svg' %}
+  <style>
+    .parceira-logo-small.parceira-logo-small-pb {
+      background-image: url('{{ pCover }}');
+    }
+    .parceira-logo-small.parceira-logo-small-pb:hover,
+    .parceira-logo-small.parceira-logo-small-pb:focus {
+      background-image: url('{{ pCoverHover }}');
+      filter: none;
+    }
+  </style>
+
+  <a href="https://bemtevidiversidade.org.br/" target="_blank" rel="noopener noreferrer">
+    <div class="parceira-logo-small parceira-logo-small-pb" role="img" aria-label="Bem-Te-Vi Diversidade"></div>
+  </a>
   
+  {% assign pCover = site.baseurl | append: '/' | append: '' %}
+  <a>
+    <div class="parceira-logo" style="background-image: url('{{ pCover }}');">
+    </div>
+  </a>
 </div>
 
 <div class="about-section-title-wrapper">
