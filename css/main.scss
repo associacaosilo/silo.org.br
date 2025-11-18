@@ -615,7 +615,7 @@ a.footer-line {
   justify-items: center;
 
   @include media-query(DESKTOP) {
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(5, 1fr);
   }
 }
 
