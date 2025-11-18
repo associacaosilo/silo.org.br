@@ -782,6 +782,10 @@ i.fa-1_5x {
   }
 }
 
+.parceira-logo-small-pb {
+  @extend .parceira-logo-small;
+}
+
 .share-container {
   margin-top: 35px;
   h3.share-title {
