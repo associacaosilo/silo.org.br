@@ -615,8 +615,13 @@ a.footer-line {
   justify-items: center;
 
   @include media-query(DESKTOP) {
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(5, 1fr);
   }
+}
+
+.footer-recursos-img-margin {
+  margin-top: 40px;
+  margin-bottom: 20px;
 }
 
 .footer-recursos-a {
@@ -627,6 +632,11 @@ a.footer-line {
 .footer-recursos-img {
   width: 100%;
   height: 100px;
+}
+
+.footer-recursos-img-small {
+  width: 100%;
+  height: 80px;
 }
 
 .footer-cultura-wrapper {
@@ -751,6 +761,24 @@ i.fa-1_5x {
 
   &:hover {
     filter: grayscale(0%);
+  }
+}
+
+.parceira-logo-small {
+  height: 48px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+  filter: grayscale(100%);
+  transition: filter $TRANSITION-PERIOD linear;
+  width: 100%;
+
+  &:hover {
+    filter: grayscale(0%);
+  }
+
+   @media only screen and (max-width: 639px) {
+    height: 75px;
   }
 }
 
