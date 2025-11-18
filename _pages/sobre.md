@@ -122,7 +122,7 @@ Para nós, trazer o nome Silo é também disputar o imaginário rural que vem se
 
   {% assign pCover = site.baseurl | append: '/' | append: 'media/images/logos/logo_cal.png' %}
    <a href="https://communityartslab.org/" target="_blank">
-    <div class="parceira-logo" style="background-image: url('{{ pCover }}');">
+    <div class="parceira-logo-small" style="background-image: url('{{ pCover }}');">
     </div>
   </a>
 
@@ -132,9 +132,9 @@ Para nós, trazer o nome Silo é também disputar o imaginário rural que vem se
     </div>
   </a>
 
-  {% assign pCover = site.baseurl | append: '/' | append: 'media/images/logos/Bem-Te-Vi-Diversidade_CORES_sitesilo.svg' %}
+  {% assign pCover = site.baseurl | append: '/' | append: 'media/images/logos/Bem-Te-Vi-Diversidade_sitesilo.svg' %}
   <a href="https://bemtevidiversidade.org.br/" target="_blank">
-    <div class="parceira-logo" style="background-image: url('{{ pCover }}');">
+    <div class="parceira-logo-small" style="background-image: url('{{ pCover }}');">
     </div>
   </a>
   
