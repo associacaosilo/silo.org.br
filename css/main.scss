@@ -635,8 +635,14 @@ a.footer-line {
 }
 
 .footer-recursos-img-small {
-  width: 100%;
+  display: block;
   height: 80px;
+  width: auto;
+  max-width: 100%;
+
+  @media only screen and (max-width: 639px) {
+    height: 90px;
+  }
 }
 
 .footer-cultura-wrapper {
