@@ -7,6 +7,7 @@ cover: media/images/cover2.jpg
 category:
   - silo
 lang: pt
+ref: seminario-cultura-arte-gestoes-inovadoras
 ---
 **Realizado na Casa Firjan, o evento apresentou práticas criativas de gestão cultural que acontecem no estado do Rio de Janeiro, adaptadas às particularidades de cada território.**
 
