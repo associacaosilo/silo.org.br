@@ -7,6 +7,7 @@ cover: media/images/cover2.jpg
 category:
   - silo
 lang: en
+ref: seminario-cultura-arte-gestoes-inovadoras
 permalink: en/seminario-cultura-arte-gestoes-inovadoras/
 ---
 **Held at Casa Firjan, the event presented creative cultural management practices taking place in the state of Rio de Janeiro, adapted to the particularities of each territory.**
