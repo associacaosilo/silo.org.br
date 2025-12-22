@@ -5,7 +5,6 @@ title: 'Inscrições Abertas: Lab De Experimentação Em Resiliência E Regenera
 cover: media/images/cover1.jpg
 category:
   - silo
-  - residence
   - labs
 swipebox:
 lang: pt
