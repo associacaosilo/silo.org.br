@@ -15,7 +15,7 @@ Feminist meetings focussed on the exchange of knowledge between different genera
 
 [![](/media/images/encontrada19.jpg)](https://silo.org.br/encontrada-2019-di-logo/){:target="_blank"}
   
-[![](/media/images/encontrada17.jpg)](http://encontrada.org){:target="_blank"}
+[![](/media/images/encontrada17.jpg)](https://silo.org.br/fotos-encontrada/){:target="_blank"}
 More pictures [here](https://www.flickr.com/photos/152202556@N06/with/36762989454/){:target="_blank"}
   
 [![](/media/images/encontrada16.jpg)](https://encontrada.hotglue.me/2016/){:target="_blank"}

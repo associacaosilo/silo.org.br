@@ -18,7 +18,7 @@ Encontros feministas focados na troca de conhecimento entre diferentes geraçõe
 [![](/media/images/encontrada19.jpg){:style="border-radius: 10px;"}](https://silo.org.br/encontrada-2019-di-logo/){:target="_blank"}
 Mais fotos [aqui](https://www.flickr.com/photos/152202556@N06/albums/72177720320872297/){:target="_blank"}
   
-[![](/media/images/encontrada17.jpg){:style="border-radius: 10px;"}](http://encontrada.org){:target="_blank"}
+[![](/media/images/encontrada17.jpg){:style="border-radius: 10px;"}](https://silo.org.br/fotos-encontrada/){:target="_blank"}
 Mais fotos [aqui](https://www.flickr.com/photos/152202556@N06/albums/72157661110747938){:target="_blank"}
   
 [![](/media/images/encontrada16.jpg){:style="border-radius: 10px;"}](https://encontrada.hotglue.me/2016/){:target="_blank"}
