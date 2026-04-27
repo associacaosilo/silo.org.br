@@ -1,0 +1,9 @@
+---
+published: true
+title: 'Resilience Catalogue: Artistic Residency | Art and Agriculture (2023)'
+cover: media/images/library/publications/banners_resiliencia_2023_biblioteca.jpg
+file: media/docs/library/publications/Resiliencia_Residencia_2023.pdf
+type: publication
+lang: en
+ref: catalogo-resiliencia-2023
+---

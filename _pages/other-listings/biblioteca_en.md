@@ -18,7 +18,7 @@ category:
 # Our Publications
 
 <section class="home-items-wrapper">
-    {% assign publications = site.library | where:"type", "publication" %}
+    {% assign publications = site.library | where:"type", "publication" | where:"lang", "en" %}
     {% for publication in publications %}
       {% assign pCover = site.baseurl | append: '/' | append: publication.cover %}
       {% if publication.file %}
@@ -37,7 +37,7 @@ category:
 # Articles, Videos and Guides
 
 <section class="home-items-wrapper">
-    {% assign articles = site.library | where:"type", "article" %}
+    {% assign articles = site.library | where:"type", "article" | where:"lang", "en" %}
     {% for article in articles %}
       {% assign pCover = site.baseurl | append: '/' | append: article.cover %}
       {% if article.file %}
