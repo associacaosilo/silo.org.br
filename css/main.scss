@@ -1211,6 +1211,10 @@ Media query para telas mais largas (desktops) */
 
   &--fit {
     height: auto;
+
+    @media (min-width: 768px) {
+      height: 200px;
+    }
   }
 }
 
@@ -1218,6 +1222,12 @@ Media query para telas mais largas (desktops) */
   display: block;
   width: 100%;
   height: auto;
+  border-radius: 8px;
+
+  @media (min-width: 768px) {
+    height: 100%;
+    object-fit: contain;
+  }
 }
 
 .banner-image {
