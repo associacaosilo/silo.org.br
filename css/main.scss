@@ -1208,6 +1208,16 @@ Media query para telas mais largas (desktops) */
 
 .home-card {
   height: 200px;
+
+  &--fit {
+    height: auto;
+  }
+}
+
+.banner-image--fit {
+  display: block;
+  width: 100%;
+  height: auto;
 }
 
 .banner-image {
