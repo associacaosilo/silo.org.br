@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: 'EncontrADA 2026 - Entanglements - COMING SOON'
+title: 'EncontrADA 2026 - Entanglements - OPEN CALL'
 cover: media/images/cover9.jpg
 category:
   - silo
@@ -66,7 +66,7 @@ There will be specific activities for boys and men on masculinities.
   margin-top: 2rem;
   padding: 0.75rem 2rem;
   background-color: #000;
-  color: #fff;
+  color: #fff !important;
   text-decoration: none !important;
   font-weight: bold;
   letter-spacing: 0.05em;
