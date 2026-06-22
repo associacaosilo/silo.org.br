@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: 'EncontrADA 2026 - Entrelaçamentos - EM BREVE'
+title: 'EncontrADA 2026 - Entrelaçamentos - CHAMADA ABERTA'
 cover: media/images/cover9.jpg
 category:
   - silo
@@ -67,7 +67,7 @@ Haverá atividades específicas voltadas a meninos e homens sobre masculinidades
   margin-top: 2rem;
   padding: 0.75rem 2rem;
   background-color: #000;
-  color: #fff;
+  color: #fff !important;
   text-decoration: none !important;
   font-weight: bold;
   letter-spacing: 0.05em;
