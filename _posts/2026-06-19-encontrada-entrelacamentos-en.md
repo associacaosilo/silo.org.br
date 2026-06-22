@@ -13,13 +13,14 @@ lang: en
 ref: encontrada-26
 ---
 
-![Banner EncontrADA 2026](/media/images/programs/banner/encontrada_entrelacamentos.png)
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSccN0MdoLWi6_dr-dlHWLoQJiwR4L5EiYqNDhbxv4R1W2fd1w/viewform" target="_blank"><img src="/media/images/programs/banner/encontrada_entrelacamentos.png" alt="Banner EncontrADA 2026"></a>
 
 ## **EncontrADA: Entanglements**
 
 Silo – Art and Rural Latitude presents EncontrADA: Entanglements, an intersectional and intergenerational feminist gathering with spaces for knowledge exchange, creation laboratories, workshops, conversations, and collective experiences taking place at Silo's headquarters, in Serrinha do Alambari, from **July 30 to August 2, 2026**.
 
-Information about registration, programming, workshops, laboratories, activities open to the public, and other actions of this edition will be available soon.
+Registration to participate in the workshops and laboratories of EncontrADA 2026 must be completed through the registration form.
+[Click here](https://docs.google.com/forms/d/e/1FAIpQLSccN0MdoLWi6_dr-dlHWLoQJiwR4L5EiYqNDhbxv4R1W2fd1w/viewform) to access the form.
 
 ---
 
@@ -39,6 +40,7 @@ Since 2012, EncontrADA has occupied a singular place in the Brazilian feminist e
 
 The 2026 edition, this eighth edition, proposes the concept of Entanglements: an invitation to strengthen connections between different feminisms, social movements, territories, ancestral knowledge, community practices, art, technology, and socio-environmental justice. EncontrADA 2026 will be a feminist assembly of collective intelligence, with participatory methodology oriented toward the production of shared visions of futures and concrete strategies to confront the violence advancing over bodies, territories, and rights.
 
+Want to participate in EncontrADA? You can register for the activities that will be offered [by clicking here](https://docs.google.com/forms/d/e/1FAIpQLSccN0MdoLWi6_dr-dlHWLoQJiwR4L5EiYqNDhbxv4R1W2fd1w/viewform). 
 
 ---
 
@@ -55,6 +57,26 @@ Information about registration, programming, workshops, laboratories, activities
 ## **Registration**
 
 EncontrADA is open to **women, trans and non-binary people** from different territories, generations, and areas of activity. **Activities are free and confirmed upon registration**. For those coming from outside Rio de Janeiro, the organization guarantees accommodation and meals during the four days of immersion at Silo's headquarters; however, spots are limited. Participants from the region have meals guaranteed during activities.
+
+Registration for the general program is open until July 13, with limited spots.
+There will be specific activities for boys and men on masculinities.
+<style>
+.cta-btn {
+  display: inline-block;
+  margin-top: 2rem;
+  padding: 0.75rem 2rem;
+  background-color: #000;
+  color: #fff;
+  text-decoration: none !important;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  transition: opacity 0.3s ease;
+}
+.cta-btn:hover { opacity: 0.5; color: #fff; text-decoration: none; }
+</style>
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSccN0MdoLWi6_dr-dlHWLoQJiwR4L5EiYqNDhbxv4R1W2fd1w/viewform" target="_blank" class="cta-btn">Register by July 13, 2026</a>
 
 ---
 

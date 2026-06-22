@@ -13,13 +13,15 @@ lang: pt
 ref: encontrada-26
 ---
 
-![Banner EncontrADA 2026](/media/images/programs/banner/encontrada_entrelacamentos.png)
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSccN0MdoLWi6_dr-dlHWLoQJiwR4L5EiYqNDhbxv4R1W2fd1w/viewform" target="_blank"><img src="/media/images/programs/banner/encontrada_entrelacamentos.png" alt="Banner EncontrADA 2026"></a>
 
 ## **EncontrADA: Entrelaçamentos**
 
 A Silo – Arte e Latitude Rural apresenta a **EncontrADA: Entrelaçamentos**, um encontro feminista interseccional e intergeracional com espaços para intercâmbio de saberes, laboratórios de criação, oficinas, conversas e experiências coletivas que acontecem na sede da Silo, na Serrinha do Alambari, de **30 de julho a 2 de agosto de 2026**.
 
-Em breve informações sobre inscrições, programação, oficinas, laboratórios, atividades abertas ao público e demais ações desta edição.
+As inscrições para participar das oficinas e laboratórios da EncontrADA 2026 devem ser realizadas por meio do formulário de inscrição.
+[Clique aqui](https://docs.google.com/forms/d/e/1FAIpQLSccN0MdoLWi6_dr-dlHWLoQJiwR4L5EiYqNDhbxv4R1W2fd1w/viewform) para acessar o formulário.
+
 
 ---
 
@@ -39,6 +41,8 @@ Desde 2012, a EncontrADA ocupa um lugar singular no ecossistema feminista brasil
 
 A edição de 2026, esta oitava edição propõe o conceito de Entrelaçamentos: um convite para fortalecer conexões entre diferentes feminismos, movimentos sociais, territórios, saberes ancestrais, práticas comunitárias, arte, tecnologia e justiça socioambiental. A EncontrADA 2026 será uma assembleia feminista de inteligência coletiva, com metodologia participativa orientada à produção de visões de futuros compartilhadas e estratégias concretas para enfrentar as violências que avançam sobre os corpos, os territórios e os direitos.
 
+Quer participar da EncontrADA? Você pode se inscrever nas atividades que serão oferecidas [clicando aqui](https://docs.google.com/forms/d/e/1FAIpQLSccN0MdoLWi6_dr-dlHWLoQJiwR4L5EiYqNDhbxv4R1W2fd1w/viewform). 
+
 ---
 
 ![](/media/images/programs/banner/encontrada_2026_pessoas.jpg)
@@ -54,6 +58,27 @@ Em breve informações sobre inscrições, programação, oficinas, laboratório
 ## **Inscrições**
 
 A EncontrADA é aberta a **mulheres, pessoas trans e não binárias** de diferentes territórios, gerações e áreas de atuação. **As atividades são gratuitas e confirmadas mediante inscrição**. Para quem vem de fora do Rio de Janeiro, a organização garante hospedagem e alimentação durante os quatro dias de imersão na sede da Silo, no entanto as vagas são limitadas. Participantes da região contam com alimentação garantida durante as atividades.
+
+As inscrições para a programação geral ficam abertas até 13 de julho, com vagas limitadas.
+Haverá atividades específicas voltadas a meninos e homens sobre masculinidades.
+<style>
+.cta-btn {
+  display: inline-block;
+  margin-top: 2rem;
+  padding: 0.75rem 2rem;
+  background-color: #000;
+  color: #fff;
+  text-decoration: none !important;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  transition: opacity 0.3s ease;
+}
+.cta-btn:hover { opacity: 0.5; color: #fff; text-decoration: none; }
+</style>
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSccN0MdoLWi6_dr-dlHWLoQJiwR4L5EiYqNDhbxv4R1W2fd1w/viewform" target="_blank" class="cta-btn">Inscreva-se até 13 de julho de 2026</a>
+
 
 ---
 
