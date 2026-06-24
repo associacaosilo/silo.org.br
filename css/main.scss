@@ -1226,7 +1226,7 @@ Media query para telas mais largas (desktops) */
 
   @media (min-width: 768px) {
     height: 100%;
-    object-fit: cover;
+    border-radius: 8px;
   }
 }
 
