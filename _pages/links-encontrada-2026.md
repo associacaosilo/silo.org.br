@@ -3,6 +3,7 @@ published: true
 title: Links EncontrADA 2026
 layout: links-encontrada
 permalink: /links-encontrada-2026
+lang: pt
 ref: links-encontrada-2026
 ---
 
@@ -185,7 +186,48 @@ ref: links-encontrada-2026
     line-height: 1.5;
     margin: 0;
   }
+
+  /* Seletor de idioma */
+  #links-encontrada .le-lang {
+    position: fixed;
+    top: 16px;
+    right: 16px;
+    z-index: 10;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+  }
+
+  #links-encontrada .le-lang .menu-language-section {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+  }
+
+  #links-encontrada .le-lang .menu-language-option {
+    color: #C7A94A;
+    opacity: 0.7;
+  }
+
+  #links-encontrada .le-lang a {
+    text-decoration: none;
+  }
+
+  #links-encontrada .le-lang a:hover .menu-language-option {
+    opacity: 1;
+  }
+
+  #links-encontrada .le-lang .menu-language-option-selected {
+    color: #D4AF37;
+    opacity: 1;
+    border-bottom: 2px solid #D4AF37;
+  }
 </style>
+
+<div class="le-lang">
+  {% include language-selection.html %}
+</div>
 
 <div class="le-wrap">
 
