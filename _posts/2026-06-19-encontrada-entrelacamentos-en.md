@@ -22,6 +22,8 @@ Silo – Art and Rural Latitude presents EncontrADA: Entanglements, an intersect
 Registration to participate in the workshops and laboratories of EncontrADA 2026 must be completed through the registration form.
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSccN0MdoLWi6_dr-dlHWLoQJiwR4L5EiYqNDhbxv4R1W2fd1w/viewform) to access the form.
 
+Access the complete program of workshops and practice laboratories, with descriptions of activities, dates, and times [FULL PROGRAM](/media/docs/Encontrada-2026-programacao_01.pdf){:target="_blank"}
+
 ---
 
 ## **Calendar**
@@ -51,6 +53,9 @@ Want to participate in EncontrADA? You can register for the activities that will
 ## **Workshops and activities**
 
 Information about registration, programming, workshops, laboratories, activities open to the public, and other actions of this edition will be available soon.
+
+Access the complete program of workshops and practice laboratories, with descriptions of activities, dates, and times [FULL PROGRAM](/media/docs/Encontrada-2026-programacao_01.pdf){:target="_blank"}
+NOTE: the schedule will be updated until the end of this call and is subject to change, so please pay attention to the times when selecting activities during registration.
 
 ---
 
