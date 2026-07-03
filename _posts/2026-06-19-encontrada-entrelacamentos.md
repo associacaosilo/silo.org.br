@@ -22,6 +22,7 @@ A Silo – Arte e Latitude Rural apresenta a **EncontrADA: Entrelaçamentos**, u
 As inscrições para participar das oficinas e laboratórios da EncontrADA 2026 devem ser realizadas por meio do formulário de inscrição.
 [Clique aqui](https://docs.google.com/forms/d/e/1FAIpQLSccN0MdoLWi6_dr-dlHWLoQJiwR4L5EiYqNDhbxv4R1W2fd1w/viewform) para acessar o formulário.
 
+Acesse a programação completa de oficinas e laboratórios de práticas, com descrições das atividades, datas e horários [PROGRAMAÇÃO COMPLETA](/media/docs/Encontrada-2026-programacao_01.pdf){:target="_blank"}
 
 ---
 
@@ -52,6 +53,9 @@ Quer participar da EncontrADA? Você pode se inscrever nas atividades que serão
 ## **Oficinas e atividades**
 
 Em breve informações sobre inscrições, programação, oficinas, laboratórios, atividades abertas ao público e demais ações desta edição.
+
+Acesse a programação completa de oficinas e laboratórios de práticas, com descrições das atividades, datas e horários [PROGRAMAÇÃO COMPLETA](/media/docs/Encontrada-2026-programacao_01.pdf){:target="_blank"}
+OBS: o cronograma será atualizado até o final desta chamada e está sujeito a alterações, por isso fique atenta/o/e aos horários quando for selecionar as atividades no momento da inscrição. 
 
 ---
 

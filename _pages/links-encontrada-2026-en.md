@@ -1,8 +1,9 @@
 ---
 published: true
-title: Links EncontrADA 2026
+title: EncontrADA 2026 Links
 layout: links-encontrada
-permalink: /links-encontrada-2026
+permalink: /links-encontrada-2026-en
+lang: en
 ref: links-encontrada-2026
 ---
 
@@ -190,20 +191,20 @@ ref: links-encontrada-2026
 <div class="le-wrap">
 
   <div class="le-logos">
-    <img class="le-logo-img--encontrada" src="{{ site.baseurl }}/media/images/logos/Encontrada-2026-mono-dourado-transparente.png" alt="EncontrADA 2026 — Entrelaçamentos">
+    <img class="le-logo-img--encontrada" src="{{ site.baseurl }}/media/images/logos/Encontrada-2026-mono-dourado-transparente.png" alt="EncontrADA 2026 — Entanglements">
     <span class="le-divider"></span>
     <span class="le-logo le-logo--silo" role="img" aria-label="Silo"></span>
   </div>
 
-  <p class="le-date">30 jul — 02 ago 2026</p>
+  <p class="le-date">Jul 30 — Aug 02, 2026</p>
   <p class="le-local">Serrinha do Alambari</p>
 
   <div class="le-buttons">
-    <a class="le-btn" href="https://forms.gle/9SG2Ex1DdsJcAkGL9" target="_blank" rel="noopener">Chamada: Oficinas e Laboratórios</a>
-    <a class="le-btn" href="https://forms.gle/Wz8fFBofchbfY4hB8" target="_blank" rel="noopener">Chamada: Voluntárias/es</a>
-    <!-- <a class="le-btn" href="#" target="_blank" rel="noopener">Programação completa</a> -->
-    <a class="le-btn" href="{{ site.baseurl }}/media/docs/Encontrada-2026-programacao_01.pdf" target="_blank" rel="noopener">Grade de horários</a>
-    <a class="le-btn" href="https://silo.org.br/encontrada-entrelacamentos/" target="_blank" rel="noopener">Tudo sobre EncontrADA</a>
+    <a class="le-btn" href="https://forms.gle/9SG2Ex1DdsJcAkGL9" target="_blank" rel="noopener">Open Call: Workshops and Laboratories</a>
+    <a class="le-btn" href="https://forms.gle/Wz8fFBofchbfY4hB8" target="_blank" rel="noopener">Open Call: Volunteers</a>
+    <!-- <a class="le-btn" href="#" target="_blank" rel="noopener">Full Program</a> -->
+    <a class="le-btn" href="{{ site.baseurl }}/media/docs/Encontrada-2026-programacao_01.pdf" target="_blank" rel="noopener">Schedule</a>
+    <a class="le-btn" href="https://silo.org.br/encontrada-entrelacamentos-en/" target="_blank" rel="noopener">Everything about EncontrADA</a>
   </div>
 
   <div class="le-social">
@@ -221,8 +222,8 @@ ref: links-encontrada-2026
   <a class="le-site" href="https://silo.org.br/" target="_blank" rel="noopener">SILO.ORG.BR</a>
 
   <p class="le-footer">
-    EncontrADA 2026 · Entrelaçamentos<br>
-    uma realização Silo — Arte e Latitude Rural
+    EncontrADA 2026 · Entanglements<br>
+    an initiative by Silo — Art and Rural Latitude
   </p>
 
 </div>
