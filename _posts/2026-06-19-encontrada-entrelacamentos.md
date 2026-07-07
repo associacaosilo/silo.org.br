@@ -22,7 +22,9 @@ A Silo – Arte e Latitude Rural apresenta a **EncontrADA: Entrelaçamentos**, u
 As inscrições para participar das oficinas e laboratórios da EncontrADA 2026 devem ser realizadas por meio do formulário de inscrição.
 [Clique aqui](https://docs.google.com/forms/d/e/1FAIpQLSccN0MdoLWi6_dr-dlHWLoQJiwR4L5EiYqNDhbxv4R1W2fd1w/viewform) para acessar o formulário.
 
-Acesse a programação completa de oficinas e laboratórios de práticas, com descrições das atividades, datas e horários [PROGRAMAÇÃO COMPLETA](/media/docs/Encontrada-2026-programacao_01.pdf){:target="_blank"}
+Acesse a programação completa de oficinas e laboratórios de práticas, com descrições das atividades, datas e horários.
+
+<a href="https://drive.google.com/file/d/1ckFxf0DVWX42PLdqyX-E4ew0zeb7Pbga/view?usp=sharing" target="_blank" class="cta-btn">PROGRAMAÇÃO COMPLETA</a>
 
 ---
 
@@ -30,7 +32,7 @@ Acesse a programação completa de oficinas e laboratórios de práticas, com de
 
 Abertura da chamada para para inscrições: **22 de junho de 2026 (segunda-feira)**
 
-Encerramento da chamada: **13 de julho de 2024 (segunda-feira)** 
+Encerramento da chamada: **13 de julho de 2026 (segunda-feira)** 
 
 EncontrADA: **30 de julho a 2 de agosto de 2026**
 
@@ -54,7 +56,10 @@ Quer participar da EncontrADA? Você pode se inscrever nas atividades que serão
 
 Em breve informações sobre inscrições, programação, oficinas, laboratórios, atividades abertas ao público e demais ações desta edição.
 
-Acesse a programação completa de oficinas e laboratórios de práticas, com descrições das atividades, datas e horários [PROGRAMAÇÃO COMPLETA](/media/docs/Encontrada-2026-programacao_01.pdf){:target="_blank"}
+Acesse a programação completa de oficinas e laboratórios de práticas, com descrições das atividades, datas e horários.
+
+<a href="https://drive.google.com/file/d/1ckFxf0DVWX42PLdqyX-E4ew0zeb7Pbga/view?usp=sharing" target="_blank" class="cta-btn">PROGRAMAÇÃO COMPLETA</a>
+
 OBS: o cronograma será atualizado até o final desta chamada e está sujeito a alterações, por isso fique atenta/o/e aos horários quando for selecionar as atividades no momento da inscrição. 
 
 ---
@@ -98,7 +103,7 @@ Nesta edição, realizaremos mais uma vez, as **Confabulações** que reúnem li
 
 Organizações feministas precisam lidar ativamente com o que os homens fazem com o poder que têm — e com os futuros que imaginam para si. A partir das experiências e reflexões trazidas pelas participantes, as Confabulações vão produzir um **manual de mensagens sobre masculinidades do futuro centradas em cuidado**, para uso de organizações feministas brasileiras.
 
-A programação completa, com oficinas, facilitadoras e convidadas, será divulgada em breve. 
+A programação completa, com oficinas, facilitadoras e convidadas, você confere [aqui](https://drive.google.com/file/d/1ckFxf0DVWX42PLdqyX-E4ew0zeb7Pbga/view?usp=sharing).
 
 ---
 

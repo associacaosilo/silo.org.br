@@ -22,7 +22,9 @@ Silo – Art and Rural Latitude presents EncontrADA: Entanglements, an intersect
 Registration to participate in the workshops and laboratories of EncontrADA 2026 must be completed through the registration form.
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSccN0MdoLWi6_dr-dlHWLoQJiwR4L5EiYqNDhbxv4R1W2fd1w/viewform) to access the form.
 
-Access the complete program of workshops and practice laboratories, with descriptions of activities, dates, and times [FULL PROGRAM](/media/docs/Encontrada-2026-programacao_01.pdf){:target="_blank"}
+Access the complete program of workshops and practice laboratories, with descriptions of activities, dates, and times.
+
+<a href="https://drive.google.com/file/d/1ckFxf0DVWX42PLdqyX-E4ew0zeb7Pbga/view?usp=sharing" target="_blank" class="cta-btn">FULL PROGRAM</a>
 
 ---
 
@@ -30,7 +32,7 @@ Access the complete program of workshops and practice laboratories, with descrip
 
 Opening of the call for applications: **June 22, 2026 (Monday)**
 
-Closing of the call: **July 13, 2024 (Monday)**
+Closing of the call: **July 13, 2026 (Monday)**
 
 EncontrADA: **July 30 to August 2, 2026**
 
@@ -54,7 +56,10 @@ Want to participate in EncontrADA? You can register for the activities that will
 
 Information about registration, programming, workshops, laboratories, activities open to the public, and other actions of this edition will be available soon.
 
-Access the complete program of workshops and practice laboratories, with descriptions of activities, dates, and times [FULL PROGRAM](/media/docs/Encontrada-2026-programacao_01.pdf){:target="_blank"}
+Access the complete program of workshops and practice laboratories, with descriptions of activities, dates, and times.
+
+<a href="https://drive.google.com/file/d/1ckFxf0DVWX42PLdqyX-E4ew0zeb7Pbga/view?usp=sharing" target="_blank" class="cta-btn">FULL PROGRAM</a>
+
 NOTE: the schedule will be updated until the end of this call and is subject to change, so please pay attention to the times when selecting activities during registration.
 
 ---
@@ -97,7 +102,7 @@ In this edition, we will once again hold the **Confabulations**, which bring tog
 
 Feminist organizations need to actively deal with what men do with the power they hold — and with the futures they imagine for themselves. Drawing from the experiences and reflections brought by participants, the Confabulations will produce a **message manual on future-centered, care-oriented masculinities**, for use by Brazilian feminist organizations.
 
-The full program, with workshops, facilitators, and guests, will be announced soon.
+You can check out the full schedule—including workshops, facilitators, and [guests—here](https://drive.google.com/file/d/1ckFxf0DVWX42PLdqyX-E4ew0zeb7Pbga/view?usp=sharing){:target="_blank"}.
 
 ---
 
