@@ -32,7 +32,7 @@ Acesse a programação completa de oficinas e laboratórios de práticas, com de
 
 Abertura da chamada para para inscrições: **22 de junho de 2026 (segunda-feira)**
 
-Encerramento da chamada: **13 de julho de 2024 (segunda-feira)** 
+Encerramento da chamada: **13 de julho de 2026 (segunda-feira)** 
 
 EncontrADA: **30 de julho a 2 de agosto de 2026**
 
