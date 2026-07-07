@@ -32,7 +32,7 @@ Access the complete program of workshops and practice laboratories, with descrip
 
 Opening of the call for applications: **June 22, 2026 (Monday)**
 
-Closing of the call: **July 13, 2024 (Monday)**
+Closing of the call: **July 13, 2026 (Monday)**
 
 EncontrADA: **July 30 to August 2, 2026**
 
