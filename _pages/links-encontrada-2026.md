@@ -244,7 +244,7 @@ ref: links-encontrada-2026
     <a class="le-btn" href="https://forms.gle/9SG2Ex1DdsJcAkGL9" target="_blank" rel="noopener">Chamada: Oficinas e Laboratórios</a>
     <a class="le-btn" href="https://forms.gle/Wz8fFBofchbfY4hB8" target="_blank" rel="noopener">Chamada: Voluntárias/es</a>
     <!-- <a class="le-btn" href="#" target="_blank" rel="noopener">Programação completa</a> -->
-    <a class="le-btn" href="{{ site.baseurl }}/media/docs/Encontrada-2026-programacao_01.pdf" target="_blank" rel="noopener">Grade de horários</a>
+    <a class="le-btn" href="https://drive.google.com/file/d/1ckFxf0DVWX42PLdqyX-E4ew0zeb7Pbga/view?usp=sharing" target="_blank" rel="noopener">Grade de horários</a>
     <a class="le-btn" href="https://silo.org.br/encontrada-entrelacamentos/" target="_blank" rel="noopener">Tudo sobre EncontrADA</a>
   </div>
 
