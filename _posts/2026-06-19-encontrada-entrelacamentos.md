@@ -21,7 +21,7 @@ A Silo – Arte e Latitude Rural apresenta a **EncontrADA: Entrelaçamentos**, u
 
 Acesse a programação completa de oficinas e laboratórios de práticas, com descrições das atividades, datas e horários.
 
-<a href="https://drive.google.com/file/d/1ckFxf0DVWX42PLdqyX-E4ew0zeb7Pbga/view?usp=sharing" target="_blank" class="cta-btn">PROGRAMAÇÃO COMPLETA</a>
+<a href="https://drive.google.com/drive/folders/1tiXPvwhrcgTKiKuKs5e9qzzwuFHAngFe?usp=share_link" target="_blank" class="cta-btn">PROGRAMAÇÃO COMPLETA</a>
 
 ---
 
@@ -51,7 +51,7 @@ A edição de 2026, esta oitava edição propõe o conceito de Entrelaçamentos:
 
 Acesse a programação completa de oficinas e laboratórios de práticas, com descrições das atividades, datas e horários.
 
-<a href="https://drive.google.com/file/d/1ckFxf0DVWX42PLdqyX-E4ew0zeb7Pbga/view?usp=sharing" target="_blank" class="cta-btn">PROGRAMAÇÃO COMPLETA</a>
+<a href="https://drive.google.com/drive/folders/1tiXPvwhrcgTKiKuKs5e9qzzwuFHAngFe?usp=share_link" target="_blank" class="cta-btn">PROGRAMAÇÃO COMPLETA</a>
 
 OBS: o cronograma será atualizado até o final desta chamada e está sujeito a alterações, por isso fique atenta/o/e aos horários quando for selecionar as atividades no momento da inscrição. 
 
@@ -78,7 +78,7 @@ Nesta edição, realizaremos mais uma vez, as **Confabulações** que reúnem li
 
 Organizações feministas precisam lidar ativamente com o que os homens fazem com o poder que têm — e com os futuros que imaginam para si. A partir das experiências e reflexões trazidas pelas participantes, as Confabulações vão produzir um **manual de mensagens sobre masculinidades do futuro centradas em cuidado**, para uso de organizações feministas brasileiras.
 
-A programação completa, com oficinas, facilitadoras e convidadas, você confere [aqui](https://drive.google.com/file/d/1ckFxf0DVWX42PLdqyX-E4ew0zeb7Pbga/view?usp=sharing).
+A programação completa, com oficinas, facilitadoras e convidadas, você confere [aqui](https://drive.google.com/drive/folders/1tiXPvwhrcgTKiKuKs5e9qzzwuFHAngFe?usp=share_link).
 
 ---
 

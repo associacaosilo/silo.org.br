@@ -21,7 +21,7 @@ Silo – Art and Rural Latitude presents EncontrADA: Entanglements, an intersect
 
 Access the complete program of workshops and practice laboratories, with descriptions of activities, dates, and times.
 
-<a href="https://drive.google.com/file/d/1ckFxf0DVWX42PLdqyX-E4ew0zeb7Pbga/view?usp=sharing" target="_blank" class="cta-btn">FULL PROGRAM</a>
+<a href="https://drive.google.com/drive/folders/1tiXPvwhrcgTKiKuKs5e9qzzwuFHAngFe?usp=share_link" target="_blank" class="cta-btn">FULL PROGRAM</a>
 
 ---
 
@@ -51,7 +51,7 @@ The 2026 edition, this eighth edition, proposes the concept of Entanglements: an
 
 Access the complete program of workshops and practice laboratories, with descriptions of activities, dates, and times.
 
-<a href="https://drive.google.com/file/d/1ckFxf0DVWX42PLdqyX-E4ew0zeb7Pbga/view?usp=sharing" target="_blank" class="cta-btn">FULL PROGRAM</a>
+<a href="https://drive.google.com/drive/folders/1tiXPvwhrcgTKiKuKs5e9qzzwuFHAngFe?usp=share_link" target="_blank" class="cta-btn">FULL PROGRAM</a>
 
 NOTE: the schedule will be updated until the end of this call and is subject to change, so please pay attention to the times when selecting activities during registration.
 
@@ -78,7 +78,7 @@ In this edition, we will once again hold the **Confabulations**, which bring tog
 
 Feminist organizations need to actively deal with what men do with the power they hold — and with the futures they imagine for themselves. Drawing from the experiences and reflections brought by participants, the Confabulations will produce a **message manual on future-centered, care-oriented masculinities**, for use by Brazilian feminist organizations.
 
-You can check out the full schedule—including workshops, facilitators, and [guests—here](https://drive.google.com/file/d/1ckFxf0DVWX42PLdqyX-E4ew0zeb7Pbga/view?usp=sharing){:target="_blank"}.
+You can check out the full schedule—including workshops, facilitators, and [guests—here](https://drive.google.com/drive/folders/1tiXPvwhrcgTKiKuKs5e9qzzwuFHAngFe?usp=share_link){:target="_blank"}.
 
 ---
 
