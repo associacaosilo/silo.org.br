@@ -241,7 +241,7 @@ ref: links-encontrada-2026
   <p class="le-local">Serrinha do Alambari</p>
 
   <div class="le-buttons">
-    <a class="le-btn" href="https://forms.gle/Wz8fFBofchbfY4hB8" target="_blank" rel="noopener">Open Call: Volunteers</a>
+    <!-- <a class="le-btn" href="https://forms.gle/Wz8fFBofchbfY4hB8" target="_blank" rel="noopener">Open Call: Volunteers</a> -->
     <!-- <a class="le-btn" href="#" target="_blank" rel="noopener">Full Program</a> -->
     <a class="le-btn" href="https://drive.google.com/drive/folders/1tiXPvwhrcgTKiKuKs5e9qzzwuFHAngFe?usp=share_link" target="_blank" rel="noopener">Schedule</a>
     <a class="le-btn" href="https://silo.org.br/encontrada-entrelacamentos-en/" target="_blank" rel="noopener">Everything about EncontrADA</a>
