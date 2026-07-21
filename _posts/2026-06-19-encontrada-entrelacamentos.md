@@ -21,7 +21,23 @@ A Silo – Arte e Latitude Rural apresenta a **EncontrADA: Entrelaçamentos**, u
 
 Acesse a programação completa de oficinas e laboratórios de práticas, com descrições das atividades, datas e horários.
 
-<a href="https://drive.google.com/drive/folders/1tiXPvwhrcgTKiKuKs5e9qzzwuFHAngFe?usp=share_link" target="_blank" class="cta-btn">PROGRAMAÇÃO COMPLETA</a>
+<style>
+.cta-btn {
+  display: inline-block;
+  margin-top: 2rem;
+  padding: 0.75rem 2rem;
+  background-color: #000;
+  color: #fff !important;
+  text-decoration: none !important;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  transition: opacity 0.3s ease;
+}
+.cta-btn:hover { opacity: 0.5; color: #fff; text-decoration: none; }
+</style>
+
+<a href="https://drive.google.com/file/d/1t0yzhklQk1Ss0ME0DddxzbalQ_jaRcl4/view" target="_blank" class="cta-btn">PROGRAMAÇÃO COMPLETA</a>
 
 ---
 
@@ -49,11 +65,11 @@ A edição de 2026, esta oitava edição propõe o conceito de Entrelaçamentos:
 
 ## **Oficinas e atividades**
 
-Acesse a programação completa de oficinas e laboratórios de práticas, com descrições das atividades, datas e horários.
+Confira a programação completa com a descrição das oficinas, laboratórios e demais atividades. 
 
-<a href="https://drive.google.com/drive/folders/1tiXPvwhrcgTKiKuKs5e9qzzwuFHAngFe?usp=share_link" target="_blank" class="cta-btn">PROGRAMAÇÃO COMPLETA</a>
+<a href="https://drive.google.com/file/d/1t0yzhklQk1Ss0ME0DddxzbalQ_jaRcl4/view" target="_blank" class="cta-btn">PROGRAMAÇÃO COMPLETA</a>
+<a href="https://drive.google.com/file/d/1smyZJsWr_v0EbLzfqbsx5A8zIiUR5oZY/view?usp=sharing" target="_blank" class="cta-btn">GRADE DE HORÁRIOS</a>
 
-OBS: o cronograma será atualizado até o final desta chamada e está sujeito a alterações, por isso fique atenta/o/e aos horários quando for selecionar as atividades no momento da inscrição. 
 
 ---
 
