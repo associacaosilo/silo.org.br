@@ -21,7 +21,23 @@ Silo – Art and Rural Latitude presents EncontrADA: Entanglements, an intersect
 
 Access the complete program of workshops and practice laboratories, with descriptions of activities, dates, and times.
 
-<a href="https://drive.google.com/drive/folders/1tiXPvwhrcgTKiKuKs5e9qzzwuFHAngFe?usp=share_link" target="_blank" class="cta-btn">FULL PROGRAM</a>
+<style>
+.cta-btn {
+  display: inline-block;
+  margin-top: 2rem;
+  padding: 0.75rem 2rem;
+  background-color: #000;
+  color: #fff !important;
+  text-decoration: none !important;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  transition: opacity 0.3s ease;
+}
+.cta-btn:hover { opacity: 0.5; color: #fff; text-decoration: none; }
+</style>
+
+<a href="https://drive.google.com/file/d/1t0yzhklQk1Ss0ME0DddxzbalQ_jaRcl4/view" target="_blank" class="cta-btn">FULL PROGRAM</a>
 
 ---
 
@@ -49,11 +65,12 @@ The 2026 edition, this eighth edition, proposes the concept of Entanglements: an
 
 ## **Workshops and activities**
 
-Access the complete program of workshops and practice laboratories, with descriptions of activities, dates, and times.
+Check out the full schedule, including descriptions of the workshops, laboratories, and other activities.
 
-<a href="https://drive.google.com/drive/folders/1tiXPvwhrcgTKiKuKs5e9qzzwuFHAngFe?usp=share_link" target="_blank" class="cta-btn">FULL PROGRAM</a>
+<a href="https://drive.google.com/file/d/1t0yzhklQk1Ss0ME0DddxzbalQ_jaRcl4/view" target="_blank" class="cta-btn">FULL PROGRAM</a>
+<a href="https://drive.google.com/file/d/1smyZJsWr_v0EbLzfqbsx5A8zIiUR5oZY/view?usp=sharing" target="_blank" class="cta-btn">SCHEDULE</a>
 
-NOTE: the schedule will be updated until the end of this call and is subject to change, so please pay attention to the times when selecting activities during registration.
+
 
 ---
 
