@@ -37,7 +37,7 @@ Acesse a programação completa de oficinas e laboratórios de práticas, com de
 .cta-btn:hover { opacity: 0.5; color: #fff; text-decoration: none; }
 </style>
 
-<a href="https://drive.google.com/file/d/1t0yzhklQk1Ss0ME0DddxzbalQ_jaRcl4/view" target="_blank" class="cta-btn">PROGRAMAÇÃO COMPLETA</a>
+<a href="/media/docs/grade-horarios-encontrada-2026.pdf" target="_blank" class="cta-btn">PROGRAMAÇÃO COMPLETA</a>
 
 ---
 
@@ -67,8 +67,8 @@ A edição de 2026, esta oitava edição propõe o conceito de Entrelaçamentos:
 
 Confira a programação completa com a descrição das oficinas, laboratórios e demais atividades. 
 
-<a href="https://drive.google.com/file/d/1t0yzhklQk1Ss0ME0DddxzbalQ_jaRcl4/view" target="_blank" class="cta-btn">PROGRAMAÇÃO COMPLETA</a>
-<a href="https://drive.google.com/file/d/1smyZJsWr_v0EbLzfqbsx5A8zIiUR5oZY/view?usp=sharing" target="_blank" class="cta-btn">GRADE DE HORÁRIOS</a>
+<a href="/media/docs/grade-horarios-encontrada-2026.pdf" target="_blank" class="cta-btn">PROGRAMAÇÃO COMPLETA</a>
+<a href="/media/docs/grade-horarios-encontrada-2026.pdf" target="_blank" class="cta-btn">GRADE DE HORÁRIOS</a>
 
 
 ---

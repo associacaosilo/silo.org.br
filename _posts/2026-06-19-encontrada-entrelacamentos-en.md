@@ -37,7 +37,7 @@ Access the complete program of workshops and practice laboratories, with descrip
 .cta-btn:hover { opacity: 0.5; color: #fff; text-decoration: none; }
 </style>
 
-<a href="https://drive.google.com/file/d/1t0yzhklQk1Ss0ME0DddxzbalQ_jaRcl4/view" target="_blank" class="cta-btn">FULL PROGRAM</a>
+<a href="/media/docs/grade-horarios-encontrada-2026.pdf" target="_blank" class="cta-btn">FULL PROGRAM</a>
 
 ---
 
@@ -67,8 +67,8 @@ The 2026 edition, this eighth edition, proposes the concept of Entanglements: an
 
 Check out the full schedule, including descriptions of the workshops, laboratories, and other activities.
 
-<a href="https://drive.google.com/file/d/1t0yzhklQk1Ss0ME0DddxzbalQ_jaRcl4/view" target="_blank" class="cta-btn">FULL PROGRAM</a>
-<a href="https://drive.google.com/file/d/1smyZJsWr_v0EbLzfqbsx5A8zIiUR5oZY/view?usp=sharing" target="_blank" class="cta-btn">SCHEDULE</a>
+<a href="/media/docs/grade-horarios-encontrada-2026.pdf" target="_blank" class="cta-btn">FULL PROGRAM</a>
+<a href="/media/docs/grade-horarios-encontrada-2026.pdf" target="_blank" class="cta-btn">SCHEDULE</a>
 
 
 

@@ -242,8 +242,8 @@ ref: links-encontrada-2026
 
   <div class="le-buttons">
     <!-- <a class="le-btn" href="https://forms.gle/Wz8fFBofchbfY4hB8" target="_blank" rel="noopener">Open Call: Volunteers</a> -->
-    <a class="le-btn" href="https://drive.google.com/file/d/1t0yzhklQk1Ss0ME0DddxzbalQ_jaRcl4/view" target="_blank" rel="noopener">Full Program</a>
-    <a class="le-btn" href="https://drive.google.com/file/d/1smyZJsWr_v0EbLzfqbsx5A8zIiUR5oZY/view?usp=sharing" target="_blank" rel="noopener">Schedule</a>
+    <a class="le-btn" href="/media/docs/grade-horarios-encontrada-2026.pdf" target="_blank" rel="noopener">Full Program</a>
+    <a class="le-btn" href="/media/docs/grade-horarios-encontrada-2026.pdf" target="_blank" rel="noopener">Schedule</a>
     <a class="le-btn" href="https://silo.org.br/encontrada-entrelacamentos-en/" target="_blank" rel="noopener">Everything about EncontrADA</a>
   </div>
 
