@@ -9,11 +9,11 @@ ref: encontrada-list
 ---
 Encontros feministas focados na troca de conhecimento entre diferentes gerações feministas e suas características socioculturais, raciais, econômicas, éticas e estéticas. Voltado para mulheres, pessoas trans e não binárias, o encontro pode oferecer cursos, treinamentos e assessoria para projetos, além de ser um espaço de formação política e de práticas micropolíticas.  
 
-[![](/media/images/banner/banner_encontrada_2026.png){:style="border-radius: 10px;"}](/encontrada-entrelacamentos/)
-
-[![](/media/images/programs/banner/banner_encontrada2024_fotos.jpg){:style="border-radius: 10px;"}](https://www.flickr.com/photos/encontrada/albums/){:target="_blank"}
+[![](/media/images/programs/banner/banner_encontrada2024_fotos.jpg){:style="border-radius: 10px;"}](/encontrada-entrelacamentos/){:target="_blank"}
 
 **Veja as Edições Passadas:**
+
+[![](/media/images/banner/banner_encontrada_2026.png){:style="border-radius: 10px;"}](/encontrada-entrelacamentos/){:target="_blank"}
 
 [![](/media/images/programs/banner/encontrada_confabulacoes.png){:style="border-radius: 10px;"}](https://silo.org.br/encontrada2024/){:target="_blank"}
 
