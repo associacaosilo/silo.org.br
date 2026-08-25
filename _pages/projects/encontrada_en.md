@@ -9,11 +9,11 @@ ref: encontrada-list
 ---
 Feminist meetings focussed on the exchange of knowledge between different generations of feminists and their sociocultural, racial, economic, ethical and esthetic characteristics. Aimed at women, trans and non-binary people, the meeting may offer courses, training and support for projects, in addition to being a space for political awareness and micropolitical practices.  
 
-[![](/media/images/banner/banner_encontrada_2026.png){:style="border-radius: 10px;"}](/encontrada-entrelacamentos-en/)
-
-[![](/media/images/programs/banner/banner_encontrada2024_fotos.jpg){:style="border-radius: 10px;"}](https://www.flickr.com/photos/encontrada/albums/){:target="_blank"}
+[![](/media/images/programs/banner/banner_encontrada2024_fotos.jpg){:style="border-radius: 10px;"}](/encontrada-entrelacamentos-en/){:target="_blank"}
 
 **Past Editions:**
+
+[![](/media/images/banner/banner_encontrada_2026.png){:style="border-radius: 10px;"}](/encontrada-entrelacamentos-en/){:target="_blank"}
 
 [![](/media/images/programs/banner/encontrada_confabulacoes.png){:style="border-radius: 10px;"}](https://silo.org.br/encontrada2024/){:target="_blank"}
 
