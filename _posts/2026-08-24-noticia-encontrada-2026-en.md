@@ -114,4 +114,4 @@ EncontrADA reached its eighth edition in 2026. Since 2012, each gathering has dr
 
 **Learn more about previous editions of EncontrADA by clicking** [here](https://silo.org.br/encontrada/){:target="_blank"}.
 
-<a href="https://silo.org.br/encontrada/" target="_blank"><img src="/media/images/encontrada-2026/images/image6.png" alt="EncontrADA"></a>
+<a href="https://www.flickr.com/photos/encontrada2026/albums/" target="_blank"><img src="/media/images/encontrada-2026/images/image6.png" alt="EncontrADA"></a>

@@ -11,21 +11,22 @@ Are multidisciplinary spaces of collaborative prototyping aimed at developing pr
 
 Our labs are spaces promoting an exchange between popular, artistic and scientific knowledges of solutions for the complex problems of our time, incentivizing autonomy, solidarity and contributing to the communities’ prosperity.  
 
+[![](/media/images/banner/2.png){:style="border-radius: 10px;"}](https://www.flickr.com/photos/encontrada2026/albums/){:target="_blank"}
+
+[![](/media/images/banner/banner_encontrada_2026.png){:style="border-radius: 10px;"}](/encontrada-entrelacamentos/){:target="_blank"}
+
 **Past editions documentation:**
-    
-[![](/media/images/lab_governanca-min.png)](https://labdegovernanca.silo.org.br){:target="_blank"}
- 
-[![](/media/images/lab_emergencia_3ed.png)](https://labdeemergencia.silo.org.br/3ed){:target="_blank"}
+
+[![](/media/images/programs/banner/encontrada_confabulacoes.png){:style="border-radius: 10px;"}](/encontrada2024/){:target="_blank"}
+
+[![](/media/images/banner/1.png){:style="border-radius: 10px;"}](https://www.flickr.com/photos/encontrada/albums/){:target="_blank"}
+
+[![](/media/images/encontrada19.jpg){:style="border-radius: 10px;"}](/encontrada-2019-di-logo/){:target="_blank"}
+Mais fotos [aqui](https://www.flickr.com/photos/152202556@N06/albums/72177720320872297/){:target="_blank"}
   
-[![](/media/images/lab_emergencia_2ed.png)](https://labdeemergencia.silo.org.br/2ed){:target="_blank"}
-   
-[![](/media/images/labdeemergencia1.jpg)](https://labdeemergencia.silo.org.br/){:target="_blank"}
+[![](/media/images/encontrada17.jpg){:style="border-radius: 10px;"}](/fotos-encontrada/){:target="_blank"}
+Mais fotos [aqui](https://www.flickr.com/photos/152202556@N06/albums/72157661110747938){:target="_blank"}
   
-[![](/media/images/interactivos19.jpg)](https://interactivos.silo.org.br/2019){:target="_blank"}
-More pictures [here](https://www.flickr.com/photos/184616193@N07/albums/with/72157711069333713){:target="_blank"}
-  
-[![](/media/images/interactivos18.jpg)](https://interactivos.silo.org.br/2018){:target="_blank"}
-More pictures [here](https://www.flickr.com/photos/silolatitude/albums){:target="_blank"}
-  
-[![](/media/images/interactivos16.jpg)](https://interactivos.silo.org.br/2016){:target="_blank"}
-More pictures [here](https://www.flickr.com/photos/interactivos16/){:target="_blank"}
+[![](/media/images/encontrada16.jpg){:style="border-radius: 10px;"}](https://encontrada.hotglue.me/2016/){:target="_blank"}
+Mais fotos [aqui](https://www.flickr.com/photos/152202556@N06/albums/72157685722066836){:target="_blank"}
+

@@ -114,4 +114,4 @@ A EncontrADA chegou à sua oitava edição em 2026. Desde 2012, cada encontro pa
 
 **Saiba mais sobre as edições anteriores da EncontrADA clicando** [aqui](https://silo.org.br/encontrada/){:target="_blank"}.
 
-<a href="https://silo.org.br/encontrada/" target="_blank"><img src="/media/images/encontrada-2026/images/image6.png" alt="EncontrADA"></a>
+<a href="https://www.flickr.com/photos/encontrada2026/albums/" target="_blank"><img src="/media/images/encontrada-2026/images/image6.png" alt="EncontrADA"></a>
