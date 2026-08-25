@@ -26,7 +26,7 @@ Há 9 anos a Silo promove encontros entre conhecimentos produzidos em contextos 
 
 A programação da oitava edição partiu do conceito **Entrelaçamentos**, uma proposta de fortalecer conexões entre diferentes feminismos, movimentos sociais, territórios, saberes ancestrais, práticas comunitárias, arte, tecnologia e justiça socioambiental. A edição foi pensada como uma assembleia feminista de inteligência coletiva, orientada à produção de visões de futuro e estratégias compartilhadas.
 
-**30 de julho | Saberes, criação e território**
+**30 de julho \| Saberes, criação e território**
 
 O primeiro dia aproximou práticas transmitidas entre gerações, criação artística, audiovisual e educação. **Helena Sá Motta** iniciou a programação com Fitoterapia Caseira: Plantas de Cá, oficina de remédios caseiros, enquanto **Gisele Ferreira** conduziu Terra Crua, Corpo Nu, experiência de criação de esculturas com argila. À tarde, **Arasy Benítez e Maryah Monteiro** trabalharam as relações entre corpo, câmera e movimento em Sempre Mais Que Um: Corpo-Câmera e Movimento.
 
@@ -37,7 +37,7 @@ A EncontrADA também chegou à **Escola Municipal Moacir Coelho da Silveira**, o
   <img src="/media/images/encontrada-2026/55468455442_32523daaf2_b.jpg" style="width: 50%; display: block;">
 </div>
 
-**31 de julho | Diferentes formas de produzir conhecimento**
+**31 de julho \| Diferentes formas de produzir conhecimento**
 
 Na sexta-feira (31), saúde, saberes tradicionais, educação e expressão corporal ocuparam simultaneamente diferentes espaços da EncontrADA. O Galpão da Silo recebeu **Afinal, o que é Acessibilidade?**, conduzida por **Virgínia Maria Barcellos**, e *Introdução à Ballroom e Práticas Pedagógicas*, com Lua Brainer. Helena Sá Motta deu continuidade à Fitoterapia Caseira, iniciada no dia anterior.
 
@@ -52,7 +52,7 @@ Diferentes abordagens dividiram as atividades realizadas no **Centro de Atendime
 
 ![](/media/images/encontrada-2026/55469874035_2c72269eab_b.jpg)
 
-**1º de agosto | Corpo e cuidado**
+**1º de agosto \| Corpo e cuidado**
 
 O sábado colocou em relação tecnologias ancestrais e práticas corporais. Na quadra da Escola Municipal, **Nanda Rocha** conduziu *Yoga Kemética: Tecnologia Ancestral Africana* para regulação emocional e mental. Na Silo, **Dora Selva** realizou *Viva Pelve*, com práticas de escuta corporal.
 
@@ -76,7 +76,7 @@ As **Confabulações** foram construídas em três movimentos. No sábado pela m
   <img src="/media/images/encontrada-2026/55470276891_a1ae36e69a_b.jpg" style="width: 50%; display: block;">
 </div>
 
-**2 de agosto | O que permanece depois do encontro**
+**2 de agosto \| O que permanece depois do encontro**
 
 O domingo retomou questões construídas ao longo dos dias anteriores. **Nanda Rocha** realizou uma nova prática de Yoga Kemética, desta vez no jardim da Silo. No **Centro de Atendimento ao Turista, Leonardo Piamonte** conduziu a roda **Ser Homem Não Tá Fácil**, dirigida aos homens da Serrinha. A atividade levou o eixo de masculinidades diretamente para a comunidade e criou um espaço de conversa sobre cuidado, responsabilidade e relações de gênero. Ao acontecer no CAT e ser dirigida a moradores do território, a discussão ganhou interlocutores diferentes daqueles reunidos na imersão feminista.
 

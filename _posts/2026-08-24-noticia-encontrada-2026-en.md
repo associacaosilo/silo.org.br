@@ -26,7 +26,7 @@ For 9 years, Silo has been fostering encounters between knowledge produced in di
 
 The eighth edition's program was built around the concept of **Entanglements**, a proposal to strengthen connections between different feminisms, social movements, territories, ancestral knowledge, community practices, art, technology, and socio-environmental justice. The edition was conceived as a feminist assembly of collective intelligence, oriented toward producing shared visions of the future and shared strategies.
 
-**July 30 | Knowledge, creation, and territory**
+**July 30 \| Knowledge, creation, and territory**
 
 The first day brought together practices passed down between generations, artistic creation, audiovisual work, and education. **Helena Sá Motta** opened the program with Fitoterapia Caseira: Plantas de Cá, a home remedies workshop, while **Gisele Ferreira** led Terra Crua, Corpo Nu, an experience of creating sculptures with clay. In the afternoon, **Arasy Benítez and Maryah Monteiro** explored the relationships between body, camera, and movement in Sempre Mais Que Um: Corpo-Câmera e Movimento.
 
@@ -37,7 +37,7 @@ EncontrADA also reached the **Moacir Coelho da Silveira Municipal School**, wher
   <img src="/media/images/encontrada-2026/55468455442_32523daaf2_b.jpg" style="width: 50%; display: block;">
 </div>
 
-**July 31 | Different ways of producing knowledge**
+**July 31 \| Different ways of producing knowledge**
 
 On Friday (31), health, traditional knowledge, education, and body expression simultaneously occupied different spaces of EncontrADA. The Silo Warehouse hosted **Afinal, o que é Acessibilidade?** [After All, What Is Accessibility?], led by **Virgínia Maria Barcellos**, and *Introdução à Ballroom e Práticas Pedagógicas* [Introduction to Ballroom and Pedagogical Practices], with Lua Brainer. Helena Sá Motta continued the Home Herbal Medicine workshop begun the previous day.
 
@@ -52,7 +52,7 @@ In the evening, EncontrADA continued at the **Pé de Grumixama Bistrô**. The Aw
 
 ![](/media/images/encontrada-2026/55469874035_2c72269eab_b.jpg)
 
-**August 1 | Body and care**
+**August 1 \| Body and care**
 
 Saturday brought ancestral technologies and body practices into dialogue. On the Municipal School's court, **Nanda Rocha** led *Yoga Kemética: Tecnologia Ancestral Africana* [Kemetic Yoga: African Ancestral Technology] for emotional and mental regulation. At Silo, **Dora Selva** held *Viva Pelve*, with body listening practices.
 
@@ -76,7 +76,7 @@ In the evening, singing, drumming, dance, and circle filled Silo's gardens with 
   <img src="/media/images/encontrada-2026/55470276891_a1ae36e69a_b.jpg" style="width: 50%; display: block;">
 </div>
 
-**August 2 | What remains after the gathering**
+**August 2 \| What remains after the gathering**
 
 Sunday returned to questions built over the previous days. **Nanda Rocha** held a new Kemetic Yoga practice, this time in Silo's garden. At the **Tourist Assistance Center, Leonardo Piamonte** led the circle **Ser Homem Não Tá Fácil** [Being a Man Isn't Easy], aimed at men from Serrinha. The activity brought the masculinities axis directly to the community and created a space for conversation about care, responsibility, and gender relations. Taking place at the CAT and aimed at local residents, the discussion reached different interlocutors from those gathered in the feminist immersion.
 
