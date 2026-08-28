@@ -32,9 +32,17 @@ O primeiro dia aproximou práticas transmitidas entre gerações, criação art�
 
 A EncontrADA também chegou à **Escola Municipal Moacir Coelho da Silveira**, onde **Nuala** conduziu a oficina de Capoeira Angola com alunos do **6º e 7º ano**. À noite, o **Cineclube Feminista Vídeos Táticos**, realizado por Tatiana Wells e Giseli Vasconcelos, abriu a programação cultural no Galpão da Silo, trazendo a história da origem da EncontrADA em 2012, a partir da conexão com diferentes movimentos políticos e feministas da época.
 
-<div style="display: flex;">
-  <img src="/media/images/encontrada-2026/55462786057_1283f028f3_b.jpg" style="width: 50%; display: block;">
-  <img src="/media/images/encontrada-2026/55468455442_32523daaf2_b.jpg" style="width: 50%; display: block;">
+<style>
+  .img-row-1 { display: flex; gap: 8px; }
+  .img-row-1 img { flex: 1; min-width: 0; display: block; }
+  @media only screen and (max-width: 639px) {
+    .img-row-1 { flex-direction: column; }
+  }
+</style>
+
+<div class="img-row-1">
+  <img src="/media/images/encontrada-2026/55462786057_1283f028f3_b.jpg">
+  <img src="/media/images/encontrada-2026/55468455442_32523daaf2_b.jpg">
 </div>
 
 **31 de julho \| Diferentes formas de produzir conhecimento**

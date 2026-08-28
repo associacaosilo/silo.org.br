@@ -32,9 +32,17 @@ The first day brought together practices passed down between generations, artist
 
 EncontrADA also reached the **Moacir Coelho da Silveira Municipal School**, where **Nuala** led a Capoeira Angola workshop with **6th and 7th grade** students. In the evening, the **Feminist Film Club Vídeos Táticos**, led by Tatiana Wells and Giseli Vasconcelos, opened the cultural program at the Silo Warehouse, bringing the story of EncontrADA's origins in 2012, rooted in its connection to different political and feminist movements of the time.
 
-<div style="display: flex;">
-  <img src="/media/images/encontrada-2026/55462786057_1283f028f3_b.jpg" style="width: 50%; display: block;">
-  <img src="/media/images/encontrada-2026/55468455442_32523daaf2_b.jpg" style="width: 50%; display: block;">
+<style>
+  .img-row-1 { display: flex; gap: 8px; }
+  .img-row-1 img { flex: 1; min-width: 0; display: block; }
+  @media only screen and (max-width: 639px) {
+    .img-row-1 { flex-direction: column; }
+  }
+</style>
+
+<div class="img-row-1">
+  <img src="/media/images/encontrada-2026/55462786057_1283f028f3_b.jpg">
+  <img src="/media/images/encontrada-2026/55468455442_32523daaf2_b.jpg">
 </div>
 
 **July 31 \| Different ways of producing knowledge**
