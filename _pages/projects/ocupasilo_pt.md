@@ -19,6 +19,12 @@ ref: ocupa-silo
 
 ![Ocupa Silo](/media/images/programs/ocupa-silo/logo.svg)
 
+[![Jongo](/media/images/programs/ocupa-silo/2026%20-%20silo_site_banners_ocupasilo-jongo.png)](https://www.flickr.com/photos/encontrada2026/albums/72177720335162020){:target="_blank"}
+
+[![Toque de Dandara](/media/images/programs/ocupa-silo/2026%20-%20silo_site_banners_ocupasilo-toque%20de%20dandara.png)](https://www.flickr.com/photos/encontrada2026/albums/72177720335188439){:target="_blank"}
+
+[![Cineclube](/media/images/programs/ocupa-silo/silo_site_banners_ocupasilo-cineclube.png)](https://www.flickr.com/photos/encontrada2026/albums/72177720335187949){:target="_blank"}
+
 [![Arraiá OCUPA SILO](/media/images/programs/ocupa-silo/arraia_ocupasilo.svg)](https://www.flickr.com/photos/203184955@N04/albums/72177720327603239){:target="_blank"}
 
 [![Jongo de Pinheral + DJ OXXY](/media/images/programs/ocupa-silo/jongo_pinheral.svg)](https://www.flickr.com/photos/encontrada/albums/72177720320003465){:target="_blank"}
