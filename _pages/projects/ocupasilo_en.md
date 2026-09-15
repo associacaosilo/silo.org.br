@@ -9,13 +9,19 @@ ref: ocupa-silo
 
 <section class="content-text">
     <h2>{{ page.title }}</h2>
-    É uma ação de linha transversal aos programas da Silo. O Ocupa Silo reúne a comunidade local promovendo o compartilhamento de arte, cultura, vivências e reflexões que fortalecem o sentimento de pertencimento e incentivam o protagonismo.<br>
-    <strong>Clique nos banners e confira as fotos de cada edição.</strong>
+    It is a cross-cutting action across Silo's programs. Ocupa Silo brings together the local community, promoting the sharing of art, culture, experiences, and reflections that strengthen the sense of belonging and encourage protagonism.<br>
+    <strong>Click on the banners and check out the photos from each edition.</strong>
 </section>
 
 
 <div class="ocupa-silo-images" markdown="1">
 ![Ocupa Silo](/media/images/programs/ocupa-silo/logo.svg)
+
+[![Jongo](/media/images/programs/ocupa-silo/2026%20-%20silo_site_banners_ocupasilo-jongo.png)](https://www.flickr.com/photos/encontrada2026/albums/72177720335162020){:target="_blank"}
+
+[![Toque de Dandara](/media/images/programs/ocupa-silo/2026%20-%20silo_site_banners_ocupasilo-toque%20de%20dandara.png)](https://www.flickr.com/photos/encontrada2026/albums/72177720335188439){:target="_blank"}
+
+[![Cineclube](/media/images/programs/ocupa-silo/silo_site_banners_ocupasilo-cineclube.png)](https://www.flickr.com/photos/encontrada2026/albums/72177720335187949){:target="_blank"}
 
 [![Arraiá OCUPA SILO](/media/images/programs/ocupa-silo/arraia_ocupasilo.svg)](https://www.flickr.com/photos/203184955@N04/albums/72177720327603239){:target="_blank"}
 
@@ -32,5 +38,10 @@ ref: ocupa-silo
 [![Narrativa em Vídeo](/media/images/programs/ocupa-silo/narrativa_video.svg)](https://www.flickr.com/photos/196098481@N03/albums/72177720317982952){:target="_blank"}
 
 [![Sarau Comunitário](/media/images/programs/ocupa-silo/sarau_comunitario.svg)](https://www.flickr.com/photos/196098481@N03/albums/72177720305651371/){:target="_blank"}
+
+[![Cabaré Brutal](/media/images/programs/ocupa-silo/cabare.svg)](https://drive.google.com/drive/u/1/folders/18RPK3yuK5J0MuaTHouRexIdPl7-BGCuU){:target="_blank"}
+
+[![Mostra Final - Resiliência](/media/images/programs/ocupa-silo/resiliencia-mostra-final.svg)](https://www.flickr.com/photos/199101472@N04/albums/72177720311207393/){:target="_blank"}
+
 </div>
 

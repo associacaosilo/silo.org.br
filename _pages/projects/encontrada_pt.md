@@ -11,7 +11,7 @@ Encontros feministas focados na troca de conhecimento entre diferentes geraçõe
 
 [![](/media/images/banner/2.png){:style="border-radius: 10px;"}](https://www.flickr.com/photos/encontrada2026/albums/){:target="_blank"}
 
-[![](/media/images/banner/banner_encontrada_2026.png){:style="border-radius: 10px;"}](/encontrada-entrelacamentos/){:target="_blank"}
+[![](/media/images/banner/banner_encontrada_2026.png){:style="border-radius: 10px;"}](/noticia-encontrada-2026/){:target="_blank"}
 
 **Veja as Edições Passadas:**
 
