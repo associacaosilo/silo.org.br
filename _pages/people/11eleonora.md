@@ -1,7 +1,7 @@
 ---
 title: Eleonora Fabião
 cover: media/images/people/pb_eleonora.jpg
-category: conselho
+category: associadas
 published: true
 ref: bio-eleonora
 lang: pt
