@@ -26,7 +26,7 @@ A Silo - Arte E Latitude Rural apresenta o **Laboratório de Experimentação e 
 
 **Até o dia  01 de maio de 2022**, instituições, redes e coletivos de diferentes áreas de atuação podem inscrever propostas. As instituições, projetos ou grupos selecionados receberão transporte, hospedagem, alimentação e contarão com mentoria de especialistas, além da participação de colaboradoras/es para o desenvolvimento de suas ideias.
 
-[Acesse aqui](https://silo.org.br/perguntas-frequentes-lab-de-governan%C3%A7a-22/){:target="_blank"} a página com respostas às **perguntas mais frequentes**. 
+[Acesse aqui](https://silo.org.br/perguntas-frequentes-lab-de-governanca-22/){:target="_blank"} a página com respostas às **perguntas mais frequentes**. 
 
 **Inscreva-se** através deste [formulário](https://docs.google.com/forms/d/e/1FAIpQLSek8yyqfEI3HOkudqMOa12vyadddq8F0tInVki2yQ8uVmsBkw/viewform?pli=1){:target="_blank"}.
 
