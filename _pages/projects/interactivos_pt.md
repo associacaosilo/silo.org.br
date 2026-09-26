@@ -3,6 +3,7 @@ title: 'Laboratórios de Experimentação e Inovação'
 cover: 'media/images/logo_labs_inov_exp.png'
 layout: list
 permalink: /labs/
+redirect_from: /interactivos/
 lang: pt
 category: labs
 ref: labs-list
