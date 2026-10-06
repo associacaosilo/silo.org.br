@@ -22,5 +22,6 @@ ref: programas
 
 [![](/media/images/programs/banner/banners_siloescola.jpg)](../siloescola)
 [![](/media/images/programs/banner/banners_ocupasilo.jpg)](../ocupasilo)
+[![](/media/images/programs/banner/banners_cineclube.png)](../cineclube)
 
 

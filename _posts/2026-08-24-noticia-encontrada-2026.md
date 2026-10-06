@@ -16,6 +16,8 @@ ref: noticia-encontrada-2026
 
 Entre os dias **30 de julho e 2 de agosto**, a Silo – Arte e Latitude Rural realizou a oitava edição da **EncontrADA 2026: Entrelaçamentos**, na APA **Serrinha do Alambari (RJ), na Serra da Mantiqueira**. A programação foi gratuita e reuniu oficinas e atividades abertas à comunidade, dentre elas uma conversa sobre masculinidades baseadas no cuidado para o público masculino e outra sobre os desafios atuais da educação de meninos, com educadoras e educadores. A programação também circulou pela Escola Municipal Moacir Coelho da Silveira, pelo Centro de Atendimento ao Turista (Secretaria de Turismo de Resende) e pelo Pé de Grumixama Bistrô, afinal, como sabemos, o território é parte ativa da construção do encontro.
 
+<div class="video-wrapper video-wrapper-16x9"><iframe width="560" height="315" src="https://www.youtube.com/embed/tEhe24R40Iw" title="EncontrADA: Entrelaçamentos 2026 // Teaser" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
 Ao longo dos quatro dias, **16 oficineiras, facilitadoras, artistas e grupos convidados** participaram da programação, que recebeu **470 pessoas**. Foram **20 atividades distintas e 40 horas de programação**, entre oficinas, práticas corporais, ações educativas, atividades infantis e três noites de programação cultural. Esta edição da EncontrADA, nossa assembleia feminista, reuniu mais uma vez pessoas de diferentes gerações, territórios e áreas de atuação para celebrar a vida e refletir sobre o momento em que vivemos.
 
 ![](/media/images/encontrada-2026/55470283021_01e8043ec5_b.jpg)
@@ -91,6 +93,8 @@ O domingo retomou questões construídas ao longo dos dias anteriores. **Nanda R
 ![](/media/images/encontrada-2026/55471099746_6bf005c3c5_b.jpg)
 
 As **Confabulações** deram continuidade ao trabalho sobre masculinidades. No domingo, a etapa final voltou-se à imaginação de outros futuros, buscando novas referências e possibilidades de convivência capazes de orientar caminhos de transformação. A partir de novos mitos e outras possibilidades de convivência, o grupo começou a desenhar caminhos capazes de transformar as estruturas que conhecemos. Em seguida, os dois grupos — da roda Ser Homem Não Tá Fácil e das Confabulações — se reuniram para refletir juntos sobre o que conversaram e trabalharam naquele dia.
+
+<div class="video-wrapper video-wrapper-16x9"><iframe width="560" height="315" src="https://www.youtube.com/embed/HmhsYdpiJqs" title="Confabulações | EncontrADA 2026: masculinidades futuras centradas no cuidado" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 As contribuições produzidas durante a imersão orientam a elaboração de um **manual de mensagens sobre masculinidades futuras centradas no cuidado**, pensado para apoiar a comunicação de organizações feministas brasileiras.
 

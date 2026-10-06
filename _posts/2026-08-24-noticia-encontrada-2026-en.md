@@ -16,6 +16,8 @@ ref: noticia-encontrada-2026
 
 Between **July 30 and August 2**, Silo – Art and Rural Latitude held the eighth edition of **EncontrADA 2026: Entanglements**, in the **Serrinha do Alambari Environmental Protection Area (RJ), in the Serra da Mantiqueira mountain range**. The program was free and brought together workshops and activities open to the community, including a conversation on care-centered masculinities for male audiences and another on the current challenges of educating boys, with educators. The program also reached the Moacir Coelho da Silveira Municipal School, the Tourist Assistance Center (Resende Tourism Department), and the Pé de Grumixama Bistrô — after all, as we know, the territory is an active part of building the gathering.
 
+<div class="video-wrapper video-wrapper-16x9"><iframe width="560" height="315" src="https://www.youtube.com/embed/tEhe24R40Iw" title="EncontrADA: Entrelaçamentos 2026 // Teaser" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
 Over the four days, **16 facilitators, artists, and invited groups** took part in the program, which welcomed **470 people**. There were **20 different activities and 40 hours of programming**, including workshops, body practices, educational actions, children's activities, and three nights of cultural programming. This edition of EncontrADA, our feminist assembly, once again brought together people of different generations, territories, and fields of work to celebrate life and reflect on the moment we are living.
 
 ![](/media/images/encontrada-2026/55470283021_01e8043ec5_b.jpg)
@@ -91,6 +93,8 @@ Sunday returned to questions built over the previous days. **Nanda Rocha** held 
 ![](/media/images/encontrada-2026/55471099746_6bf005c3c5_b.jpg)
 
 The **Confabulations** continued their work on masculinities. On Sunday, the final stage turned to imagining other futures, seeking new references and possibilities for coexistence capable of guiding paths of transformation. Drawing on new myths and other possibilities for coexistence, the group began to sketch paths capable of transforming the structures we know. The two groups — from the Ser Homem Não Tá Fácil circle and from the Confabulations — then came together to reflect jointly on what they had discussed and worked on that day.
+
+<div class="video-wrapper video-wrapper-16x9"><iframe width="560" height="315" src="https://www.youtube.com/embed/HmhsYdpiJqs" title="Confabulações | EncontrADA 2026: masculinidades futuras centradas no cuidado" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 The contributions produced during the immersion are guiding the development of a **message manual on future, care-centered masculinities**, designed to support the communications of Brazilian feminist organizations.
 

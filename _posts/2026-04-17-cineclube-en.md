@@ -6,6 +6,7 @@ slug: cineclube-2026
 cover: media/images/cover30.jpg
 category:
   - silo
+  - cineclube
 ref: cineclube-2026
 lang: en
 permalink: /en/cineclube-2026/
