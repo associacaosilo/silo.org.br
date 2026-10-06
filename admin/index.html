@@ -7,21 +7,18 @@
     <title>Gerenciador de Conteúdo</title>
   </head>
   <body>
+    <script>CMS_MANUAL_INIT = true</script>
     <!-- Include Decap CMS and the locales package -->
-    <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
-    <script src="https://unpkg.com/decap-cms-locales@^3.0.0/dist/decap-cms-locales.js"></script>
+    <script src="https://unpkg.com/decap-cms@3.16.3/dist/decap-cms.js"></script>
+    <script src="https://unpkg.com/decap-cms-locales@3.8.2/dist/decap-cms-locales.js"></script>
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
     <script type="module">
-      import pt from "https://unpkg.com/decap-cms-locales@3.4.0/dist/esm/pt/index.js";
-      window.CMS_MANUAL_INIT = true
+      import pt from "https://unpkg.com/decap-cms-locales@3.8.2/dist/esm/pt/index.js";
       const { CMS, initCMS: init } = window
 
       CMS.registerLocale("pt", pt);
-      window.CMS.init({
-        config,
-        locale: "pt",
-      });
+      CMS.init({locale: "pt"});
 
       if (window.netlifyIdentity) {
         window.netlifyIdentity.on("init", (user) => {
