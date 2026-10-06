@@ -7,6 +7,8 @@ backend:
   name: git-gateway
   repo: associacaosilo/silo.org.br
   branch: stage
+  identity_url: https://siloweb.netlify.app/.netlify/identity
+  gateway_url: https://siloweb.netlify.app/.netlify/git
   commit_messages:
     create: "[cms] - Create {{collection}} '{{slug}}'"
     update: "[cms] - Update {{collection}} '{{slug}}'"
