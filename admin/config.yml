@@ -3,10 +3,16 @@ public_folder: "/media/images/uploads"
 site_url: "https://silo.org.br"
 locale: "pt"
 
+# Login via GitHub. O Worker em cms-auth/ faz a troca do token OAuth.
+# "Salvar" abre um PR para master; "Publicar" faz o merge (editorial_workflow).
+# Quem não tem acesso de escrita publica via fork (open_authoring).
 backend:
-  name: git-gateway
+  name: github
   repo: associacaosilo/silo.org.br
-  branch: stage
+  branch: master
+  base_url: https://auth.silo.org.br
+  auth_scope: public_repo
+  open_authoring: true
   commit_messages:
     create: "[cms] - Create {{collection}} '{{slug}}'"
     update: "[cms] - Update {{collection}} '{{slug}}'"
@@ -14,6 +20,11 @@ backend:
     uploadMedia: "[cms] - Upload '{{path}}'"
     deleteMedia: "[cms] - Delete '{{path}}'"
     openAuthoring: '{{message}}'
+
+publish_mode: editorial_workflow
+
+# Em localhost, usa o decap-server (npx decap-server) se ele estiver rodando.
+local_backend: true
 
 collections:
   - name: "posts"

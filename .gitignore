@@ -6,6 +6,8 @@ public/
 _site/
 .sass-cache/
 .jekyll-cache/
-Gemfile.lock
 .bundle/
 vendor/
+node_modules/
+.wrangler/
+.dev.vars

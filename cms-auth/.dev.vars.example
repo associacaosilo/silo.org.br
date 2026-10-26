@@ -1,0 +1,6 @@
+# Copie para .dev.vars (o Git ignora esse arquivo) e preencha com os dados
+# de um OAuth App de teste com callback http://localhost:8787/callback.
+# Só o `wrangler dev` lê este arquivo.
+GITHUB_CLIENT_ID=
+GITHUB_CLIENT_SECRET=
+ALLOWED_ORIGINS=http://localhost:4666,http://127.0.0.1:4666

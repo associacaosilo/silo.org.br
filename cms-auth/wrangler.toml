@@ -1,0 +1,13 @@
+name = "silo-cms-auth"
+main = "src/index.js"
+compatibility_date = "2025-01-01"
+
+# Endereço público do Worker. Exige a zona silo.org.br nesta conta Cloudflare.
+routes = [{ pattern = "auth.silo.org.br", custom_domain = true }]
+
+[vars]
+# Endereços exatos que podem receber o token. O token dá escrita em todos os
+# repositórios públicos de quem faz login: não use curingas nem previews de branch.
+# Para testes locais, o .dev.vars substitui esta lista.
+# novo.silo.org.br: homologação temporária. Remover depois da troca do domínio.
+ALLOWED_ORIGINS = "https://silo.org.br,https://silo-org-br.pages.dev,https://novo.silo.org.br"

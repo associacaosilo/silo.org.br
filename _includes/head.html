@@ -12,10 +12,10 @@
   frame-ancestors 'self';
   font-src 'self' data: maxcdn.bootstrapcdn.com fonts.googleapis.com fonts.gstatic.com assets.sendinblue.com;
   style-src 'self' 'unsafe-inline' sibforms.com fonts.googleapis.com maxcdn.bootstrapcdn.com;
-  script-src 'self' ajax.googleapis.com 'unsafe-inline' maxcdn.bootstrapcdn.com fonts.googleapis.com sibforms.com www.googletagmanager.com www.google-analytics.com https://identity.netlify.com https://unpkg.com;
+  script-src 'self' ajax.googleapis.com 'unsafe-inline' maxcdn.bootstrapcdn.com fonts.googleapis.com sibforms.com www.googletagmanager.com www.google-analytics.com;
   base-uri 'self';
   form-action 'self' www.mailchimp.com silo.us20.list-manage.com www.paypal.com 76abd233.sibforms.com;
-  connect-src 'self' www.google-analytics.com 76abd233.sibforms.com https://siloweb.netlify.app/.netlify/identity/ https://api.netlify.com;
+  connect-src 'self' www.google-analytics.com 76abd233.sibforms.com;
 ">
 
 
@@ -87,17 +87,4 @@
   gtag('js', new Date());
 
   gtag('config', 'G-VE4PHTSLT7');
-</script>
-
-<script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-<script>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", (user) => {
-      if (!user) {
-        window.netlifyIdentity.on("login", () => {
-          document.location.href = "/admin/";
-        });
-      }
-    });
-  }
 </script>

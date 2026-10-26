@@ -3,7 +3,7 @@
 Site da associação Silo — Arte e Latitude Rural: <https://silo.org.br>.
 
 O site usa [Jekyll](https://jekyllrb.com). O conteúdo fica em arquivos Markdown.
-O GitHub Pages gera e publica o site a cada merge na branch `master`.
+O Cloudflare Pages gera e publica o site a cada merge na branch `master`.
 
 ## Rodar o site localmente
 
@@ -130,8 +130,8 @@ Os dois avisos são inofensivos. O site não usa os dados da API do GitHub. Igno
 **`Address already in use` na porta 4666**
 Outro processo usa a porta. Encontre o processo com `lsof -i :4666` ou use `--port` com outro número.
 
-**A página `/admin/` não funciona localmente**
-O painel de edição (Decap CMS) depende do Netlify Identity e não roda em `localhost` com a configuração atual. Edite os arquivos Markdown direto no Git.
+**A página `/admin/` pede login localmente**
+Rode `npx decap-server` em outro terminal. Veja a seção [Painel de edição](#painel-de-edição-decap-cms).
 
 ## Estrutura do projeto
 
@@ -147,13 +147,100 @@ O painel de edição (Decap CMS) depende do Netlify Identity e não roda em `loc
 | `js/` | Scripts |
 | `media/` | Imagens e PDFs |
 | `admin/` | Painel de edição Decap CMS |
+| `cms-auth/` | Cloudflare Worker do login do painel |
 
 Cada conteúdo tem versão em português (`lang: pt`) e em inglês (`lang: en`).
 Os arquivos de uma mesma página usam o mesmo valor em `ref`.
 
 ## Publicação
 
-1. Faça as mudanças na branch `stage` ou em uma branch própria.
-2. Abra um pull request para `master`.
-3. Faça o merge. O GitHub Pages gera e publica o site em poucos minutos.
-4. O Cloudflare guarda páginas em cache por até 10 minutos. A mudança pode demorar a aparecer.
+O site usa só GitHub e Cloudflare, no plano gratuito:
+
+| Serviço | Função |
+|---|---|
+| GitHub | Código, pull requests e revisão |
+| Cloudflare Pages | Build, produção (`master`) e preview de cada branch |
+| Cloudflare Worker (`cms-auth/`) | Login do painel de edição via GitHub |
+| Cloudflare DNS | Domínio silo.org.br |
+
+1. Crie uma branch a partir de `master`.
+2. Abra um pull request. O Cloudflare Pages comenta no PR o link do preview.
+3. Faça o merge. O Cloudflare Pages publica o site em poucos minutos.
+
+Configuração do projeto no Cloudflare Pages:
+
+| Campo | Valor |
+|---|---|
+| Comando de build | `bundle exec jekyll build` |
+| Pasta de saída | `_site` |
+| Branch de produção | `master` |
+
+O projeto dispensa variáveis de ambiente. O `Gemfile` força UTF-8, porque a máquina de build do Cloudflare usa ASCII por padrão.
+
+> **Atenção:** mantenha cada arquivo abaixo de 25 MiB. O Cloudflare Pages recusa arquivos maiores. Publique vídeos e PDFs grandes fora do repositório.
+
+## Painel de edição (Decap CMS)
+
+Cada conteúdo novo vira um pull request (PR) para `master`. O site só muda depois do merge desse PR.
+
+### Como publicar um conteúdo novo
+
+1. Acesse <https://silo.org.br/admin/>.
+2. Clique em **Entrar com o GitHub** e autorize o app na janela do GitHub. O GitHub só pede a autorização no primeiro acesso.
+   - Sem acesso de escrita no repositório: clique em **Fork the repo**. O painel cria uma cópia do repositório na sua conta.
+3. Na coleção desejada (por exemplo, **Posts**), clique no botão **＋**.
+4. Preencha os campos e clique em **Salvar**. O painel abre um PR no GitHub.
+5. Mude o status para **Pronto** (sem acesso de escrita: **Em revisão**).
+6. Confira o preview:
+   1. Abra o PR em <https://github.com/associacaosilo/silo.org.br/pulls>.
+   2. Espere o comentário do Cloudflare Pages, em cerca de 2 minutos.
+   3. Abra o link de preview do comentário e acrescente o slug: `https://<link-do-preview>/<slug>/`.
+7. Peça revisão à equipe.
+8. Publique de uma das formas:
+   - No painel, clique em **Publicar**.
+   - No GitHub, faça o merge do PR.
+9. Confira o conteúdo em `https://silo.org.br/<slug>/`, em poucos minutos.
+
+O endereço da biblioteca é `https://silo.org.br/biblioteca/<slug>/`.
+
+> **Atenção:** quem tem acesso de escrita pode clicar em **Publicar** sem revisão. Combine com a equipe quem publica.
+
+Para mudar um conteúdo existente, abra o conteúdo na coleção, edite e siga a partir do passo 4.
+
+### Login
+
+O GitHub exige um servidor para trocar o código de login por um token. O Worker em `cms-auth/` faz essa troca. Ele guarda dois segredos, os dados de um OAuth App da organização no GitHub:
+
+- `GITHUB_CLIENT_ID`
+- `GITHUB_CLIENT_SECRET`
+
+A variável `ALLOWED_ORIGINS` em `cms-auth/wrangler.toml` lista os endereços exatos que podem receber o token. O login funciona só em silo.org.br e no endereço de produção do Pages, nunca nos previews de branch.
+
+> **Atenção:** nunca adicione curingas ou previews de branch a essa lista. O token dá escrita em todos os repositórios públicos de quem faz login.
+
+Para publicar o Worker:
+
+```bash
+cd cms-auth
+npx wrangler deploy
+npx wrangler secret put GITHUB_CLIENT_ID
+npx wrangler secret put GITHUB_CLIENT_SECRET
+```
+
+### Usar o painel localmente
+
+Há duas formas de usar o painel em <http://localhost:4666/admin/>:
+
+**Sem login (edita os arquivos do seu computador):**
+
+1. Inicie o site com `bundle exec jekyll serve`.
+2. Em outro terminal, rode `npx decap-server`.
+
+**Com login via GitHub (testa o Worker):**
+
+1. Crie um OAuth App de teste no GitHub com callback `http://localhost:8787/callback`.
+2. Copie `cms-auth/.dev.vars.example` para `cms-auth/.dev.vars` e preencha os dados.
+3. Em `cms-auth/`, rode `npx wrangler dev`.
+4. Inicie o site com `bundle exec jekyll serve`.
+
+> **Atenção:** pare o `decap-server` antes deste teste. Com ele rodando, o painel ignora o login.

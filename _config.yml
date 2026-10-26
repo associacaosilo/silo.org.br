@@ -15,7 +15,21 @@ keep_files:
   - 'media/docs'
   - 'media/images'
 
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - cms-auth
+  - node_modules
+  - vendor
+
 markdown: kramdown
+
+# CSS comprimido, igual ao que o GitHub Pages gerava.
+sass:
+  style: compressed
+
 port: 4666
 future: false
 
@@ -32,7 +46,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-redirect-from
-  - jekyll-archives
 
 # SEO Configuration
 author:
@@ -93,234 +106,3 @@ defaults:
       layout: null
 
 twitter_user: "SiloLatitude"
-
-prose:
-  siteurl: "https://silo.org.br"
-  media: "media/images"
-  ignore:
-    - .gitignore
-    - _config.yml
-    - _data
-    - _includes
-    - _layouts
-    - _pages/404.md
-    - _pages/noticias.md
-    - _pages/quem-somos.md
-    - _pages/projects
-    - _sass
-    - css
-    - js
-    - CNAME
-    - Gemfile
-    - TODO.md
-    - publish.sh
-    - media/favicons
-    - media/swipebox
-  metadata:
-    _library:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "publication"
-      - name: "published"
-        field:
-          element: "hidden"
-          value: "true"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Título"
-          placeholder: "Colocar Aqui o Título"
-      - name: "cover"
-        field:
-          element: "text"
-          label: "imagem de capa"
-          placeholder: "media/images/cover.jpg"
-      - name: "file"
-        field:
-          element: "text"
-          label: "Arquivo para download"
-          placeholder: "media/docs/arquivo.pdf"
-      - name: "link"
-        field:
-          element: "text"
-          label: "link externo"
-          placeholder: "https://www.youtube.com/watch?v=..."
-      - name: "type"
-        field:
-          element: "select"
-          label: "tipo de conteúdo"
-          placeholder: "clique aqui"
-          options:
-            - name: 'Publicação'
-              value: 'publication'
-            - name: 'Artigo'
-              value: 'article'
-      - name: "lang"
-        field:
-          element: "select"
-          label: "idioma"
-          placeholder: "clique aqui"
-          options:
-            - name: 'Português'
-              value: 'pt'
-            - name: 'English'
-              value: 'en'
-            - name: 'Español'
-              value: 'es'
-      - name: "ref"
-        field:
-          element: "text"
-          label: "referência para conteúdos bilíngue (igual em todas as línguas)"
-          placeholder: "conteudo-2023"
-    _posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
-      - name: "published"
-        field:
-          element: "hidden"
-          value: "true"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Título do post"
-          placeholder: "Colocar Aqui o Nome do Post"
-      - name: "cover"
-        field:
-          element: "text"
-          label: "imagem de capa"
-          placeholder: "media/images/cover.jpg"
-      - name: "category"
-        field:
-          element: "multiselect"
-          label: "categorias do post (usar categoria 'silo' para posts genéricos)"
-          placeholder: "clique aqui"
-          options:
-            - name: 'Silo'
-              value: 'silo'
-            - name: 'Encontrada'
-              value: 'encontrada'
-            - name: 'Laboratórios'
-              value: 'labs'
-            - name: 'Residência'
-              value: 'residence'
-            - name: 'CaipiratechLAB'
-              value: 'caipiratechlab'
-            - name: 'Silo Escola'
-              value: 'siloescola'
-            - name: 'Convocatória'
-              value: 'opencall'
-            - name: 'Participação'
-              value: 'participation'
-            - name: 'Biblioteca'
-              value: 'library'
-            - name: 'Ocupa Silo'
-              value: 'ocupasilo'
-      - name: "lang"
-        field:
-          element: "select"
-          label: "idioma do post"
-          placeholder: "clique aqui"
-          options:
-            - name: 'Português'
-              value: 'pt'
-            - name: 'English'
-              value: 'en'
-            - name: 'Español'
-              value: 'es'
-      - name: "ref"
-        field:
-          element: "text"
-          label: "referência para posts bilíngue (igual em todas as línguas)"
-          placeholder: "residencia-convocatoria-2017"
-      - name: "swipebox"
-        field:
-          element: "text"
-          label: "prefixo dos arquivos de imagem para serem incluidos na galeria"
-          placeholder: "p1_"
-      - name: "close"
-        field:
-          element: "text"
-          label: "Data de encerramento da chamada (formato: aaaa-mm-dd)"
-          placeholder: "2024-02-22"
-    _pages:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
-      - name: "published"
-        field:
-          element: "hidden"
-          value: "true"
-      - name: "title"
-        field:
-          element: "text"
-          label: "nome da página"
-          placeholder: "Colocar Aqui o Nome Da Página"
-      - name: "ref"
-        field:
-          element: "text"
-          label: "referência para páginas bilíngue (igual em todas as línguas)"
-          placeholder: "pagina-sobre"
-      - name: "permalink"
-        field:
-          element: "text"
-          label: "link dessa página"
-          placeholder: "/contato/"
-      - name: "lang"
-        field:
-          element: "select"
-          label: "idioma do post"
-          placeholder: "clique aqui"
-          options:
-            - name: 'Português'
-              value: 'pt'
-            - name: 'English'
-              value: 'en'
-    _pages/people:
-      - name: "title"
-        field:
-          element: "text"
-          label: "Nome"
-          placeholder: "Nome e Sobrenome"
-      - name: "link"
-        field:
-          element: "text"
-          label: "link pra página da pessoa"
-          placeholder: "minhapagina.com.br"
-      - name: "cover"
-        field:
-          element: "text"
-          label: "imagem da pessoa"
-          placeholder: "media/images/people/pessoa.jpg"
-      - name: "ref"
-        field:
-          element: "text"
-          label: "referência para páginas bilíngue (igual em todas as línguas)"
-          placeholder: "bio-beringela"
-      - name: "category"
-        field:
-          element: "select"
-          label: "sub-grupo organizacional"
-          placeholder: "clique aqui"
-          options:
-            - name: 'Diretoria'
-              value: 'diretoria'
-            - name: 'Associadas'
-              value: 'associadas'
-            - name: 'Conselho'
-              value: 'conselho'
-            - name: 'Equipe'
-              value: 'equipe'
-      - name: "lang"
-        field:
-          element: "select"
-          label: "idioma do post"
-          placeholder: "clique aqui"
-          options:
-            - name: 'Português'
-              value: 'pt'
-            - name: 'English'
-              value: 'en'
