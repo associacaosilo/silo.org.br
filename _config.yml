@@ -25,6 +25,11 @@ exclude:
   - vendor
 
 markdown: kramdown
+
+# CSS comprimido, igual ao que o GitHub Pages gerava.
+sass:
+  style: compressed
+
 port: 4666
 future: false
 
