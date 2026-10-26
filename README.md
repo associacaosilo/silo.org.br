@@ -174,9 +174,8 @@ Configuração do projeto no Cloudflare Pages:
 | Comando de build | `bundle exec jekyll build` |
 | Pasta de saída | `_site` |
 | Branch de produção | `master` |
-| Variável de ambiente (produção e preview) | `RUBYOPT` = `-Eutf-8` |
 
-Sem o `RUBYOPT`, o build falha com `Invalid US-ASCII character`. A máquina de build do Cloudflare não usa UTF-8 por padrão.
+O projeto dispensa variáveis de ambiente. O `Gemfile` força UTF-8, porque a máquina de build do Cloudflare usa ASCII por padrão.
 
 > **Atenção:** mantenha cada arquivo abaixo de 25 MiB. O Cloudflare Pages recusa arquivos maiores. Publique vídeos e PDFs grandes fora do repositório.
 
