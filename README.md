@@ -7,16 +7,14 @@ O GitHub Pages gera e publica o site a cada merge na branch `master`.
 
 ## Rodar o site localmente
 
-O site usa as mesmas versões do GitHub Pages:
-
 | Ferramenta | Versão |
 |---|---|
-| Ruby | 3.3.4 |
+| Ruby | 3.4.4 (a versão que já vem instalada no build do Cloudflare Pages) |
 | Jekyll | 3.10.0 (pelo gem `github-pages`) |
 
-Confira as versões atuais em <https://pages.github.com/versions/>.
+O arquivo `.ruby-version` define a versão do Ruby. Outra versão obriga o Cloudflare a compilar o Ruby a cada build, o que soma cerca de 3 minutos.
 
-> **Atenção:** o Ruby que vem com o macOS (2.6) é antigo demais. Instale o Ruby 3.3.4 com o `rbenv`.
+> **Atenção:** o Ruby que vem com o macOS (2.6) é antigo demais. Instale o Ruby 3.4.4 com o `rbenv`.
 
 ### macOS
 
@@ -48,14 +46,13 @@ Confira as versões atuais em <https://pages.github.com/versions/>.
    cd site_silo
    ```
 
-6. Instale o Ruby 3.3.4 e use essa versão no projeto:
+6. Instale o Ruby 3.4.4:
 
    ```bash
-   rbenv install 3.3.4
-   rbenv local 3.3.4
+   rbenv install 3.4.4
    ```
 
-   O comando `rbenv local` cria o arquivo `.ruby-version`. Não faça commit dele sem combinar com a equipe.
+   O `rbenv` usa essa versão no projeto, porque o arquivo `.ruby-version` pede a 3.4.4.
 
 7. Confirme a versão:
 
@@ -63,7 +60,7 @@ Confira as versões atuais em <https://pages.github.com/versions/>.
    ruby -v
    ```
 
-   A resposta deve começar com `ruby 3.3.4`.
+   A resposta deve começar com `ruby 3.4.4`.
 
 8. Instale o Bundler e as dependências do projeto:
 
