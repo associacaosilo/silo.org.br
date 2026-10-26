@@ -3,7 +3,7 @@
 Site da associação Silo — Arte e Latitude Rural: <https://silo.org.br>.
 
 O site usa [Jekyll](https://jekyllrb.com). O conteúdo fica em arquivos Markdown.
-O GitHub Pages gera e publica o site a cada merge na branch `master`.
+O Cloudflare Pages gera e publica o site a cada merge na branch `master`.
 
 ## Rodar o site localmente
 
@@ -130,8 +130,8 @@ Os dois avisos são inofensivos. O site não usa os dados da API do GitHub. Igno
 **`Address already in use` na porta 4666**
 Outro processo usa a porta. Encontre o processo com `lsof -i :4666` ou use `--port` com outro número.
 
-**A página `/admin/` não funciona localmente**
-O painel de edição (Decap CMS) depende do Netlify Identity e não roda em `localhost` com a configuração atual. Edite os arquivos Markdown direto no Git.
+**A página `/admin/` pede login localmente**
+Rode `npx decap-server` em outro terminal. Veja a seção [Painel de edição](#painel-de-edição-decap-cms).
 
 ## Estrutura do projeto
 
@@ -147,13 +147,77 @@ O painel de edição (Decap CMS) depende do Netlify Identity e não roda em `loc
 | `js/` | Scripts |
 | `media/` | Imagens e PDFs |
 | `admin/` | Painel de edição Decap CMS |
+| `cms-auth/` | Cloudflare Worker do login do painel |
 
 Cada conteúdo tem versão em português (`lang: pt`) e em inglês (`lang: en`).
 Os arquivos de uma mesma página usam o mesmo valor em `ref`.
 
 ## Publicação
 
-1. Faça as mudanças na branch `stage` ou em uma branch própria.
-2. Abra um pull request para `master`.
-3. Faça o merge. O GitHub Pages gera e publica o site em poucos minutos.
-4. O Cloudflare guarda páginas em cache por até 10 minutos. A mudança pode demorar a aparecer.
+O site usa só GitHub e Cloudflare, no plano gratuito:
+
+| Serviço | Função |
+|---|---|
+| GitHub | Código, pull requests e revisão |
+| Cloudflare Pages | Build, produção (`master`) e preview de cada branch |
+| Cloudflare Worker (`cms-auth/`) | Login do painel de edição via GitHub |
+| Cloudflare DNS | Domínio silo.org.br |
+
+1. Crie uma branch a partir de `master`.
+2. Abra um pull request. O Cloudflare Pages comenta no PR o link do preview.
+3. Faça o merge. O Cloudflare Pages publica o site em poucos minutos.
+
+Configuração do projeto no Cloudflare Pages:
+
+| Campo | Valor |
+|---|---|
+| Comando de build | `bundle exec jekyll build` |
+| Pasta de saída | `_site` |
+| Branch de produção | `master` |
+
+> **Atenção:** mantenha cada arquivo abaixo de 25 MiB. O Cloudflare Pages recusa arquivos maiores. Publique vídeos e PDFs grandes fora do repositório.
+
+## Painel de edição (Decap CMS)
+
+Acesse <https://silo.org.br/admin/> e entre com sua conta do GitHub.
+
+- Quem tem acesso de escrita no repositório: o botão "Publicar" abre um pull request para `master`, com preview.
+- Quem não tem acesso de escrita: o painel cria um fork na sua conta e abre o pull request a partir dele.
+
+Uma pessoa da equipe revisa e faz o merge do pull request.
+
+### Login
+
+O GitHub exige um servidor para trocar o código de login por um token. O Worker em `cms-auth/` faz essa troca. Ele guarda dois segredos, os dados de um OAuth App da organização no GitHub:
+
+- `GITHUB_CLIENT_ID`
+- `GITHUB_CLIENT_SECRET`
+
+A variável `ALLOWED_ORIGINS` em `cms-auth/wrangler.toml` lista os endereços que podem receber o token.
+
+Para publicar o Worker:
+
+```bash
+cd cms-auth
+npx wrangler deploy
+npx wrangler secret put GITHUB_CLIENT_ID
+npx wrangler secret put GITHUB_CLIENT_SECRET
+```
+
+### Usar o painel localmente
+
+Há duas formas de usar o painel em <http://localhost:4666/admin/>:
+
+**Sem login (edita os arquivos do seu computador):**
+
+1. Inicie o site com `bundle exec jekyll serve`.
+2. Em outro terminal, rode `npx decap-server`.
+
+**Com login via GitHub (testa o Worker):**
+
+1. Crie um OAuth App de teste no GitHub com callback `http://localhost:8787/callback`.
+2. Copie `cms-auth/.dev.vars.example` para `cms-auth/.dev.vars` e preencha os dados.
+3. Em `cms-auth/`, rode `npx wrangler dev`.
+4. Inicie o site com `bundle exec jekyll serve`.
+
+> **Atenção:** pare o `decap-server` antes deste teste. Com ele rodando, o painel ignora o login.
