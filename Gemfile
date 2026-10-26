@@ -1,3 +1,7 @@
+# Força UTF-8: a máquina de build do Cloudflare usa ASCII por padrão,
+# e o Sass falha com "Invalid US-ASCII character".
+Encoding.default_external = Encoding::UTF_8
+
 source "https://rubygems.org"
 
 # gem "jekyll"
