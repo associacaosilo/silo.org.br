@@ -179,12 +179,31 @@ Configuração do projeto no Cloudflare Pages:
 
 ## Painel de edição (Decap CMS)
 
-Acesse <https://silo.org.br/admin/> e entre com sua conta do GitHub.
+Cada conteúdo novo vira um pull request (PR) para `master`. O site só muda depois do merge desse PR.
 
-- Quem tem acesso de escrita no repositório: o botão "Publicar" abre um pull request para `master`, com preview.
-- Quem não tem acesso de escrita: o painel cria um fork na sua conta e abre o pull request a partir dele.
+### Como publicar um conteúdo novo
 
-Uma pessoa da equipe revisa e faz o merge do pull request.
+1. Acesse <https://silo.org.br/admin/>.
+2. Clique em **Entrar com o GitHub** e autorize o app na janela do GitHub. O GitHub só pede a autorização no primeiro acesso.
+   - Sem acesso de escrita no repositório: clique em **Fork the repo**. O painel cria uma cópia do repositório na sua conta.
+3. Na coleção desejada (por exemplo, **Posts**), clique no botão **＋**.
+4. Preencha os campos e clique em **Salvar**. O painel abre um PR no GitHub.
+5. Mude o status para **Pronto** (sem acesso de escrita: **Em revisão**).
+6. Confira o preview:
+   1. Abra o PR em <https://github.com/associacaosilo/silo.org.br/pulls>.
+   2. Espere o comentário do Cloudflare Pages, em cerca de 2 minutos.
+   3. Abra o link de preview do comentário e acrescente o slug: `https://<link-do-preview>/<slug>/`.
+7. Peça revisão à equipe.
+8. Publique de uma das formas:
+   - No painel, clique em **Publicar**.
+   - No GitHub, faça o merge do PR.
+9. Confira o conteúdo em `https://silo.org.br/<slug>/`, em poucos minutos.
+
+O endereço da biblioteca é `https://silo.org.br/biblioteca/<slug>/`.
+
+> **Atenção:** quem tem acesso de escrita pode clicar em **Publicar** sem revisão. Combine com a equipe quem publica.
+
+Para mudar um conteúdo existente, abra o conteúdo na coleção, edite e siga a partir do passo 4.
 
 ### Login
 

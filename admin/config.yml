@@ -4,7 +4,7 @@ site_url: "https://silo.org.br"
 locale: "pt"
 
 # Login via GitHub. O Worker em cms-auth/ faz a troca do token OAuth.
-# Cada publicação abre um PR para master (editorial_workflow).
+# "Salvar" abre um PR para master; "Publicar" faz o merge (editorial_workflow).
 # Quem não tem acesso de escrita publica via fork (open_authoring).
 backend:
   name: github
