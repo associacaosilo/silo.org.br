@@ -193,7 +193,9 @@ O GitHub exige um servidor para trocar o código de login por um token. O Worker
 - `GITHUB_CLIENT_ID`
 - `GITHUB_CLIENT_SECRET`
 
-A variável `ALLOWED_ORIGINS` em `cms-auth/wrangler.toml` lista os endereços que podem receber o token.
+A variável `ALLOWED_ORIGINS` em `cms-auth/wrangler.toml` lista os endereços exatos que podem receber o token. O login funciona só em silo.org.br e no endereço de produção do Pages, nunca nos previews de branch.
+
+> **Atenção:** nunca adicione curingas ou previews de branch a essa lista. O token dá escrita em todos os repositórios públicos de quem faz login.
 
 Para publicar o Worker:
 

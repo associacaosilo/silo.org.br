@@ -8,7 +8,7 @@
 //    via postMessage, só para origens em ALLOWED_ORIGINS.
 //
 // Variáveis: GITHUB_CLIENT_ID, GITHUB_CLIENT_SECRET (secrets) e
-// ALLOWED_ORIGINS (lista separada por vírgula; aceita "https://*.dominio").
+// ALLOWED_ORIGINS (lista separada por vírgula, só endereços exatos).
 
 const STATE_COOKIE = "cms_auth_state";
 
@@ -23,7 +23,8 @@ export default {
 };
 
 function startAuth(url, env) {
-  const scope = url.searchParams.get("scope") === "repo" ? "repo" : "public_repo";
+  // O repositório é público: o escopo fica fixo, sem aceitar pedido do cliente.
+  const scope = "public_repo";
   const state = crypto.randomUUID();
 
   const github = new URL("https://github.com/login/oauth/authorize");
@@ -79,13 +80,8 @@ function reply(env, status, content) {
 (() => {
   const allowed = ${JSON.stringify(allowed)};
   const message = ${JSON.stringify(message)};
-  const isAllowed = (origin) => allowed.some((pattern) => {
-    if (!pattern.includes("*")) return origin === pattern;
-    const [scheme, host] = pattern.split("://*");
-    return origin.startsWith(scheme + "://") && origin.endsWith(host);
-  });
   const onMessage = (event) => {
-    if (!isAllowed(event.origin)) return;
+    if (event.source !== window.opener || !allowed.includes(event.origin)) return;
     window.removeEventListener("message", onMessage);
     window.opener.postMessage(message, event.origin);
   };
