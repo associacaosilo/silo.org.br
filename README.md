@@ -5,6 +5,44 @@ Site da associação Silo — Arte e Latitude Rural: <https://silo.org.br>.
 O site usa [Jekyll](https://jekyllrb.com). O conteúdo fica em arquivos Markdown.
 O Cloudflare Pages gera e publica o site a cada merge na branch `master`.
 
+## Visão geral
+
+O site é estático. Não há servidor nem banco de dados: o Jekyll transforma os arquivos deste repositório em HTML, e o Cloudflare Pages publica o resultado.
+
+| Peça | Onde roda | Função |
+|---|---|---|
+| Este repositório | GitHub | Código, conteúdo, imagens e PDFs |
+| Build e hospedagem | Cloudflare Pages, projeto `silo-org-br` | Roda `bundle exec jekyll build` e publica `_site/` |
+| Painel de edição | `/admin/`, carregado do unpkg | Decap CMS: edita o conteúdo e abre PRs |
+| Login do painel | Cloudflare Worker `silo-cms-auth`, em `auth.silo.org.br` | Troca o login do GitHub por um token |
+| DNS e redirecionamentos | Cloudflare, zona silo.org.br | Domínio, www e subdomínios |
+
+Tudo fica no plano gratuito do GitHub e do Cloudflare.
+
+### O caminho de uma mudança
+
+1. Alguém edita o conteúdo: pelo painel em <https://silo.org.br/admin/> ou por um commit numa branch.
+2. A mudança vira um pull request para `master`.
+3. O Cloudflare Pages gera um preview da branch e comenta o link no PR.
+4. Alguém revisa e faz o merge (ou clica em **Publicar** no painel).
+5. O Cloudflare Pages gera o site de `master` e publica em silo.org.br, em cerca de 2 minutos.
+
+### Onde fica cada configuração
+
+| Configuração | Lugar |
+|---|---|
+| Site, plugins e Sass | `_config.yml`, `Gemfile`, `Gemfile.lock` |
+| Versão do Ruby | `.ruby-version` |
+| Campos e coleções do painel | `admin/config.yml` |
+| Versão do Decap CMS | `admin/index.html` (endereços do unpkg) |
+| Código e endereços permitidos do login | `cms-auth/` |
+| Segredos do login | Worker `silo-cms-auth`, no painel do Cloudflare (`wrangler secret put`) |
+| OAuth App do GitHub | Configurações da organização `associacaosilo` no GitHub → Developer settings |
+| Comando de build, branch de produção e domínio | Projeto `silo-org-br`, em **Workers & Pages** no Cloudflare |
+| DNS e regras de redirecionamento | Zona silo.org.br no Cloudflare |
+
+Só o que está no repositório tem histórico. Registre aqui qualquer mudança feita nos painéis do Cloudflare ou do GitHub.
+
 ## Rodar o site localmente
 
 | Ferramenta | Versão |
@@ -224,6 +262,13 @@ O endereço da biblioteca é `https://silo.org.br/biblioteca/<slug>/`.
 > **Atenção:** quem tem acesso de escrita pode clicar em **Publicar** sem revisão. Combine com a equipe quem publica.
 
 Para mudar um conteúdo existente, abra o conteúdo na coleção, edite e siga a partir do passo 4.
+
+### Imagens
+
+- **Capa:** use o campo **Imagem de capa**. É a imagem das listas de posts e da página inicial.
+- **Imagem no texto:** clique no corpo do texto, na linha da imagem. Depois clique em **Adicionar Componente** (o **＋** no fim da barra) e escolha **Image**.
+
+O painel guarda as imagens em `media/images/uploads/`.
 
 ### Login
 
