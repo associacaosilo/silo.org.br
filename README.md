@@ -179,6 +179,24 @@ O projeto dispensa variáveis de ambiente. O `Gemfile` força UTF-8, porque a m�
 
 > **Atenção:** mantenha cada arquivo abaixo de 25 MiB. O Cloudflare Pages recusa arquivos maiores. Publique vídeos e PDFs grandes fora do repositório.
 
+### Domínio e subdomínios
+
+O DNS de silo.org.br fica no Cloudflare. Todos os registros ficam com o proxy ligado (nuvem laranja).
+
+| Endereço | Destino |
+|---|---|
+| silo.org.br | Projeto `silo-org-br` no Cloudflare Pages (domínio personalizado) |
+| www.silo.org.br | Regra de redirecionamento do Cloudflare para silo.org.br, com o mesmo caminho |
+| siloescola.silo.org.br | Regra de redirecionamento do Cloudflare para silo.org.br/siloescola/ |
+| auth.silo.org.br | Worker `cms-auth/` |
+| Demais subdomínios | GitHub Pages, cada um no próprio repositório da organização |
+
+Os demais subdomínios são caipiratechlab, caipiratech-mapa, interactivos, internet-serrinha, labdeemergencia, labdegovernanca e resilience. Cada um é um CNAME para `associacaosilo.github.io`. O GitHub escolhe o repositório pelo arquivo `CNAME` de cada um.
+
+> **Atenção:** nunca aponte um subdomínio para `silo.org.br`. Esse endereço leva ao Cloudflare Pages, que não conhece os subdomínios.
+
+As regras de redirecionamento ficam no painel do Cloudflare, em **Rules → Redirect Rules** da zona silo.org.br.
+
 ## Painel de edição (Decap CMS)
 
 Cada conteúdo novo vira um pull request (PR) para `master`. O site só muda depois do merge desse PR.
