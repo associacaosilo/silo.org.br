@@ -43,7 +43,8 @@ collections:
         widget: "text"
         required: false
         hint: "Texto que aparece nos resultados de busca do Google e ao compartilhar o link. Use 150–160 caracteres."
-      - {label: "Imagem de capa", name: "cover", widget: "string", required: false, hint: "Ex: media/images/cover.jpg"}
+      # Os layouts montam o endereço como "/" + cover, por isso o public_folder fica sem a barra inicial.
+      - {label: "Imagem de capa", name: "cover", widget: "image", required: false, media_folder: "/media/images/uploads", public_folder: "media/images/uploads"}
       - {label: "Imagem para redes sociais", name: "image", widget: "image", required: false, hint: "Imagem otimizada para compartilhamento (1200x630px). Se vazio, usará a imagem de capa"}
       - {label: "Autor", name: "author", widget: "string", required: false, hint: "Nome do autor do post"}
       - label: "Categorias do post"
@@ -102,7 +103,7 @@ collections:
       - {label: "Published", name: "published", widget: "hidden", default: true}
       - {label: "Título", name: "title", widget: "string"}
       - {label: "Descrição", name: "description", widget: "text", required: false, hint: "Descrição da publicação para SEO"}
-      - {label: "Imagem de capa", name: "cover", widget: "string", required: false, hint: "Ex: media/images/cover.jpg"}
+      - {label: "Imagem de capa", name: "cover", widget: "image", required: false, media_folder: "/media/images/uploads", public_folder: "media/images/uploads"}
       - {label: "Imagem para compartilhamento", name: "image", widget: "string", required: false, hint: "Se vazio, usará a imagem de capa"}
       - {label: "Arquivo para download", name: "file", widget: "string", required: false, hint: "Ex: media/docs/arquivo.pdf"}
       - {label: "Link externo", name: "link", widget: "string", required: false, hint: "Ex: https://www.youtube.com/watch?v=..."}
@@ -136,7 +137,7 @@ collections:
     fields:
       - {label: "Nome", name: "title", widget: "string"}
       - {label: "Link da página da pessoa", name: "link", widget: "string", required: false}
-      - {label: "Imagem da pessoa", name: "cover", widget: "string", required: false, hint: "Ex: media/images/people/pessoa.jpg"}
+      - {label: "Imagem da pessoa", name: "cover", widget: "image", required: false, media_folder: "/media/images/uploads", public_folder: "media/images/uploads"}
       - {label: "Imagem para compartilhamento", name: "image", widget: "string", required: false, hint: "Se vazio, usará a imagem de capa"}
       - {label: "Referência para páginas bilíngue", name: "ref", widget: "string", required: false}
       - label: "Sub-grupo organizacional"
