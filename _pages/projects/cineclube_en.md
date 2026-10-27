@@ -1,6 +1,6 @@
 ---
 title: 'Cineclube'
-cover: 'media/images/programs/banner/banner-interno-cineclube.png'
+cover: 'media/images/programs/banner/banner interno.png'
 layout: list
 permalink: /en/cineclube/
 lang: en
